@@ -66,6 +66,12 @@ def create_rss_feed(positive_stories):
     rss = ET.Element("rss", version="2.0")
     channel = ET.SubElement(rss, "channel")
 
+    ET.SubElement(channel, "title").text = "Positive HackerNews"
+    ET.SubElement(channel, "description").text = "The Positive Hacker News RSS Feed"
+    ET.SubElement(channel, "language").text = "en"
+    ET.SubElement(channel, "link").text = "https://garritfra.github.io/positive_hackernews/feed.xml"
+    ET.SubElement(channel, "lastBuildDate").text = utils.format_datetime(datetime.now())
+
     for story in positive_stories:
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = story.get('title', 'No Title')
