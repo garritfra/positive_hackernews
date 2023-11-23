@@ -18,12 +18,12 @@
       <pubDate>Thu, 23 Nov 2023 12:35:05 -0000</pubDate>
     </item>
     <item>
-      <title>Spotify Will End Service in Uruguay Due to Bill Requiring Fair Pay for Artists</title>
-      <link>https://mixmag.net/read/spotify-end-service-uruguay-copyright-law-change-artists-fair-pay-amendment-news</link>
+      <title>Retries – an interactive study of request retry methods</title>
+      <link>https://encore.dev/blog/retries</link>
       <description>No Text</description>
-      <guid>38392146</guid>
-      <comments>https://news.ycombinator.com/item?id=38392146</comments>
-      <pubDate>Thu, 23 Nov 2023 12:41:13 -0000</pubDate>
+      <guid>38392540</guid>
+      <comments>https://news.ycombinator.com/item?id=38392540</comments>
+      <pubDate>Thu, 23 Nov 2023 13:32:16 -0000</pubDate>
     </item>
     <item>
       <title>Vtracer: Next-Gen Raster-to-Vector Conversion</title>
@@ -32,6 +32,14 @@
       <guid>38377307</guid>
       <comments>https://news.ycombinator.com/item?id=38377307</comments>
       <pubDate>Wed, 22 Nov 2023 10:10:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Gameboy Technical Reference for Homebrew Developers</title>
+      <link>https://gbdev.io/pandocs/</link>
+      <description>No Text</description>
+      <guid>38391403</guid>
+      <comments>https://news.ycombinator.com/item?id=38391403</comments>
+      <pubDate>Thu, 23 Nov 2023 10:42:25 -0000</pubDate>
     </item>
     <item>
       <title>test, [, and [[ (2020)</title>
@@ -50,14 +58,6 @@
       <pubDate>Thu, 23 Nov 2023 04:44:05 -0000</pubDate>
     </item>
     <item>
-      <title>Large amounts of carbon capture as a solution is an 'illusion'</title>
-      <link>https://electrek.co/2023/11/23/large-amounts-of-carbon-capture-as-a-solution-is-an-illusion-iea/</link>
-      <description>No Text</description>
-      <guid>38391728</guid>
-      <comments>https://news.ycombinator.com/item?id=38391728</comments>
-      <pubDate>Thu, 23 Nov 2023 11:40:30 -0000</pubDate>
-    </item>
-    <item>
       <title>Reflecting on 18 Years at Google</title>
       <link>https://ln.hixie.ch/?start=1700627373&amp;count=1</link>
       <description>No Text</description>
@@ -72,6 +72,14 @@
       <guid>38387775</guid>
       <comments>https://news.ycombinator.com/item?id=38387775</comments>
       <pubDate>Thu, 23 Nov 2023 01:03:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Large amounts of carbon capture as a solution is an 'illusion'</title>
+      <link>https://electrek.co/2023/11/23/large-amounts-of-carbon-capture-as-a-solution-is-an-illusion-iea/</link>
+      <description>No Text</description>
+      <guid>38391728</guid>
+      <comments>https://news.ycombinator.com/item?id=38391728</comments>
+      <pubDate>Thu, 23 Nov 2023 11:40:30 -0000</pubDate>
     </item>
     <item>
       <title>Writing a Debugger from Scratch: Stacks</title>
@@ -90,14 +98,6 @@
       <pubDate>Wed, 22 Nov 2023 09:19:42 -0000</pubDate>
     </item>
     <item>
-      <title>How Gödel's Proof Works (2020)</title>
-      <link>https://www.quantamagazine.org/how-godels-proof-works-20200714/</link>
-      <description>No Text</description>
-      <guid>38391787</guid>
-      <comments>https://news.ycombinator.com/item?id=38391787</comments>
-      <pubDate>Thu, 23 Nov 2023 11:52:57 -0000</pubDate>
-    </item>
-    <item>
       <title>We have reached an agreement in principle for Sam to return to OpenAI as CEO</title>
       <link>https://twitter.com/openai/status/1727206187077370115</link>
       <description>No Text</description>
@@ -106,12 +106,28 @@
       <pubDate>Wed, 22 Nov 2023 06:01:45 -0000</pubDate>
     </item>
     <item>
-      <title>Gameboy Technical Reference for Homebrew Developers</title>
-      <link>https://gbdev.io/pandocs/</link>
+      <title>The Secret Language of Ships</title>
+      <link>https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/</link>
       <description>No Text</description>
-      <guid>38391403</guid>
-      <comments>https://news.ycombinator.com/item?id=38391403</comments>
-      <pubDate>Thu, 23 Nov 2023 10:42:25 -0000</pubDate>
+      <guid>38378555</guid>
+      <comments>https://news.ycombinator.com/item?id=38378555</comments>
+      <pubDate>Wed, 22 Nov 2023 12:58:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>How Gödel's Proof Works (2020)</title>
+      <link>https://www.quantamagazine.org/how-godels-proof-works-20200714/</link>
+      <description>No Text</description>
+      <guid>38391787</guid>
+      <comments>https://news.ycombinator.com/item?id=38391787</comments>
+      <pubDate>Thu, 23 Nov 2023 11:52:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>Put some CLOS in your ECS</title>
+      <link>https://edoput.it/2023/11/19/data-oriented-clos.html</link>
+      <description>No Text</description>
+      <guid>38387217</guid>
+      <comments>https://news.ycombinator.com/item?id=38387217</comments>
+      <pubDate>Thu, 23 Nov 2023 00:10:31 -0000</pubDate>
     </item>
     <item>
       <title>Zork for the PDP-11 / RT-11 recreated</title>
@@ -122,12 +138,12 @@
       <pubDate>Wed, 22 Nov 2023 06:09:39 -0000</pubDate>
     </item>
     <item>
-      <title>Put some CLOS in your ECS</title>
-      <link>https://edoput.it/2023/11/19/data-oriented-clos.html</link>
+      <title>Spotify Will End Service in Uruguay Due to Bill Requiring Fair Pay for Artists</title>
+      <link>https://mixmag.net/read/spotify-end-service-uruguay-copyright-law-change-artists-fair-pay-amendment-news</link>
       <description>No Text</description>
-      <guid>38387217</guid>
-      <comments>https://news.ycombinator.com/item?id=38387217</comments>
-      <pubDate>Thu, 23 Nov 2023 00:10:31 -0000</pubDate>
+      <guid>38392146</guid>
+      <comments>https://news.ycombinator.com/item?id=38392146</comments>
+      <pubDate>Thu, 23 Nov 2023 12:41:13 -0000</pubDate>
     </item>
     <item>
       <title>Litterbox – Analysis of Scratch Projects</title>
@@ -152,6 +168,14 @@
       <guid>38387554</guid>
       <comments>https://news.ycombinator.com/item?id=38387554</comments>
       <pubDate>Thu, 23 Nov 2023 00:40:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Great Enshittening</title>
+      <link>https://pluralistic.net/2023/11/22/who-wins-the-argument/</link>
+      <description>No Text</description>
+      <guid>38391898</guid>
+      <comments>https://news.ycombinator.com/item?id=38391898</comments>
+      <pubDate>Thu, 23 Nov 2023 12:09:19 -0000</pubDate>
     </item>
     <item>
       <title>Three chips in and Google Tensor is on life support</title>
@@ -184,30 +208,6 @@
       <guid>38387249</guid>
       <comments>https://news.ycombinator.com/item?id=38387249</comments>
       <pubDate>Thu, 23 Nov 2023 00:13:25 -0000</pubDate>
-    </item>
-    <item>
-      <title>Pierre de Fermat's Link to a High School Student's Prime Math Proof</title>
-      <link>https://www.quantamagazine.org/pierre-de-fermats-link-to-a-high-school-students-prime-math-proof-20231122/</link>
-      <description>No Text</description>
-      <guid>38389508</guid>
-      <comments>https://news.ycombinator.com/item?id=38389508</comments>
-      <pubDate>Thu, 23 Nov 2023 05:05:18 -0000</pubDate>
-    </item>
-    <item>
-      <title>Rumours of SR-71 Blackbird Successor from Lockheed's Skunkworks</title>
-      <link>https://www.sandboxx.us/news/sr-72-hints-of-a-new-skunk-works-spy-plane-reignite-rumors-of-a-blackbird-successor/</link>
-      <description>No Text</description>
-      <guid>38391655</guid>
-      <comments>https://news.ycombinator.com/item?id=38391655</comments>
-      <pubDate>Thu, 23 Nov 2023 11:26:58 -0000</pubDate>
-    </item>
-    <item>
-      <title>Computational Modelling of Terrains</title>
-      <link>https://tudelft3d.github.io/terrainbook/</link>
-      <description>No Text</description>
-      <guid>38387620</guid>
-      <comments>https://news.ycombinator.com/item?id=38387620</comments>
-      <pubDate>Thu, 23 Nov 2023 00:47:35 -0000</pubDate>
     </item>
   </channel>
 </rss>
