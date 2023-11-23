@@ -5,7 +5,7 @@
     <description>The Positive Hacker News RSS Feed</description>
     <language>en</language>
     <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
-    <lastBuildDate>Thu, 23 Nov 2023 14:13:48 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Nov 2023 14:17:02 -0000</lastBuildDate>
     <item>
       <title>I discovered caching CDNs were throttling my everyday browsing</title>
       <link>https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/</link>
@@ -15,20 +15,20 @@
       <pubDate>Thu, 23 Nov 2023 12:15:09 -0000</pubDate>
     </item>
     <item>
-      <title>Promises Training: Practical Exercises on Promises in JavaScript</title>
-      <link>https://github.com/henriqueinonhe/promises-training</link>
-      <description>No Text</description>
-      <guid>38392086</guid>
-      <comments>https://news.ycombinator.com/item?id=38392086</comments>
-      <pubDate>Thu, 23 Nov 2023 12:35:05 -0000</pubDate>
-    </item>
-    <item>
       <title>Retries – An interactive study of request retry methods</title>
       <link>https://encore.dev/blog/retries</link>
       <description>No Text</description>
       <guid>38392540</guid>
       <comments>https://news.ycombinator.com/item?id=38392540</comments>
       <pubDate>Thu, 23 Nov 2023 13:32:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>Promises Training: Practical Exercises on Promises in JavaScript</title>
+      <link>https://github.com/henriqueinonhe/promises-training</link>
+      <description>No Text</description>
+      <guid>38392086</guid>
+      <comments>https://news.ycombinator.com/item?id=38392086</comments>
+      <pubDate>Thu, 23 Nov 2023 12:35:05 -0000</pubDate>
     </item>
     <item>
       <title>Gameboy Technical Reference for Homebrew Developers</title>
@@ -55,20 +55,20 @@
       <pubDate>Thu, 23 Nov 2023 00:31:33 -0000</pubDate>
     </item>
     <item>
-      <title>Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse</title>
-      <link>https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/</link>
-      <description>No Text</description>
-      <guid>38389386</guid>
-      <comments>https://news.ycombinator.com/item?id=38389386</comments>
-      <pubDate>Thu, 23 Nov 2023 04:44:05 -0000</pubDate>
-    </item>
-    <item>
       <title>The Secret Language of Ships</title>
       <link>https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/</link>
       <description>No Text</description>
       <guid>38378555</guid>
       <comments>https://news.ycombinator.com/item?id=38378555</comments>
       <pubDate>Wed, 22 Nov 2023 12:58:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse</title>
+      <link>https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/</link>
+      <description>No Text</description>
+      <guid>38389386</guid>
+      <comments>https://news.ycombinator.com/item?id=38389386</comments>
+      <pubDate>Thu, 23 Nov 2023 04:44:05 -0000</pubDate>
     </item>
     <item>
       <title>Reflecting on 18 Years at Google</title>
@@ -103,14 +103,6 @@
       <pubDate>Thu, 23 Nov 2023 11:52:57 -0000</pubDate>
     </item>
     <item>
-      <title>We have reached an agreement in principle for Sam to return to OpenAI as CEO</title>
-      <link>https://twitter.com/openai/status/1727206187077370115</link>
-      <description>No Text</description>
-      <guid>38375239</guid>
-      <comments>https://news.ycombinator.com/item?id=38375239</comments>
-      <pubDate>Wed, 22 Nov 2023 06:01:45 -0000</pubDate>
-    </item>
-    <item>
       <title>The curious case of the abominable shower</title>
       <link>https://www.austindailyherald.com/2022/03/peggy-keener-the-curious-case-of-the-abominable-shower/</link>
       <description>No Text</description>
@@ -119,12 +111,20 @@
       <pubDate>Wed, 22 Nov 2023 09:19:42 -0000</pubDate>
     </item>
     <item>
-      <title>Spotify will end service in Uruguay due to bill requiring fair pay for artists</title>
-      <link>https://mixmag.net/read/spotify-end-service-uruguay-copyright-law-change-artists-fair-pay-amendment-news</link>
+      <title>Large amounts of carbon capture as a solution is an 'illusion'</title>
+      <link>https://electrek.co/2023/11/23/large-amounts-of-carbon-capture-as-a-solution-is-an-illusion-iea/</link>
       <description>No Text</description>
-      <guid>38392146</guid>
-      <comments>https://news.ycombinator.com/item?id=38392146</comments>
-      <pubDate>Thu, 23 Nov 2023 12:41:13 -0000</pubDate>
+      <guid>38391728</guid>
+      <comments>https://news.ycombinator.com/item?id=38391728</comments>
+      <pubDate>Thu, 23 Nov 2023 11:40:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>We have reached an agreement in principle for Sam to return to OpenAI as CEO</title>
+      <link>https://twitter.com/openai/status/1727206187077370115</link>
+      <description>No Text</description>
+      <guid>38375239</guid>
+      <comments>https://news.ycombinator.com/item?id=38375239</comments>
+      <pubDate>Wed, 22 Nov 2023 06:01:45 -0000</pubDate>
     </item>
     <item>
       <title>Put some CLOS in your ECS</title>
@@ -149,6 +149,14 @@
       <guid>38391768</guid>
       <comments>https://news.ycombinator.com/item?id=38391768</comments>
       <pubDate>Thu, 23 Nov 2023 11:49:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Spotify will end service in Uruguay due to bill requiring fair pay for artists</title>
+      <link>https://mixmag.net/read/spotify-end-service-uruguay-copyright-law-change-artists-fair-pay-amendment-news</link>
+      <description>No Text</description>
+      <guid>38392146</guid>
+      <comments>https://news.ycombinator.com/item?id=38392146</comments>
+      <pubDate>Thu, 23 Nov 2023 12:41:13 -0000</pubDate>
     </item>
     <item>
       <title>Litterbox – Analysis of Scratch Projects</title>
@@ -199,20 +207,12 @@
       <pubDate>Thu, 23 Nov 2023 02:54:26 -0000</pubDate>
     </item>
     <item>
-      <title>The power of bidiagonal matrices</title>
-      <link>https://nhigham.com/2023/11/22/the-power-of-bidiagonal-matrices/</link>
+      <title>Max Headroom Signal Hijacking</title>
+      <link>https://en.wikipedia.org/wiki/Max_Headroom_signal_hijacking</link>
       <description>No Text</description>
-      <guid>38387249</guid>
-      <comments>https://news.ycombinator.com/item?id=38387249</comments>
-      <pubDate>Thu, 23 Nov 2023 00:13:25 -0000</pubDate>
-    </item>
-    <item>
-      <title>Pierre de Fermat's Link to a High School Student's Prime Math Proof</title>
-      <link>https://www.quantamagazine.org/pierre-de-fermats-link-to-a-high-school-students-prime-math-proof-20231122/</link>
-      <description>No Text</description>
-      <guid>38389508</guid>
-      <comments>https://news.ycombinator.com/item?id=38389508</comments>
-      <pubDate>Thu, 23 Nov 2023 05:05:18 -0000</pubDate>
+      <guid>38392388</guid>
+      <comments>https://news.ycombinator.com/item?id=38392388</comments>
+      <pubDate>Thu, 23 Nov 2023 13:13:37 -0000</pubDate>
     </item>
   </channel>
 </rss>
