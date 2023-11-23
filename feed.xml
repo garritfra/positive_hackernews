@@ -5,14 +5,22 @@
     <description>The Positive Hacker News RSS Feed</description>
     <language>en</language>
     <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
-    <lastBuildDate>Thu, 23 Nov 2023 14:17:02 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Nov 2023 15:06:54 -0000</lastBuildDate>
     <item>
-      <title>I discovered caching CDNs were throttling my everyday browsing</title>
-      <link>https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/</link>
+      <title>Git Branches: Intuition and Reality</title>
+      <link>https://jvns.ca/blog/2023/11/23/branches-intuition-reality/</link>
       <description>No Text</description>
-      <guid>38391934</guid>
-      <comments>https://news.ycombinator.com/item?id=38391934</comments>
-      <pubDate>Thu, 23 Nov 2023 12:15:09 -0000</pubDate>
+      <guid>38393238</guid>
+      <comments>https://news.ycombinator.com/item?id=38393238</comments>
+      <pubDate>Thu, 23 Nov 2023 14:43:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>Write libraries instead of services, where possible</title>
+      <link>https://catern.com/services.html</link>
+      <description>No Text</description>
+      <guid>38393032</guid>
+      <comments>https://news.ycombinator.com/item?id=38393032</comments>
+      <pubDate>Thu, 23 Nov 2023 14:21:15 -0000</pubDate>
     </item>
     <item>
       <title>Retries – An interactive study of request retry methods</title>
@@ -31,6 +39,14 @@
       <pubDate>Thu, 23 Nov 2023 12:35:05 -0000</pubDate>
     </item>
     <item>
+      <title>US govt pays AT&amp;T to let cops search Americans' phone records without warrant</title>
+      <link>https://www.theregister.com/2023/11/22/wyden_hemisphere_letter/</link>
+      <description>No Text</description>
+      <guid>38393237</guid>
+      <comments>https://news.ycombinator.com/item?id=38393237</comments>
+      <pubDate>Thu, 23 Nov 2023 14:43:13 -0000</pubDate>
+    </item>
+    <item>
       <title>Gameboy Technical Reference for Homebrew Developers</title>
       <link>https://gbdev.io/pandocs/</link>
       <description>No Text</description>
@@ -47,52 +63,12 @@
       <pubDate>Wed, 22 Nov 2023 10:10:49 -0000</pubDate>
     </item>
     <item>
-      <title>test, [, and [[ (2020)</title>
-      <link>https://jmmv.dev/2020/03/test-bracket.html</link>
-      <description>No Text</description>
-      <guid>38387464</guid>
-      <comments>https://news.ycombinator.com/item?id=38387464</comments>
-      <pubDate>Thu, 23 Nov 2023 00:31:33 -0000</pubDate>
-    </item>
-    <item>
       <title>The Secret Language of Ships</title>
       <link>https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/</link>
       <description>No Text</description>
       <guid>38378555</guid>
       <comments>https://news.ycombinator.com/item?id=38378555</comments>
       <pubDate>Wed, 22 Nov 2023 12:58:43 -0000</pubDate>
-    </item>
-    <item>
-      <title>Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse</title>
-      <link>https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/</link>
-      <description>No Text</description>
-      <guid>38389386</guid>
-      <comments>https://news.ycombinator.com/item?id=38389386</comments>
-      <pubDate>Thu, 23 Nov 2023 04:44:05 -0000</pubDate>
-    </item>
-    <item>
-      <title>Reflecting on 18 Years at Google</title>
-      <link>https://ln.hixie.ch/?start=1700627373&amp;count=1</link>
-      <description>No Text</description>
-      <guid>38381573</guid>
-      <comments>https://news.ycombinator.com/item?id=38381573</comments>
-      <pubDate>Wed, 22 Nov 2023 16:44:15 -0000</pubDate>
-    </item>
-    <item>
-      <title>Auroratone, a psychedelic 1940s film that helped WWII vets overcome PTSD</title>
-      <link>https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html</link>
-      <description>No Text</description>
-      <guid>38387775</guid>
-      <comments>https://news.ycombinator.com/item?id=38387775</comments>
-      <pubDate>Thu, 23 Nov 2023 01:03:36 -0000</pubDate>
-    </item>
-    <item>
-      <title>Writing a Debugger from Scratch: Stacks</title>
-      <link>https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-6/</link>
-      <description>No Text</description>
-      <guid>38390052</guid>
-      <comments>https://news.ycombinator.com/item?id=38390052</comments>
-      <pubDate>Thu, 23 Nov 2023 06:42:08 -0000</pubDate>
     </item>
     <item>
       <title>How Gödel's Proof Works (2020)</title>
@@ -103,44 +79,84 @@
       <pubDate>Thu, 23 Nov 2023 11:52:57 -0000</pubDate>
     </item>
     <item>
+      <title>Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse</title>
+      <link>https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/</link>
+      <description>No Text</description>
+      <guid>38389386</guid>
+      <comments>https://news.ycombinator.com/item?id=38389386</comments>
+      <pubDate>Thu, 23 Nov 2023 04:44:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>test, [, and [[ (2020)</title>
+      <link>https://jmmv.dev/2020/03/test-bracket.html</link>
+      <description>No Text</description>
+      <guid>38387464</guid>
+      <comments>https://news.ycombinator.com/item?id=38387464</comments>
+      <pubDate>Thu, 23 Nov 2023 00:31:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>OpenSSL Announces Final Release of OpenSSL 3.2.0</title>
+      <link>https://www.openssl.org/blog/blog/2023/11/23/OpenSSL32/</link>
+      <description>No Text</description>
+      <guid>38392887</guid>
+      <comments>https://news.ycombinator.com/item?id=38392887</comments>
+      <pubDate>Thu, 23 Nov 2023 14:08:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>I discovered caching CDNs were throttling my everyday browsing</title>
+      <link>https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/</link>
+      <description>No Text</description>
+      <guid>38391934</guid>
+      <comments>https://news.ycombinator.com/item?id=38391934</comments>
+      <pubDate>Thu, 23 Nov 2023 12:15:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>Auroratone, a psychedelic 1940s film that helped WWII vets overcome PTSD</title>
+      <link>https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html</link>
+      <description>No Text</description>
+      <guid>38387775</guid>
+      <comments>https://news.ycombinator.com/item?id=38387775</comments>
+      <pubDate>Thu, 23 Nov 2023 01:03:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Reflecting on 18 Years at Google</title>
+      <link>https://ln.hixie.ch/?start=1700627373&amp;count=1</link>
+      <description>No Text</description>
+      <guid>38381573</guid>
+      <comments>https://news.ycombinator.com/item?id=38381573</comments>
+      <pubDate>Wed, 22 Nov 2023 16:44:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Max Headroom Signal Hijacking</title>
+      <link>https://en.wikipedia.org/wiki/Max_Headroom_signal_hijacking</link>
+      <description>No Text</description>
+      <guid>38392388</guid>
+      <comments>https://news.ycombinator.com/item?id=38392388</comments>
+      <pubDate>Thu, 23 Nov 2023 13:13:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>Writing a Debugger from Scratch: Stacks</title>
+      <link>https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-6/</link>
+      <description>No Text</description>
+      <guid>38390052</guid>
+      <comments>https://news.ycombinator.com/item?id=38390052</comments>
+      <pubDate>Thu, 23 Nov 2023 06:42:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Three Projections of Doctor Futamura (2009)</title>
+      <link>http://blog.sigfpe.com/2009/05/three-projections-of-doctor-futamura.html</link>
+      <description>No Text</description>
+      <guid>38375786</guid>
+      <comments>https://news.ycombinator.com/item?id=38375786</comments>
+      <pubDate>Wed, 22 Nov 2023 06:58:48 -0000</pubDate>
+    </item>
+    <item>
       <title>The curious case of the abominable shower</title>
       <link>https://www.austindailyherald.com/2022/03/peggy-keener-the-curious-case-of-the-abominable-shower/</link>
       <description>No Text</description>
       <guid>38376919</guid>
       <comments>https://news.ycombinator.com/item?id=38376919</comments>
       <pubDate>Wed, 22 Nov 2023 09:19:42 -0000</pubDate>
-    </item>
-    <item>
-      <title>Large amounts of carbon capture as a solution is an 'illusion'</title>
-      <link>https://electrek.co/2023/11/23/large-amounts-of-carbon-capture-as-a-solution-is-an-illusion-iea/</link>
-      <description>No Text</description>
-      <guid>38391728</guid>
-      <comments>https://news.ycombinator.com/item?id=38391728</comments>
-      <pubDate>Thu, 23 Nov 2023 11:40:30 -0000</pubDate>
-    </item>
-    <item>
-      <title>We have reached an agreement in principle for Sam to return to OpenAI as CEO</title>
-      <link>https://twitter.com/openai/status/1727206187077370115</link>
-      <description>No Text</description>
-      <guid>38375239</guid>
-      <comments>https://news.ycombinator.com/item?id=38375239</comments>
-      <pubDate>Wed, 22 Nov 2023 06:01:45 -0000</pubDate>
-    </item>
-    <item>
-      <title>Put some CLOS in your ECS</title>
-      <link>https://edoput.it/2023/11/19/data-oriented-clos.html</link>
-      <description>No Text</description>
-      <guid>38387217</guid>
-      <comments>https://news.ycombinator.com/item?id=38387217</comments>
-      <pubDate>Thu, 23 Nov 2023 00:10:31 -0000</pubDate>
-    </item>
-    <item>
-      <title>Zork for the PDP-11 / RT-11 recreated</title>
-      <link>https://virtuallyfun.com/2023/11/21/zork-for-the-pdp-11-rt-11-recreated/</link>
-      <description>No Text</description>
-      <guid>38375310</guid>
-      <comments>https://news.ycombinator.com/item?id=38375310</comments>
-      <pubDate>Wed, 22 Nov 2023 06:09:39 -0000</pubDate>
     </item>
     <item>
       <title>The complete guide to iOS and macOS development in Neovim</title>
@@ -151,20 +167,44 @@
       <pubDate>Thu, 23 Nov 2023 11:49:19 -0000</pubDate>
     </item>
     <item>
-      <title>Spotify will end service in Uruguay due to bill requiring fair pay for artists</title>
-      <link>https://mixmag.net/read/spotify-end-service-uruguay-copyright-law-change-artists-fair-pay-amendment-news</link>
+      <title>We have reached an agreement in principle for Sam to return to OpenAI as CEO</title>
+      <link>https://twitter.com/openai/status/1727206187077370115</link>
       <description>No Text</description>
-      <guid>38392146</guid>
-      <comments>https://news.ycombinator.com/item?id=38392146</comments>
-      <pubDate>Thu, 23 Nov 2023 12:41:13 -0000</pubDate>
+      <guid>38375239</guid>
+      <comments>https://news.ycombinator.com/item?id=38375239</comments>
+      <pubDate>Wed, 22 Nov 2023 06:01:45 -0000</pubDate>
     </item>
     <item>
-      <title>Litterbox – Analysis of Scratch Projects</title>
-      <link>https://scratch.fim.uni-passau.de/litterbox/about.php</link>
+      <title>Large amounts of carbon capture as a solution is an 'illusion'</title>
+      <link>https://electrek.co/2023/11/23/large-amounts-of-carbon-capture-as-a-solution-is-an-illusion-iea/</link>
       <description>No Text</description>
-      <guid>38376507</guid>
-      <comments>https://news.ycombinator.com/item?id=38376507</comments>
-      <pubDate>Wed, 22 Nov 2023 08:23:48 -0000</pubDate>
+      <guid>38391728</guid>
+      <comments>https://news.ycombinator.com/item?id=38391728</comments>
+      <pubDate>Thu, 23 Nov 2023 11:40:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Workers AI Update: Stable Diffusion, Code Llama and Workers AI in 100 Cities</title>
+      <link>https://blog.cloudflare.com/workers-ai-update-stable-diffusion-code-llama-workers-ai-in-100-cities/</link>
+      <description>No Text</description>
+      <guid>38392824</guid>
+      <comments>https://news.ycombinator.com/item?id=38392824</comments>
+      <pubDate>Thu, 23 Nov 2023 14:01:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>Zork for the PDP-11 / RT-11 recreated</title>
+      <link>https://virtuallyfun.com/2023/11/21/zork-for-the-pdp-11-rt-11-recreated/</link>
+      <description>No Text</description>
+      <guid>38375310</guid>
+      <comments>https://news.ycombinator.com/item?id=38375310</comments>
+      <pubDate>Wed, 22 Nov 2023 06:09:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Put some CLOS in your ECS</title>
+      <link>https://edoput.it/2023/11/19/data-oriented-clos.html</link>
+      <description>No Text</description>
+      <guid>38387217</guid>
+      <comments>https://news.ycombinator.com/item?id=38387217</comments>
+      <pubDate>Thu, 23 Nov 2023 00:10:31 -0000</pubDate>
     </item>
     <item>
       <title>Oculi Mundi collection of rare and ancient maps</title>
@@ -175,44 +215,20 @@
       <pubDate>Tue, 21 Nov 2023 13:35:26 -0000</pubDate>
     </item>
     <item>
+      <title>Despite just 5.8% sales, over 38% of bug reports come from the Linux community</title>
+      <link>https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/</link>
+      <description>No Text</description>
+      <guid>38392931</guid>
+      <comments>https://news.ycombinator.com/item?id=38392931</comments>
+      <pubDate>Thu, 23 Nov 2023 14:11:40 -0000</pubDate>
+    </item>
+    <item>
       <title>A gentle introduction to two's complement</title>
       <link>https://imapenguin.com/2023/11/a-gentle-introduction-to-twos-complement/</link>
       <description>No Text</description>
       <guid>38387554</guid>
       <comments>https://news.ycombinator.com/item?id=38387554</comments>
       <pubDate>Thu, 23 Nov 2023 00:40:59 -0000</pubDate>
-    </item>
-    <item>
-      <title>Three chips in and Google Tensor is on life support</title>
-      <link>https://www.notebookcheck.net/Three-chips-in-and-Google-Tensor-is-on-life-support.768438.0.html</link>
-      <description>No Text</description>
-      <guid>38344444</guid>
-      <comments>https://news.ycombinator.com/item?id=38344444</comments>
-      <pubDate>Mon, 20 Nov 2023 08:13:13 -0000</pubDate>
-    </item>
-    <item>
-      <title>How do I become a graphics programmer?</title>
-      <link>https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/</link>
-      <description>No Text</description>
-      <guid>38384952</guid>
-      <comments>https://news.ycombinator.com/item?id=38384952</comments>
-      <pubDate>Wed, 22 Nov 2023 20:54:03 -0000</pubDate>
-    </item>
-    <item>
-      <title>Intro to Large Language Models [Video]</title>
-      <link>https://www.youtube.com/watch?v=zjkBMFhNj_g</link>
-      <description>No Text</description>
-      <guid>38388669</guid>
-      <comments>https://news.ycombinator.com/item?id=38388669</comments>
-      <pubDate>Thu, 23 Nov 2023 02:54:26 -0000</pubDate>
-    </item>
-    <item>
-      <title>Max Headroom Signal Hijacking</title>
-      <link>https://en.wikipedia.org/wiki/Max_Headroom_signal_hijacking</link>
-      <description>No Text</description>
-      <guid>38392388</guid>
-      <comments>https://news.ycombinator.com/item?id=38392388</comments>
-      <pubDate>Thu, 23 Nov 2023 13:13:37 -0000</pubDate>
     </item>
   </channel>
 </rss>
