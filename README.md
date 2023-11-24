@@ -2,6 +2,8 @@
 
 Enjoy a more positive news-reading experience with the Positive Hacker News RSS Feed! 🌟
 
+A writeup of this project can be found [here](https://garrit.xyz/posts/2023-11-24-positive-hackernews).
+
 ## Overview
 
 In a world where tech news can often be overwhelmingly negative, this RSS feed serves as a breath of fresh air. It selectively presents stories that have a positive sentiment, making your news-reading experience more enjoyable and less stressful.
