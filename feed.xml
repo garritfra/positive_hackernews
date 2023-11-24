@@ -5,7 +5,7 @@
     <description>The Positive Hacker News RSS Feed</description>
     <language>en</language>
     <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
-    <lastBuildDate>Fri, 24 Nov 2023 09:07:11 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Nov 2023 12:11:54 -0000</lastBuildDate>
     <item>
       <title>Mid-old cells are a potential target for anti-aging interventions in the elderly</title>
       <link>https://www.nature.com/articles/s41467-023-43491-w</link>
@@ -23,28 +23,20 @@
       <pubDate>Thu, 23 Nov 2023 10:48:48 -0000</pubDate>
     </item>
     <item>
-      <title>Ansel</title>
-      <link>https://ansel.photos/en/</link>
-      <description>No Text</description>
-      <guid>38390914</guid>
-      <comments>https://news.ycombinator.com/item?id=38390914</comments>
-      <pubDate>Thu, 23 Nov 2023 09:10:58 -0000</pubDate>
-    </item>
-    <item>
-      <title>Bluetooth stack modifications to improve audio quality on headphones without AA (2019)</title>
-      <link>https://habr.com/en/articles/456476/</link>
-      <description>No Text</description>
-      <guid>38396658</guid>
-      <comments>https://news.ycombinator.com/item?id=38396658</comments>
-      <pubDate>Thu, 23 Nov 2023 19:41:49 -0000</pubDate>
-    </item>
-    <item>
       <title>Building a freedom-friendly WiFi pocket-router (2020)</title>
       <link>https://www.kulesz.me/post/130-pocket-router/</link>
       <description>No Text</description>
       <guid>38391229</guid>
       <comments>https://news.ycombinator.com/item?id=38391229</comments>
       <pubDate>Thu, 23 Nov 2023 10:08:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Langfuse (YC W23) is hiring a founding engineer to build LLM observability</title>
+      <link>https://www.workatastartup.com/jobs/62929</link>
+      <description>No Text</description>
+      <guid>38403089</guid>
+      <comments>https://news.ycombinator.com/item?id=38403089</comments>
+      <pubDate>Fri, 24 Nov 2023 12:01:16 -0000</pubDate>
     </item>
     <item>
       <title>Experimental tree-based writing interface for GPT-3</title>
@@ -55,12 +47,12 @@
       <pubDate>Thu, 23 Nov 2023 22:49:54 -0000</pubDate>
     </item>
     <item>
-      <title>State Dept prioritizes 'AI-ready workforce' in its first AI strategy</title>
-      <link>https://federalnewsnetwork.com/artificial-intelligence/2023/11/state-dept-prioritizes-ai-ready-workforce-in-its-first-ai-strategy/</link>
+      <title>AI system self-organises to develop features of brains of complex organisms</title>
+      <link>https://www.cam.ac.uk/research/news/ai-system-self-organises-to-develop-features-of-brains-of-complex-organisms</link>
       <description>No Text</description>
-      <guid>38400421</guid>
-      <comments>https://news.ycombinator.com/item?id=38400421</comments>
-      <pubDate>Fri, 24 Nov 2023 03:31:45 -0000</pubDate>
+      <guid>38401544</guid>
+      <comments>https://news.ycombinator.com/item?id=38401544</comments>
+      <pubDate>Fri, 24 Nov 2023 07:51:17 -0000</pubDate>
     </item>
     <item>
       <title>The Revival of Medley/Interlisp</title>
@@ -71,6 +63,14 @@
       <pubDate>Thu, 23 Nov 2023 09:49:38 -0000</pubDate>
     </item>
     <item>
+      <title>The Eyes Have It (1953)</title>
+      <link>https://www.gutenberg.org/files/31516/31516-h/31516-h.htm</link>
+      <description>No Text</description>
+      <guid>38397742</guid>
+      <comments>https://news.ycombinator.com/item?id=38397742</comments>
+      <pubDate>Thu, 23 Nov 2023 21:24:10 -0000</pubDate>
+    </item>
+    <item>
       <title>A Busy 1979</title>
       <link>https://www.filfre.net/2011/07/a-busy-1979/</link>
       <description>No Text</description>
@@ -79,20 +79,12 @@
       <pubDate>Thu, 23 Nov 2023 12:12:55 -0000</pubDate>
     </item>
     <item>
-      <title>Odigos (YC W23) Is Hiring eBPF Engineer</title>
-      <link>https://www.ycombinator.com/companies/keyval/jobs/6pSjpry-ebpf-engineer</link>
+      <title>Ansel</title>
+      <link>https://ansel.photos/en/</link>
       <description>No Text</description>
-      <guid>38401289</guid>
-      <comments>https://news.ycombinator.com/item?id=38401289</comments>
-      <pubDate>Fri, 24 Nov 2023 07:00:55 -0000</pubDate>
-    </item>
-    <item>
-      <title>The Eyes Have It (1953)</title>
-      <link>https://www.gutenberg.org/files/31516/31516-h/31516-h.htm</link>
-      <description>No Text</description>
-      <guid>38397742</guid>
-      <comments>https://news.ycombinator.com/item?id=38397742</comments>
-      <pubDate>Thu, 23 Nov 2023 21:24:10 -0000</pubDate>
+      <guid>38390914</guid>
+      <comments>https://news.ycombinator.com/item?id=38390914</comments>
+      <pubDate>Thu, 23 Nov 2023 09:10:58 -0000</pubDate>
     </item>
     <item>
       <title>Things you're allowed to do (2020)</title>
@@ -103,6 +95,14 @@
       <pubDate>Fri, 24 Nov 2023 01:15:23 -0000</pubDate>
     </item>
     <item>
+      <title>DDG founder says Google's phone, manufacturing partnerships thwart competition</title>
+      <link>https://apnews.com/article/google-antitrust-trial-search-engine-duckduckgo-b3d81d41a5cbf8d7c2cef824663f1f8a</link>
+      <description>No Text</description>
+      <guid>38401969</guid>
+      <comments>https://news.ycombinator.com/item?id=38401969</comments>
+      <pubDate>Fri, 24 Nov 2023 09:15:03 -0000</pubDate>
+    </item>
+    <item>
       <title>The secret language of ships</title>
       <link>https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/</link>
       <description>No Text</description>
@@ -111,20 +111,12 @@
       <pubDate>Wed, 22 Nov 2023 12:58:43 -0000</pubDate>
     </item>
     <item>
-      <title>FullControl: Unconstrained gcode design for 3D printers</title>
-      <link>https://github.com/FullControlXYZ/fullcontrol</link>
+      <title>State Dept prioritizes 'AI-ready workforce' in its first AI strategy</title>
+      <link>https://federalnewsnetwork.com/artificial-intelligence/2023/11/state-dept-prioritizes-ai-ready-workforce-in-its-first-ai-strategy/</link>
       <description>No Text</description>
-      <guid>38399591</guid>
-      <comments>https://news.ycombinator.com/item?id=38399591</comments>
-      <pubDate>Fri, 24 Nov 2023 00:52:12 -0000</pubDate>
-    </item>
-    <item>
-      <title>ESA’s new Ariane 6 rocket passed a major full-scale rehearsal</title>
-      <link>https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Hot_fire_Ariane_6_ready_to_rumble</link>
-      <description>No Text</description>
-      <guid>38398285</guid>
-      <comments>https://news.ycombinator.com/item?id=38398285</comments>
-      <pubDate>Thu, 23 Nov 2023 22:21:50 -0000</pubDate>
+      <guid>38400421</guid>
+      <comments>https://news.ycombinator.com/item?id=38400421</comments>
+      <pubDate>Fri, 24 Nov 2023 03:31:45 -0000</pubDate>
     </item>
     <item>
       <title>A correct-by-construction conversion from lambda calculus to combinatory logic</title>
@@ -135,12 +127,36 @@
       <pubDate>Thu, 23 Nov 2023 07:37:26 -0000</pubDate>
     </item>
     <item>
-      <title>The BPF-programmable network device</title>
-      <link>https://lwn.net/Articles/949960/</link>
+      <title>FullControl: Unconstrained gcode design for 3D printers</title>
+      <link>https://github.com/FullControlXYZ/fullcontrol</link>
       <description>No Text</description>
-      <guid>38399767</guid>
-      <comments>https://news.ycombinator.com/item?id=38399767</comments>
-      <pubDate>Fri, 24 Nov 2023 01:18:01 -0000</pubDate>
+      <guid>38399591</guid>
+      <comments>https://news.ycombinator.com/item?id=38399591</comments>
+      <pubDate>Fri, 24 Nov 2023 00:52:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Bluetooth stack modifications to improve audio quality on headphones without AA (2019)</title>
+      <link>https://habr.com/en/articles/456476/</link>
+      <description>No Text</description>
+      <guid>38396658</guid>
+      <comments>https://news.ycombinator.com/item?id=38396658</comments>
+      <pubDate>Thu, 23 Nov 2023 19:41:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Training for one trillion parameter model backed by Intel and US govt has begun</title>
+      <link>https://www.techradar.com/pro/the-gpt-to-rule-them-all-training-for-one-trillion-parameter-model-backed-by-intel-and-us-government-has-just-begun</link>
+      <description>No Text</description>
+      <guid>38401805</guid>
+      <comments>https://news.ycombinator.com/item?id=38401805</comments>
+      <pubDate>Fri, 24 Nov 2023 08:41:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Population of England and Wales grows at fastest rate since 1962</title>
+      <link>https://www.thisislocallondon.co.uk/news/national/23943664.population-england-wales-grows-fastest-rate-since-1962/</link>
+      <description>No Text</description>
+      <guid>38402939</guid>
+      <comments>https://news.ycombinator.com/item?id=38402939</comments>
+      <pubDate>Fri, 24 Nov 2023 11:41:08 -0000</pubDate>
     </item>
     <item>
       <title>test, [, and [[ (2020)</title>
@@ -151,12 +167,28 @@
       <pubDate>Thu, 23 Nov 2023 00:31:33 -0000</pubDate>
     </item>
     <item>
-      <title>Bosque Programming Language</title>
-      <link>https://www.microsoft.com/en-us/research/project/bosque-programming-language/</link>
+      <title>ESA’s new Ariane 6 rocket passed a major full-scale rehearsal</title>
+      <link>https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Hot_fire_Ariane_6_ready_to_rumble</link>
       <description>No Text</description>
-      <guid>38400929</guid>
-      <comments>https://news.ycombinator.com/item?id=38400929</comments>
-      <pubDate>Fri, 24 Nov 2023 05:41:37 -0000</pubDate>
+      <guid>38398285</guid>
+      <comments>https://news.ycombinator.com/item?id=38398285</comments>
+      <pubDate>Thu, 23 Nov 2023 22:21:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>The BPF-programmable network device</title>
+      <link>https://lwn.net/Articles/949960/</link>
+      <description>No Text</description>
+      <guid>38399767</guid>
+      <comments>https://news.ycombinator.com/item?id=38399767</comments>
+      <pubDate>Fri, 24 Nov 2023 01:18:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Motorcycle Ergonomics</title>
+      <link>https://cycle-ergo.com/</link>
+      <description>No Text</description>
+      <guid>38391548</guid>
+      <comments>https://news.ycombinator.com/item?id=38391548</comments>
+      <pubDate>Thu, 23 Nov 2023 11:06:59 -0000</pubDate>
     </item>
     <item>
       <title>15 years ago, I helped design Google Maps</title>
@@ -173,46 +205,6 @@
       <guid>38394635</guid>
       <comments>https://news.ycombinator.com/item?id=38394635</comments>
       <pubDate>Thu, 23 Nov 2023 16:43:25 -0000</pubDate>
-    </item>
-    <item>
-      <title>'Sunspot archipelago' 15 times wider than Earth could soon bombard us</title>
-      <link>https://www.livescience.com/space/the-sun/enormous-sunspot-archipelago-15-times-wider-than-earth-could-soon-bombard-us-with-solar-flares</link>
-      <description>No Text</description>
-      <guid>38401125</guid>
-      <comments>https://news.ycombinator.com/item?id=38401125</comments>
-      <pubDate>Fri, 24 Nov 2023 06:24:43 -0000</pubDate>
-    </item>
-    <item>
-      <title>Polio is on the brink of eradication</title>
-      <link>https://www.nature.com/articles/d41586-023-03602-5</link>
-      <description>No Text</description>
-      <guid>38392277</guid>
-      <comments>https://news.ycombinator.com/item?id=38392277</comments>
-      <pubDate>Thu, 23 Nov 2023 13:00:21 -0000</pubDate>
-    </item>
-    <item>
-      <title>GIMP 3.0 finally has a release schedule</title>
-      <link>https://librearts.org/2023/11/gimp-3-0-roadmap/</link>
-      <description>No Text</description>
-      <guid>38401613</guid>
-      <comments>https://news.ycombinator.com/item?id=38401613</comments>
-      <pubDate>Fri, 24 Nov 2023 08:04:34 -0000</pubDate>
-    </item>
-    <item>
-      <title>Don Walsh: The man who made the deepest ever dive</title>
-      <link>https://www.bbc.com/news/science-environment-67445718</link>
-      <description>No Text</description>
-      <guid>38391167</guid>
-      <comments>https://news.ycombinator.com/item?id=38391167</comments>
-      <pubDate>Thu, 23 Nov 2023 09:57:37 -0000</pubDate>
-    </item>
-    <item>
-      <title>POSIX v. reality: A position on O_PONIES (2009)</title>
-      <link>https://lwn.net/Articles/351422/</link>
-      <description>No Text</description>
-      <guid>38378557</guid>
-      <comments>https://news.ycombinator.com/item?id=38378557</comments>
-      <pubDate>Wed, 22 Nov 2023 12:58:47 -0000</pubDate>
     </item>
   </channel>
 </rss>
