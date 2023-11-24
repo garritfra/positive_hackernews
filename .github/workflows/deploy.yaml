@@ -6,10 +6,10 @@ on:
   push:
     branches:
       - main
-name: Update RSS feed
+name: Deploy RSS feed
 jobs:
-  update-feed:
-    name: Run update script and commit changes
+  generate-feed:
+    name: Generate RSS feed
     runs-on: ubuntu-latest
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the
@@ -33,14 +33,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run update script
+      - name: Generate RSS feed
         run: |
           python main.py
 
-        # Commit all changed files back to the repository
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          commit_message: Update RSS feed
+          folder: .
 
         # Cache pip dependencies
       - uses: actions/cache@v3
