@@ -41,6 +41,8 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: .
+          single-commit: true
+          git-config-email: <>
 
         # Cache pip dependencies
       - uses: actions/cache@v3
