@@ -75,7 +75,7 @@ def create_rss_feed(positive_stories):
     for story in positive_stories:
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = story.get('title', 'No Title')
-        ET.SubElement(item, "link").text = story.get('url', 'No URL')
+        ET.SubElement(item, "link").text = story.get('url', f"https://news.ycombinator.com/item?id={story.get('id')}")
         ET.SubElement(item, "description").text = story.get('text', 'No Text')
         ET.SubElement(item, "guid").text = str(story.get('id', 'No ID'))
         ET.SubElement(item, "comments").text = f"https://news.ycombinator.com/item?id={str(story.get('id', 'No ID'))}"
