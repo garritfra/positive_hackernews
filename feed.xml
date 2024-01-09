@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Tue, 09 Jan 2024 09:08:40 -0000</lastBuildDate>
+    <item>
+      <title>Why does holding a key fob to your head increase its range?</title>
+      <link>https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body</link>
+      <description>No Text</description>
+      <guid>38921441</guid>
+      <comments>https://news.ycombinator.com/item?id=38921441</comments>
+      <pubDate>Tue, 09 Jan 2024 02:23:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Polars</title>
+      <link>https://pola.rs/</link>
+      <description>No Text</description>
+      <guid>38920043</guid>
+      <comments>https://news.ycombinator.com/item?id=38920043</comments>
+      <pubDate>Mon, 08 Jan 2024 23:32:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Where Have All the Websites Gone?</title>
+      <link>https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/</link>
+      <description>No Text</description>
+      <guid>38923627</guid>
+      <comments>https://news.ycombinator.com/item?id=38923627</comments>
+      <pubDate>Tue, 09 Jan 2024 08:13:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Money pours into new fabs and facilities</title>
+      <link>https://semiengineering.com/money-pours-into-new-fabs-and-facilities/</link>
+      <description>No Text</description>
+      <guid>38911407</guid>
+      <comments>https://news.ycombinator.com/item?id=38911407</comments>
+      <pubDate>Mon, 08 Jan 2024 13:10:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Mode7 Graphics Library for Playdate</title>
+      <link>https://github.com/risolvipro/playdate-mode7</link>
+      <description>No Text</description>
+      <guid>38921518</guid>
+      <comments>https://news.ycombinator.com/item?id=38921518</comments>
+      <pubDate>Tue, 09 Jan 2024 02:31:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>An overview of distributed Postgres architectures</title>
+      <link>https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures</link>
+      <description>No Text</description>
+      <guid>38914764</guid>
+      <comments>https://news.ycombinator.com/item?id=38914764</comments>
+      <pubDate>Mon, 08 Jan 2024 16:52:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Macs can now inform Apple if any liquids have been detected in the USB-C ports</title>
+      <link>https://9to5mac.com/2023/11/03/macs-liquids-detected-in-usb-c-ports/</link>
+      <description>No Text</description>
+      <guid>38920738</guid>
+      <comments>https://news.ycombinator.com/item?id=38920738</comments>
+      <pubDate>Tue, 09 Jan 2024 00:46:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>Turing Complete Transformers: Two Transformers Are More Powerful Than One</title>
+      <link>https://openreview.net/forum?id=MGWsPGogLH</link>
+      <description>No Text</description>
+      <guid>38919884</guid>
+      <comments>https://news.ycombinator.com/item?id=38919884</comments>
+      <pubDate>Mon, 08 Jan 2024 23:20:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>The best way to get unstuck</title>
+      <link>https://ggnotes.com/the-best-way-to-get-unstuck</link>
+      <description>No Text</description>
+      <guid>38890692</guid>
+      <comments>https://news.ycombinator.com/item?id=38890692</comments>
+      <pubDate>Sat, 06 Jan 2024 11:55:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Golden Rules of Interface Design (2013)</title>
+      <link>https://www.cs.umd.edu/~ben/goldenrules.html</link>
+      <description>No Text</description>
+      <guid>38916663</guid>
+      <comments>https://news.ycombinator.com/item?id=38916663</comments>
+      <pubDate>Mon, 08 Jan 2024 19:15:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: I made an interactive math crossword puzzle with infinite levels</title>
+      <link>https://scientific.place/math-crossword/</link>
+      <description>Hey there! I&amp;#x27;m the brains behind the math crossword game on my site.&lt;p&gt;This game is all about making math a little more fun – users just drag and drop numbers to fill in the blanks and move on to the next level if they get it right.&lt;p&gt;Let me know if face any issues or have any suggestions! :)</description>
+      <guid>38905590</guid>
+      <comments>https://news.ycombinator.com/item?id=38905590</comments>
+      <pubDate>Sun, 07 Jan 2024 21:59:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>OpenBSD KDE Plasma Desktop</title>
+      <link>https://rsadowski.de/posts/2024-01-09-openbsd-kde/</link>
+      <description>No Text</description>
+      <guid>38915759</guid>
+      <comments>https://news.ycombinator.com/item?id=38915759</comments>
+      <pubDate>Mon, 08 Jan 2024 18:07:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>How to mod any lens for anamorphic bokeh</title>
+      <link>https://vmoldo.com/anamorfic-inserts/</link>
+      <description>No Text</description>
+      <guid>38911245</guid>
+      <comments>https://news.ycombinator.com/item?id=38911245</comments>
+      <pubDate>Mon, 08 Jan 2024 12:53:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>Simple Lasts Longer</title>
+      <link>https://newsletter.pnote.eu/p/simple-lasts-longer</link>
+      <description>No Text</description>
+      <guid>38899922</guid>
+      <comments>https://news.ycombinator.com/item?id=38899922</comments>
+      <pubDate>Sun, 07 Jan 2024 09:57:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>An Easy to Build Real Homemade Computer: Z80-MBC2</title>
+      <link>https://www.instructables.com/An-Easy-to-Build-Real-Homemade-Computer-Z80-MBC2/</link>
+      <description>No Text</description>
+      <guid>38891286</guid>
+      <comments>https://news.ycombinator.com/item?id=38891286</comments>
+      <pubDate>Sat, 06 Jan 2024 13:33:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Tensor Network</title>
+      <link>https://tensornetwork.org</link>
+      <description>No Text</description>
+      <guid>38897248</guid>
+      <comments>https://news.ycombinator.com/item?id=38897248</comments>
+      <pubDate>Sun, 07 Jan 2024 00:58:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>Cells across the body talk to each other about aging</title>
+      <link>https://www.quantamagazine.org/cells-across-the-body-talk-to-each-other-about-aging-20240108/</link>
+      <description>No Text</description>
+      <guid>38917749</guid>
+      <comments>https://news.ycombinator.com/item?id=38917749</comments>
+      <pubDate>Mon, 08 Jan 2024 20:37:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Mario Maker 2 API</title>
+      <link>https://tgrcode.com/posts/mario_maker_2_api</link>
+      <description>No Text</description>
+      <guid>38915775</guid>
+      <comments>https://news.ycombinator.com/item?id=38915775</comments>
+      <pubDate>Mon, 08 Jan 2024 18:08:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Solver Performance: 1989 vs. 2024</title>
+      <link>https://www.solvermax.com/blog/solver-performance-1989-vs-2024</link>
+      <description>No Text</description>
+      <guid>38916212</guid>
+      <comments>https://news.ycombinator.com/item?id=38916212</comments>
+      <pubDate>Mon, 08 Jan 2024 18:43:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>Picking the Widevine Locks: Acquiring and Using an L3 CDM</title>
+      <link>https://www.ismailzai.com/blog/picking-the-widevine-locks</link>
+      <description>No Text</description>
+      <guid>38923033</guid>
+      <comments>https://news.ycombinator.com/item?id=38923033</comments>
+      <pubDate>Tue, 09 Jan 2024 06:19:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Mixtral 8x7B: A sparse Mixture of Experts language model</title>
+      <link>https://arxiv.org/abs/2401.04088</link>
+      <description>No Text</description>
+      <guid>38921668</guid>
+      <comments>https://news.ycombinator.com/item?id=38921668</comments>
+      <pubDate>Tue, 09 Jan 2024 02:53:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Quickwit – OSS Alternative to Elasticsearch, Splunk, Datadog</title>
+      <link>https://github.com/quickwit-oss/quickwit</link>
+      <description>Hi folks, Quickwit cofounder here.&lt;p&gt;We started Quickwit 3 years ago with a POC, &amp;quot;Searching the web for under $1000&amp;#x2F;month&amp;quot; (see HN discussions [0]), with the goal of making a robust OSS alternative to Elasticsearch &amp;#x2F; Splunk &amp;#x2F; Datadog.&lt;p&gt;We have reached a significant milestone with our latest release (0.7) [1], as we have witnessed users of the nightly version of Quickwit deploy clusters with hundreds of nodes, ingest hundreds of terabytes of data daily, and enjoy considerable cost savings.&lt;p&gt;To give you a concrete example, one company is ingesting hundreds of terabytes of logs daily and migrating from Elasticsearch to Quickwit. They divided their compute costs by 5x and storage costs by 2x while increasing retention from 3 to 30 days. They also increased their durability, accuracy with exactly-once semantics thanks to the native Kafka support, and elasticity.&lt;p&gt;The 0.7 release also brings better integrations with the Observability ecosystem: improvements of the Elasticsearch-compatible API and better support of OpenTelemetry standards, Grafana, and Jaeger.&lt;p&gt;Of course, we still have a lot of work to be a fully-fledged observability engine, and we would love to get some feedback or suggestions.&lt;p&gt;To give you a glance at our 2024 roadmap, we planned to focus on Kibana&amp;#x2F;OpenDashboard integration, metrics support, and pipe-based query language.&lt;p&gt;[0] Searching the web for under $1000&amp;#x2F;month: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=27074481&quot;&gt;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=27074481&lt;/a&gt;&lt;p&gt;[1] Release blog post: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;quickwit.io&amp;#x2F;blog&amp;#x2F;quickwit-0.7&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;quickwit.io&amp;#x2F;blog&amp;#x2F;quickwit-0.7&lt;/a&gt;&lt;p&gt;[2] Open Source Repo: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;quickwit-oss&amp;#x2F;quickwit&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;quickwit-oss&amp;#x2F;quickwit&lt;/a&gt;&lt;p&gt;[3] Home Page: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;quickwit.io&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;quickwit.io&lt;/a&gt;</description>
+      <guid>38902042</guid>
+      <comments>https://news.ycombinator.com/item?id=38902042</comments>
+      <pubDate>Sun, 07 Jan 2024 15:35:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>How does one patch KDE2 under FreeBSD? (2012)</title>
+      <link>https://knowyourmeme.com/memes/how-does-one-patch-kde2-under-freebsd</link>
+      <description>No Text</description>
+      <guid>38917307</guid>
+      <comments>https://news.ycombinator.com/item?id=38917307</comments>
+      <pubDate>Mon, 08 Jan 2024 20:02:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Trade-offs between Different CRDTs</title>
+      <link>https://interjectedfuture.com/trade-offs-between-different-crdts/</link>
+      <description>No Text</description>
+      <guid>38916647</guid>
+      <comments>https://news.ycombinator.com/item?id=38916647</comments>
+      <pubDate>Mon, 08 Jan 2024 19:13:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Carta to exit secondary trading business</title>
+      <link>https://henrysward.medium.com/should-carta-facilitate-secondary-trading-c319e0c9f080</link>
+      <description>No Text</description>
+      <guid>38921343</guid>
+      <comments>https://news.ycombinator.com/item?id=38921343</comments>
+      <pubDate>Tue, 09 Jan 2024 02:11:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Auto Wiki – Turn your codebase into a Wiki</title>
+      <link>https://wiki.mutable.ai</link>
+      <description>Hi HN! I’m Omar from Mutable.ai. We want to introduce Auto Wiki (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;wiki.mutable.ai&amp;#x2F;&quot;&gt;https:&amp;#x2F;&amp;#x2F;wiki.mutable.ai&amp;#x2F;&lt;/a&gt;), which lets you generate a Wiki-style website to document your codebase. Citations link to code, with clickable references to each line of code being discussed. Here are some examples of popular projects:&lt;p&gt;React: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;wiki.mutable.ai&amp;#x2F;facebook&amp;#x2F;react&quot;&gt;https:&amp;#x2F;&amp;#x2F;wiki.mutable.ai&amp;#x2F;facebook&amp;#x2F;react&lt;/a&gt;&lt;p&gt;Ollama &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;wiki.mutable.ai&amp;#x2F;jmorganca&amp;#x2F;ollama&quot;&gt;https:&amp;#x2F;&amp;#x2F;wiki.mutable.ai&amp;#x2F;jmorganca&amp;#x2F;ollama&lt;/a&gt;&lt;p&gt;D3: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;wiki.mutable.ai&amp;#x2F;d3&amp;#x2F;d3&quot;&gt;https:&amp;#x2F;&amp;#x2F;wiki.mutable.ai&amp;#x2F;d3&amp;#x2F;d3&lt;/a&gt;&lt;p&gt;Terraform: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;wiki.mutable.ai&amp;#x2F;hashicorp&amp;#x2F;terraform&quot;&gt;https:&amp;#x2F;&amp;#x2F;wiki.mutable.ai&amp;#x2F;hashicorp&amp;#x2F;terraform&lt;/a&gt;&lt;p&gt;Bitcoin: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;wiki.mutable.ai&amp;#x2F;bitcoin&amp;#x2F;bitcoin&quot;&gt;https:&amp;#x2F;&amp;#x2F;wiki.mutable.ai&amp;#x2F;bitcoin&amp;#x2F;bitcoin&lt;/a&gt;&lt;p&gt;Mastodon: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;wiki.mutable.ai&amp;#x2F;mastodon&amp;#x2F;mastodon&quot;&gt;https:&amp;#x2F;&amp;#x2F;wiki.mutable.ai&amp;#x2F;mastodon&amp;#x2F;mastodon&lt;/a&gt;&lt;p&gt;Auto Wiki makes it easy to see at a high level what a codebase is doing and how the work is divided. In some cases we’ve identified entire obsolete sections of codebases by seeing a section for code that was no longer important. Auto Wiki relies on our citations system which cuts back on hallucinations. The citations link to a precise reference or definition which means the wiki generation is grounded on the basis of the code being cited rather than free form generation.&lt;p&gt;We’ve run Auto Wiki on the most popular 1,000 repos on GitHub. If you want us to generate a wiki of a public repo for you, just comment in this thread! The wikis take time to generate as we are still ramping up our capacity, but I’ll reply that we’ve launched the process and then come back with a link to your wiki when it’s ready.&lt;p&gt;For private repos, you can use our app (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;app.mutable.ai&quot;&gt;https:&amp;#x2F;&amp;#x2F;app.mutable.ai&lt;/a&gt;) to generate wikis. We also offer private deployments with our own model for enterprise customers; you can ping us at info@mutable.ai. Anyone that already has access to a repo through GitHub will be able to view the wiki, only the person generating the wikis needs to pay to create them. Pricing starts at $4 and ramps up by $2 increments depending on how large your repo is.&lt;p&gt;In an upcoming version of Auto Wiki, we’ll include other sources of information relevant to your code and generate architectural diagrams.&lt;p&gt;Please check out Auto Wiki and let us know your thoughts! Thank you!</description>
+      <guid>38915999</guid>
+      <comments>https://news.ycombinator.com/item?id=38915999</comments>
+      <pubDate>Mon, 08 Jan 2024 18:26:16 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
