@@ -1,0 +1,236 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Thu, 28 Mar 2024 21:08:04 -0000</lastBuildDate>
+    <item>
+      <title>Jamba: Production-grade Mamba-based AI model</title>
+      <link>https://www.maginative.com/article/ai21-labs-unveils-jamba-the-first-production-grade-mamba-based-ai-model/</link>
+      <description>No Text</description>
+      <guid>39853958</guid>
+      <comments>https://news.ycombinator.com/item?id=39853958</comments>
+      <pubDate>Thu, 28 Mar 2024 16:36:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Edgar, build a Dyson swarm</title>
+      <link>https://playedgar.netlify.app/</link>
+      <description>No Text</description>
+      <guid>39855285</guid>
+      <comments>https://news.ycombinator.com/item?id=39855285</comments>
+      <pubDate>Thu, 28 Mar 2024 18:06:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>What Boeing did to all the guys who remember how to build a plane</title>
+      <link>https://prospect.org/infrastructure/transportation/2024-03-28-suicide-mission-boeing/</link>
+      <description>No Text</description>
+      <guid>39856413</guid>
+      <comments>https://news.ycombinator.com/item?id=39856413</comments>
+      <pubDate>Thu, 28 Mar 2024 19:42:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Can Xerox's PARC find new life with SRI?</title>
+      <link>https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html?ugrp=m&amp;unlocked_article_code=1.gE0.gM2G.ilR2kKr-h9Yf&amp;smid=url-share</link>
+      <description>No Text</description>
+      <guid>39842156</guid>
+      <comments>https://news.ycombinator.com/item?id=39842156</comments>
+      <pubDate>Wed, 27 Mar 2024 17:34:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>NotepadNext – a cross-platform reimplementation of Notepad++</title>
+      <link>https://github.com/dail8859/NotepadNext</link>
+      <description>No Text</description>
+      <guid>39854182</guid>
+      <comments>https://news.ycombinator.com/item?id=39854182</comments>
+      <pubDate>Thu, 28 Mar 2024 16:50:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>Keeling Labs (YC W23) Is Hiring a Sr Data Engineer for Applied ML in the Grid</title>
+      <link>https://www.ycombinator.com/companies/keeling-labs/jobs/YWFbAh6-senior-data-engineer</link>
+      <description>No Text</description>
+      <guid>39857260</guid>
+      <comments>https://news.ycombinator.com/item?id=39857260</comments>
+      <pubDate>Thu, 28 Mar 2024 21:01:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Launch HN: Thorntale (YC W24) – Presentation software that works with your data</title>
+      <link>https://news.ycombinator.com/item?id=39854921</link>
+      <description>Hi HN! We’re Dori, John, and Ellen from Thorntale &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.thorntale.com&amp;#x2F;&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.thorntale.com&amp;#x2F;&lt;/a&gt;, a new tool for making data driven presentations. We make it easier for product, engineering, and data teams to communicate their work. Here’s a video demo: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;youtu.be&amp;#x2F;yLCIo3jG2GM&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;youtu.be&amp;#x2F;yLCIo3jG2GM&lt;/a&gt;, and you can try it now at &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;app.sandbox.thorntale.com&quot;&gt;https:&amp;#x2F;&amp;#x2F;app.sandbox.thorntale.com&lt;/a&gt; without signing in.&lt;p&gt;Why? Because one of us (the data scientist) kept asking the other (a backend engineer) to move metrics from ClickHouse and CockroachDB, to Snowflake, to Looker, and then to Excel, so that she could make a chart in Excel for the BizOps team to screenshot, and finally stick in Google Slides. Besides being annoying for everyone, this produces inconsistencies and inaccuracies between the actual data and what got presented. We wasted three peoples’ time tracking down queries, going back and forth, and reformatting the same information.
+We’re building something that can replace PowerPoint&amp;#x2F;Google Slides for this kind of recurring presentation, with direct data connections and native charting, so that we can all stop screenshotting.&lt;p&gt;Here are some example presentations:&lt;p&gt;- A postmortem report: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;app.thorntale.com&amp;#x2F;report&amp;#x2F;Postmortem-Template-1755293100&quot;&gt;https:&amp;#x2F;&amp;#x2F;app.thorntale.com&amp;#x2F;report&amp;#x2F;Postmortem-Template-1755293...&lt;/a&gt;&lt;p&gt;- A product weekly OKR update: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;app.thorntale.com&amp;#x2F;report&amp;#x2F;Weekly-Product-OKR-Update-87324231&quot;&gt;https:&amp;#x2F;&amp;#x2F;app.thorntale.com&amp;#x2F;report&amp;#x2F;Weekly-Product-OKR-Update-8...&lt;/a&gt;&lt;p&gt;- An exoplanet analysis: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;app.thorntale.com&amp;#x2F;report&amp;#x2F;Exoplanet-Analysis-demo-report-1627720912&quot;&gt;https:&amp;#x2F;&amp;#x2F;app.thorntale.com&amp;#x2F;report&amp;#x2F;Exoplanet-Analysis-demo-rep...&lt;/a&gt;&lt;p&gt;Thorntale has direct data connections and native charting, eliminating the need for screenshotting or pixel pushing. Currently, we can connect to and visualize data from Google Sheets, Snowflake, and Postgres, with plans to add more source types. We can create or update decks for recurring meetings (like weekly product updates) in minutes instead of hours, and our charts can be re-segmented to answer questions mid-presentation, instead of as a followup days later.&lt;p&gt;Another thing we’re trying to fix is the need to write a report in a document, only to recreate that report later in a slide deck. This is duplicate work, and splits what should be a single point of truth. Every Thorntale report is actually both a presentation and a document, in one. You can write your long version, choose which points are the most important, and include only those points in the presentation view. When people go back to read your work later, they can see the full context you started with. Try it with the &amp;#x2F;reportonly command in the tool.&lt;p&gt;We have grand plans for more — dbt support, more datasource connectors, direct embedding from BI tools like Looker and Tableau, contextual search, and more graph types — but right now we’ve got an early beta. You can check out our sandbox at &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;app.sandbox.thorntale.com&quot;&gt;https:&amp;#x2F;&amp;#x2F;app.sandbox.thorntale.com&lt;/a&gt;. Some features are restricted in sandbox mode, but if you like it, we’ve also got free and open signups at &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;app.thorntale.com&quot;&gt;https:&amp;#x2F;&amp;#x2F;app.thorntale.com&lt;/a&gt;.&lt;p&gt;We’re really excited to share this with you all, and looking forward to your comments and feedback!</description>
+      <guid>39854921</guid>
+      <comments>https://news.ycombinator.com/item?id=39854921</comments>
+      <pubDate>Thu, 28 Mar 2024 17:39:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>UV-K5 is the most hackable handheld ham radio yet</title>
+      <link>https://spectrum.ieee.org/quansheng-uv-k5-hacking</link>
+      <description>No Text</description>
+      <guid>39850972</guid>
+      <comments>https://news.ycombinator.com/item?id=39850972</comments>
+      <pubDate>Thu, 28 Mar 2024 13:18:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>Launch HN: Eggnog (YC W24) – AI videos with consistent characters</title>
+      <link>https://news.ycombinator.com/item?id=39853474</link>
+      <description>Hi HN, we’re Jitesh and Sam, and we’re building Eggnog: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.eggnog.ai&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.eggnog.ai&lt;/a&gt;, an AI video platform where your characters look the same across every scene. Eggnog lets you create characters, use them in scene generations, and share them with others for remixing. Here are some videos made with Eggnog:&lt;p&gt;- Fanfiction: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.reddit.com&amp;#x2F;r&amp;#x2F;harrypotterfanfiction&amp;#x2F;comments&amp;#x2F;1bn6cdb&amp;#x2F;im_making_some_hp_short_videos_let_me_know_what&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.reddit.com&amp;#x2F;r&amp;#x2F;harrypotterfanfiction&amp;#x2F;comments&amp;#x2F;1bn6...&lt;/a&gt; (includes some sounds from outside Eggnog)&lt;p&gt;- Comedy: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;x.com&amp;#x2F;jitsvm&amp;#x2F;status&amp;#x2F;1771609353725919316?s=20&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;x.com&amp;#x2F;jitsvm&amp;#x2F;status&amp;#x2F;1771609353725919316?s=20&lt;/a&gt;&lt;p&gt;- Post-apocalyptic vibes: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;x.com&amp;#x2F;saucebook&amp;#x2F;status&amp;#x2F;1771212617601659279?s=20&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;x.com&amp;#x2F;saucebook&amp;#x2F;status&amp;#x2F;1771212617601659279?s=20&lt;/a&gt;&lt;p&gt;We got into making funny AI videos over the last year, but felt annoyed that the characters always looked different in each scene. It made it harder to make cool videos and for our friends to understand the plot.&lt;p&gt;Diffusion models, like those that make AI videos, start with random noise, then add detail. So the little things that make a character recognizable will almost always come out looking different across generations, no matter how many tricks you add into the prompt. For instance, if you want your wizard to have a red hat, it might be crooked in one generation and straight in the next.&lt;p&gt;Eggnog allows users to make consistent characters by using Low-Rank Adaption (LoRA). LoRA takes in a set of images of a character in different scenarios and uses those images to teach the model that character as a concept. We do this by taking a single prompt that a user writes for a character (e.g., an ancient Greek soldier with dark hair and bushy beard) and turning it into a training set of images of the character in different poses, shot from different angles. Once the character is trained into the model, the user can then invoke that character concept in the prompt and get consistent generations about 80% of the time.&lt;p&gt;There is still a lot of room to make Eggnog generations more consistent and controllable. Generations sometimes come out with the wrong gender, missing key details from the costume, or fail in a long tail of other ways. We also often struggle to control the character’s exact body movement. We’re planning to address these cases with more optimization of the prompt that invokes the character concept and by using new open source video models that bake in 3D representations of humans.&lt;p&gt;The other fun thing about making characters with Eggnog is that you can share them. We already made one San Francisco “American Psycho” video that got over 100k views on Twitter (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;x.com&amp;#x2F;jitsvm&amp;#x2F;status&amp;#x2F;1766987382916894966?s=20&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;x.com&amp;#x2F;jitsvm&amp;#x2F;status&amp;#x2F;1766987382916894966?s=20&lt;/a&gt;). Then we expanded on the SF universe by making another video with the same character and a new friend for him (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;x.com&amp;#x2F;SamuelMGPlank&amp;#x2F;status&amp;#x2F;1767405784986718406?s=20&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;x.com&amp;#x2F;SamuelMGPlank&amp;#x2F;status&amp;#x2F;1767405784986718406?s=20&lt;/a&gt;). Eventually, you’ll be able to create and remix all the components of a good video—the characters, the costumes, the sets, and the sounds will all be part of a library of assets built up by the Eggnog community.&lt;p&gt;Eggnog is free to use, and you can try it out in the playground: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.eggnog.ai&amp;#x2F;playground&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.eggnog.ai&amp;#x2F;playground&lt;/a&gt;. If you’re looking for some inspiration, you can try using the character “herm” waving a glowing wand or the character “lep” walking down a Dublin street. We’ll make money eventually by showing ads to viewers who come to Eggnog to watch AI videos.&lt;p&gt;We’re really excited to see all the fun videos and characters people are making with Eggnog, and looking forward to hearing what you all think!</description>
+      <guid>39853474</guid>
+      <comments>https://news.ycombinator.com/item?id=39853474</comments>
+      <pubDate>Thu, 28 Mar 2024 16:14:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>LLMs use a surprisingly simple mechanism to retrieve some stored knowledge</title>
+      <link>https://news.mit.edu/2024/large-language-models-use-surprisingly-simple-mechanism-retrieve-stored-knowledge-0325</link>
+      <description>No Text</description>
+      <guid>39852118</guid>
+      <comments>https://news.ycombinator.com/item?id=39852118</comments>
+      <pubDate>Thu, 28 Mar 2024 14:37:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Acetate Revisited: A Key Biomolecule at the Nexus of Metabolism, Epigenetics</title>
+      <link>https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2020.580171/full</link>
+      <description>No Text</description>
+      <guid>39826661</guid>
+      <comments>https://news.ycombinator.com/item?id=39826661</comments>
+      <pubDate>Tue, 26 Mar 2024 11:46:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Spice.ai – materialize, accelerate, and query SQL data from any source</title>
+      <link>https://github.com/spiceai/spiceai</link>
+      <description>Hi HN, We&amp;#x27;re Luke and Phillip, and we&amp;#x27;re building Spice.ai OSS - a lightweight, portable runtime, built in Rust and powered by Apache DataFusion to locally materialize, accelerate, and query data tables sourced from any database, data warehouse or data lake.&lt;p&gt;Phillip and I first introduced Spice on Show HN in September 2021. Since then, we’ve been schooled and humbled in every way building 100TB+ data and ML systems for the &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;spice.ai&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;spice.ai&lt;/a&gt; cloud platform. Along with our customers, we struggled with getting fast, low-latency, high-concurrency SQL query within a budget, accessing and combining data from many sources, trade-offs between OLTP&amp;#x2F;OLAP compute engines, and managing datasets as code.&lt;p&gt;Today, we’re re-launching Spice, completely rebuilt from the ground up, to directly solve several of the problems we had in accessing data quickly and cost-effectively  providing it to applications, dashboards, and machine learning. Spice provides federated SQL query across databases (MySQL, PostgreSQL, etc.), data warehouses (Snowflake, BigQuery, etc.) and data lakes (S3, MinIO, Databricks, etc.) with the ability to materialize remote datasets locally using in-memory Arrow, DuckDB, SQLite, or PostgreSQL. Accelerated engines run in your infrastructure giving you flexibility and control over price and performance.&lt;p&gt;You can read the full announcement blog post at &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;blog.spiceai.org&amp;#x2F;posts&amp;#x2F;2024&amp;#x2F;03&amp;#x2F;28&amp;#x2F;adding-spice-the-next-generation-of-spice.ai-oss&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;blog.spiceai.org&amp;#x2F;posts&amp;#x2F;2024&amp;#x2F;03&amp;#x2F;28&amp;#x2F;adding-spice-the-n...&lt;/a&gt;.&lt;p&gt;We’d appreciate it if you check Spice out, give us feedback, and if you&amp;#x27;d like to contribute, we&amp;#x27;d love to build with you.&lt;p&gt;Thanks!&lt;p&gt;GitHub: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;spiceai&amp;#x2F;spiceai&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;spiceai&amp;#x2F;spiceai&lt;/a&gt;</description>
+      <guid>39854584</guid>
+      <comments>https://news.ycombinator.com/item?id=39854584</comments>
+      <pubDate>Thu, 28 Mar 2024 17:16:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ethereum has blobs. Where do we go from here?</title>
+      <link>https://vitalik.eth.limo/general/2024/03/28/blobs.html</link>
+      <description>No Text</description>
+      <guid>39852879</guid>
+      <comments>https://news.ycombinator.com/item?id=39852879</comments>
+      <pubDate>Thu, 28 Mar 2024 15:41:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>What do you do if a hacker takes control of your ship? (2023)</title>
+      <link>https://maritime-executive.com/editorials/what-do-you-do-if-a-hacker-takes-control-of-your-ship</link>
+      <description>No Text</description>
+      <guid>39852849</guid>
+      <comments>https://news.ycombinator.com/item?id=39852849</comments>
+      <pubDate>Thu, 28 Mar 2024 15:37:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>I scraped all of OpenAI's Community Forum</title>
+      <link>https://julep-ai.github.io/</link>
+      <description>No Text</description>
+      <guid>39852219</guid>
+      <comments>https://news.ycombinator.com/item?id=39852219</comments>
+      <pubDate>Thu, 28 Mar 2024 14:44:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>Dioxus 0.5: Web, Desktop, Mobile Apps in Rust</title>
+      <link>https://dioxuslabs.com/blog/release-050/</link>
+      <description>No Text</description>
+      <guid>39852167</guid>
+      <comments>https://news.ycombinator.com/item?id=39852167</comments>
+      <pubDate>Thu, 28 Mar 2024 14:41:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Gigantic Aluminium Spiders</title>
+      <link>https://windspider.com/gigantic-aluminium-spiders/</link>
+      <description>No Text</description>
+      <guid>39826521</guid>
+      <comments>https://news.ycombinator.com/item?id=39826521</comments>
+      <pubDate>Tue, 26 Mar 2024 11:27:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: I made a binary enigma machine for manual encryption</title>
+      <link>https://makerworld.com/en/models/247798</link>
+      <description>Introducing the 3D Printed Binary Enigma (10 Enigma) – the ultimate encryption and decryption device, no batteries required!
+Inspired by the iconic Enigma machines of WWII, this sleek and intuitive device lets you encode and decode messages “effortlessly”.&lt;p&gt;Or how else are we going to send secure messages in the future?</description>
+      <guid>39844768</guid>
+      <comments>https://news.ycombinator.com/item?id=39844768</comments>
+      <pubDate>Wed, 27 Mar 2024 21:24:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: I built a web app to open source travel itineraries</title>
+      <link>https://tripgeeks.app/community</link>
+      <description>I made TripGeeks, a website where you create and share travel itineraries. Would love to hear any feedback you might have.&lt;p&gt;Thanks!</description>
+      <guid>39852407</guid>
+      <comments>https://news.ycombinator.com/item?id=39852407</comments>
+      <pubDate>Thu, 28 Mar 2024 14:57:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Endlessh-go: a Golang SSH tarpit that traps bots/scanners</title>
+      <link>https://github.com/shizunge/endlessh-go</link>
+      <description>No Text</description>
+      <guid>39848268</guid>
+      <comments>https://news.ycombinator.com/item?id=39848268</comments>
+      <pubDate>Thu, 28 Mar 2024 06:23:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Next Big Step in Mojo Open Source</title>
+      <link>https://www.modular.com/blog/the-next-big-step-in-mojo-open-source</link>
+      <description>No Text</description>
+      <guid>39855760</guid>
+      <comments>https://news.ycombinator.com/item?id=39855760</comments>
+      <pubDate>Thu, 28 Mar 2024 18:43:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>Advances in semiconductors are feeding the AI boom</title>
+      <link>https://spectrum.ieee.org/trillion-transistor-gpu</link>
+      <description>No Text</description>
+      <guid>39852626</guid>
+      <comments>https://news.ycombinator.com/item?id=39852626</comments>
+      <pubDate>Thu, 28 Mar 2024 15:16:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>How does an independent bookstore survive for 90 years?</title>
+      <link>https://www.deseret.com/entertainment/2019/8/15/20804020/how-does-an-independent-bookstore-survive-for-90-years-utahs-weller-book-works-found-an-answer/</link>
+      <description>No Text</description>
+      <guid>39851110</guid>
+      <comments>https://news.ycombinator.com/item?id=39851110</comments>
+      <pubDate>Thu, 28 Mar 2024 13:27:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>How A.I. chatbots become political</title>
+      <link>https://www.nytimes.com/interactive/2024/03/28/opinion/ai-political-bias.html?unlocked_article_code=1.gE0.4mlz.Yf7_amfNGgmx</link>
+      <description>No Text</description>
+      <guid>39855761</guid>
+      <comments>https://news.ycombinator.com/item?id=39855761</comments>
+      <pubDate>Thu, 28 Mar 2024 18:43:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Babylon 7.0 Is Out</title>
+      <link>https://babylonjs.medium.com/introducing-babylon-js-7-0-a141cd7ede0d</link>
+      <description>No Text</description>
+      <guid>39857082</guid>
+      <comments>https://news.ycombinator.com/item?id=39857082</comments>
+      <pubDate>Thu, 28 Mar 2024 20:43:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Erasure Coding versus Tail Latency</title>
+      <link>https://brooker.co.za/blog/2023/01/06/erasure.html</link>
+      <description>No Text</description>
+      <guid>39836797</guid>
+      <comments>https://news.ycombinator.com/item?id=39836797</comments>
+      <pubDate>Wed, 27 Mar 2024 08:47:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>What is DECT-2020 New Radio (NR), and how big a deal is it? (2021)</title>
+      <link>https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it</link>
+      <description>No Text</description>
+      <guid>39849335</guid>
+      <comments>https://news.ycombinator.com/item?id=39849335</comments>
+      <pubDate>Thu, 28 Mar 2024 10:03:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>We made a hot dog talk with RF [video]</title>
+      <link>https://www.youtube.com/watch?v=GgDxXDV4_hc</link>
+      <description>No Text</description>
+      <guid>39854056</guid>
+      <comments>https://news.ycombinator.com/item?id=39854056</comments>
+      <pubDate>Thu, 28 Mar 2024 16:43:14 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
