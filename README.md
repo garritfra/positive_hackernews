@@ -10,6 +10,16 @@ In a world where tech news can often be overwhelmingly negative, this RSS feed s
 
 This project provides a unique RSS feed for Hacker News, focusing exclusively on positive news. By utilizing sentiment analysis, this feed filters out negative stories, offering a curated selection of content that is more uplifting and encouraging compared to the standard Hacker News feed.
 
+## Comparison
+
+Here's an example of the HackerNews feed provided by [hnrss.github.io](https://hnrss.github.io/):
+
+![Before](/assets/feed_regular.png)
+
+And here's the filtered, positive-only feed:
+
+![After](/assets/feed_positive.png)
+
 ## How to subscribe
 
 The feed is updated regularly and deployed via GitHub pages. Simply add this link to your RSS reader of choice:
