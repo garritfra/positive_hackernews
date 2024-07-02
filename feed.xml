@@ -1,0 +1,272 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Tue, 02 Jul 2024 15:09:36 -0000</lastBuildDate>
+    <item>
+      <title>Why Is Chile So Long?</title>
+      <link>https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long</link>
+      <description>No Text</description>
+      <guid>40856030</guid>
+      <comments>https://news.ycombinator.com/item?id=40856030</comments>
+      <pubDate>Tue, 02 Jul 2024 12:36:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Diff-pdf: tool to visually compare two PDFs</title>
+      <link>https://github.com/vslavik/diff-pdf</link>
+      <description>No Text</description>
+      <guid>40854319</guid>
+      <comments>https://news.ycombinator.com/item?id=40854319</comments>
+      <pubDate>Tue, 02 Jul 2024 07:26:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Adding Mistral Codestral and GPT-4o to Jupyter Notebooks</title>
+      <link>https://github.com/pretzelai/pretzelai/blob/main/README.md</link>
+      <description>Hey HN!&lt;p&gt;We’ve forked Jupyter Lab and added AI code generation features that feel native and have all the context about your notebook. You can see a demo video (2 min) here:&lt;p&gt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.tella.tv&amp;#x2F;video&amp;#x2F;clxt7ei4v00rr09i5gt1laop6&amp;#x2F;view&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.tella.tv&amp;#x2F;video&amp;#x2F;clxt7ei4v00rr09i5gt1laop6&amp;#x2F;view&lt;/a&gt;&lt;p&gt;Try a hosted version here:&lt;p&gt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;pretzelai.app&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;pretzelai.app&lt;/a&gt;&lt;p&gt;Jupyter is by far the most used Data Science tool. Despite its popularity, it still lacks good code-generation extensions. The flagship AI extension &lt;i&gt;jupyter-ai&lt;/i&gt; lags far behind in features and UX compared to modern AI code generation and understanding tools (like &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.continue.dev&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.continue.dev&lt;/a&gt; and &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.cursor.com&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.cursor.com&lt;/a&gt;). Also, GitHub Copilot &lt;i&gt;still&lt;/i&gt; isn’t supported in Jupyter, more than 2 years after its launch. We’re solving this with Pretzel.&lt;p&gt;Pretzel is a free and open-source fork of Jupyter. You can install it locally with “pip install pretzelai” and launch it with “pretzel lab”. We recommend creating a new python environment if you already have jupyter lab installed. Our GitHub README has more information: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;pretzelai&amp;#x2F;pretzelai&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;pretzelai&amp;#x2F;pretzelai&lt;/a&gt;&lt;p&gt;For our first iteration, we’ve shipped 3 features:&lt;p&gt;1. Inline Tab autocomplete: This works similar to GitHub Copilot. You can choose between Mistral Codestral or GPT-4o in the settings&lt;p&gt;2. Cell level code generation: Click Ask AI or press Cmd+K &amp;#x2F; Ctrl+K to instruct AI to generate code in the active Jupyter Cell. We provide relevant context from the current notebook to the LLM with RAG. You can refer to existing variables in the notebook using the @variable syntax (for dataframes, it will pass the column names to the LLM)&lt;p&gt;3. Sidebar chat: Clicking the blue Pretzel Icon on the right sidebar opens this chat (Ctrl+Cmd+B &amp;#x2F; Ctrl+Alt+B). This chat always has context of your current cell or any selected text. Here too, we use RAG to send any relevant context from the current notebook to the LLM&lt;p&gt;All of these features work out-of-the-box via our “AI Server” but you have the option of using your own OpenAI API Key. This can be configured in the settings (Menu Bar &amp;gt; Settings &amp;gt; Settings Editor &amp;gt; Search for Pretzel). If you use your own OpenAI API Key but don’t have a Mistral API key, be sure to select OpenAI as the inline code completion model in the settings.&lt;p&gt;These features are just a start. We&amp;#x27;re building a modern version of Jupyter. Our roadmap includes frictionless, realtime collaboration (think pair-programming, comments, version history), full-fledged SQL support (both in code cells and as a standalone SQL IDE), a visual analysis builder, a VSCode-like coding experience powered by Monaco, and 1-click dashboard creation and sharing straight from your notebooks.&lt;p&gt;We’d love for you to try Pretzel and send us any feedback, no matter how minor (see my bio for contact info, or file a GitHub issue here: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;pretzelai&amp;#x2F;pretzelai&amp;#x2F;issues&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;pretzelai&amp;#x2F;pretzelai&amp;#x2F;issues&lt;/a&gt;)</description>
+      <guid>40857009</guid>
+      <comments>https://news.ycombinator.com/item?id=40857009</comments>
+      <pubDate>Tue, 02 Jul 2024 14:23:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>8cc.vim: Pure Vim script C Compiler</title>
+      <link>https://github.com/rhysd/8cc.vim</link>
+      <description>No Text</description>
+      <guid>40857120</guid>
+      <comments>https://news.ycombinator.com/item?id=40857120</comments>
+      <pubDate>Tue, 02 Jul 2024 14:36:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Booting Linux Off of Google Drive</title>
+      <link>https://ersei.net/en/blog/fuse-root</link>
+      <description>No Text</description>
+      <guid>40853770</guid>
+      <comments>https://news.ycombinator.com/item?id=40853770</comments>
+      <pubDate>Tue, 02 Jul 2024 05:20:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Digital public archaeology: Excavating data from digs done decades ago</title>
+      <link>https://phys.org/news/2024-06-digital-archaeology-excavating-decades-today.html</link>
+      <description>No Text</description>
+      <guid>40848355</guid>
+      <comments>https://news.ycombinator.com/item?id=40848355</comments>
+      <pubDate>Mon, 01 Jul 2024 17:55:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Mako – fast, production-grade web bundler based on Rust</title>
+      <link>https://makojs.dev/blog/mako-open-sourced</link>
+      <description>No Text</description>
+      <guid>40853845</guid>
+      <comments>https://news.ycombinator.com/item?id=40853845</comments>
+      <pubDate>Tue, 02 Jul 2024 05:41:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>With fifth busy beaver, researchers approach computation's limits</title>
+      <link>https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/</link>
+      <description>No Text</description>
+      <guid>40857041</guid>
+      <comments>https://news.ycombinator.com/item?id=40857041</comments>
+      <pubDate>Tue, 02 Jul 2024 14:27:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Soviet Union's Monster Mi-6 Helicopter Airliner</title>
+      <link>https://www.twz.com/news-features/the-story-of-the-monster-mi-6-helicopter-airliner</link>
+      <description>No Text</description>
+      <guid>40835197</guid>
+      <comments>https://news.ycombinator.com/item?id=40835197</comments>
+      <pubDate>Sun, 30 Jun 2024 04:43:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Trying Kolmogorov-Arnold Networks in Practice</title>
+      <link>https://cprimozic.net/blog/trying-out-kans/</link>
+      <description>No Text</description>
+      <guid>40855028</guid>
+      <comments>https://news.ycombinator.com/item?id=40855028</comments>
+      <pubDate>Tue, 02 Jul 2024 09:54:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Lago – Open-Source Usage Based Billing Is Hiring a Data Scientist (EU-Based)</title>
+      <link>https://www.ycombinator.com/companies/lago/jobs/O7dCOie-data-scientist</link>
+      <description>No Text</description>
+      <guid>40855785</guid>
+      <comments>https://news.ycombinator.com/item?id=40855785</comments>
+      <pubDate>Tue, 02 Jul 2024 12:00:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>The history of Alt+number sequences</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951</link>
+      <description>No Text</description>
+      <guid>40857092</guid>
+      <comments>https://news.ycombinator.com/item?id=40857092</comments>
+      <pubDate>Tue, 02 Jul 2024 14:33:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Getting the World Record in Hatetris (2022)</title>
+      <link>https://hallofdreams.org/posts/hatetris/</link>
+      <description>No Text</description>
+      <guid>40851919</guid>
+      <comments>https://news.ycombinator.com/item?id=40851919</comments>
+      <pubDate>Mon, 01 Jul 2024 23:26:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Who is hiring? (July 2024)</title>
+      <link>https://news.ycombinator.com/item?id=40846428</link>
+      <description>Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is &lt;i&gt;not&lt;/i&gt; an option.&lt;p&gt;Please only post if you personally are part of the hiring company—no
+recruiting firms or job boards. One post per company. If it isn&amp;#x27;t a household name,
+explain what your company does.&lt;p&gt;Commenters: please don&amp;#x27;t reply to job posts to complain about
+something. It&amp;#x27;s off topic here.&lt;p&gt;Readers: please only email if you are personally interested in the job.&lt;p&gt;Searchers: try &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;hnresumetojobs.com&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;hnresumetojobs.com&lt;/a&gt;, &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;hnhired.fly.dev&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;hnhired.fly.dev&lt;/a&gt;,
+&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;kennytilton.github.io&amp;#x2F;whoishiring&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;kennytilton.github.io&amp;#x2F;whoishiring&amp;#x2F;&lt;/a&gt;, &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;hnjobs.emilburzo.com&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;hnjobs.emilburzo.com&lt;/a&gt;.&lt;p&gt;Don&amp;#x27;t miss these other fine threads:&lt;p&gt;&lt;i&gt;Who wants to be hired?&lt;/i&gt; &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=40846426&quot;&gt;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=40846426&lt;/a&gt;&lt;p&gt;&lt;i&gt;Freelancer? Seeking freelancer?&lt;/i&gt; &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=40846427&quot;&gt;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=40846427&lt;/a&gt;</description>
+      <guid>40846428</guid>
+      <comments>https://news.ycombinator.com/item?id=40846428</comments>
+      <pubDate>Mon, 01 Jul 2024 15:01:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Paper Trails</title>
+      <link>https://aeon.co/essays/how-archives-can-make-or-break-a-philosophers-reputation</link>
+      <description>No Text</description>
+      <guid>40823060</guid>
+      <comments>https://news.ycombinator.com/item?id=40823060</comments>
+      <pubDate>Fri, 28 Jun 2024 17:48:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Doggo – A powerful, human-friendly DNS client for the command line</title>
+      <link>https://doggo.mrkaran.dev/docs/</link>
+      <description>No Text</description>
+      <guid>40847699</guid>
+      <comments>https://news.ycombinator.com/item?id=40847699</comments>
+      <pubDate>Mon, 01 Jul 2024 16:56:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>An unexpected journey into Microsoft Defender's signature World</title>
+      <link>https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world</link>
+      <description>No Text</description>
+      <guid>40835889</guid>
+      <comments>https://news.ycombinator.com/item?id=40835889</comments>
+      <pubDate>Sun, 30 Jun 2024 08:38:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>GPUs can now use PCIe-attached memory or SSDs to boost VRAM capacity</title>
+      <link>https://www.tomshardware.com/pc-components/gpus/gpus-get-a-boost-from-pcie-attached-memory-that-boosts-capacity-and-delivers-double-digit-nanosecond-latency-ssds-can-also-be-used-to-expand-gpu-memory-capacity-via-panmnesias-cxl-ip</link>
+      <description>No Text</description>
+      <guid>40857142</guid>
+      <comments>https://news.ycombinator.com/item?id=40857142</comments>
+      <pubDate>Tue, 02 Jul 2024 14:38:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Conway's Game of Life for curved surfaces (2012)</title>
+      <link>https://0fps.net/2012/11/19/conways-game-of-life-for-curved-surfaces-part-1/</link>
+      <description>No Text</description>
+      <guid>40841542</guid>
+      <comments>https://news.ycombinator.com/item?id=40841542</comments>
+      <pubDate>Mon, 01 Jul 2024 00:24:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Edna, note taking app for developers</title>
+      <link>https://edna.arslexis.io/</link>
+      <description>I took a small break from coding SumatraPDF and wrote a note taking application that is perfect for me: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;edna.arslexis.io&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;edna.arslexis.io&amp;#x2F;&lt;/a&gt;&lt;p&gt;Edna is a note taking app for developers and power users. A cross between Obsidian and Notational Velocity.&lt;p&gt;Markdown, plain text, code, works in browser so no installation required, private (notes are stored in your browser or disk) and secure (can encrypt notes with a password).&lt;p&gt;The story so far.&lt;p&gt;I was always attracted to editors with minimalistic UI, like &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;mak.ink&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;mak.ink&amp;#x2F;&lt;/a&gt;, simplenote, Notational Velocity. I like having most of the screen estate for writing because writing and editing is what note taking apps are for.&lt;p&gt;But: most of them are very thin on features and UI.&lt;p&gt;I saw Heynote and it was one of those minimalistic writing UIs with not many features.&lt;p&gt;I liked their concept of dividing notes into blocks so I forked Heynote and started coding.&lt;p&gt;The goal was to combine writing-oriented, minimalistic main UI while also providing on-demand UI for features and efficient operation. Things like context menu, type-down note switcher, command palette, quick access shortcuts, plenty of keyboard shortcuts.&lt;p&gt;Another goal was privacy and security. The notes never leave your computer and can be encrypted with a password. It also makes the code simpler because I don&amp;#x27;t need any backend storage, user accounts and auth etc.&lt;p&gt;Sadly, only Chrome and Edge provide the necessary file system api, on other browser you can only store notes in local storage, which means no sharing between computers or accessing the notes with other software.&lt;p&gt;40 working days and 528 commits later, here&amp;#x27;s what I&amp;#x27;ve added:&lt;p&gt;&lt;pre&gt;&lt;code&gt;  * added support for multiple notes
+  * ability to store notes on disk
+  * and if you store notes in a directory managed by DropBox, OneDrive etc., you get sharing of notes between computers
+  * Ctrl + P: UI for switching between notes, creating new notes, deleting notes, inspired by Notational Velocity
+  * Ctrl + Shift + P: command palette like in vs code
+  * context menu to access frequently used functionality
+  * Ctrl + E to open note from history (list of recently opened notes)
+  * ability to assign Alt + 0 ... Alt + 9 quick access shortcuts 
+  * ability to encrypt notes with a password
+  * export all notes to a .zip file
+  * automatic, daily backup of notes to a .zip file (optiona, see Settings)
+  * Ctrl + B to navigate between blocks
+  * re-designed Settings UI
+  * added ability to execute Go blocks
+  * support Svelte and Vue in code blocks
+  * ported the UI code from Vue to Svelte 5, just because I could
+  * converted from desktop app to run in the browser
+&lt;/code&gt;&lt;/pre&gt;
+(Ctrl is on Windows, on Mac it&amp;#x27;s ⌘).&lt;p&gt;I&amp;#x27;ve been using it daily while working on it. 94 notes and counting.&lt;p&gt;I still have ideas for improvements but it has all the core features for productive work.&lt;p&gt;The app: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;edna.arslexis.io&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;edna.arslexis.io&amp;#x2F;&lt;/a&gt;&lt;p&gt;The code: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;kjk&amp;#x2F;edna&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;kjk&amp;#x2F;edna&lt;/a&gt;</description>
+      <guid>40846242</guid>
+      <comments>https://news.ycombinator.com/item?id=40846242</comments>
+      <pubDate>Mon, 01 Jul 2024 14:38:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>A proof of proof by infinite descent</title>
+      <link>http://relatedwork.blogspot.com/2024/07/a-proof-of-proof-by-infinite-descent.html</link>
+      <description>No Text</description>
+      <guid>40851130</guid>
+      <comments>https://news.ycombinator.com/item?id=40851130</comments>
+      <pubDate>Mon, 01 Jul 2024 21:49:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Who wants to be hired? (July 2024)</title>
+      <link>https://news.ycombinator.com/item?id=40846426</link>
+      <description>Share your information if you are looking for work. Please use this format:&lt;p&gt;&lt;pre&gt;&lt;code&gt;  Location:
+  Remote:
+  Willing to relocate:
+  Technologies:
+  Résumé&amp;#x2F;CV:
+  Email:
+&lt;/code&gt;&lt;/pre&gt;
+Please only post if you are personally looking for work. Agencies, recruiters, job boards,
+and so on, are off topic here.&lt;p&gt;Readers: please only email these addresses to discuss work opportunities.</description>
+      <guid>40846426</guid>
+      <comments>https://news.ycombinator.com/item?id=40846426</comments>
+      <pubDate>Mon, 01 Jul 2024 15:01:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>Weavers and Concluders: Two communication styles (2021)</title>
+      <link>https://neuroclastic.com/weavers-and-concluders-two-communication-styles-no-one-knows-exist/</link>
+      <description>No Text</description>
+      <guid>40840231</guid>
+      <comments>https://news.ycombinator.com/item?id=40840231</comments>
+      <pubDate>Sun, 30 Jun 2024 20:45:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>Pumped-storage hydroelectricity</title>
+      <link>https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity</link>
+      <description>No Text</description>
+      <guid>40834377</guid>
+      <comments>https://news.ycombinator.com/item?id=40834377</comments>
+      <pubDate>Sun, 30 Jun 2024 00:52:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>When RAND made magic in Santa Monica</title>
+      <link>https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica</link>
+      <description>No Text</description>
+      <guid>40849840</guid>
+      <comments>https://news.ycombinator.com/item?id=40849840</comments>
+      <pubDate>Mon, 01 Jul 2024 19:48:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>Python packaging scenarios by the creators of ruff</title>
+      <link>https://github.com/astral-sh/packse</link>
+      <description>No Text</description>
+      <guid>40857001</guid>
+      <comments>https://news.ycombinator.com/item?id=40857001</comments>
+      <pubDate>Tue, 02 Jul 2024 14:22:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Working Title (Insurance)</title>
+      <link>https://www.bitsaboutmoney.com/archive/working-title-insurance/</link>
+      <description>No Text</description>
+      <guid>40847085</guid>
+      <comments>https://news.ycombinator.com/item?id=40847085</comments>
+      <pubDate>Mon, 01 Jul 2024 16:00:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>50 Years of Rubik's Cube</title>
+      <link>https://www.rubiks.com/history#timeline</link>
+      <description>No Text</description>
+      <guid>40857236</guid>
+      <comments>https://news.ycombinator.com/item?id=40857236</comments>
+      <pubDate>Tue, 02 Jul 2024 14:48:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: I created an After Effects alternative</title>
+      <link>https://pikimov.com/</link>
+      <description>Many years ago, I made VJ softwares (to mix live visuals in clubs) for unexpected platforms like the Game Boy Advance, the Playstation 2 and the Raspberry Pi. This year, I’m back with a new web-app: Pikimov.&lt;p&gt;Inspired by Photopea (a free Photoshop clone), I created this web-based motion design &amp;amp; video editor as an alternative to After Effects, to fill empty void.&lt;p&gt;It&amp;#x27;s free, without signup, without cloud uploads (your files stay on your machine), and your projects are not used for AI models training.</description>
+      <guid>40843867</guid>
+      <comments>https://news.ycombinator.com/item?id=40843867</comments>
+      <pubDate>Mon, 01 Jul 2024 08:57:26 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
