@@ -1,13 +1,10 @@
 import requests
-import nltk
-from nltk.sentiment import SentimentIntensityAnalyzer
 import xml.etree.ElementTree as ET
 import xml.dom.minidom
 from datetime import datetime
 from email import utils
+from transformers import pipeline
 
-
-nltk.download('vader_lexicon')
 
 def fetch_top_stories():
     print("Fetching hacker news frontpage...")
@@ -24,9 +21,17 @@ def fetch_top_stories():
     return top_stories
 
 def analyze_sentiment(text):
-    sia = SentimentIntensityAnalyzer()
-    sentiment = sia.polarity_scores(text)
-    return sentiment['compound']  # Return the compound score
+    sentiment_task = pipeline(
+        "sentiment-analysis",
+        model="cardiffnlp/twitter-roberta-base-sentiment-latest",
+        tokenizer="cardiffnlp/twitter-roberta-base-sentiment-latest",
+    )
+    sentiment_result = sentiment_task(text)
+    print(f"Sentiment analysis for \"{text}\": {sentiment_result}")
+    for sentiment in sentiment_result:
+        if sentiment["label"] == "negative":
+            return sentiment["score"]
+    return 0
 
 def filter_positive_stories(stories):
     positive_stories = []
@@ -44,7 +49,7 @@ def filter_positive_stories(stories):
         text_sentiment = analyze_sentiment(text) if text else 0
 
         # Consider a story positive if either title or text is positive
-        if title_sentiment >= 0 and text_sentiment >= 0:
+        if title_sentiment <= .3 and text_sentiment <= .3:
             print(f"Result: {id} is positive. ({title})")
             positive_stories.append(story)
         else:
@@ -101,8 +106,6 @@ def main():
     write_to_file(rss_feed, filename)
 
     print(f"RSS feed written to file: {filename}")
-
-
 
 
 if __name__ == "__main__":
