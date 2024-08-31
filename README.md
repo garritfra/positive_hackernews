@@ -6,9 +6,9 @@ A writeup of this project can be found [here](https://garrit.xyz/posts/2023-11-2
 
 ## Overview
 
-In a world where tech news can often be overwhelmingly negative, this RSS feed serves as a breath of fresh air. It selectively presents stories that have a positive sentiment, making your news-reading experience more enjoyable and less stressful.
+This RSS feed curates positive news stories from Hacker News.
 
-This project provides a unique RSS feed for Hacker News, focusing exclusively on positive news. By utilizing sentiment analysis, this feed filters out negative stories, offering a curated selection of content that is more uplifting and encouraging compared to the standard Hacker News feed.
+By using sentiment analysis, it filters out negative stories and presents a selection of content that won't make tech feel hopeless and miserable. This offers an alternative to the standard Hacker News feed for those seeking more positive tech news. 
 
 ## Comparison
 
@@ -29,9 +29,8 @@ https://garritfra.github.io/positive_hackernews/feed.xml
 ## Setup Instructions
 
 ### Prerequisites
-- Python 3.8 or above
+- Python 3.11 or above
 - `pip` for Python package management
-- `nltk` for Natural Language Processing
 
 ### Local Setup
 
