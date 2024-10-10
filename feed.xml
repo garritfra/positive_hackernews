@@ -1,0 +1,237 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Thu, 10 Oct 2024 21:13:11 -0000</lastBuildDate>
+    <item>
+      <title>DeskPad – A virtual monitor for screen sharing</title>
+      <link>https://github.com/Stengo/DeskPad</link>
+      <description>No Text</description>
+      <guid>41800602</guid>
+      <comments>https://news.ycombinator.com/item?id=41800602</comments>
+      <pubDate>Thu, 10 Oct 2024 16:36:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Copenhagen Book: general guideline on implementing auth in web applications</title>
+      <link>https://thecopenhagenbook.com/</link>
+      <description>No Text</description>
+      <guid>41801883</guid>
+      <comments>https://news.ycombinator.com/item?id=41801883</comments>
+      <pubDate>Thu, 10 Oct 2024 18:37:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: HTML for People</title>
+      <link>https://htmlforpeople.com</link>
+      <description>No Text</description>
+      <guid>41801334</guid>
+      <comments>https://news.ycombinator.com/item?id=41801334</comments>
+      <pubDate>Thu, 10 Oct 2024 17:47:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>AAA Gaming on Asahi Linux</title>
+      <link>https://rosenzweig.io/blog/aaa-gaming-on-m1.html</link>
+      <description>No Text</description>
+      <guid>41799068</guid>
+      <comments>https://news.ycombinator.com/item?id=41799068</comments>
+      <pubDate>Thu, 10 Oct 2024 14:16:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Tenno – Markdown and JavaScript = a hybrid of Word and Excel</title>
+      <link>https://tenno.app</link>
+      <description>Tenno is a web app that lets you create Markdown documents that can include computational cells.
+You can think of it as a mix of Word and Excel, some sort of &amp;quot;literate programming&amp;quot; environment.&lt;p&gt;This is still an early version but I wanted to get some feedback from HN on what could be nice features to add.&lt;p&gt;Check out the Docs and examples page, it has a ton
+of (in my humble opinion) cool stuff!&lt;p&gt;Why did I build this?
+I was building some estimation for cloud costs in Google Sheets and I quickly ended up with a mess. I realized that if I wanted to analyze how a certain thing changes wrt to multiple variables by plotting it, I had to create a bunch of copies of data and copy my formulas everywhere... a SWE nightmare!&lt;p&gt;Tenno simplifies this because you can essentially define a function you are interested in, and only the analyzing it using plots that explore various dimensions.&lt;p&gt;BTW, you can also use Tenno to build dashboards by pulling data from APIs, checkout the weather data example.</description>
+      <guid>41798477</guid>
+      <comments>https://news.ycombinator.com/item?id=41798477</comments>
+      <pubDate>Thu, 10 Oct 2024 13:15:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Helping wikis move away from Fandom</title>
+      <link>https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom</link>
+      <description>No Text</description>
+      <guid>41797719</guid>
+      <comments>https://news.ycombinator.com/item?id=41797719</comments>
+      <pubDate>Thu, 10 Oct 2024 11:21:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Let's talk about animation quality</title>
+      <link>https://theorangeduck.com/page/animation-quality</link>
+      <description>No Text</description>
+      <guid>41797462</guid>
+      <comments>https://news.ycombinator.com/item?id=41797462</comments>
+      <pubDate>Thu, 10 Oct 2024 10:38:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>The FBI created a coin to investigate crypto pump-and-dump schemes</title>
+      <link>https://www.theverge.com/2024/10/10/24267098/fbi-coin-crypto-token-nexgenai-sec-doj-fraud-investigation</link>
+      <description>No Text</description>
+      <guid>41802823</guid>
+      <comments>https://news.ycombinator.com/item?id=41802823</comments>
+      <pubDate>Thu, 10 Oct 2024 19:52:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>Uxn</title>
+      <link>https://100r.co/site/uxn.html</link>
+      <description>No Text</description>
+      <guid>41777995</guid>
+      <comments>https://news.ycombinator.com/item?id=41777995</comments>
+      <pubDate>Tue, 08 Oct 2024 14:52:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>Geothermal Power in the North Bay – Jon Udell</title>
+      <link>https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/</link>
+      <description>No Text</description>
+      <guid>41802939</guid>
+      <comments>https://news.ycombinator.com/item?id=41802939</comments>
+      <pubDate>Thu, 10 Oct 2024 20:04:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Proposal: JavaScript Structs</title>
+      <link>https://github.com/tc39/proposal-structs</link>
+      <description>No Text</description>
+      <guid>41787041</guid>
+      <comments>https://news.ycombinator.com/item?id=41787041</comments>
+      <pubDate>Wed, 09 Oct 2024 12:15:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>Unity Editor software terms update: Runtime fee cancellation</title>
+      <link>https://unity.com/blog/terms-update-runtime-fee-cancellation</link>
+      <description>No Text</description>
+      <guid>41802800</guid>
+      <comments>https://news.ycombinator.com/item?id=41802800</comments>
+      <pubDate>Thu, 10 Oct 2024 19:50:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>TypedDicts are better than you think</title>
+      <link>https://blog.changs.co.uk/typeddicts-are-better-than-you-think.html</link>
+      <description>No Text</description>
+      <guid>41801415</guid>
+      <comments>https://news.ycombinator.com/item?id=41801415</comments>
+      <pubDate>Thu, 10 Oct 2024 17:56:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>Local Variables as Accidental Breadcrumbs for Faster Debugging</title>
+      <link>https://www.bugsink.com/blog/local-variables-as-accidental-breadcrumbs/</link>
+      <description>No Text</description>
+      <guid>41754386</guid>
+      <comments>https://news.ycombinator.com/item?id=41754386</comments>
+      <pubDate>Sun, 06 Oct 2024 02:50:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Bridge to Nowhere</title>
+      <link>https://depth-first.com/articles/2024/05/24/bridge-to-nowhere/</link>
+      <description>No Text</description>
+      <guid>41786768</guid>
+      <comments>https://news.ycombinator.com/item?id=41786768</comments>
+      <pubDate>Wed, 09 Oct 2024 11:39:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Designing a Fast Concurrent Hash Table</title>
+      <link>https://ibraheem.ca/posts/designing-papaya/</link>
+      <description>No Text</description>
+      <guid>41798475</guid>
+      <comments>https://news.ycombinator.com/item?id=41798475</comments>
+      <pubDate>Thu, 10 Oct 2024 13:15:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>How electric trains work and why they make interesting sounds [video]</title>
+      <link>https://www.youtube.com/watch?v=IRJIJPTUXXE</link>
+      <description>No Text</description>
+      <guid>41757808</guid>
+      <comments>https://news.ycombinator.com/item?id=41757808</comments>
+      <pubDate>Sun, 06 Oct 2024 15:30:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Fun with Go Iterators</title>
+      <link>https://xnacly.me/posts/2024/fun-with-iterators/</link>
+      <description>No Text</description>
+      <guid>41769275</guid>
+      <comments>https://news.ycombinator.com/item?id=41769275</comments>
+      <pubDate>Mon, 07 Oct 2024 18:27:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>The deconstructed Standard Model equation</title>
+      <link>https://www.symmetrymagazine.org/article/the-deconstructed-standard-model-equation?language_content_entity=und</link>
+      <description>No Text</description>
+      <guid>41753471</guid>
+      <comments>https://news.ycombinator.com/item?id=41753471</comments>
+      <pubDate>Sat, 05 Oct 2024 22:46:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>The State of the TI Community (1999)</title>
+      <link>https://www.ticalc.org/community/articles/27.html</link>
+      <description>No Text</description>
+      <guid>41786880</guid>
+      <comments>https://news.ycombinator.com/item?id=41786880</comments>
+      <pubDate>Wed, 09 Oct 2024 11:54:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Why Gov.uk's Exit this Page component doesn't use the Escape key</title>
+      <link>https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/</link>
+      <description>No Text</description>
+      <guid>41793597</guid>
+      <comments>https://news.ycombinator.com/item?id=41793597</comments>
+      <pubDate>Wed, 09 Oct 2024 22:45:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>End-to-End Encrypted Cloud Storage in the Wild: A Broken Ecosystem</title>
+      <link>https://brokencloudstorage.info/</link>
+      <description>No Text</description>
+      <guid>41798359</guid>
+      <comments>https://news.ycombinator.com/item?id=41798359</comments>
+      <pubDate>Thu, 10 Oct 2024 13:00:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>The big and Small of JavaScript numbers (2017)</title>
+      <link>https://fluffyandflakey.blog/2017/02/23/the-big-and-small-of-javascript-numbers/</link>
+      <description>No Text</description>
+      <guid>41763731</guid>
+      <comments>https://news.ycombinator.com/item?id=41763731</comments>
+      <pubDate>Mon, 07 Oct 2024 07:58:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Kudzu, the vine that never ate the South (2015)</title>
+      <link>https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/</link>
+      <description>No Text</description>
+      <guid>41780229</guid>
+      <comments>https://news.ycombinator.com/item?id=41780229</comments>
+      <pubDate>Tue, 08 Oct 2024 18:20:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Japan's Kojima, with its proud Jeans St, draws fans of vintage, deep-blue denim</title>
+      <link>https://apnews.com/article/japan-jeans-denim-kojima-indigo-291d243b88d5c8b67108e2641f739569</link>
+      <description>No Text</description>
+      <guid>41759366</guid>
+      <comments>https://news.ycombinator.com/item?id=41759366</comments>
+      <pubDate>Sun, 06 Oct 2024 19:08:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>5 Years Later: The First Win</title>
+      <link>https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay</link>
+      <description>No Text</description>
+      <guid>41786924</guid>
+      <comments>https://news.ycombinator.com/item?id=41786924</comments>
+      <pubDate>Wed, 09 Oct 2024 12:00:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>No Time Like MEMS Time</title>
+      <link>https://morethanmoore.substack.com/p/no-time-like-mems-time</link>
+      <description>No Text</description>
+      <guid>41786448</guid>
+      <comments>https://news.ycombinator.com/item?id=41786448</comments>
+      <pubDate>Wed, 09 Oct 2024 10:57:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Research in psychology: are we learning anything?</title>
+      <link>https://www.experimental-history.com/p/is-psychology-going-to-cincinnati</link>
+      <description>No Text</description>
+      <guid>41780328</guid>
+      <comments>https://news.ycombinator.com/item?id=41780328</comments>
+      <pubDate>Tue, 08 Oct 2024 18:30:39 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
