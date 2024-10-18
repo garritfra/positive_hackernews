@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Fri, 18 Oct 2024 21:12:11 -0000</lastBuildDate>
+    <item>
+      <title>Show HN: Go Plan9 Memo</title>
+      <link>https://pehringer.info/go_plan9_memo.html</link>
+      <description>A quick dive into the Plan9 assembly I picked up while developing my SIMD package for Go, and how it led to a 450% performance boost in calculations.</description>
+      <guid>41879854</guid>
+      <comments>https://news.ycombinator.com/item?id=41879854</comments>
+      <pubDate>Fri, 18 Oct 2024 14:36:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Secret 3D scans in the French Supreme Court</title>
+      <link>https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme</link>
+      <description>No Text</description>
+      <guid>41877513</guid>
+      <comments>https://news.ycombinator.com/item?id=41877513</comments>
+      <pubDate>Fri, 18 Oct 2024 08:50:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>JSON Patch</title>
+      <link>https://zuplo.com/blog/2024/10/10/unlocking-the-power-of-json-patch</link>
+      <description>No Text</description>
+      <guid>41871850</guid>
+      <comments>https://news.ycombinator.com/item?id=41871850</comments>
+      <pubDate>Thu, 17 Oct 2024 17:46:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Running an open source app: Usage, costs and community donations</title>
+      <link>https://spliit.app/blog/spliit-by-the-stats-usage-costs-donations</link>
+      <description>No Text</description>
+      <guid>41879845</guid>
+      <comments>https://news.ycombinator.com/item?id=41879845</comments>
+      <pubDate>Fri, 18 Oct 2024 14:35:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Subvert – Collectively owned music marketplace</title>
+      <link>https://subvert.fm/</link>
+      <description>No Text</description>
+      <guid>41880829</guid>
+      <comments>https://news.ycombinator.com/item?id=41880829</comments>
+      <pubDate>Fri, 18 Oct 2024 16:17:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>Code That Helped End Apartheid</title>
+      <link>https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/</link>
+      <description>No Text</description>
+      <guid>41879072</guid>
+      <comments>https://news.ycombinator.com/item?id=41879072</comments>
+      <pubDate>Fri, 18 Oct 2024 13:05:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Where the Digital Sidewalk Ends</title>
+      <link>https://www.smolways.com/post/where-the-digital-sidewalk-ends</link>
+      <description>No Text</description>
+      <guid>41873555</guid>
+      <comments>https://news.ycombinator.com/item?id=41873555</comments>
+      <pubDate>Thu, 17 Oct 2024 20:42:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Making of Micro Machines</title>
+      <link>https://readonlymemory.com/the-making-of-micro-machines/</link>
+      <description>No Text</description>
+      <guid>41850570</guid>
+      <comments>https://news.ycombinator.com/item?id=41850570</comments>
+      <pubDate>Tue, 15 Oct 2024 16:57:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>Focus on decisions, not tasks</title>
+      <link>https://technicalwriting.dev/strategy/decisions.html</link>
+      <description>No Text</description>
+      <guid>41881872</guid>
+      <comments>https://news.ycombinator.com/item?id=41881872</comments>
+      <pubDate>Fri, 18 Oct 2024 17:58:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Sam Altman's eyeball-scanning crypto project has a new Orb and a new name</title>
+      <link>https://www.theverge.com/2024/10/18/24273691/world-orb-sam-altman-iris-scan-crypto-token</link>
+      <description>No Text</description>
+      <guid>41883111</guid>
+      <comments>https://news.ycombinator.com/item?id=41883111</comments>
+      <pubDate>Fri, 18 Oct 2024 20:21:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>Distro (YC S24) Is Hiring a Tech Lead</title>
+      <link>https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead</link>
+      <description>No Text</description>
+      <guid>41881304</guid>
+      <comments>https://news.ycombinator.com/item?id=41881304</comments>
+      <pubDate>Fri, 18 Oct 2024 17:01:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>My solar-powered and self-hosted website</title>
+      <link>https://dri.es/my-solar-powered-and-self-hosted-website</link>
+      <description>No Text</description>
+      <guid>41868353</guid>
+      <comments>https://news.ycombinator.com/item?id=41868353</comments>
+      <pubDate>Thu, 17 Oct 2024 10:56:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>Using static websites for tiny archives</title>
+      <link>https://alexwlchan.net/2024/static-websites/</link>
+      <description>No Text</description>
+      <guid>41876750</guid>
+      <comments>https://news.ycombinator.com/item?id=41876750</comments>
+      <pubDate>Fri, 18 Oct 2024 06:12:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Frederick Law Olmsted: His essential theory (2000)</title>
+      <link>https://www.nps.gov/articles/000/frederick-law-olmsted-his-essential-theory.htm</link>
+      <description>No Text</description>
+      <guid>41878461</guid>
+      <comments>https://news.ycombinator.com/item?id=41878461</comments>
+      <pubDate>Fri, 18 Oct 2024 11:45:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft and OpenAI's close partnership shows signs of fraying</title>
+      <link>https://www.nytimes.com/2024/10/17/technology/microsoft-openai-partnership-deal.html</link>
+      <description>No Text</description>
+      <guid>41878281</guid>
+      <comments>https://news.ycombinator.com/item?id=41878281</comments>
+      <pubDate>Fri, 18 Oct 2024 11:11:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Passwords’ generated strong password format</title>
+      <link>https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/</link>
+      <description>No Text</description>
+      <guid>41878290</guid>
+      <comments>https://news.ycombinator.com/item?id=41878290</comments>
+      <pubDate>Fri, 18 Oct 2024 11:12:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Dolphin Swimming – A Review (1991) [pdf]</title>
+      <link>https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=cb3f13d7fb5cbc3b5e15508f5ecc48b9da129fa0</link>
+      <description>No Text</description>
+      <guid>41880697</guid>
+      <comments>https://news.ycombinator.com/item?id=41880697</comments>
+      <pubDate>Fri, 18 Oct 2024 16:06:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>What do you visualize while programming?</title>
+      <link>https://dillonshook.com/what-do-you-visualize-while-programming/</link>
+      <description>No Text</description>
+      <guid>41869237</guid>
+      <comments>https://news.ycombinator.com/item?id=41869237</comments>
+      <pubDate>Thu, 17 Oct 2024 12:56:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>Grandmaster-level chess without search</title>
+      <link>https://github.com/google-deepmind/searchless_chess</link>
+      <description>No Text</description>
+      <guid>41872813</guid>
+      <comments>https://news.ycombinator.com/item?id=41872813</comments>
+      <pubDate>Thu, 17 Oct 2024 19:13:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>Fixed Timestep Without Interpolation</title>
+      <link>https://jakubtomsu.github.io/posts/fixed_timestep_without_interpolation/</link>
+      <description>No Text</description>
+      <guid>41878220</guid>
+      <comments>https://news.ycombinator.com/item?id=41878220</comments>
+      <pubDate>Fri, 18 Oct 2024 11:00:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>Method Values</title>
+      <link>https://blog.fogus.me/2024/08/19/on-method-values-part-1/</link>
+      <description>No Text</description>
+      <guid>41871758</guid>
+      <comments>https://news.ycombinator.com/item?id=41871758</comments>
+      <pubDate>Thu, 17 Oct 2024 17:35:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Life is not a story</title>
+      <link>https://psyche.co/ideas/your-life-is-not-a-story-why-narrative-thinking-holds-you-back</link>
+      <description>No Text</description>
+      <guid>41876979</guid>
+      <comments>https://news.ycombinator.com/item?id=41876979</comments>
+      <pubDate>Fri, 18 Oct 2024 06:56:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Net 9.0 LINQ Performance Improvements</title>
+      <link>https://blog.ndepend.com/net-9-0-linq-performance-improvements/</link>
+      <description>No Text</description>
+      <guid>41878095</guid>
+      <comments>https://news.ycombinator.com/item?id=41878095</comments>
+      <pubDate>Fri, 18 Oct 2024 10:39:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Hacker Typer</title>
+      <link>https://hackertyper.net</link>
+      <description>No Text</description>
+      <guid>41847149</guid>
+      <comments>https://news.ycombinator.com/item?id=41847149</comments>
+      <pubDate>Tue, 15 Oct 2024 10:41:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>What is theoretical computer science?</title>
+      <link>https://cacm.acm.org/opinion/what-is-theoretical-computer-science/</link>
+      <description>No Text</description>
+      <guid>41876723</guid>
+      <comments>https://news.ycombinator.com/item?id=41876723</comments>
+      <pubDate>Fri, 18 Oct 2024 06:04:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Shroud of Turin: History and Legends</title>
+      <link>https://michaelshermer.substack.com/p/the-shroud-of-turin</link>
+      <description>No Text</description>
+      <guid>41871427</guid>
+      <comments>https://news.ycombinator.com/item?id=41871427</comments>
+      <pubDate>Thu, 17 Oct 2024 17:00:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>Smart pointers for the kernel</title>
+      <link>https://lwn.net/Articles/992055/</link>
+      <description>No Text</description>
+      <guid>41875792</guid>
+      <comments>https://news.ycombinator.com/item?id=41875792</comments>
+      <pubDate>Fri, 18 Oct 2024 02:10:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft BitNet: inference framework for 1-bit LLMs</title>
+      <link>https://github.com/microsoft/BitNet</link>
+      <description>No Text</description>
+      <guid>41877609</guid>
+      <comments>https://news.ycombinator.com/item?id=41877609</comments>
+      <pubDate>Fri, 18 Oct 2024 09:10:36 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
