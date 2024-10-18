@@ -1,0 +1,228 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Fri, 18 Oct 2024 00:52:19 -0000</lastBuildDate>
+    <item>
+      <title>Crokinole</title>
+      <link>https://pudding.cool/2024/10/crokinole/</link>
+      <description>No Text</description>
+      <guid>41871375</guid>
+      <comments>https://news.ycombinator.com/item?id=41871375</comments>
+      <pubDate>Thu, 17 Oct 2024 16:54:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Use Prolog to improve LLM's reasoning</title>
+      <link>https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning</link>
+      <description>No Text</description>
+      <guid>41831735</guid>
+      <comments>https://news.ycombinator.com/item?id=41831735</comments>
+      <pubDate>Sun, 13 Oct 2024 21:22:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Grandmaster-Level Chess Without Search</title>
+      <link>https://github.com/google-deepmind/searchless_chess</link>
+      <description>No Text</description>
+      <guid>41872813</guid>
+      <comments>https://news.ycombinator.com/item?id=41872813</comments>
+      <pubDate>Thu, 17 Oct 2024 19:13:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>NotebookLM launches feature to customize and guide audio overviews</title>
+      <link>https://blog.google/technology/ai/notebooklm-update-october-2024/</link>
+      <description>No Text</description>
+      <guid>41871262</guid>
+      <comments>https://news.ycombinator.com/item?id=41871262</comments>
+      <pubDate>Thu, 17 Oct 2024 16:42:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Fifth Generation Project in Japan</title>
+      <link>https://www.sjsu.edu/faculty/watkins/5thgen.htm</link>
+      <description>No Text</description>
+      <guid>41874275</guid>
+      <comments>https://news.ycombinator.com/item?id=41874275</comments>
+      <pubDate>Thu, 17 Oct 2024 22:03:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA</title>
+      <link>https://news.ycombinator.com/item?id=41870887</link>
+      <description>I&amp;#x27;ll be here for the few hours and then again at around 1 pm PST for another few hours. As usual, there are countless possible topics and I&amp;#x27;ll be guided by whatever you&amp;#x27;re concerned with. Please remember that I can&amp;#x27;t provide legal advice on specific cases for obvious liability reasons because I won&amp;#x27;t have access to all the facts. Please stick to a factual discussion in your questions and comments and I&amp;#x27;ll try to do the same in my answers.  Thanks!&lt;p&gt;Previous threads we&amp;#x27;ve done: https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;submitted?id=proberts.</description>
+      <guid>41870887</guid>
+      <comments>https://news.ycombinator.com/item?id=41870887</comments>
+      <pubDate>Thu, 17 Oct 2024 16:01:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>Removing PGP from PyPI</title>
+      <link>https://blog.pypi.org/posts/2023-05-23-removing-pgp/</link>
+      <description>No Text</description>
+      <guid>41873215</guid>
+      <comments>https://news.ycombinator.com/item?id=41873215</comments>
+      <pubDate>Thu, 17 Oct 2024 20:03:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Gamedev in Lisp. Part 2: Dungeons and Interfaces</title>
+      <link>https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2</link>
+      <description>No Text</description>
+      <guid>41869460</guid>
+      <comments>https://news.ycombinator.com/item?id=41869460</comments>
+      <pubDate>Thu, 17 Oct 2024 13:26:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>Amplification of electromagnetic fields by a rotating body</title>
+      <link>https://www.nature.com/articles/s41467-024-49689-w</link>
+      <description>No Text</description>
+      <guid>41825906</guid>
+      <comments>https://news.ycombinator.com/item?id=41825906</comments>
+      <pubDate>Sun, 13 Oct 2024 07:23:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>C++ proposal: There are 8 bits in a byte</title>
+      <link>https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html</link>
+      <description>No Text</description>
+      <guid>41874394</guid>
+      <comments>https://news.ycombinator.com/item?id=41874394</comments>
+      <pubDate>Thu, 17 Oct 2024 22:21:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Tamagotchi-Like Characters for AI Assistants – All in JavaScript</title>
+      <link>https://github.com/Barqawiz/Tamagotchi</link>
+      <description>I&amp;#x27;ve developed a Tamagotchi-like virtual characters drawn in JavaScript. These characters can be manually controlled or interact dynamically with AI assistants, adding a visual identity and fun to AI.&lt;p&gt;Imagine having an AI character that responds to user requests with different states, making interactions playful and engaging.&lt;p&gt;Demo: 
+&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;barqawiz.github.io&amp;#x2F;Tamagotchi&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;barqawiz.github.io&amp;#x2F;Tamagotchi&amp;#x2F;&lt;/a&gt;&lt;p&gt;Code:
+&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;Barqawiz&amp;#x2F;Tamagotchi&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;Barqawiz&amp;#x2F;Tamagotchi&lt;/a&gt;</description>
+      <guid>41847096</guid>
+      <comments>https://news.ycombinator.com/item?id=41847096</comments>
+      <pubDate>Tue, 15 Oct 2024 10:33:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>Cats are (almost) liquid</title>
+      <link>https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8</link>
+      <description>No Text</description>
+      <guid>41868683</guid>
+      <comments>https://news.ycombinator.com/item?id=41868683</comments>
+      <pubDate>Thu, 17 Oct 2024 11:43:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Unit tests as documentation</title>
+      <link>https://www.thecoder.cafe/p/unit-tests-as-documentation</link>
+      <description>No Text</description>
+      <guid>41871629</guid>
+      <comments>https://news.ycombinator.com/item?id=41871629</comments>
+      <pubDate>Thu, 17 Oct 2024 17:22:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Industrious Dice</title>
+      <link>https://mathenchant.wordpress.com/2024/10/17/industrious-dice/</link>
+      <description>No Text</description>
+      <guid>41871729</guid>
+      <comments>https://news.ycombinator.com/item?id=41871729</comments>
+      <pubDate>Thu, 17 Oct 2024 17:32:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Inkscape 1.4 Released</title>
+      <link>https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/</link>
+      <description>No Text</description>
+      <guid>41830699</guid>
+      <comments>https://news.ycombinator.com/item?id=41830699</comments>
+      <pubDate>Sun, 13 Oct 2024 19:14:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Deriving the Kelly Criterion to Maximise Profits</title>
+      <link>https://obrhubr.org/kelly-criterion</link>
+      <description>No Text</description>
+      <guid>41822687</guid>
+      <comments>https://news.ycombinator.com/item?id=41822687</comments>
+      <pubDate>Sat, 12 Oct 2024 21:16:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Tubeworms live beneath the planetary crust around deep-sea vents</title>
+      <link>https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents</link>
+      <description>No Text</description>
+      <guid>41871812</guid>
+      <comments>https://news.ycombinator.com/item?id=41871812</comments>
+      <pubDate>Thu, 17 Oct 2024 17:41:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Pg_parquet: An extension to connect Postgres and parquet</title>
+      <link>https://www.crunchydata.com/blog/pg_parquet-an-extension-to-connect-postgres-and-parquet</link>
+      <description>No Text</description>
+      <guid>41871068</guid>
+      <comments>https://news.ycombinator.com/item?id=41871068</comments>
+      <pubDate>Thu, 17 Oct 2024 16:18:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>AI Mathematical Olympiad – Progress Prize 2</title>
+      <link>https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2</link>
+      <description>No Text</description>
+      <guid>41871721</guid>
+      <comments>https://news.ycombinator.com/item?id=41871721</comments>
+      <pubDate>Thu, 17 Oct 2024 17:31:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Gomponents, HTML components in pure Go</title>
+      <link>https://www.gomponents.com</link>
+      <description>Hey everyone! I just released v1.0.0 of gomponents last week. It&amp;#x27;s an HTML component builder in pure Go, with a DSL-like HTML syntax. It&amp;#x27;s been 4 years in the making, and makes it really easy to build HTML in your web apps.</description>
+      <guid>41847587</guid>
+      <comments>https://news.ycombinator.com/item?id=41847587</comments>
+      <pubDate>Tue, 15 Oct 2024 11:56:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Prompt() Function: Use the Power of LLMs with SQL</title>
+      <link>https://motherduck.com/blog/sql-llm-prompt-function-gpt-models/</link>
+      <description>No Text</description>
+      <guid>41873801</guid>
+      <comments>https://news.ycombinator.com/item?id=41873801</comments>
+      <pubDate>Thu, 17 Oct 2024 21:07:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Emit</title>
+      <link>https://re.factorcode.org/2024/10/emit.html</link>
+      <description>No Text</description>
+      <guid>41841853</guid>
+      <comments>https://news.ycombinator.com/item?id=41841853</comments>
+      <pubDate>Mon, 14 Oct 2024 20:51:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Wayland Apps in WireGuard Docker Containers</title>
+      <link>https://www.procustodibus.com/blog/2024/10/wayland-wireguard-containers/</link>
+      <description>No Text</description>
+      <guid>41874511</guid>
+      <comments>https://news.ycombinator.com/item?id=41874511</comments>
+      <pubDate>Thu, 17 Oct 2024 22:36:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe's new image rotation tool is one of the most impressive AI tools seen</title>
+      <link>https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen</link>
+      <description>No Text</description>
+      <guid>41870040</guid>
+      <comments>https://news.ycombinator.com/item?id=41870040</comments>
+      <pubDate>Thu, 17 Oct 2024 14:31:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Diabetes Breakthrough: New Treatment Eliminates Insulin for 86% of Patients</title>
+      <link>https://scitechdaily.com/diabetes-breakthrough-new-treatment-eliminates-insulin-for-86-of-patients/</link>
+      <description>No Text</description>
+      <guid>41873606</guid>
+      <comments>https://news.ycombinator.com/item?id=41873606</comments>
+      <pubDate>Thu, 17 Oct 2024 20:46:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>A protocol for reliable notifications over a 1 bit fallible connection</title>
+      <link>https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection</link>
+      <description>No Text</description>
+      <guid>41843532</guid>
+      <comments>https://news.ycombinator.com/item?id=41843532</comments>
+      <pubDate>Mon, 14 Oct 2024 23:58:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Defining Statistical Models in Jax?</title>
+      <link>https://statmodeling.stat.columbia.edu/2024/10/08/defining-statistical-models-in-jax/#comments</link>
+      <description>No Text</description>
+      <guid>41828771</guid>
+      <comments>https://news.ycombinator.com/item?id=41828771</comments>
+      <pubDate>Sun, 13 Oct 2024 15:20:34 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
