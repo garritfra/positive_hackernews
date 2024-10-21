@@ -1,0 +1,202 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Mon, 21 Oct 2024 18:16:42 -0000</lastBuildDate>
+    <item>
+      <title>An amateur historian has discovered a long-lost short story by Bram Stoker</title>
+      <link>https://www.bbc.com/news/articles/c4g9119l64qo</link>
+      <description>No Text</description>
+      <guid>41905664</guid>
+      <comments>https://news.ycombinator.com/item?id=41905664</comments>
+      <pubDate>Mon, 21 Oct 2024 16:14:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Epublifier – scrape pages (books, manuals) for offline reading</title>
+      <link>https://github.com/maoserr/epublifier</link>
+      <description>No Text</description>
+      <guid>41903864</guid>
+      <comments>https://news.ycombinator.com/item?id=41903864</comments>
+      <pubDate>Mon, 21 Oct 2024 13:18:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>IOCCC Flight Simulator (2010)</title>
+      <link>https://blog.aerojockey.com/iocccsim/</link>
+      <description>No Text</description>
+      <guid>41903399</guid>
+      <comments>https://news.ycombinator.com/item?id=41903399</comments>
+      <pubDate>Mon, 21 Oct 2024 12:24:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Can SpaceX land a rocket with 1/2 cm accuracy?</title>
+      <link>https://theshamblog.com/can-spacex-land-a-rocket-with-1-2-cm-accuracy/</link>
+      <description>No Text</description>
+      <guid>41905215</guid>
+      <comments>https://news.ycombinator.com/item?id=41905215</comments>
+      <pubDate>Mon, 21 Oct 2024 15:27:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Egypt declared malaria-free after 100-year effort</title>
+      <link>https://www.bbc.com/news/articles/cm2yl8pjgn2o</link>
+      <description>No Text</description>
+      <guid>41903616</guid>
+      <comments>https://news.ycombinator.com/item?id=41903616</comments>
+      <pubDate>Mon, 21 Oct 2024 12:51:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Scientists working to decode birdsong</title>
+      <link>https://www.newyorker.com/magazine/2024/10/21/how-scientists-started-to-decode-birdsong</link>
+      <description>No Text</description>
+      <guid>41900404</guid>
+      <comments>https://news.ycombinator.com/item?id=41900404</comments>
+      <pubDate>Mon, 21 Oct 2024 03:22:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Morsle – A daily Morse code challenge</title>
+      <link>https://morsle.fun</link>
+      <description>No Text</description>
+      <guid>41886721</guid>
+      <comments>https://news.ycombinator.com/item?id=41886721</comments>
+      <pubDate>Sat, 19 Oct 2024 09:31:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>Waking up science's sleeping beauties (2023)</title>
+      <link>https://worksinprogress.co/issue/waking-up-sciences-sleeping-beauties/</link>
+      <description>No Text</description>
+      <guid>41904601</guid>
+      <comments>https://news.ycombinator.com/item?id=41904601</comments>
+      <pubDate>Mon, 21 Oct 2024 14:34:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Plankton balloon to six times size in newly discovered mode of oceanic travel</title>
+      <link>https://phys.org/news/2024-10-plankton-balloon-size-newly-mode.html</link>
+      <description>No Text</description>
+      <guid>41875615</guid>
+      <comments>https://news.ycombinator.com/item?id=41875615</comments>
+      <pubDate>Fri, 18 Oct 2024 01:38:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>A step toward fully 3D-printed active electronics</title>
+      <link>https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015</link>
+      <description>No Text</description>
+      <guid>41899873</guid>
+      <comments>https://news.ycombinator.com/item?id=41899873</comments>
+      <pubDate>Mon, 21 Oct 2024 01:17:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: HN Update – Hourly news broadcast of top HN stories</title>
+      <link>https://hnup.date/</link>
+      <description>I feel like it was inevitable, with the recent buzz around NotebookLM. I&amp;#x27;m just surprised that it hasn&amp;#x27;t been done yet.</description>
+      <guid>41893524</guid>
+      <comments>https://news.ycombinator.com/item?id=41893524</comments>
+      <pubDate>Sun, 20 Oct 2024 07:10:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>&quot;The Secret History of the Mongols&quot;: A digital history approach</title>
+      <link>https://journalofdigitalhistory.org/en/article/Gqh2Bf5W4TdK</link>
+      <description>No Text</description>
+      <guid>41903469</guid>
+      <comments>https://news.ycombinator.com/item?id=41903469</comments>
+      <pubDate>Mon, 21 Oct 2024 12:33:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Jiga (YC W21) Is Hiring a Full Stack Engineer (React/Mongo/Node)</title>
+      <link>https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo</link>
+      <description>No Text</description>
+      <guid>41903190</guid>
+      <comments>https://news.ycombinator.com/item?id=41903190</comments>
+      <pubDate>Mon, 21 Oct 2024 12:00:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>Solar power from space? it might happen in a couple of years</title>
+      <link>https://arstechnica.com/space/2024/10/solar-power-from-space-actually-it-might-happen-in-a-couple-of-years/</link>
+      <description>No Text</description>
+      <guid>41906313</guid>
+      <comments>https://news.ycombinator.com/item?id=41906313</comments>
+      <pubDate>Mon, 21 Oct 2024 17:29:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Werckmeister Temperment</title>
+      <link>https://en.wikipedia.org/wiki/Werckmeister_temperament</link>
+      <description>No Text</description>
+      <guid>41900133</guid>
+      <comments>https://news.ycombinator.com/item?id=41900133</comments>
+      <pubDate>Mon, 21 Oct 2024 02:12:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Turning the Crank: Design as a Mechanical Process</title>
+      <link>https://karmanivero.us/blog/turning-the-crank-design-as-a-mechanical-process/</link>
+      <description>No Text</description>
+      <guid>41886044</guid>
+      <comments>https://news.ycombinator.com/item?id=41886044</comments>
+      <pubDate>Sat, 19 Oct 2024 06:31:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>Brain endurance training improves older adults' cognitive, physical performance</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1469029224001687</link>
+      <description>No Text</description>
+      <guid>41905477</guid>
+      <comments>https://news.ycombinator.com/item?id=41905477</comments>
+      <pubDate>Mon, 21 Oct 2024 15:56:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>WebGPU-Based WiFi Simulator</title>
+      <link>https://wifi-solver.com</link>
+      <description>No Text</description>
+      <guid>41897214</guid>
+      <comments>https://news.ycombinator.com/item?id=41897214</comments>
+      <pubDate>Sun, 20 Oct 2024 18:01:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Making Castro’s Feeds Update Faster the Lazy Way</title>
+      <link>https://castro.fm/blog/making-castros-feeds-update-faster-the-lazy-way</link>
+      <description>No Text</description>
+      <guid>41900645</guid>
+      <comments>https://news.ycombinator.com/item?id=41900645</comments>
+      <pubDate>Mon, 21 Oct 2024 04:16:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Semantic Macros Text Editor</title>
+      <link>https://samtxt.samrawal.com/</link>
+      <description>No Text</description>
+      <guid>41898910</guid>
+      <comments>https://news.ycombinator.com/item?id=41898910</comments>
+      <pubDate>Sun, 20 Oct 2024 22:11:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Kurt Vonnegut's lost board game published</title>
+      <link>https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview</link>
+      <description>No Text</description>
+      <guid>41896636</guid>
+      <comments>https://news.ycombinator.com/item?id=41896636</comments>
+      <pubDate>Sun, 20 Oct 2024 16:44:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>Drasi: Microsoft's open source data processing platform for event-driven systems</title>
+      <link>https://github.com/drasi-project/drasi-platform</link>
+      <description>No Text</description>
+      <guid>41896297</guid>
+      <comments>https://news.ycombinator.com/item?id=41896297</comments>
+      <pubDate>Sun, 20 Oct 2024 16:07:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Extinction of the Influenza B Yamagata line during the Covid pandemic (2022)</title>
+      <link>https://pmc.ncbi.nlm.nih.gov/articles/PMC9414795/</link>
+      <description>No Text</description>
+      <guid>41905765</guid>
+      <comments>https://news.ycombinator.com/item?id=41905765</comments>
+      <pubDate>Mon, 21 Oct 2024 16:26:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Sabotage evaluations for frontier models</title>
+      <link>https://www.anthropic.com/research/sabotage-evaluations</link>
+      <description>No Text</description>
+      <guid>41895024</guid>
+      <comments>https://news.ycombinator.com/item?id=41895024</comments>
+      <pubDate>Sun, 20 Oct 2024 12:48:56 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
