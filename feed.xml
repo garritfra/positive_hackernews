@@ -1,0 +1,216 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Wed, 23 Oct 2024 12:21:56 -0000</lastBuildDate>
+    <item>
+      <title>Adding row polymorphism to Damas-Hindley-Milner</title>
+      <link>https://bernsteinbear.com/blog/row-poly/</link>
+      <description>No Text</description>
+      <guid>41922081</guid>
+      <comments>https://news.ycombinator.com/item?id=41922081</comments>
+      <pubDate>Wed, 23 Oct 2024 05:26:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Boeing CEO says the company must fundamentally change as losses surge</title>
+      <link>https://www.cnn.com/2024/10/23/investing/boeing-losses/index.html</link>
+      <description>No Text</description>
+      <guid>41923998</guid>
+      <comments>https://news.ycombinator.com/item?id=41923998</comments>
+      <pubDate>Wed, 23 Oct 2024 11:49:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi announces branded range of NVMe SSDs and SSD kit</title>
+      <link>https://www.tomshardware.com/raspberry-pi/raspberry-pi-announce-branded-range-of-nvme-ssds-and-ssd-kit</link>
+      <description>No Text</description>
+      <guid>41923890</guid>
+      <comments>https://news.ycombinator.com/item?id=41923890</comments>
+      <pubDate>Wed, 23 Oct 2024 11:31:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Solving Sudoku in Python Packaging</title>
+      <link>https://github.com/konstin/sudoku-in-python-packaging</link>
+      <description>No Text</description>
+      <guid>41900190</guid>
+      <comments>https://news.ycombinator.com/item?id=41900190</comments>
+      <pubDate>Mon, 21 Oct 2024 02:30:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku</title>
+      <link>https://www.anthropic.com/news/3-5-models-and-computer-use</link>
+      <description>No Text</description>
+      <guid>41914989</guid>
+      <comments>https://news.ycombinator.com/item?id=41914989</comments>
+      <pubDate>Tue, 22 Oct 2024 15:02:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Walking in short bursts consume 20-60% more energy than walking continuously</title>
+      <link>https://phys.org/news/2024-10-short-consume-energy-distance.html</link>
+      <description>No Text</description>
+      <guid>41923766</guid>
+      <comments>https://news.ycombinator.com/item?id=41923766</comments>
+      <pubDate>Wed, 23 Oct 2024 11:03:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>USGS uses machine learning to show large lithium potential in Arkansas</title>
+      <link>https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large</link>
+      <description>No Text</description>
+      <guid>41916322</guid>
+      <comments>https://news.ycombinator.com/item?id=41916322</comments>
+      <pubDate>Tue, 22 Oct 2024 17:05:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Huawei makes divorce from Android official with HarmonyOS NEXT launch</title>
+      <link>https://www.theregister.com/2024/10/23/huaweis_harmonyos_next_launch/</link>
+      <description>No Text</description>
+      <guid>41923387</guid>
+      <comments>https://news.ycombinator.com/item?id=41923387</comments>
+      <pubDate>Wed, 23 Oct 2024 09:36:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Dawn of a New Era for Supernova 1987a (2017)</title>
+      <link>https://science.nasa.gov/missions/chandra/the-dawn-of-a-new-era-for-supernova-1987a/</link>
+      <description>No Text</description>
+      <guid>41919711</guid>
+      <comments>https://news.ycombinator.com/item?id=41919711</comments>
+      <pubDate>Tue, 22 Oct 2024 23:09:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Open-source Counter-Strike-like game</title>
+      <link>https://github.com/solcloud/Counter-Strike</link>
+      <description>No Text</description>
+      <guid>41915958</guid>
+      <comments>https://news.ycombinator.com/item?id=41915958</comments>
+      <pubDate>Tue, 22 Oct 2024 16:27:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ataraxia</title>
+      <link>https://en.wikipedia.org/wiki/Ataraxia</link>
+      <description>No Text</description>
+      <guid>41913617</guid>
+      <comments>https://news.ycombinator.com/item?id=41913617</comments>
+      <pubDate>Tue, 22 Oct 2024 12:37:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Tragedy of Google Books (2017)</title>
+      <link>https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/</link>
+      <description>No Text</description>
+      <guid>41917016</guid>
+      <comments>https://news.ycombinator.com/item?id=41917016</comments>
+      <pubDate>Tue, 22 Oct 2024 18:11:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>How DRAM changed the world</title>
+      <link>https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world</link>
+      <description>No Text</description>
+      <guid>41919262</guid>
+      <comments>https://news.ycombinator.com/item?id=41919262</comments>
+      <pubDate>Tue, 22 Oct 2024 22:12:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers</title>
+      <link>https://www.newscatcherapi.com/career/web-crawling-scraping-engineer</link>
+      <description>No Text</description>
+      <guid>41922556</guid>
+      <comments>https://news.ycombinator.com/item?id=41922556</comments>
+      <pubDate>Wed, 23 Oct 2024 07:00:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Solving the Mystery of ARM7TDMI Multiply Carry Flag</title>
+      <link>https://bmchtech.github.io/post/multiply/</link>
+      <description>No Text</description>
+      <guid>41920591</guid>
+      <comments>https://news.ycombinator.com/item?id=41920591</comments>
+      <pubDate>Wed, 23 Oct 2024 01:13:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Supporting Task Switching with Reinforcement Learning</title>
+      <link>https://dl.acm.org/doi/10.1145/3613904.3642063</link>
+      <description>No Text</description>
+      <guid>41879930</guid>
+      <comments>https://news.ycombinator.com/item?id=41879930</comments>
+      <pubDate>Fri, 18 Oct 2024 14:46:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>A new JSON data type for ClickHouse</title>
+      <link>https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse</link>
+      <description>No Text</description>
+      <guid>41914845</guid>
+      <comments>https://news.ycombinator.com/item?id=41914845</comments>
+      <pubDate>Tue, 22 Oct 2024 14:47:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Coreboot port for 486 motherboard (UM8881/6)</title>
+      <link>https://github.com/pc2005cz/TheUltimate486Upgrade/blob/main/main.md</link>
+      <description>No Text</description>
+      <guid>41883365</guid>
+      <comments>https://news.ycombinator.com/item?id=41883365</comments>
+      <pubDate>Fri, 18 Oct 2024 20:48:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Rust Web Framework</title>
+      <link>https://github.com/levkk/rwf</link>
+      <description>Hi everyone,&lt;p&gt;I&amp;#x27;ve been &amp;quot;funemployed&amp;quot; for a few months and with all that free time and idle hands I wrote a full web framework (think Rails, not Flask) for Rust.&lt;p&gt;It&amp;#x27;s boring old MVC, has its own ORM, templates, background jobs, auth, websockets, migrations and more. If you&amp;#x27;re keen but don&amp;#x27;t feel like rewriting your app in a different language, Rwf has a WSGI server to run Django (or Flask) inside Rust [1], letting you migrate to Rust at your own pace without disrupting your website.&lt;p&gt;I think Rust makes a great prototyping and deploy straight to production language. Now it has yet another framework for y&amp;#x27;all to play with.&lt;p&gt;Cheers!&lt;p&gt;[1] &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;levkk.github.io&amp;#x2F;rwf&amp;#x2F;migrating-from-python&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;levkk.github.io&amp;#x2F;rwf&amp;#x2F;migrating-from-python&amp;#x2F;&lt;/a&gt;</description>
+      <guid>41914544</guid>
+      <comments>https://news.ycombinator.com/item?id=41914544</comments>
+      <pubDate>Tue, 22 Oct 2024 14:15:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Triaging Clang C++ front end bugs</title>
+      <link>https://shafik.github.io/c++/llvm/2024/10/17/triaging-clang-fronend-bugs.html</link>
+      <description>No Text</description>
+      <guid>41887924</guid>
+      <comments>https://news.ycombinator.com/item?id=41887924</comments>
+      <pubDate>Sat, 19 Oct 2024 14:24:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: What's the most creative 'useless' program you've ever written?</title>
+      <link>https://news.ycombinator.com/item?id=41894765</link>
+      <description>I recently came across the concept of &amp;quot;useless&amp;quot; programs - pieces of code that serve no practical purpose but are fun, creative, or challenging to write. These could be anything from elaborate ASCII art generators to programs that solve imaginary problems.
+I&amp;#x27;m curious to hear about the most interesting or creative &amp;quot;useless&amp;quot; programs the HN community has written. What was your motivation? What unexpected challenges did you face? Did you learn anything valuable from the experience?
+Some examples to get the ball rolling:
+1. A program that prints the lyrics of &amp;quot;99 Bottles of Beer&amp;quot; in binary.
+A text-based game where you play as a semicolon trying to find its way to the end of a line of code.
+A script that translates English text into Shakespearean insults.
+Share your creations, no matter how quirky or impractical. Let&amp;#x27;s celebrate the joy of coding for coding&amp;#x27;s sake!</description>
+      <guid>41894765</guid>
+      <comments>https://news.ycombinator.com/item?id=41894765</comments>
+      <pubDate>Sun, 20 Oct 2024 11:56:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>An Illustrated Guide to Maritime Signal Flags</title>
+      <link>https://rabbitwaves.ca/site/flags_maritime.html</link>
+      <description>No Text</description>
+      <guid>41880709</guid>
+      <comments>https://news.ycombinator.com/item?id=41880709</comments>
+      <pubDate>Fri, 18 Oct 2024 16:08:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Explaining color gamuts and color spaces in HDTVs and monitors</title>
+      <link>https://www.wired.com/story/what-are-color-gamuts-and-why-do-they-matter/</link>
+      <description>No Text</description>
+      <guid>41893521</guid>
+      <comments>https://news.ycombinator.com/item?id=41893521</comments>
+      <pubDate>Sun, 20 Oct 2024 07:10:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>FTC's rule banning fake online reviews goes into effect</title>
+      <link>https://abcnews.go.com/US/wireStory/ftcs-rule-banning-fake-online-reviews-effect-115009298</link>
+      <description>No Text</description>
+      <guid>41915187</guid>
+      <comments>https://news.ycombinator.com/item?id=41915187</comments>
+      <pubDate>Tue, 22 Oct 2024 15:21:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>The PlanetScale vectors public beta</title>
+      <link>https://planetscale.com/blog/announcing-planetscale-vectors-public-beta</link>
+      <description>No Text</description>
+      <guid>41915724</guid>
+      <comments>https://news.ycombinator.com/item?id=41915724</comments>
+      <pubDate>Tue, 22 Oct 2024 16:06:55 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
