@@ -1,0 +1,247 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sun, 08 Dec 2024 21:11:12 -0000</lastBuildDate>
+    <item>
+      <title>Show HN: A portable hash map in C</title>
+      <link>https://github.com/e-dant/salmagundi</link>
+      <description>No Text</description>
+      <guid>42359949</guid>
+      <comments>https://news.ycombinator.com/item?id=42359949</comments>
+      <pubDate>Sun, 08 Dec 2024 20:05:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>UK bans daytime TV ads for cereals, muffins and burgers</title>
+      <link>https://www.france24.com/en/live-news/20241204-uk-bans-daytime-tv-ads-for-cereals-muffins-and-burgers</link>
+      <description>No Text</description>
+      <guid>42359836</guid>
+      <comments>https://news.ycombinator.com/item?id=42359836</comments>
+      <pubDate>Sun, 08 Dec 2024 19:51:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>Mise: Dev tools, env vars, task runner</title>
+      <link>https://github.com/jdx/mise</link>
+      <description>No Text</description>
+      <guid>42347917</guid>
+      <comments>https://news.ycombinator.com/item?id=42347917</comments>
+      <pubDate>Sat, 07 Dec 2024 07:21:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Insects rely on sounds made by distressed vegetation to guide reproduction</title>
+      <link>https://www.nytimes.com/2024/12/06/science/moths-hearing-plant-sounds.html</link>
+      <description>No Text</description>
+      <guid>42353066</guid>
+      <comments>https://news.ycombinator.com/item?id=42353066</comments>
+      <pubDate>Sat, 07 Dec 2024 21:42:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>How much do I need to change my face to avoid facial recognition?</title>
+      <link>https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755</link>
+      <description>No Text</description>
+      <guid>42357372</guid>
+      <comments>https://news.ycombinator.com/item?id=42357372</comments>
+      <pubDate>Sun, 08 Dec 2024 14:38:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers use AI to turn sound recordings into street images</title>
+      <link>https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/</link>
+      <description>No Text</description>
+      <guid>42289233</guid>
+      <comments>https://news.ycombinator.com/item?id=42289233</comments>
+      <pubDate>Sun, 01 Dec 2024 16:40:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Chuck E. Cheese's animatronics band bows out</title>
+      <link>https://spectrum.ieee.org/chuck-e-cheese-animatronics</link>
+      <description>No Text</description>
+      <guid>42305006</guid>
+      <comments>https://news.ycombinator.com/item?id=42305006</comments>
+      <pubDate>Tue, 03 Dec 2024 11:18:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>Qutebrowser: A keyboard-driven, Vim-like browser</title>
+      <link>https://github.com/qutebrowser/qutebrowser</link>
+      <description>No Text</description>
+      <guid>42356668</guid>
+      <comments>https://news.ycombinator.com/item?id=42356668</comments>
+      <pubDate>Sun, 08 Dec 2024 12:06:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>SQLite changed temp file prefix after McAfee users called devs to complain (2006)</title>
+      <link>https://github.com/sqlite/sqlite/blob/e8346d0a889c89ec8a78e65abc33257a6c6fb81a/src/os.h</link>
+      <description>No Text</description>
+      <guid>42358470</guid>
+      <comments>https://news.ycombinator.com/item?id=42358470</comments>
+      <pubDate>Sun, 08 Dec 2024 17:29:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>Small AI Chip Maker Marvell Now More Valuable Than Intel</title>
+      <link>https://www.wsj.com/tech/marvell-ai-chip-manufacturing-faa89cb6</link>
+      <description>No Text</description>
+      <guid>42358494</guid>
+      <comments>https://news.ycombinator.com/item?id=42358494</comments>
+      <pubDate>Sun, 08 Dec 2024 17:31:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Nyxt: The Hacker's Browser</title>
+      <link>https://nyxt.atlas.engineer/</link>
+      <description>No Text</description>
+      <guid>42354691</guid>
+      <comments>https://news.ycombinator.com/item?id=42354691</comments>
+      <pubDate>Sun, 08 Dec 2024 02:54:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Reverse engineering the Sega Channel game image file format</title>
+      <link>https://www.infochunk.com/schannel/index.html</link>
+      <description>No Text</description>
+      <guid>42353907</guid>
+      <comments>https://news.ycombinator.com/item?id=42353907</comments>
+      <pubDate>Sun, 08 Dec 2024 00:10:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>Zizmor would have caught the Ultralytics workflow vulnerability</title>
+      <link>https://blog.yossarian.net/2024/12/06/zizmor-ultralytics-injection</link>
+      <description>No Text</description>
+      <guid>42356345</guid>
+      <comments>https://news.ycombinator.com/item?id=42356345</comments>
+      <pubDate>Sun, 08 Dec 2024 10:34:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Need to Grind Concrete Examples Before Jumping Up a Level of Abstraction</title>
+      <link>https://www.justinmath.com/the-necessity-of-grinding-through-concrete-examples-before-jumping-up-a-level-of-abstraction/</link>
+      <description>No Text</description>
+      <guid>42357669</guid>
+      <comments>https://news.ycombinator.com/item?id=42357669</comments>
+      <pubDate>Sun, 08 Dec 2024 15:29:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Mend it Mark gets suspect copyright strike for £25k audio amp repair</title>
+      <link>https://hackaday.com/2024/12/07/the-25000-tom-evans-pre-amp-repair-and-a-copyright-strike/</link>
+      <description>No Text</description>
+      <guid>42357115</guid>
+      <comments>https://news.ycombinator.com/item?id=42357115</comments>
+      <pubDate>Sun, 08 Dec 2024 13:47:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Codenames App, or my biggest project so far</title>
+      <link>https://boardgamegeek.com/blog/1/blogpost/167758/my-biggest-project-so-far</link>
+      <description>No Text</description>
+      <guid>42304493</guid>
+      <comments>https://news.ycombinator.com/item?id=42304493</comments>
+      <pubDate>Tue, 03 Dec 2024 09:43:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: What are the best programmable holiday lights?</title>
+      <link>https://news.ycombinator.com/item?id=42341809</link>
+      <description>I am replacing some old outdoor lights and I want to get LED lights that I can program? Any suggestions on the best ones? Ideally replaceable&amp;#x2F;extendable light strings with some kind of programmable controller that has usb&amp;#x2F;wifi. If it has an app my family can use that’s a plus.</description>
+      <guid>42341809</guid>
+      <comments>https://news.ycombinator.com/item?id=42341809</comments>
+      <pubDate>Fri, 06 Dec 2024 17:20:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Linux EFI Zboot Abandoning &quot;Compression Library Museum&quot;, Focusing on Gzip, ZSTD</title>
+      <link>https://www.phoronix.com/news/Linux-EFI-Zboot-Gzip-Zstd</link>
+      <description>No Text</description>
+      <guid>42358701</guid>
+      <comments>https://news.ycombinator.com/item?id=42358701</comments>
+      <pubDate>Sun, 08 Dec 2024 17:58:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>How do I pay the publisher of a web page?</title>
+      <link>https://sethmlarson.dev/how-to-i-pay-for-a-web-page</link>
+      <description>No Text</description>
+      <guid>42299089</guid>
+      <comments>https://news.ycombinator.com/item?id=42299089</comments>
+      <pubDate>Mon, 02 Dec 2024 18:49:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>Flappy Bird in 1000 lines of C</title>
+      <link>https://github.com/alxyng/flappybird</link>
+      <description>No Text</description>
+      <guid>42319798</guid>
+      <comments>https://news.ycombinator.com/item?id=42319798</comments>
+      <pubDate>Wed, 04 Dec 2024 17:35:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>&quot;BGP at home&quot;: getting a DIA circuit installed at home</title>
+      <link>https://aaka.sh/posts/20230129-bgp-at-home.html</link>
+      <description>No Text</description>
+      <guid>42353778</guid>
+      <comments>https://news.ycombinator.com/item?id=42353778</comments>
+      <pubDate>Sat, 07 Dec 2024 23:45:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>SP1: A performant, 100% open-source, contributor-friendly zkVM</title>
+      <link>https://blog.succinct.xyz/introducing-sp1/</link>
+      <description>No Text</description>
+      <guid>42356360</guid>
+      <comments>https://news.ycombinator.com/item?id=42356360</comments>
+      <pubDate>Sun, 08 Dec 2024 10:38:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Surreal Magnificence of Fatherhood</title>
+      <link>https://shreyans.org/fatherhood</link>
+      <description>No Text</description>
+      <guid>42357041</guid>
+      <comments>https://news.ycombinator.com/item?id=42357041</comments>
+      <pubDate>Sun, 08 Dec 2024 13:35:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Arthur Cravan: The Disappearing Dadaist</title>
+      <link>https://www.historytoday.com/archive/missing-pieces/arthur-cravan-disappearing-dadaist</link>
+      <description>No Text</description>
+      <guid>42353392</guid>
+      <comments>https://news.ycombinator.com/item?id=42353392</comments>
+      <pubDate>Sat, 07 Dec 2024 22:36:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>China completes green belt around Taklamakan Desert</title>
+      <link>https://sand-boarding.com/china-builds-green-wall-taklamakan-desert/</link>
+      <description>No Text</description>
+      <guid>42357787</guid>
+      <comments>https://news.ycombinator.com/item?id=42357787</comments>
+      <pubDate>Sun, 08 Dec 2024 15:51:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Scratch and Sniff Stickers and the Gas Panic of '87</title>
+      <link>https://hackaday.com/2024/12/03/scratch-and-sniff-stickers-and-the-gas-panic-of-87/</link>
+      <description>No Text</description>
+      <guid>42357983</guid>
+      <comments>https://news.ycombinator.com/item?id=42357983</comments>
+      <pubDate>Sun, 08 Dec 2024 16:28:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: SQL Simulator – Create Subsetted Databases in Docker or K8s</title>
+      <link>https://www.tribalknowledge.tech/</link>
+      <description>Hi, I&amp;#x27;m Weston Goodwin. I originally posted about my project on HN back in June 2023 (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=36187556&quot;&gt;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=36187556&lt;/a&gt;) and wanted to share some of the updates I’ve made since then. As a referesher SQL Simulator is a tool that simulates SQL script execution by creating a subsetted database.  Below is a list of changes I&amp;#x27;ve made:&lt;p&gt;1.)It now supports both Docker and Kubernetes.
+2.)The database container automatically self-destructs after 15 minutes of inactivity to improve security.
+3.)A Data Governor limits the amount of sensitive data that can be retrieved in a day.
+4.)The K8s version can be used as a database proxy.  Simply remove direct access to the database and force users to go through the K8s cluster&amp;#x2F;Data governor to view any data.&lt;p&gt;The tool is available without requiring signup or credit card. I’d appreciate any feedback or suggestions. Thanks for this post reading.&lt;p&gt;Docker Documentation:
+&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;ssdocker.tribalknowledge.tech&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;ssdocker.tribalknowledge.tech&amp;#x2F;&lt;/a&gt;&lt;p&gt;K8s Documentation:
+&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;sql-simulator.tribalknowledge.tech&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;sql-simulator.tribalknowledge.tech&amp;#x2F;&lt;/a&gt;</description>
+      <guid>42295177</guid>
+      <comments>https://news.ycombinator.com/item?id=42295177</comments>
+      <pubDate>Mon, 02 Dec 2024 11:35:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Make a &quot;Magic Eye&quot; image using Excel</title>
+      <link>https://divisbyzero.com/2024/11/30/make-a-magic-eye-image-using-excel/</link>
+      <description>No Text</description>
+      <guid>42321163</guid>
+      <comments>https://news.ycombinator.com/item?id=42321163</comments>
+      <pubDate>Wed, 04 Dec 2024 19:36:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Taxpayers spend 22% more per patient to support Medicare Advantage</title>
+      <link>https://theconversation.com/taxpayers-spend-22-more-per-patient-to-support-medicare-advantage-the-private-alternative-to-medicare-that-promised-to-cost-less-241997</link>
+      <description>No Text</description>
+      <guid>42359216</guid>
+      <comments>https://news.ycombinator.com/item?id=42359216</comments>
+      <pubDate>Sun, 08 Dec 2024 18:47:48 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
