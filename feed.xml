@@ -1,0 +1,240 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Tue, 10 Dec 2024 06:18:12 -0000</lastBuildDate>
+    <item>
+      <title>Tree Calculus</title>
+      <link>https://treecalcul.us/</link>
+      <description>No Text</description>
+      <guid>42373437</guid>
+      <comments>https://news.ycombinator.com/item?id=42373437</comments>
+      <pubDate>Tue, 10 Dec 2024 03:30:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Willow, Our Quantum Chip</title>
+      <link>https://blog.google/technology/research/google-willow-quantum-chip/</link>
+      <description>No Text</description>
+      <guid>42367649</guid>
+      <comments>https://news.ycombinator.com/item?id=42367649</comments>
+      <pubDate>Mon, 09 Dec 2024 16:28:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Sora is here</title>
+      <link>https://openai.com/index/sora-is-here/</link>
+      <description>No Text</description>
+      <guid>42368604</guid>
+      <comments>https://news.ycombinator.com/item?id=42368604</comments>
+      <pubDate>Mon, 09 Dec 2024 18:02:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>What TDD is good for</title>
+      <link>https://theaxolot.wordpress.com/2024/12/08/what-tdd-is-actually-good-for/</link>
+      <description>No Text</description>
+      <guid>42373518</guid>
+      <comments>https://news.ycombinator.com/item?id=42373518</comments>
+      <pubDate>Tue, 10 Dec 2024 03:45:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Save Music, Save the Archive</title>
+      <link>https://www.savethearchive.com/</link>
+      <description>No Text</description>
+      <guid>42373098</guid>
+      <comments>https://news.ycombinator.com/item?id=42373098</comments>
+      <pubDate>Tue, 10 Dec 2024 02:31:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>Is anyone playing with the combination of generative AI and OpenCyc?</title>
+      <link>https://2ro.co/post/769440256241123328/study-opencyc</link>
+      <description>No Text</description>
+      <guid>42373106</guid>
+      <comments>https://news.ycombinator.com/item?id=42373106</comments>
+      <pubDate>Tue, 10 Dec 2024 02:32:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Debanking (and Debunking?)</title>
+      <link>https://www.bitsaboutmoney.com/archive/debanking-and-debunking/</link>
+      <description>No Text</description>
+      <guid>42371476</guid>
+      <comments>https://news.ycombinator.com/item?id=42371476</comments>
+      <pubDate>Mon, 09 Dec 2024 22:56:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>ALICE finds first ever evidence of the antimatter partner of hyperhelium-4</title>
+      <link>https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4</link>
+      <description>No Text</description>
+      <guid>42369294</guid>
+      <comments>https://news.ycombinator.com/item?id=42369294</comments>
+      <pubDate>Mon, 09 Dec 2024 19:01:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Trellis – 3D mesh generative model</title>
+      <link>https://trellis3d.github.io/</link>
+      <description>No Text</description>
+      <guid>42369476</guid>
+      <comments>https://news.ycombinator.com/item?id=42369476</comments>
+      <pubDate>Mon, 09 Dec 2024 19:19:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>LLM abstraction levels inspired by fish eye lens</title>
+      <link>https://wattenberger.com/thoughts/fish-eye</link>
+      <description>No Text</description>
+      <guid>42308303</guid>
+      <comments>https://news.ycombinator.com/item?id=42308303</comments>
+      <pubDate>Tue, 03 Dec 2024 16:55:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Pierre Schaeffer looking back on his career in musique concrète (1987)</title>
+      <link>https://paul.mycpanel.princeton.edu/music242/shaefferinterview.html</link>
+      <description>No Text</description>
+      <guid>42348799</guid>
+      <comments>https://news.ycombinator.com/item?id=42348799</comments>
+      <pubDate>Sat, 07 Dec 2024 10:36:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Common misconceptions about compilers</title>
+      <link>https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html</link>
+      <description>No Text</description>
+      <guid>42372617</guid>
+      <comments>https://news.ycombinator.com/item?id=42372617</comments>
+      <pubDate>Tue, 10 Dec 2024 01:19:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>New dog, old trick: DaMAgeCard attack targets memory directly via SD card reader</title>
+      <link>https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/</link>
+      <description>No Text</description>
+      <guid>42368784</guid>
+      <comments>https://news.ycombinator.com/item?id=42368784</comments>
+      <pubDate>Mon, 09 Dec 2024 18:15:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Fire risk assessment of battery home storage compared to general house fires</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4995517</link>
+      <description>No Text</description>
+      <guid>42369622</guid>
+      <comments>https://news.ycombinator.com/item?id=42369622</comments>
+      <pubDate>Mon, 09 Dec 2024 19:33:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>What we know about CEO shooting suspect</title>
+      <link>https://www.bbc.com/news/articles/cp9nxee2r0do</link>
+      <description>No Text</description>
+      <guid>42370622</guid>
+      <comments>https://news.ycombinator.com/item?id=42370622</comments>
+      <pubDate>Mon, 09 Dec 2024 21:17:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Stimulus-use: collection of composable behaviors for Stimulus Controllers</title>
+      <link>https://github.com/stimulus-use/stimulus-use</link>
+      <description>No Text</description>
+      <guid>42342985</guid>
+      <comments>https://news.ycombinator.com/item?id=42342985</comments>
+      <pubDate>Fri, 06 Dec 2024 19:01:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Theory and Technique of Electronic Music (2006)</title>
+      <link>https://msp.ucsd.edu/techniques.htm</link>
+      <description>No Text</description>
+      <guid>42361404</guid>
+      <comments>https://news.ycombinator.com/item?id=42361404</comments>
+      <pubDate>Sun, 08 Dec 2024 22:46:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>There Was No Sorcerer: Box Office Poison, Hollywood's Story in Century of Flops</title>
+      <link>https://literaryreview.co.uk/there-was-no-sorcerer</link>
+      <description>No Text</description>
+      <guid>42341567</guid>
+      <comments>https://news.ycombinator.com/item?id=42341567</comments>
+      <pubDate>Fri, 06 Dec 2024 17:00:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>Himalaya: CLI to Manage Emails</title>
+      <link>https://github.com/pimalaya/himalaya</link>
+      <description>No Text</description>
+      <guid>42366025</guid>
+      <comments>https://news.ycombinator.com/item?id=42366025</comments>
+      <pubDate>Mon, 09 Dec 2024 13:17:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>Added sugar intake and its associations with incidence of cardiovascular disease</title>
+      <link>https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1452085/full</link>
+      <description>No Text</description>
+      <guid>42372379</guid>
+      <comments>https://news.ycombinator.com/item?id=42372379</comments>
+      <pubDate>Tue, 10 Dec 2024 00:45:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Ternary Computer System</title>
+      <link>https://www.ternary-computing.com/history/CPU-History.html</link>
+      <description>Hi everyone!
+I&amp;#x27;m an Italian programmer, very passionate about computer architecture. Some time ago I realized that some architectures potentially much superior to the classic VonNeumann, have been forgotten because there were no reliable technical solutions to implement them.
+One of these architectures particularly struck me and it is the &amp;quot;Dataflow architecture&amp;quot;, in which there is no Program counter, but the instructions are executed in real contemporaneity whenever the operands are available.
+In trying to find a technical solution that implements this type of architecture effectively (spoiler: yes, maybe I succeeded but I still have to test the real correct functioning!) I realized that this solution works more than well with three logical states. And at this point I discovered that perhaps it is better to implement a CPU with three states (ternary) instead of a white one. This as a first step to realize my dataflow solution.
+Obviously a world has opened up to me regarding ternary CPUs, I have discovered not only that they are the best solution implemented for a computing device, but also that an increasing number of university and researcher papers are dealing with them in recent times.
+This is also thanks to the enormous potential compared to normal CPUs; lower circuit complexity (and also lower consumption and lower heat production) but at the same time the truly formidable information representation capabilities compared to binary counterparts!
+So here I am creating this ternary CPU and all the hardware and software to be able to use it immediately. In the link you have found some other details, but obviously for questions, suggestions or anything else you can insert your comment here!</description>
+      <guid>42368872</guid>
+      <comments>https://news.ycombinator.com/item?id=42368872</comments>
+      <pubDate>Mon, 09 Dec 2024 18:23:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Age of Chiplets Is Upon Us</title>
+      <link>https://www.eetimes.com/the-age-of-chiplets-is-upon-us/</link>
+      <description>No Text</description>
+      <guid>42371221</guid>
+      <comments>https://news.ycombinator.com/item?id=42371221</comments>
+      <pubDate>Mon, 09 Dec 2024 22:24:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>GPS constellation as a way to image the ionosphere (2011)</title>
+      <link>http://wondering-star.blogspot.com/2011/04/gps-constellation-as-way-to-image.html</link>
+      <description>No Text</description>
+      <guid>42354005</guid>
+      <comments>https://news.ycombinator.com/item?id=42354005</comments>
+      <pubDate>Sun, 08 Dec 2024 00:28:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>TCC and the macOS Platform Sandbox Policy</title>
+      <link>https://bdash.net.nz/posts/tcc-and-the-platform-sandbox-policy/</link>
+      <description>No Text</description>
+      <guid>42372384</guid>
+      <comments>https://news.ycombinator.com/item?id=42372384</comments>
+      <pubDate>Tue, 10 Dec 2024 00:47:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>XML: Twig – A Time-Tested Powerhouse for Processing XML</title>
+      <link>https://perladvent.org/2024/2024-12-09.html</link>
+      <description>No Text</description>
+      <guid>42371341</guid>
+      <comments>https://news.ycombinator.com/item?id=42371341</comments>
+      <pubDate>Mon, 09 Dec 2024 22:39:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>A simple way to scale pixel art games</title>
+      <link>https://30fps.net/pages/pixelart-scaling/</link>
+      <description>No Text</description>
+      <guid>42304020</guid>
+      <comments>https://news.ycombinator.com/item?id=42304020</comments>
+      <pubDate>Tue, 03 Dec 2024 08:16:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>I made a satellite ion thruster [video]</title>
+      <link>https://www.youtube.com/watch?v=dfYSBlV90NQ</link>
+      <description>No Text</description>
+      <guid>42347244</guid>
+      <comments>https://news.ycombinator.com/item?id=42347244</comments>
+      <pubDate>Sat, 07 Dec 2024 04:20:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>Kafka's Screwball Tragedy: Investigations of a Philosophical Dog</title>
+      <link>https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/</link>
+      <description>No Text</description>
+      <guid>42366262</guid>
+      <comments>https://news.ycombinator.com/item?id=42366262</comments>
+      <pubDate>Mon, 09 Dec 2024 13:50:26 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
