@@ -1,0 +1,222 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Wed, 11 Dec 2024 03:30:36 -0000</lastBuildDate>
+    <item>
+      <title>Alzheimer's Study Shows Ketone Bodies Help Clear Misfolded Proteins</title>
+      <link>https://www.genengnews.com/topics/translational-medicine/ketone-body-role-in-regulating-misfolded-proteins-may-inform-strategies-targeting-aging-alzheimers-disease/</link>
+      <description>No Text</description>
+      <guid>42383840</guid>
+      <comments>https://news.ycombinator.com/item?id=42383840</comments>
+      <pubDate>Wed, 11 Dec 2024 01:48:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>From where I left</title>
+      <link>https://antirez.com/news/144</link>
+      <description>No Text</description>
+      <guid>42378488</guid>
+      <comments>https://news.ycombinator.com/item?id=42378488</comments>
+      <pubDate>Tue, 10 Dec 2024 16:41:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>GM exits robotaxi market, will bring Cruise operations in house</title>
+      <link>https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html</link>
+      <description>No Text</description>
+      <guid>42381637</guid>
+      <comments>https://news.ycombinator.com/item?id=42381637</comments>
+      <pubDate>Tue, 10 Dec 2024 21:19:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Electric (Postgres sync engine) BETA release</title>
+      <link>https://electric-sql.com/blog/2024/12/10/electric-beta-release</link>
+      <description>No Text</description>
+      <guid>42383136</guid>
+      <comments>https://news.ycombinator.com/item?id=42383136</comments>
+      <pubDate>Wed, 11 Dec 2024 00:04:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Google Willow Thing</title>
+      <link>https://scottaaronson.blog/?p=8525</link>
+      <description>No Text</description>
+      <guid>42378407</guid>
+      <comments>https://news.ycombinator.com/item?id=42378407</comments>
+      <pubDate>Tue, 10 Dec 2024 16:34:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Launch HN: Double (YC W24) – Index Investing with 0% Expense Ratios</title>
+      <link>https://news.ycombinator.com/item?id=42377018</link>
+      <description>Hi HN, we’re JJ and Mark, the founders of Double (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;double.finance&quot;&gt;https:&amp;#x2F;&amp;#x2F;double.finance&lt;/a&gt;). Double lets you invest in 50+ broad stock market indexes with 0% expense ratios. We handle all the management, including rebalancing and tax-loss harvesting—proactively selling losing stocks to potentially save on taxes—for $1&amp;#x2F;month.&lt;p&gt;Our goal is to bring the low fee trend pioneered by Robinhood to ETFs and mutual funds. We posted a Show HN about 3 months ago (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=41246686&quot;&gt;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=41246686&lt;/a&gt;) and since then have crossed $10M in AUM (Assets Under Management) [1].&lt;p&gt;Here’s a demo video: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.loom.com&amp;#x2F;share&amp;#x2F;10c9150ce4114f278e8c249f211e7ec8&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.loom.com&amp;#x2F;share&amp;#x2F;10c9150ce4114f278e8c249f211e7ec8&lt;/a&gt;. Please note that none of this content should be treated as financial advice.&lt;p&gt;Everyone knows that fees eat into your investing returns. Financial advisors generally charge 1% of AUM per year, and ETFs have a weighted average expense ratio of about 0.17%, although some go as low as 0.03% for VOO. Over a 30-year period on a $500k portfolio with $2k invested monthly, the money lost to those fees would be $1.30M for the financial advisor and $244k for the average ETF and even $42,951 for the low fee VOO.&lt;p&gt;Double lets you index invest without paying any percentage-based fees - we charge just $1&amp;#x2F;month. It works by buying the individual stocks that make up popular indexes. By buying the individual positions, we can also customize and tax-loss harvest your account, something ETFs or Mutual Funds cannot do.&lt;p&gt;Most ETFs and mutual funds today are not that complicated - they can be expressed as a CSV file with 2 columns - a ticker and a share number. You can find these holding csv files on most ETF pages (VOO[2], QQQ[3]). Right now there are about $9.1T of assets in ETFs[4] and $20T in Mutual Funds[5] in the US, with estimated revenue of $100B per year. We think this market is ripe for disruption.&lt;p&gt;We offer 50+ strategies that track popular ETFs and are updated as stocks merge and indexes change. You can customize these by weighting sectors or stocks differently, or even build your own indexes from scratch using our stock&amp;#x2F;etf screening tools. Once you&amp;#x27;ve chosen your strategy, simply set your target weights and deposit funds (we also support transferring existing stocks). Our engine then checks your portfolio daily for potential trades, optimizes for tax-loss harvesting, portfolio tracking, and redeploys any generated cash.&lt;p&gt;I (JJ) started working on this after selling my last company. After using nearly every brokerage product out there and working with a financial advisor, I noticed a huge gap between the indexing capabilities of financial advisors and what individual investors could access. We wanted to bridge that gap and provide these powerful tools to everyone in a simple, low-cost way.&lt;p&gt;There are a number of robo-advisor products out there, but none that we know of offer direct indexing without expense ratios or AUM fees. One similar product is M1 Finance, but Double is more powerful. We offer tax-loss harvesting, a wider range of indexes, and greater customization. For example, when building your own index, you can set weights down to 0.1% (compared to M1&amp;#x27;s 1%) and even weight by market cap.&lt;p&gt;We also compete with robo-advisors like Wealthfront, but offer more control over your investments. And did I mention we don&amp;#x27;t charge AUM fees? You can see our strategies and play with the research page &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;double.finance&amp;#x2F;p&amp;#x2F;explore&quot;&gt;https:&amp;#x2F;&amp;#x2F;double.finance&amp;#x2F;p&amp;#x2F;explore&lt;/a&gt; without creating an account.&lt;p&gt;Over the past year we’ve learned a lot about the guts of building portfolio software. For example, stocks don’t really have persistent identifiers that are easy to model and pass around. We trade CUSIPs with our custodian Apex*, but these change all the time for stock splits or re-org’s that you would not think would lead to a new “stock”.&lt;p&gt;We’ve also learned a lot about how tax loss harvesting (TLH) is best implemented on large direct index portfolios using a factor model as opposed to pairs based replacements which I initially thought might be the way to execute these. We do use a pairs strategy on smaller sized strategies. And how TLH and portfolio optimization generally is best expressed as a linear optimization problem with competing objectives (tracking vs. tax alpha vs. trading costs for example).&lt;p&gt;If you have any thoughts on the product or our positioning as the low fee alternative I’d love to hear it. I think Robinhood has proved that you can build a strong business by getting rid of an industry wide cost (in their case commissions, in our expense ratios). We aim to do the same.&lt;p&gt;[1] &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.axios.com&amp;#x2F;pro&amp;#x2F;fintech-deals&amp;#x2F;2024&amp;#x2F;12&amp;#x2F;10&amp;#x2F;direct-indexing-platform-double-finance-raises-seed?utm_source=editorial&amp;amp;utm_medium=social&amp;amp;utm_campaign=pro_edit_regwall_01-24&amp;amp;utm_term=regwall&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.axios.com&amp;#x2F;pro&amp;#x2F;fintech-deals&amp;#x2F;2024&amp;#x2F;12&amp;#x2F;10&amp;#x2F;direct-in...&lt;/a&gt;
+[2] &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;investor.vanguard.com&amp;#x2F;investment-products&amp;#x2F;etfs&amp;#x2F;profile&amp;#x2F;voo#portfolio-composition&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;investor.vanguard.com&amp;#x2F;investment-products&amp;#x2F;etfs&amp;#x2F;profi...&lt;/a&gt;
+[3] &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.invesco.com&amp;#x2F;qqq-etf&amp;#x2F;en&amp;#x2F;about.html&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.invesco.com&amp;#x2F;qqq-etf&amp;#x2F;en&amp;#x2F;about.html&lt;/a&gt;
+[4] &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;fred.stlouisfed.org&amp;#x2F;series&amp;#x2F;BOGZ1LM564090005Q&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;fred.stlouisfed.org&amp;#x2F;series&amp;#x2F;BOGZ1LM564090005Q&lt;/a&gt;
+[5] &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;fred.stlouisfed.org&amp;#x2F;series&amp;#x2F;BOGZ1LM654090000Q&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;fred.stlouisfed.org&amp;#x2F;series&amp;#x2F;BOGZ1LM654090000Q&lt;/a&gt;&lt;p&gt;* Edit to add a note on risk: If Double goes out of business, your assets are safe and held in your name at Apex Clearing. They have processes in place for these scenarios to help you access and transfer those assets. See more at &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=42379135&quot;&gt;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=42379135&lt;/a&gt; below.</description>
+      <guid>42377018</guid>
+      <comments>https://news.ycombinator.com/item?id=42377018</comments>
+      <pubDate>Tue, 10 Dec 2024 14:16:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. math scores drop on major international test</title>
+      <link>https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/</link>
+      <description>No Text</description>
+      <guid>42378929</guid>
+      <comments>https://news.ycombinator.com/item?id=42378929</comments>
+      <pubDate>Tue, 10 Dec 2024 17:24:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Watch carved from meteorite that hit Earth a million years ago</title>
+      <link>https://www.cnn.com/2024/12/05/style/toledano-chan-meteorite-watch-b1m/index.html</link>
+      <description>No Text</description>
+      <guid>42355073</guid>
+      <comments>https://news.ycombinator.com/item?id=42355073</comments>
+      <pubDate>Sun, 08 Dec 2024 04:47:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Running Durable Workflows in Postgres Using DBOS</title>
+      <link>https://supabase.com/blog/durable-workflows-in-postgres-dbos</link>
+      <description>No Text</description>
+      <guid>42379974</guid>
+      <comments>https://news.ycombinator.com/item?id=42379974</comments>
+      <pubDate>Tue, 10 Dec 2024 18:47:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>Training LLMs to Reason in a Continuous Latent Space</title>
+      <link>https://arxiv.org/abs/2412.06769</link>
+      <description>No Text</description>
+      <guid>42378335</guid>
+      <comments>https://news.ycombinator.com/item?id=42378335</comments>
+      <pubDate>Tue, 10 Dec 2024 16:26:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Albuquerque &quot;Broken Arrow&quot; Nuclear Accident</title>
+      <link>https://lflank.wordpress.com/2024/12/10/the-albuquerque-broken-arrow-nuclear-accident/</link>
+      <description>No Text</description>
+      <guid>42382759</guid>
+      <comments>https://news.ycombinator.com/item?id=42382759</comments>
+      <pubDate>Tue, 10 Dec 2024 23:12:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Boltzmann brain</title>
+      <link>https://en.wikipedia.org/wiki/Boltzmann_brain</link>
+      <description>No Text</description>
+      <guid>42374027</guid>
+      <comments>https://news.ycombinator.com/item?id=42374027</comments>
+      <pubDate>Tue, 10 Dec 2024 05:22:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Hypothalamic deep brain stimulation augments walking after spinal cord injury</title>
+      <link>https://www.nature.com/articles/s41591-024-03306-x</link>
+      <description>No Text</description>
+      <guid>42307968</guid>
+      <comments>https://news.ycombinator.com/item?id=42307968</comments>
+      <pubDate>Tue, 03 Dec 2024 16:28:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>NAND Flash Targets 1k Layers</title>
+      <link>https://semiengineering.com/nand-flash-targets-1000-layers/</link>
+      <description>No Text</description>
+      <guid>42359299</guid>
+      <comments>https://news.ycombinator.com/item?id=42359299</comments>
+      <pubDate>Sun, 08 Dec 2024 18:54:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>B+ Tree Visualization</title>
+      <link>https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html</link>
+      <description>No Text</description>
+      <guid>42353333</guid>
+      <comments>https://news.ycombinator.com/item?id=42353333</comments>
+      <pubDate>Sat, 07 Dec 2024 22:25:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Those making $500/month on side projects in 2024 – Show and tell</title>
+      <link>https://news.ycombinator.com/item?id=42373343</link>
+      <description>It&amp;#x27;s the time of the year again, so I&amp;#x27;d be interested hear what new (and old) ideas have come up.&lt;p&gt;Previously asked on: 2023 → &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=38467691&quot;&gt;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=38467691&lt;/a&gt;&lt;p&gt;2022 → &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=34190421&quot;&gt;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=34190421&lt;/a&gt;&lt;p&gt;2021 → &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=29667095&quot;&gt;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=29667095&lt;/a&gt;&lt;p&gt;2020 → &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=24947167&quot;&gt;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=24947167&lt;/a&gt;&lt;p&gt;2019 → &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=20899863&quot;&gt;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=20899863&lt;/a&gt;&lt;p&gt;2018 → &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=17790306&quot;&gt;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=17790306&lt;/a&gt;&lt;p&gt;2017 → &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=15148804&quot;&gt;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=15148804&lt;/a&gt;</description>
+      <guid>42373343</guid>
+      <comments>https://news.ycombinator.com/item?id=42373343</comments>
+      <pubDate>Tue, 10 Dec 2024 03:12:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Seeking Head of Engineering in the Bay Area (Distro S24)</title>
+      <link>https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering</link>
+      <description>No Text</description>
+      <guid>42381433</guid>
+      <comments>https://news.ycombinator.com/item?id=42381433</comments>
+      <pubDate>Tue, 10 Dec 2024 21:02:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>AI model for near-instant image creation on consumer-grade hardware</title>
+      <link>https://www.surrey.ac.uk/news/surrey-announces-worlds-first-ai-model-near-instant-image-creation-consumer-grade-hardware</link>
+      <description>No Text</description>
+      <guid>42378519</guid>
+      <comments>https://news.ycombinator.com/item?id=42378519</comments>
+      <pubDate>Tue, 10 Dec 2024 16:44:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Depths of Wikipedians</title>
+      <link>https://asteriskmag.com/issues/08/the-depths-of-wikipedians</link>
+      <description>No Text</description>
+      <guid>42377770</guid>
+      <comments>https://news.ycombinator.com/item?id=42377770</comments>
+      <pubDate>Tue, 10 Dec 2024 15:32:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>Colour in the Middle Ages</title>
+      <link>https://www.medievalists.net/2024/06/colour-middle-ages/</link>
+      <description>No Text</description>
+      <guid>42377644</guid>
+      <comments>https://news.ycombinator.com/item?id=42377644</comments>
+      <pubDate>Tue, 10 Dec 2024 15:19:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction</title>
+      <link>https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/</link>
+      <description>No Text</description>
+      <guid>42382829</guid>
+      <comments>https://news.ycombinator.com/item?id=42382829</comments>
+      <pubDate>Tue, 10 Dec 2024 23:20:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Holos – Configure Kubernetes with CUE data structures instead of YAML</title>
+      <link>https://holos.run/docs/v1alpha5/tutorial/overview/</link>
+      <description>Hi HN!  I’m excited to share Holos, a Go command line tool we wrote to fill the configuration management gap in Kubernetes.  Holos uses CUE to configure software distributed with Helm and Kustomize using a well defined, type safe language eliminating the need to template YAML.  You probably know (or are) someone who has suffered with the complexity of plain text YAML templates and merging multiple values.yaml files together to configure software running in Kubernetes.  We built Holos so we don’t have to template YAML but we can still integrate software distributed with Helm and Kustomize holistically into one unified configuration.&lt;p&gt;At the start of the pandemic I was migrating our platform to Kubernetes from virtual machines managed by Puppet.  My primary goal was to build an observability system similar to what we had when we managed Puppet at Twitter prior to the acquisition.  I started building the observability system with the official prometheus community charts [1], but quickly ran into issues where the individual charts didn’t work with each other.  I was frustrated with how difficult it was to configure these charts.  They weren’t well integrated, so I switched to the kube-prometheus-stack [2] umbrella chart which attempts to solve this integration problem.&lt;p&gt;The umbrella chart got us further but we quickly ran into operational challenges.  Upgrading the chart introduced breaking changes we couldn’t see until they were applied, causing incidents.  We needed to manage secrets securely so we mixed in ExternalSecrets with many of the charts.  We decided to handle these customizations by implementing the rendered manifests pattern [3] using scripts in our CI pipeline.&lt;p&gt;These CI scripts got us further, but we found them costly to maintain.  We needed to be careful to execute them with the same context they were executed in CI.  We realized we were reinventing tools to manage a hierarchy of helm values.yaml files to inject into multiple charts.&lt;p&gt;We saw the value in the rendered manifests pattern but could not find an agreed upon implementation.  I’d been thinking about the comments from the &lt;i&gt;Why are we templating YAML?&lt;/i&gt; [4][5] posts and wondering what an answer to this question would look like, so I built a Go command line tool to implement the pattern as a data pipeline.  We still didn’t have a good way to handle the data values.  We were still templating YAML which didn’t catch errors early enough.  It was too easy to render invalid resources Kubernetes rejected.&lt;p&gt;I searched for a solution to manage and merge helm values.  A few HN comments mentioned CUE [6], and an engineer we worked with at Twitter used CUE to configure Envoy at scale, so I gave it a try.  I quickly appreciated how CUE provides both strong type checking and validation of constraints, unifies all configuration data, and provides clarity into where values originate from.&lt;p&gt;Take a look at Holos if you’re looking to implement the rendered manifests pattern or can’t shake that feeling it should be easier to integrate third party software into Kubernetes like we felt.  We recently overhauled our docs to be easier to get started and work locally on your device.&lt;p&gt;In the future we’re planning to use Holos much like Debian uses APT, to integrate open source software into a holistic k8s distribution.&lt;p&gt;[1]: &amp;lt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;prometheus-community&amp;#x2F;helm-charts&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;prometheus-community&amp;#x2F;helm-charts&lt;/a&gt;&amp;gt;&lt;p&gt;[2]: &amp;lt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;prometheus-community&amp;#x2F;helm-charts&amp;#x2F;tree&amp;#x2F;main&amp;#x2F;charts&amp;#x2F;kube-prometheus-stack&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;prometheus-community&amp;#x2F;helm-charts&amp;#x2F;tree&amp;#x2F;mai...&lt;/a&gt;&amp;gt;&lt;p&gt;[3]: &amp;lt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;akuity.io&amp;#x2F;blog&amp;#x2F;the-rendered-manifests-pattern&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;akuity.io&amp;#x2F;blog&amp;#x2F;the-rendered-manifests-pattern&lt;/a&gt;&amp;gt;&lt;p&gt;[4]: &lt;i&gt;Why are we templating YAML? (2019)&lt;/i&gt; - &amp;lt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=19108787&quot;&gt;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=19108787&lt;/a&gt;&amp;gt;&lt;p&gt;[5]: &lt;i&gt;Why are we templating YAML? (2024)&lt;/i&gt; - &amp;lt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=39101828&quot;&gt;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=39101828&lt;/a&gt;&amp;gt;&lt;p&gt;[6]: &amp;lt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;cuelang.org&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;cuelang.org&amp;#x2F;&lt;/a&gt;&amp;gt;</description>
+      <guid>42366665</guid>
+      <comments>https://news.ycombinator.com/item?id=42366665</comments>
+      <pubDate>Mon, 09 Dec 2024 14:48:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Don't let your billion-dollar ideas die</title>
+      <link>https://ideaharbor.xyz</link>
+      <description>Most great ideas are either forgotten or die in our notes app. So made this simple website in a day.&lt;p&gt;1. Save your ideas&lt;p&gt;2. Set an expiry&lt;p&gt;3. After expiry, the ideas goes public. So if you don&amp;#x27;t work on them, someone else probably will</description>
+      <guid>42382506</guid>
+      <comments>https://news.ycombinator.com/item?id=42382506</comments>
+      <pubDate>Tue, 10 Dec 2024 22:45:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Google says AI weather model masters 15-day forecast</title>
+      <link>https://phys.org/news/2024-12-google-ai-weather-masters-day.html</link>
+      <description>No Text</description>
+      <guid>42343480</guid>
+      <comments>https://news.ycombinator.com/item?id=42343480</comments>
+      <pubDate>Fri, 06 Dec 2024 19:41:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Hyperbrowser – Scalable Browser Infrastructure for AI Apps</title>
+      <link>https://www.hyperbrowser.ai/</link>
+      <description>Hey HN!&lt;p&gt;Excited to share a project we&amp;#x27;ve been working on called Hyperbrowser. It’s a tool that makes scaling headless browsers ridiculously easy. It allows you to spin up hundreds of browser sessions in secure, isolated environments, with sub-second launch times. We automatically solve captchas, use residential proxies and manage concurrent sessions so that you can focus on your own business.&lt;p&gt;The idea for Hyperbrowser came from our own struggles building AI apps and agents like sales tools, automations, and AI editors. Every project seemed to hit the same roadblock: interacting with the web. Whether we needed web data as input or web browsing as output, we faced constant challenges—getting blocked, setting up proxy services, solving captchas, and scaling everything in Kubernetes.&lt;p&gt;On top of that, we had to build custom functions and services to convert websites into LLM-friendly markdown and crawl entire sites for relevant data. Keeping all of this running became a full-time job!&lt;p&gt;To make this easy for everyone else we built Hyperbrowser. It packages everything we learned and built, with a nice frontend that gets rid of the boilerplate and lets you hit the ground running. Hyperbrowser works seamlessly with tools you already know, like Puppeteer, Playwright, or Selenium, while removing the hassle of infrastructure and scaling.&lt;p&gt;If this sounds interesting, we’d love for you to give it a spin! You can sign up and start playing around with a free plan. Would love to hear your thoughts, feedback, or ideas! Check it out here at hyperbrowser.ai.&lt;p&gt;If you have any questions at all feel free to reach out to me at akshay@hyperbrowser.ai! Ideally share the website you&amp;#x27;d like to scrape or automate. I can provide a script for it or we can create a custom API endpoint!</description>
+      <guid>42381712</guid>
+      <comments>https://news.ycombinator.com/item?id=42381712</comments>
+      <pubDate>Tue, 10 Dec 2024 21:24:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>From Unemployment to Lisp: Running GPT-2 on a Teen's Deep Learning Compiler</title>
+      <link>https://github.com/hikettei/Caten</link>
+      <description>No Text</description>
+      <guid>42378194</guid>
+      <comments>https://news.ycombinator.com/item?id=42378194</comments>
+      <pubDate>Tue, 10 Dec 2024 16:12:10 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
