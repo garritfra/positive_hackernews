@@ -1,0 +1,257 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Thu, 19 Dec 2024 21:11:49 -0000</lastBuildDate>
+    <item>
+      <title>Show HN: Mizu.js – Lightweight HTML templating library for any-side rendering</title>
+      <link>https://mizu.sh</link>
+      <description>Hey HN,&lt;p&gt;I&amp;#x27;d like to share a fun project I&amp;#x27;ve been working on: mizu.js.&lt;p&gt;It&amp;#x27;s a js library that add functional attributes support into your html, designed to be a simple and flexible alternative to fully-fledged web frameworks (such as Vue, React, and Angular), while offering more capabilities than other lightweight options (like Alpine.js and htmx).&lt;p&gt;As it&amp;#x27;s written using modern ES features and due to its isomorphic nature, it can be run in both browsers and runtimes (Node, Deno, Bun) without any changes.
+This makes it ideal for client-side and server-side rendering, as well as static site generation, whichever environment you prefer.&lt;p&gt;Just include the script in any web page (or backend) to get started. 
+You can template content, bind attributes, add interactivity, handle HTTP interactions, create custom components, and much more — all out of the box, without any configuration, transpilation steps, or builds.&lt;p&gt;I hope you&amp;#x27;ll find mizu.js as exciting and useful as I do and I&amp;#x27;d love to get your feedback!
+You can learn more about it at &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;mizu.sh&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;mizu.sh&lt;/a&gt;!&lt;p&gt;Online playground: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;mizu.sh&amp;#x2F;playground&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;mizu.sh&amp;#x2F;playground&lt;/a&gt; 
+Custom builder: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;mizu.sh&amp;#x2F;build&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;mizu.sh&amp;#x2F;build&lt;/a&gt;
+Code coverage: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;mizu.sh&amp;#x2F;coverage&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;mizu.sh&amp;#x2F;coverage&lt;/a&gt;
+GitHub: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;lowlighter&amp;#x2F;mizu&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;lowlighter&amp;#x2F;mizu&lt;/a&gt;&lt;p&gt;## Motivation ##&lt;p&gt;Nowadays, setting up a complete environment and installing thousands of packages is often required just to create a simple &amp;quot;Hello World&amp;quot; page. 
+Yet, with the current ECMAScript standard, vanilla JS has never been more powerful. 
+It offers built-in custom HTML components, proxies for changes tracking, weak references for better memory management, and many new data structures and methods.&lt;p&gt;So why is web development still insanely complex?&lt;p&gt;mizu.js aims to avoid adding bloat on top of native features, and instead focus on providing convenience helpers. 
+It&amp;#x27;s basically &amp;quot;glue&amp;quot; around all these native features with added sugar, a recipe for a lightweight yet powerful utility.&lt;p&gt;All evaluated expressions are interpreted as vanilla JavaScript, and you add your instructions directly into your HTML. 
+So if you know already know about JS&amp;#x2F;HTML, then you&amp;#x27;re already 80% know of how to use mizu.js (add an extra 10% if you&amp;#x27;ve used Vue, Alpine.js or htmx in the past as some syntax and concepts are inspired by it), the rest is basically just remembering the directive names. 
+The learning curve is that small.&lt;p&gt;Also, you may have heard of &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;matcha.mizu.sh&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;matcha.mizu.sh&lt;/a&gt;, a CSS stylesheet to instantly make your web page stylized. 
+Well, it&amp;#x27;s a great companion to mizu.js. With both of them, you can create MVPs for your projects super fast!</description>
+      <guid>42464310</guid>
+      <comments>https://news.ycombinator.com/item?id=42464310</comments>
+      <pubDate>Thu, 19 Dec 2024 18:25:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>Music and Geometry: Intervals and Scales</title>
+      <link>https://roelsworld.eu/blog-music/music-geometry-intervals-scales/</link>
+      <description>No Text</description>
+      <guid>42464557</guid>
+      <comments>https://news.ycombinator.com/item?id=42464557</comments>
+      <pubDate>Thu, 19 Dec 2024 18:52:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Satellite powered estimation of global solar potential</title>
+      <link>https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/</link>
+      <description>No Text</description>
+      <guid>42465535</guid>
+      <comments>https://news.ycombinator.com/item?id=42465535</comments>
+      <pubDate>Thu, 19 Dec 2024 20:44:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Nullboard: Kanban board in a single HTML file</title>
+      <link>https://github.com/apankrat/nullboard</link>
+      <description>No Text</description>
+      <guid>42461688</guid>
+      <comments>https://news.ycombinator.com/item?id=42461688</comments>
+      <pubDate>Thu, 19 Dec 2024 14:29:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Hardware Security Exploit Research – Xbox 360</title>
+      <link>https://github.com/kooscode/srgh-matrix-trinity/blob/main/README.md</link>
+      <description>No Text</description>
+      <guid>42465378</guid>
+      <comments>https://news.ycombinator.com/item?id=42465378</comments>
+      <pubDate>Thu, 19 Dec 2024 20:26:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>Openlayer (YC S21) is looking for a customer engineer to join our rocketship</title>
+      <link>https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-customer-engineer</link>
+      <description>No Text</description>
+      <guid>42465661</guid>
+      <comments>https://news.ycombinator.com/item?id=42465661</comments>
+      <pubDate>Thu, 19 Dec 2024 21:00:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>Silk – Interactive Generative Art</title>
+      <link>http://weavesilk.com/</link>
+      <description>No Text</description>
+      <guid>42465109</guid>
+      <comments>https://news.ycombinator.com/item?id=42465109</comments>
+      <pubDate>Thu, 19 Dec 2024 19:55:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>A 10-Year Battery for AirTag</title>
+      <link>https://www.elevationlab.com/blogs/news/introducing-timecapsule</link>
+      <description>No Text</description>
+      <guid>42453207</guid>
+      <comments>https://news.ycombinator.com/item?id=42453207</comments>
+      <pubDate>Wed, 18 Dec 2024 18:17:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>WebGPU Tech Demo</title>
+      <link>https://gnikoloff.github.io/webgpu-sponza-demo/</link>
+      <description>No Text</description>
+      <guid>42463525</guid>
+      <comments>https://news.ycombinator.com/item?id=42463525</comments>
+      <pubDate>Thu, 19 Dec 2024 17:14:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Night Watch [pdf] (2013)</title>
+      <link>https://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf</link>
+      <description>No Text</description>
+      <guid>42440496</guid>
+      <comments>https://news.ycombinator.com/item?id=42440496</comments>
+      <pubDate>Tue, 17 Dec 2024 11:29:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>How an Indian startup hacked the world (2023)</title>
+      <link>https://www.reuters.com/investigates/special-report/usa-hackers-appin/</link>
+      <description>No Text</description>
+      <guid>42453939</guid>
+      <comments>https://news.ycombinator.com/item?id=42453939</comments>
+      <pubDate>Wed, 18 Dec 2024 19:26:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Time for a Code-Yellow?: A Blunt Instrument That Works</title>
+      <link>https://nilam.ca/2024/11/02/time-for-a-code-yellow-a-blunt-instrument-that-works/</link>
+      <description>No Text</description>
+      <guid>42429646</guid>
+      <comments>https://news.ycombinator.com/item?id=42429646</comments>
+      <pubDate>Mon, 16 Dec 2024 10:09:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Movie Iris - Visualizing Films Through Color Extraction</title>
+      <link>https://github.com/LoSinCos/movie-iris</link>
+      <description>I saw someone post these on reddit 4 years ago, and I really wanted to make them. I was surprised they didn&amp;#x27;t open source their code, so I rebuilt it.&lt;p&gt;Lots of things I would do differently now haha, but anyway, figured someone here might find it interesting.</description>
+      <guid>42462348</guid>
+      <comments>https://news.ycombinator.com/item?id=42462348</comments>
+      <pubDate>Thu, 19 Dec 2024 15:29:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>DVST Graphic Terminals</title>
+      <link>https://vintagetek.org/dvst-graphic-terminals/</link>
+      <description>No Text</description>
+      <guid>42460494</guid>
+      <comments>https://news.ycombinator.com/item?id=42460494</comments>
+      <pubDate>Thu, 19 Dec 2024 11:35:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>Cannabis pollen dispersal across the United States</title>
+      <link>https://www.nature.com/articles/s41598-024-70633-x</link>
+      <description>No Text</description>
+      <guid>42460132</guid>
+      <comments>https://news.ycombinator.com/item?id=42460132</comments>
+      <pubDate>Thu, 19 Dec 2024 10:17:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Botan: Crypto and TLS for Modern C++</title>
+      <link>https://github.com/randombit/botan</link>
+      <description>No Text</description>
+      <guid>42461964</guid>
+      <comments>https://news.ycombinator.com/item?id=42461964</comments>
+      <pubDate>Thu, 19 Dec 2024 14:58:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Kowloon Walled City: Heterotopia in a Space of Disappearance (2013)</title>
+      <link>https://mascontext.com/issues/trace/kowloon-walled-city-heterotopia-in-a-space-of-disappearance</link>
+      <description>No Text</description>
+      <guid>42425770</guid>
+      <comments>https://news.ycombinator.com/item?id=42425770</comments>
+      <pubDate>Sun, 15 Dec 2024 20:30:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>Tracing packets in the Linux kernel networking stack and friends</title>
+      <link>https://github.com/retis-org/retis</link>
+      <description>No Text</description>
+      <guid>42461860</guid>
+      <comments>https://news.ycombinator.com/item?id=42461860</comments>
+      <pubDate>Thu, 19 Dec 2024 14:48:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>Visualizing 6D Mesh Parallelism</title>
+      <link>https://main-horse.github.io/posts/visualizing-6d/</link>
+      <description>No Text</description>
+      <guid>42440121</guid>
+      <comments>https://news.ycombinator.com/item?id=42440121</comments>
+      <pubDate>Tue, 17 Dec 2024 10:26:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>A Replacement for BERT</title>
+      <link>https://huggingface.co/blog/modernbert</link>
+      <description>No Text</description>
+      <guid>42463315</guid>
+      <comments>https://news.ycombinator.com/item?id=42463315</comments>
+      <pubDate>Thu, 19 Dec 2024 16:53:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Lightweight Safety Classification Using Pruned Language Models</title>
+      <link>https://arxiv.org/abs/2412.13435</link>
+      <description>Layer Enhanced Classification (LEC) is a novel technique that outperforms current industry leaders like GPT-4o, LlamaGuards 1 and 8B, and deBERTa v3 Prompt Injection v2 for content safety and prompt injection tasks.&lt;p&gt;We prove that the intermediate hidden layers in transformers are robust feature extractors for text classification.&lt;p&gt;On content safety, LEC models achieved a 0.96 F1 score vs GPT-4o&amp;#x27;s 0.82 and Llama Guard 8B&amp;#x27;s 0.71.The LEC models were able to outperform the other models with only 15 training examples for binary classification and 50 examples for multi-class classification across 66 categories.&lt;p&gt;On prompt injection,LEC models achieved a 0.98 F1 score vs GPT-4o&amp;#x27;s 0.92 and deBERTa v3 Prompt Injection v2&amp;#x27;s 0.73. LEC models were able to outperform deBERTa with only 5 training examples and GPT-4o with only 55 training examples.&lt;p&gt;Read the full paper and our approach here: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;arxiv.org&amp;#x2F;abs&amp;#x2F;2412.13435&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;arxiv.org&amp;#x2F;abs&amp;#x2F;2412.13435&lt;/a&gt;</description>
+      <guid>42463943</guid>
+      <comments>https://news.ycombinator.com/item?id=42463943</comments>
+      <pubDate>Thu, 19 Dec 2024 17:49:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: TideCloak – Decentralized IAM for security and user sovereignty</title>
+      <link>https://github.com/tide-foundation/tidecloak-gettingstarted</link>
+      <description>Hey HN!&lt;p&gt;After 6 years of R&amp;amp;D, our small team is excited to share our project TideCloak - an IAM designed to help developers move fast without worrying about catastrophic breaches or overpowered admins with keys to the kingdom.&lt;p&gt;Traditional IAMs rely on centralized authority - admins, root certificates, and decryption keys - which create glaring vulnerabilities in a breach. To address this, we’ve integrated Keycloak (Red Hat’s IAM) with a decentralized key architecture powered by our (academically validated) Ineffable Cryptography.&lt;p&gt;Here’s the idea: keys are split across a decentralized network (our Cybersecurity Fabric) so no one ever holds the full key. Even in a breach or F$%k up, there’s no unchecked authority exposed.&lt;p&gt;Right now, TideCloak uses the Cybersecurity Fabric as an IdP, meaning users authenticate without their credentials being stored or shared. Essentially, users bring their own authority - without needing to trust anyone else to keep it safe.&lt;p&gt;Coming soon:
+- Identity Governance Administration to prevent super admin abuse.
+- User-sovereign digital assets, where assets are secured with unique decentralized keys to protect against mass breaches.&lt;p&gt;We’ve just launched a free developer sandbox, and we’d love your feedback:
+&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;tide-foundation&amp;#x2F;tidecloak-gettingstarted&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;tide-foundation&amp;#x2F;tidecloak-gettingstarted&lt;/a&gt;&lt;p&gt;It’s still early stages, and your input will help us improve.&lt;p&gt;Thanks for taking a look - ask us anything!</description>
+      <guid>42460131</guid>
+      <comments>https://news.ycombinator.com/item?id=42460131</comments>
+      <pubDate>Thu, 19 Dec 2024 10:17:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>Alignment faking in large language models</title>
+      <link>https://www.anthropic.com/research/alignment-faking</link>
+      <description>No Text</description>
+      <guid>42458752</guid>
+      <comments>https://news.ycombinator.com/item?id=42458752</comments>
+      <pubDate>Thu, 19 Dec 2024 05:43:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>Blackmagic Debuts $30K 3D Camera for Capturing Video for Vision Pro</title>
+      <link>https://www.macrumors.com/2024/12/16/black-magic-3d-vision-pro-camera/</link>
+      <description>No Text</description>
+      <guid>42441502</guid>
+      <comments>https://news.ycombinator.com/item?id=42441502</comments>
+      <pubDate>Tue, 17 Dec 2024 14:18:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Solaar is a Linux manager for many Logitech keyboards, mice, and other devices</title>
+      <link>https://github.com/pwr-Solaar/Solaar</link>
+      <description>No Text</description>
+      <guid>42454359</guid>
+      <comments>https://news.ycombinator.com/item?id=42454359</comments>
+      <pubDate>Wed, 18 Dec 2024 19:57:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Revisiting Stereotype Threat</title>
+      <link>https://www.speakandregret.michaelinzlicht.com/p/revisiting-stereotype-threat</link>
+      <description>No Text</description>
+      <guid>42464138</guid>
+      <comments>https://news.ycombinator.com/item?id=42464138</comments>
+      <pubDate>Thu, 19 Dec 2024 18:08:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>Clay – UI Layout Library</title>
+      <link>https://www.nicbarker.com/clay</link>
+      <description>No Text</description>
+      <guid>42463123</guid>
+      <comments>https://news.ycombinator.com/item?id=42463123</comments>
+      <pubDate>Thu, 19 Dec 2024 16:36:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: CCState is a semantic, strict, and flexible state management library</title>
+      <link>https://github.com/e7h4n/ccstate</link>
+      <description>CCState is a semantic, strict, and flexible state management library suitable for medium to large single-page applications with complex state management needs.&lt;p&gt;The name of CCState comes from three basic data types: computed, command, and state.</description>
+      <guid>42460107</guid>
+      <comments>https://news.ycombinator.com/item?id=42460107</comments>
+      <pubDate>Thu, 19 Dec 2024 10:14:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>An artist who trained rats to trade in foreign-exchange markets (2014)</title>
+      <link>https://www.theatlantic.com/business/archive/2014/10/the-artist-who-trained-rats-to-trade-in-foreign-exchange-markets/381456/</link>
+      <description>No Text</description>
+      <guid>42449424</guid>
+      <comments>https://news.ycombinator.com/item?id=42449424</comments>
+      <pubDate>Wed, 18 Dec 2024 10:29:38 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
