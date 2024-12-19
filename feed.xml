@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Thu, 19 Dec 2024 12:22:39 -0000</lastBuildDate>
+    <item>
+      <title>Developing Developers (2015)</title>
+      <link>https://felleisen.org/matthias/Thoughts/Developing_Developers.html</link>
+      <description>No Text</description>
+      <guid>42440922</guid>
+      <comments>https://news.ycombinator.com/item?id=42440922</comments>
+      <pubDate>Tue, 17 Dec 2024 12:46:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>Blackmagic Debuts $30K 3D Camera for Capturing Video for Vision Pro</title>
+      <link>https://www.macrumors.com/2024/12/16/black-magic-3d-vision-pro-camera/</link>
+      <description>No Text</description>
+      <guid>42441502</guid>
+      <comments>https://news.ycombinator.com/item?id=42441502</comments>
+      <pubDate>Tue, 17 Dec 2024 14:18:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Solaar is a Linux manager for many Logitech keyboards, mice, and other devices</title>
+      <link>https://github.com/pwr-Solaar/Solaar</link>
+      <description>No Text</description>
+      <guid>42454359</guid>
+      <comments>https://news.ycombinator.com/item?id=42454359</comments>
+      <pubDate>Wed, 18 Dec 2024 19:57:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Postgres as a VectorDB GUI</title>
+      <link>https://github.com/Z-Gort/Reservoirs-Lab</link>
+      <description>No Text</description>
+      <guid>42457782</guid>
+      <comments>https://news.ycombinator.com/item?id=42457782</comments>
+      <pubDate>Thu, 19 Dec 2024 02:28:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Markov Keyboard: keyboard layout that changes by Markov frequency (2019)</title>
+      <link>https://github.com/shapr/markovkeyboard</link>
+      <description>No Text</description>
+      <guid>42458599</guid>
+      <comments>https://news.ycombinator.com/item?id=42458599</comments>
+      <pubDate>Thu, 19 Dec 2024 05:12:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Want to book a Ryanair flight? Prepare for a face scan</title>
+      <link>https://noyb.eu/en/want-book-ryanair-flight-prepare-face-scan</link>
+      <description>No Text</description>
+      <guid>42460394</guid>
+      <comments>https://news.ycombinator.com/item?id=42460394</comments>
+      <pubDate>Thu, 19 Dec 2024 11:16:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Borrow Checking, RC, GC, and Eleven Other Memory Safety Approaches</title>
+      <link>https://verdagon.dev/grimoire/grimoire#</link>
+      <description>No Text</description>
+      <guid>42435620</guid>
+      <comments>https://news.ycombinator.com/item?id=42435620</comments>
+      <pubDate>Mon, 16 Dec 2024 21:25:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Firenvim – Turn the browser into a Neovim client</title>
+      <link>https://github.com/glacambre/firenvim</link>
+      <description>No Text</description>
+      <guid>42457816</guid>
+      <comments>https://news.ycombinator.com/item?id=42457816</comments>
+      <pubDate>Thu, 19 Dec 2024 02:34:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>Piccolo OS, a Small Multitasking OS for the Raspberry Pi Pico</title>
+      <link>https://github.com/garyexplains/piccolo_os_v1</link>
+      <description>No Text</description>
+      <guid>42457321</guid>
+      <comments>https://news.ycombinator.com/item?id=42457321</comments>
+      <pubDate>Thu, 19 Dec 2024 01:14:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>ISO 8583: The language of credit cards</title>
+      <link>https://increase.com/articles/iso-8583-the-language-of-credit-cards</link>
+      <description>No Text</description>
+      <guid>42442354</guid>
+      <comments>https://news.ycombinator.com/item?id=42442354</comments>
+      <pubDate>Tue, 17 Dec 2024 15:53:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>Self-sorting arrays reveal unexpected competencies in minimal intelligence</title>
+      <link>https://arxiv.org/abs/2401.05375</link>
+      <description>No Text</description>
+      <guid>42456585</guid>
+      <comments>https://news.ycombinator.com/item?id=42456585</comments>
+      <pubDate>Wed, 18 Dec 2024 23:17:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Our brains create mental &quot;chapters&quot; with new event segmentation study</title>
+      <link>https://www.psypost.org/scientists-sheds-light-on-how-our-brains-create-mental-chapters-with-new-event-segmentation-study/</link>
+      <description>No Text</description>
+      <guid>42421689</guid>
+      <comments>https://news.ycombinator.com/item?id=42421689</comments>
+      <pubDate>Sun, 15 Dec 2024 05:29:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>Exposing the Clearingstelle Urheberrecht Im Internet (CUII)</title>
+      <link>https://damcraft.de/blog/exposing-the-cuii</link>
+      <description>No Text</description>
+      <guid>42457712</guid>
+      <comments>https://news.ycombinator.com/item?id=42457712</comments>
+      <pubDate>Thu, 19 Dec 2024 02:19:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Genesis – a generative physics engine for general-purpose robotics</title>
+      <link>https://genesis-world.readthedocs.io/en/latest/</link>
+      <description>No Text</description>
+      <guid>42457213</guid>
+      <comments>https://news.ycombinator.com/item?id=42457213</comments>
+      <pubDate>Thu, 19 Dec 2024 00:54:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Watch with Android</title>
+      <link>https://abishekmuthian.com/apple-watch-with-android/</link>
+      <description>No Text</description>
+      <guid>42432374</guid>
+      <comments>https://news.ycombinator.com/item?id=42432374</comments>
+      <pubDate>Mon, 16 Dec 2024 16:15:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>The RAM Myth</title>
+      <link>https://purplesyringa.moe/blog/the-ram-myth/</link>
+      <description>No Text</description>
+      <guid>42456310</guid>
+      <comments>https://news.ycombinator.com/item?id=42456310</comments>
+      <pubDate>Wed, 18 Dec 2024 22:43:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Updates to H-1B</title>
+      <link>https://www.uscis.gov/newsroom/news-releases/dhs-strengthens-h-1b-program-allowing-us-employers-to-more-quickly-fill-critical-jobs</link>
+      <description>No Text</description>
+      <guid>42450413</guid>
+      <comments>https://news.ycombinator.com/item?id=42450413</comments>
+      <pubDate>Wed, 18 Dec 2024 13:54:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>Launch HN: Innate (YC F24) – Home robots as easy to program as AI agents</title>
+      <link>https://news.ycombinator.com/item?id=42451707</link>
+      <description>Hey HN! We’re Axel &amp;amp; Vig, the founders of Innate (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;innate.bot&quot;&gt;https:&amp;#x2F;&amp;#x2F;innate.bot&lt;/a&gt;). We build general-purpose home robots that you can teach new tasks to simply by demonstrating them.&lt;p&gt;Our system combines a robotic platform (we call the first one Maurice) with an AI agent that understands the environment, plans actions, and executes them using skills you&amp;#x27;ve taught it or programmed within our SDK.&lt;p&gt;If you’ve been building AI agents powered by LLMs before, and in particular Claude Computer use, this is how we intend the experience of building on it to be, but acting on the real world!&lt;p&gt;You can see Maurice serving a glass here (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;bit.ly&amp;#x2F;innate-hn-vid-serving&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;bit.ly&amp;#x2F;innate-hn-vid-serving&lt;/a&gt;). Here is another example (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;bit.ly&amp;#x2F;innate-hn-vid-officer&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;bit.ly&amp;#x2F;innate-hn-vid-officer&lt;/a&gt;) in which it was given a digital ability (through the SDK) to send a notification to your phone, to use when it sees someone in the house. In both these cases, the only work you have to do is spend 30mn per physical skill to collect data to train the arm, and a couple minutes to write a system prompt.&lt;p&gt;You can read more about how it works, about the paradigm we’re creating and find our Discord in our documentation (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;docs.innate.bot&quot;&gt;https:&amp;#x2F;&amp;#x2F;docs.innate.bot&lt;/a&gt;). We’ll be open-sourcing parts of the system there soon.&lt;p&gt;We want to lower the barrier to entry to robotics. Programming robots is usually complicated, time-consuming, and limited to experts even with AI helping you write code. We think it should be easier.&lt;p&gt;We’re coming from an AI for robotics and HCI background as researchers at Stanford, and we’ve worked on multiple hardware + agentic AI projects this past year, but this one was clearly the most surprising one.&lt;p&gt;The first time we put GPT-4 in a body - after a couple tweaks - we were surprised at how well it worked. The robot started moving around, figuring out when to use a tiny gripper, and we had only written 40 lines of python on a tiny RC car with an arm. We decided to combine that with recent advancements in robot imitation learning such as ALOHA to make the arm quickly teachable to do any task.&lt;p&gt;We think it should be simple to teach robots to do tasks for us. AI agents offer a completely new paradigm for this, easy enough to help many non-roboticists start in the field, but still expandable enough to make a robot able to do very complex tasks.&lt;p&gt;The part of it that excites us most is that for every builder teaching their robot to perform a task, every other robot learns faster and better. We believe that by spreading our platforms as much as possible, we could crowdsource massive and diverse datasets to make robotics foundations models that everyone contributes to.&lt;p&gt;Under the hood, our brain (running in the cloud) uses 9 different models and runs in the cloud. A YOLO, a SAM, and 7 VLMs, from OpenAI, Google, Anthropic, and most importantly a couple Llamas running on groq to make the system think and act faster. Each model has a responsibility. Together, they act as if it was only one model with ability to navigate, talk, memorize and activate skills. As a bonus, since these models keep getting better and smaller, every new release gets our robots smarter and faster!&lt;p&gt;Our first robot Maurice is 25cm-high, has a 5DoF arm, a Jetson Orin Nano onboard, and comes equipped with our software installed and a mobile app to control it. Our first batch of users wants to teach it to clean floors, tidy up after kids, wake them up in the morning, play with them, or be a professional assistant connected to emails and socials. You can go wild quickly!&lt;p&gt;We’re making a small batch available for HackerNews at $2,000 each for early builders who want to experiment, with $50 free of agent per month for a year. You can book one on our website with a (refundable) deposit if you’re in the US. These units will start shipping in March - the first 10 were booked already for February.&lt;p&gt;We’d love your thoughts, experiences, and critiques. If you have ideas on what you’d use a home robot for, or feedback on how to make these systems more accessible, we’re hanging around for the coming hours in the comments. Let us know what you think!</description>
+      <guid>42451707</guid>
+      <comments>https://news.ycombinator.com/item?id=42451707</comments>
+      <pubDate>Wed, 18 Dec 2024 16:09:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Kowloon Walled City: Heterotopia in a Space of Disappearance (2013)</title>
+      <link>https://mascontext.com/issues/trace/kowloon-walled-city-heterotopia-in-a-space-of-disappearance</link>
+      <description>No Text</description>
+      <guid>42425770</guid>
+      <comments>https://news.ycombinator.com/item?id=42425770</comments>
+      <pubDate>Sun, 15 Dec 2024 20:30:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>Alignment faking in large language models</title>
+      <link>https://www.anthropic.com/research/alignment-faking</link>
+      <description>No Text</description>
+      <guid>42458752</guid>
+      <comments>https://news.ycombinator.com/item?id=42458752</comments>
+      <pubDate>Thu, 19 Dec 2024 05:43:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon workers to strike at multiple US warehouses during busy holiday season</title>
+      <link>https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/</link>
+      <description>No Text</description>
+      <guid>42458431</guid>
+      <comments>https://news.ycombinator.com/item?id=42458431</comments>
+      <pubDate>Thu, 19 Dec 2024 04:27:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Moon</title>
+      <link>https://ciechanow.ski/moon/</link>
+      <description>No Text</description>
+      <guid>42443229</guid>
+      <comments>https://news.ycombinator.com/item?id=42443229</comments>
+      <pubDate>Tue, 17 Dec 2024 17:26:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Torpedo juice: Legendary, illegal WWII liquor drunk in Alaska and the world</title>
+      <link>https://www.adn.com/alaska-life/2024/12/15/torpedo-juice-the-legendary-illegal-world-war-ii-liquor-drunk-in-alaska-and-across-the-world/</link>
+      <description>No Text</description>
+      <guid>42438063</guid>
+      <comments>https://news.ycombinator.com/item?id=42438063</comments>
+      <pubDate>Tue, 17 Dec 2024 03:28:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Half My Life with Perl</title>
+      <link>https://perladvent.org/2024/2024-12-19.html</link>
+      <description>No Text</description>
+      <guid>42457182</guid>
+      <comments>https://news.ycombinator.com/item?id=42457182</comments>
+      <pubDate>Thu, 19 Dec 2024 00:49:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Analyzing the World Chess Championship 2024: Empirical synthesized approach</title>
+      <link>https://medium.com/@maxamel2002/2024-world-chess-championship-analysis-empirical-synthesized-approach-98dd79920d2b</link>
+      <description>No Text</description>
+      <guid>42449102</guid>
+      <comments>https://news.ycombinator.com/item?id=42449102</comments>
+      <pubDate>Wed, 18 Dec 2024 09:15:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Embedding Lua in Sqleibniz with Rust</title>
+      <link>https://xnacly.me/posts/2024/embed-lua-in-rust/</link>
+      <description>No Text</description>
+      <guid>42456707</guid>
+      <comments>https://news.ycombinator.com/item?id=42456707</comments>
+      <pubDate>Wed, 18 Dec 2024 23:33:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Khalid Sheldrake: The East Dulwich man who would be King</title>
+      <link>https://www.nationalarchives.gov.uk/20s-people/20sstreets/khalid-sheldrake-the-east-dulwich-man-who-would-be-king/</link>
+      <description>No Text</description>
+      <guid>42449647</guid>
+      <comments>https://news.ycombinator.com/item?id=42449647</comments>
+      <pubDate>Wed, 18 Dec 2024 11:25:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Windshield pitting incidents in Washington reach fever pitch on April 15, 1954 (2003)</title>
+      <link>https://www.historylink.org/File/5136</link>
+      <description>No Text</description>
+      <guid>42454405</guid>
+      <comments>https://news.ycombinator.com/item?id=42454405</comments>
+      <pubDate>Wed, 18 Dec 2024 20:01:18 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
