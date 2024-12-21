@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 21 Dec 2024 18:15:01 -0000</lastBuildDate>
+    <item>
+      <title>Show HN: Eonfall – A new third-person co-op action game built for the web</title>
+      <link>https://eonfall.com</link>
+      <description>Hi all, I&amp;#x27;m excited to share Eonfall with Hacker News Community!&lt;p&gt;It&amp;#x27;s been 2-years in the making built by a 2 man team. Eonfall, is a new third-person co-op action game with rogue-lite elements built exclusively for the web! We&amp;#x27;ve finally reached a release candidate state and set our official public release date for Jan 15th! The game&amp;#x27;s current version 5.0.0-beta is live and available to test play today!&lt;p&gt;Unity game engine was used to develop the game along with other services to handle the backend, and Nuxt 3 + Nuxt UI to handle the front-end.&lt;p&gt;We welcome any and all questions, feedback &amp;amp; suggestions!&lt;p&gt;Thanks all, Jon</description>
+      <guid>42480624</guid>
+      <comments>https://news.ycombinator.com/item?id=42480624</comments>
+      <pubDate>Sat, 21 Dec 2024 16:45:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Query Apple's FindMy Network with Python</title>
+      <link>https://github.com/malmeloo/FindMy.py</link>
+      <description>No Text</description>
+      <guid>42479233</guid>
+      <comments>https://news.ycombinator.com/item?id=42479233</comments>
+      <pubDate>Sat, 21 Dec 2024 12:14:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>Escaping Google's Manual Reputation Penalty and Resuming Business as Usual</title>
+      <link>https://recleudo.com/under-googles-watchfull-eye-getting-out-of-a-manual-site-reputation-abuse-penalty-and-continuing-business-as-usual/</link>
+      <description>No Text</description>
+      <guid>42479866</guid>
+      <comments>https://news.ycombinator.com/item?id=42479866</comments>
+      <pubDate>Sat, 21 Dec 2024 14:24:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing S2</title>
+      <link>https://s2.dev/blog/intro</link>
+      <description>No Text</description>
+      <guid>42480105</guid>
+      <comments>https://news.ycombinator.com/item?id=42480105</comments>
+      <pubDate>Sat, 21 Dec 2024 15:11:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI O3 breakthrough high score on ARC-AGI-PUB</title>
+      <link>https://arcprize.org/blog/oai-o3-pub-breakthrough</link>
+      <description>No Text</description>
+      <guid>42473321</guid>
+      <comments>https://news.ycombinator.com/item?id=42473321</comments>
+      <pubDate>Fri, 20 Dec 2024 18:11:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>An academic Great Gatsby Curve – How much academic success is inherited?</title>
+      <link>https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/21/an-academic-great-gatsby-curve-how-much-academic-success-inherited/</link>
+      <description>No Text</description>
+      <guid>42479958</guid>
+      <comments>https://news.ycombinator.com/item?id=42479958</comments>
+      <pubDate>Sat, 21 Dec 2024 14:42:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Kannel: Open-Source WAP and SMS Gateway</title>
+      <link>https://www.kannel.org/overview.shtml</link>
+      <description>No Text</description>
+      <guid>42478728</guid>
+      <comments>https://news.ycombinator.com/item?id=42478728</comments>
+      <pubDate>Sat, 21 Dec 2024 10:15:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers discover new ocean predator in the Atacama Trench</title>
+      <link>https://phys.org/news/2024-12-ocean-predator-atacama-trench.html</link>
+      <description>No Text</description>
+      <guid>42445102</guid>
+      <comments>https://news.ycombinator.com/item?id=42445102</comments>
+      <pubDate>Tue, 17 Dec 2024 20:42:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>Is stuff online worth saving?</title>
+      <link>https://rubenerd.com/is-it-worth-saving/</link>
+      <description>No Text</description>
+      <guid>42441609</guid>
+      <comments>https://news.ycombinator.com/item?id=42441609</comments>
+      <pubDate>Tue, 17 Dec 2024 14:31:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Building Effective &quot;Agents&quot;</title>
+      <link>https://www.anthropic.com/research/building-effective-agents</link>
+      <description>No Text</description>
+      <guid>42470541</guid>
+      <comments>https://news.ycombinator.com/item?id=42470541</comments>
+      <pubDate>Fri, 20 Dec 2024 12:29:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Grayjay Desktop App</title>
+      <link>https://grayjay.app/desktop/</link>
+      <description>No Text</description>
+      <guid>42473032</guid>
+      <comments>https://news.ycombinator.com/item?id=42473032</comments>
+      <pubDate>Fri, 20 Dec 2024 17:33:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Compiling C to Safe Rust, Formalized</title>
+      <link>https://arxiv.org/abs/2412.15042</link>
+      <description>No Text</description>
+      <guid>42476192</guid>
+      <comments>https://news.ycombinator.com/item?id=42476192</comments>
+      <pubDate>Fri, 20 Dec 2024 23:30:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>When Two Hemispheres Collide: Where to Now for Rewilding in Ireland?</title>
+      <link>https://worldsensorium.com/when-two-hemispheres-collide-where-to-now-for-rewilding-in-ireland/</link>
+      <description>No Text</description>
+      <guid>42449951</guid>
+      <comments>https://news.ycombinator.com/item?id=42449951</comments>
+      <pubDate>Wed, 18 Dec 2024 12:32:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Group Argues to Save Haiku Stairs for Historic Preservation Reasons</title>
+      <link>https://www.civilbeat.org/2024/05/group-argues-to-save-haiku-stairs-for-historic-preservation-reasons/</link>
+      <description>No Text</description>
+      <guid>42449026</guid>
+      <comments>https://news.ycombinator.com/item?id=42449026</comments>
+      <pubDate>Wed, 18 Dec 2024 08:53:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>The era of open voice assistants</title>
+      <link>https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/</link>
+      <description>No Text</description>
+      <guid>42467194</guid>
+      <comments>https://news.ycombinator.com/item?id=42467194</comments>
+      <pubDate>Fri, 20 Dec 2024 00:29:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>A Raycaster in Bash</title>
+      <link>https://github.com/izabera/pseudo3d</link>
+      <description>No Text</description>
+      <guid>42475703</guid>
+      <comments>https://news.ycombinator.com/item?id=42475703</comments>
+      <pubDate>Fri, 20 Dec 2024 22:25:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Artemis, a Calm Web Reader</title>
+      <link>https://artemis.jamesg.blog/</link>
+      <description>Earlier this year, I made a web reader that only showed a list of post titles, author domains, and links. The reader only updated once per day, so I wouldn&amp;#x27;t feel compelled to keep checking for new posts.&lt;p&gt;I have been using the tool, which I called Artemis, for several months. Every morning, I looked forward to my &amp;quot;morning paper&amp;quot; of blogs I love reading.&lt;p&gt;There are no notifications, read vs. unread states, counts of posts, etc. Only the last seven days of posts are available. The colour scheme is changeable. Dark mode is supported. All popular feed formats are supported.&lt;p&gt;There is no reading interface to read blog posts; rather, the links take you to the authors&amp;#x27; websites. Many of my favourite bloggers put a lot of effort into the design of their blogs and like to change things up; I wanted an experience that embraced that.&lt;p&gt;The reader is now available for anyone to use (with invite code &amp;quot;hn&amp;quot;).</description>
+      <guid>42471913</guid>
+      <comments>https://news.ycombinator.com/item?id=42471913</comments>
+      <pubDate>Fri, 20 Dec 2024 15:28:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>MoonBit compiler is available on GitHub</title>
+      <link>https://www.moonbitlang.com/blog/compiler-opensource</link>
+      <description>No Text</description>
+      <guid>42450274</guid>
+      <comments>https://news.ycombinator.com/item?id=42450274</comments>
+      <pubDate>Wed, 18 Dec 2024 13:30:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>Tldraw Computer</title>
+      <link>https://computer.tldraw.com</link>
+      <description>No Text</description>
+      <guid>42469074</guid>
+      <comments>https://news.ycombinator.com/item?id=42469074</comments>
+      <pubDate>Fri, 20 Dec 2024 07:42:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Boardgame.io: an engine for creating turn-based games using JavaScript</title>
+      <link>https://github.com/boardgameio/boardgame.io</link>
+      <description>No Text</description>
+      <guid>42449497</guid>
+      <comments>https://news.ycombinator.com/item?id=42449497</comments>
+      <pubDate>Wed, 18 Dec 2024 10:50:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>Relational Lisp – AP5</title>
+      <link>https://www.ap5.com/ap5-man.html</link>
+      <description>No Text</description>
+      <guid>42450223</guid>
+      <comments>https://news.ycombinator.com/item?id=42450223</comments>
+      <pubDate>Wed, 18 Dec 2024 13:21:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>A bestiary of exotic hadrons</title>
+      <link>https://cerncourier.com/a-bestiary-of-exotic-hadrons/</link>
+      <description>No Text</description>
+      <guid>42471927</guid>
+      <comments>https://news.ycombinator.com/item?id=42471927</comments>
+      <pubDate>Fri, 20 Dec 2024 15:29:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ghost artists on Spotify</title>
+      <link>https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/</link>
+      <description>No Text</description>
+      <guid>42461530</guid>
+      <comments>https://news.ycombinator.com/item?id=42461530</comments>
+      <pubDate>Thu, 19 Dec 2024 14:12:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: celine/bibhtml: a Web Components referencing system for HTML documents</title>
+      <link>https://maxbo.me/celine/bibhtml/</link>
+      <description>No Text</description>
+      <guid>42450232</guid>
+      <comments>https://news.ycombinator.com/item?id=42450232</comments>
+      <pubDate>Wed, 18 Dec 2024 13:23:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>A Gentle Introduction to Graph Neural Networks (2021)</title>
+      <link>https://distill.pub/2021/gnn-intro/</link>
+      <description>No Text</description>
+      <guid>42468214</guid>
+      <comments>https://news.ycombinator.com/item?id=42468214</comments>
+      <pubDate>Fri, 20 Dec 2024 04:10:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Parker Solar Probe will make its closest approach yet to the Sun</title>
+      <link>https://arstechnica.com/space/2024/12/were-about-to-fly-a-spacecraft-into-the-sun-for-the-first-time/</link>
+      <description>No Text</description>
+      <guid>42470202</guid>
+      <comments>https://news.ycombinator.com/item?id=42470202</comments>
+      <pubDate>Fri, 20 Dec 2024 11:23:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>A 10-Year Battery for AirTag</title>
+      <link>https://www.elevationlab.com/blogs/news/introducing-timecapsule</link>
+      <description>No Text</description>
+      <guid>42453207</guid>
+      <comments>https://news.ycombinator.com/item?id=42453207</comments>
+      <pubDate>Wed, 18 Dec 2024 18:17:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Kelly Can't Fail</title>
+      <link>https://win-vector.com/2024/12/19/kelly-cant-fail/</link>
+      <description>No Text</description>
+      <guid>42466676</guid>
+      <comments>https://news.ycombinator.com/item?id=42466676</comments>
+      <pubDate>Thu, 19 Dec 2024 23:07:15 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
