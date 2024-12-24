@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Tue, 24 Dec 2024 21:10:57 -0000</lastBuildDate>
+    <item>
+      <title>Cerebrum: Simulate and infer synaptic connectivity in large-scale brain networks</title>
+      <link>https://svbrain.xyz/2024/12/20/cerebrum</link>
+      <description>No Text</description>
+      <guid>42503696</guid>
+      <comments>https://news.ycombinator.com/item?id=42503696</comments>
+      <pubDate>Tue, 24 Dec 2024 18:14:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Masks, Smoke, and Mirrors: The untold story of EgyptAir flight 804</title>
+      <link>https://admiralcloudberg.medium.com/masks-smoke-and-mirrors-the-untold-story-of-egyptair-flight-804-42c788fcac2d</link>
+      <description>No Text</description>
+      <guid>42504343</guid>
+      <comments>https://news.ycombinator.com/item?id=42504343</comments>
+      <pubDate>Tue, 24 Dec 2024 19:39:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Adversarial policies beat superhuman Go AIs (2023)</title>
+      <link>https://arxiv.org/abs/2211.00241</link>
+      <description>No Text</description>
+      <guid>42494127</guid>
+      <comments>https://news.ycombinator.com/item?id=42494127</comments>
+      <pubDate>Mon, 23 Dec 2024 13:10:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Saving Nanocap Speculators from Themselves</title>
+      <link>https://nyuu.page/essays/solidity/</link>
+      <description>No Text</description>
+      <guid>42476700</guid>
+      <comments>https://news.ycombinator.com/item?id=42476700</comments>
+      <pubDate>Sat, 21 Dec 2024 01:10:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>What would it take to add refinement types to Rust?</title>
+      <link>https://yoric.github.io/post/rust-refinement-types/</link>
+      <description>No Text</description>
+      <guid>42493027</guid>
+      <comments>https://news.ycombinator.com/item?id=42493027</comments>
+      <pubDate>Mon, 23 Dec 2024 09:15:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>On the nature of computing science (1984)</title>
+      <link>https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD896.html</link>
+      <description>No Text</description>
+      <guid>42493808</guid>
+      <comments>https://news.ycombinator.com/item?id=42493808</comments>
+      <pubDate>Mon, 23 Dec 2024 12:03:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Electric Cars Could Last Much Longer Than You Think</title>
+      <link>https://www.wired.com/story/electric-cars-could-last-much-longer-than-most-think/</link>
+      <description>No Text</description>
+      <guid>42504164</guid>
+      <comments>https://news.ycombinator.com/item?id=42504164</comments>
+      <pubDate>Tue, 24 Dec 2024 19:15:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>What happened to the world's largest tube TV? [video]</title>
+      <link>https://www.youtube.com/watch?v=JfZxOuc9Qwk</link>
+      <description>No Text</description>
+      <guid>42497093</guid>
+      <comments>https://news.ycombinator.com/item?id=42497093</comments>
+      <pubDate>Mon, 23 Dec 2024 19:49:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>Hoarder: Self-hostable bookmark-everything app</title>
+      <link>https://github.com/hoarder-app/hoarder</link>
+      <description>No Text</description>
+      <guid>42485746</guid>
+      <comments>https://news.ycombinator.com/item?id=42485746</comments>
+      <pubDate>Sun, 22 Dec 2024 11:34:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Making AMD GPUs competitive for LLM inference (2023)</title>
+      <link>https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference</link>
+      <description>No Text</description>
+      <guid>42498634</guid>
+      <comments>https://news.ycombinator.com/item?id=42498634</comments>
+      <pubDate>Tue, 24 Dec 2024 00:17:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Build a Low-Cost Drone Using ESP32</title>
+      <link>https://www.digikey.com/en/maker/projects/a-step-by-step-guide-to-build-a-low-cost-drone-using-esp32/8afccd0690574bcebfa0d2ad6fd0a391</link>
+      <description>No Text</description>
+      <guid>42498648</guid>
+      <comments>https://news.ycombinator.com/item?id=42498648</comments>
+      <pubDate>Tue, 24 Dec 2024 00:20:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>The fair dreamed up by art legends – unsealed after 44 years</title>
+      <link>https://www.bbc.co.uk/news/articles/cly4q9d5vx8o</link>
+      <description>No Text</description>
+      <guid>42492506</guid>
+      <comments>https://news.ycombinator.com/item?id=42492506</comments>
+      <pubDate>Mon, 23 Dec 2024 07:22:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>In Maine, remote jobs give prisoners a lifeline</title>
+      <link>https://www.bostonglobe.com/2024/12/24/metro/maine-prison-remote-jobs-mountain-view-correctional-facility/</link>
+      <description>No Text</description>
+      <guid>42503258</guid>
+      <comments>https://news.ycombinator.com/item?id=42503258</comments>
+      <pubDate>Tue, 24 Dec 2024 17:16:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>Four limitations of Rust's borrow checker</title>
+      <link>https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html</link>
+      <description>No Text</description>
+      <guid>42485536</guid>
+      <comments>https://news.ycombinator.com/item?id=42485536</comments>
+      <pubDate>Sun, 22 Dec 2024 10:33:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Demystifying Debuggers, Part 2: The Anatomy of a Running Program</title>
+      <link>https://www.rfleury.com/p/demystifying-debuggers-part-2-the</link>
+      <description>No Text</description>
+      <guid>42498982</guid>
+      <comments>https://news.ycombinator.com/item?id=42498982</comments>
+      <pubDate>Tue, 24 Dec 2024 01:33:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>Tokyo released point cloud data of the entire city for free</title>
+      <link>https://twitter.com/spatiallyjess/status/1871342549958537326</link>
+      <description>No Text</description>
+      <guid>42501102</guid>
+      <comments>https://news.ycombinator.com/item?id=42501102</comments>
+      <pubDate>Tue, 24 Dec 2024 10:51:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Can AI do maths yet? Thoughts from a mathematician</title>
+      <link>https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/</link>
+      <description>No Text</description>
+      <guid>42493464</guid>
+      <comments>https://news.ycombinator.com/item?id=42493464</comments>
+      <pubDate>Mon, 23 Dec 2024 10:50:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Programmers who don't use autocomplete/LSP, how do you do it?</title>
+      <link>https://news.ycombinator.com/item?id=42492508</link>
+      <description>I am totally fascinated by programmers who don&amp;#x27;t use many of the IDE features I take for granted today: autocomplete, language servers, and recently copilot&lt;p&gt;So to the devs who don&amp;#x27;t use these tools, how do you do it? Do you just remember every type and field in a codebase? What does your flow look like?&lt;p&gt;One example is that I cannot live without the language server go-to-definition feature. What do you do if you need to look up the definition&amp;#x2F;implementation of some function which is in some other file?</description>
+      <guid>42492508</guid>
+      <comments>https://news.ycombinator.com/item?id=42492508</comments>
+      <pubDate>Mon, 23 Dec 2024 07:23:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>More men are addicted to the 'crack cocaine' of the stock market</title>
+      <link>https://www.wsj.com/finance/stocks/stock-market-trading-apps-addiction-afecb07a</link>
+      <description>No Text</description>
+      <guid>42468255</guid>
+      <comments>https://news.ycombinator.com/item?id=42468255</comments>
+      <pubDate>Fri, 20 Dec 2024 04:21:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Automating the search for artificial life with foundation models</title>
+      <link>https://sakana.ai/asal/</link>
+      <description>No Text</description>
+      <guid>42499332</guid>
+      <comments>https://news.ycombinator.com/item?id=42499332</comments>
+      <pubDate>Tue, 24 Dec 2024 02:47:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>My Colleague Julius</title>
+      <link>https://ploum.net/2024-12-23-julius-en.html</link>
+      <description>No Text</description>
+      <guid>42494090</guid>
+      <comments>https://news.ycombinator.com/item?id=42494090</comments>
+      <pubDate>Mon, 23 Dec 2024 13:03:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Complete decompilation of Lego Island</title>
+      <link>https://github.com/isledecomp/isle</link>
+      <description>No Text</description>
+      <guid>42497173</guid>
+      <comments>https://news.ycombinator.com/item?id=42497173</comments>
+      <pubDate>Mon, 23 Dec 2024 20:03:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>Parsing millions of URLs per Second (2023)</title>
+      <link>https://onlinelibrary.wiley.com/doi/10.1002/spe.3296</link>
+      <description>No Text</description>
+      <guid>42498514</guid>
+      <comments>https://news.ycombinator.com/item?id=42498514</comments>
+      <pubDate>Mon, 23 Dec 2024 23:48:08 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
