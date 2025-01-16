@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Thu, 16 Jan 2025 06:16:20 -0000</lastBuildDate>
+    <item>
+      <title>Intel's Tofino P4 Software Is Now Open Source</title>
+      <link>https://p4.org/intels-tofino-p4-software-is-now-open-source/</link>
+      <description>No Text</description>
+      <guid>42721442</guid>
+      <comments>https://news.ycombinator.com/item?id=42721442</comments>
+      <pubDate>Thu, 16 Jan 2025 05:00:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>100x defect tolerance: How we solved the yield problem</title>
+      <link>https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem</link>
+      <description>No Text</description>
+      <guid>42717165</guid>
+      <comments>https://news.ycombinator.com/item?id=42717165</comments>
+      <pubDate>Wed, 15 Jan 2025 21:19:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Why is Cloudflare Pages' bandwidth unlimited?</title>
+      <link>https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/</link>
+      <description>No Text</description>
+      <guid>42712433</guid>
+      <comments>https://news.ycombinator.com/item?id=42712433</comments>
+      <pubDate>Wed, 15 Jan 2025 15:55:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>My 3D SWE Portfolio - Built with React Three Fiber.</title>
+      <link>https://dement.dev</link>
+      <description>No Text</description>
+      <guid>42677728</guid>
+      <comments>https://news.ycombinator.com/item?id=42677728</comments>
+      <pubDate>Sun, 12 Jan 2025 22:41:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Google is making AI in Gmail and Docs free, but raising the price of Workspace</title>
+      <link>https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free</link>
+      <description>No Text</description>
+      <guid>42710978</guid>
+      <comments>https://news.ycombinator.com/item?id=42710978</comments>
+      <pubDate>Wed, 15 Jan 2025 14:15:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ropey – A UTF8 text rope for manipulating and editing large text</title>
+      <link>https://github.com/cessen/ropey</link>
+      <description>No Text</description>
+      <guid>42711966</guid>
+      <comments>https://news.ycombinator.com/item?id=42711966</comments>
+      <pubDate>Wed, 15 Jan 2025 15:27:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>dnSpyEx: .NET debugger and assembly editor</title>
+      <link>https://github.com/dnSpyEx/dnSpy</link>
+      <description>No Text</description>
+      <guid>42716072</guid>
+      <comments>https://news.ycombinator.com/item?id=42716072</comments>
+      <pubDate>Wed, 15 Jan 2025 19:54:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Lambda Calculus in 383 Bytes (2022)</title>
+      <link>https://justine.lol/lambda/</link>
+      <description>No Text</description>
+      <guid>42679191</guid>
+      <comments>https://news.ycombinator.com/item?id=42679191</comments>
+      <pubDate>Mon, 13 Jan 2025 01:53:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Software Folklore</title>
+      <link>http://beza1e1.tuxen.de/lore/index.html</link>
+      <description>No Text</description>
+      <guid>42673766</guid>
+      <comments>https://news.ycombinator.com/item?id=42673766</comments>
+      <pubDate>Sun, 12 Jan 2025 14:27:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic achieves ISO 42001 certification for responsible AI</title>
+      <link>https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai</link>
+      <description>No Text</description>
+      <guid>42721460</guid>
+      <comments>https://news.ycombinator.com/item?id=42721460</comments>
+      <pubDate>Thu, 16 Jan 2025 05:02:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Why is Ashburn the data center capital of the world?</title>
+      <link>https://www.datacenters.com/news/why-is-ashburn-the-data-center-capital-of-the-world</link>
+      <description>No Text</description>
+      <guid>42684128</guid>
+      <comments>https://news.ycombinator.com/item?id=42684128</comments>
+      <pubDate>Mon, 13 Jan 2025 15:03:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>Nobody cares</title>
+      <link>https://grantslatton.com/nobody-cares</link>
+      <description>No Text</description>
+      <guid>42707238</guid>
+      <comments>https://news.ycombinator.com/item?id=42707238</comments>
+      <pubDate>Wed, 15 Jan 2025 04:15:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Apache DataFusion</title>
+      <link>https://datafusion.apache.org/</link>
+      <description>No Text</description>
+      <guid>42675804</guid>
+      <comments>https://news.ycombinator.com/item?id=42675804</comments>
+      <pubDate>Sun, 12 Jan 2025 18:53:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Modern JavaScript for Django developers</title>
+      <link>https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/</link>
+      <description>No Text</description>
+      <guid>42711387</guid>
+      <comments>https://news.ycombinator.com/item?id=42711387</comments>
+      <pubDate>Wed, 15 Jan 2025 14:49:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Israel, Hamas reach ceasefire deal to end 15 months of war in Gaza</title>
+      <link>https://www.reuters.com/world/middle-east/gaza-ceasefire-appears-close-us-egyptian-leaders-put-focus-coming-hours-2025-01-14/</link>
+      <description>No Text</description>
+      <guid>42716440</guid>
+      <comments>https://news.ycombinator.com/item?id=42716440</comments>
+      <pubDate>Wed, 15 Jan 2025 20:26:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Titans: Learning to Memorize at Test Time</title>
+      <link>https://arxiv.org/abs/2501.00663</link>
+      <description>No Text</description>
+      <guid>42718166</guid>
+      <comments>https://news.ycombinator.com/item?id=42718166</comments>
+      <pubDate>Wed, 15 Jan 2025 22:39:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Byte Queue Limits – The unauthorized biography</title>
+      <link>https://medium.com/@tom_84912/byte-queue-limits-the-unauthorized-biography-61adc5730b83</link>
+      <description>No Text</description>
+      <guid>42694348</guid>
+      <comments>https://news.ycombinator.com/item?id=42694348</comments>
+      <pubDate>Tue, 14 Jan 2025 06:25:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Sweden brings more books and handwriting practice back to its schools (2023)</title>
+      <link>https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4</link>
+      <description>No Text</description>
+      <guid>42715841</guid>
+      <comments>https://news.ycombinator.com/item?id=42715841</comments>
+      <pubDate>Wed, 15 Jan 2025 19:34:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Sky-scanning complete for Gaia</title>
+      <link>https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia</link>
+      <description>No Text</description>
+      <guid>42709105</guid>
+      <comments>https://news.ycombinator.com/item?id=42709105</comments>
+      <pubDate>Wed, 15 Jan 2025 09:43:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Empirical Health (YC S23) is hiring interns to build data-driven primary care</title>
+      <link>https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025</link>
+      <description>No Text</description>
+      <guid>42716903</guid>
+      <comments>https://news.ycombinator.com/item?id=42716903</comments>
+      <pubDate>Wed, 15 Jan 2025 21:00:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>TikTok preparing for U.S. shut-off on Sunday</title>
+      <link>https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/</link>
+      <description>No Text</description>
+      <guid>42710339</guid>
+      <comments>https://news.ycombinator.com/item?id=42710339</comments>
+      <pubDate>Wed, 15 Jan 2025 12:57:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>Homomorphic encryption in iOS 18</title>
+      <link>https://boehs.org/node/homomorphic-encryption</link>
+      <description>No Text</description>
+      <guid>42666959</guid>
+      <comments>https://news.ycombinator.com/item?id=42666959</comments>
+      <pubDate>Sat, 11 Jan 2025 16:35:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Take the pedals off the bike</title>
+      <link>https://www.fortressofdoors.com/take-the-pedals-off-the-bike/</link>
+      <description>No Text</description>
+      <guid>42697467</guid>
+      <comments>https://news.ycombinator.com/item?id=42697467</comments>
+      <pubDate>Tue, 14 Jan 2025 14:17:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>Sutton Hoo and Syria: Anglo-Saxons who served in the Byzantine army?</title>
+      <link>https://academic.oup.com/ehr/advance-article/doi/10.1093/ehr/ceae213/7941799</link>
+      <description>No Text</description>
+      <guid>42680002</guid>
+      <comments>https://news.ycombinator.com/item?id=42680002</comments>
+      <pubDate>Mon, 13 Jan 2025 04:10:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Imaging mounted disk volumes under duress (2021)</title>
+      <link>https://blog.benjojo.co.uk/post/imaging-mounted-disk-volumes-live</link>
+      <description>No Text</description>
+      <guid>42673171</guid>
+      <comments>https://news.ycombinator.com/item?id=42673171</comments>
+      <pubDate>Sun, 12 Jan 2025 12:41:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Is WebAssembly Memory64 worth using?</title>
+      <link>https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html</link>
+      <description>No Text</description>
+      <guid>42720361</guid>
+      <comments>https://news.ycombinator.com/item?id=42720361</comments>
+      <pubDate>Thu, 16 Jan 2025 02:36:45 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
