@@ -1,0 +1,207 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Tue, 21 Jan 2025 15:12:37 -0000</lastBuildDate>
+    <item>
+      <title>Show HN: Printercow – Turn any thermal printer into an API endpoint</title>
+      <link>https://www.printercow.com/</link>
+      <description>I&amp;#x27;ve always been fascinated by thermal printers – there&amp;#x27;s something magical about seeing text and images materialize on paper in seconds. But I found that working with them programmatically was always a pain. You either had to deal with ancient printer protocols or use clunky vendor-specific SDKs.
+So I built Printercow (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;printercow.com&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;printercow.com&lt;/a&gt;) – it turns any thermal printer into an HTTP endpoint with just one command.&lt;p&gt;Technical details:
+- Supports any ESC&amp;#x2F;POS compatible printer (Epson, Star Micronics, etc.)
+- Handles paper widths from 58mm to 120mm
+- Automatic image dithering and scaling
+- Built-in failover protection for high-volume scenarios&lt;p&gt;Don&amp;#x27;t have a printer yet but want to try it out? I&amp;#x27;ve got you covered! When you sign-up you get 300 free prints and you can watch your creations come to life on my printer via Twitch live stream (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;twitch.tv&amp;#x2F;printercow&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;twitch.tv&amp;#x2F;printercow&lt;/a&gt;). Perfect for testing your integration before committing to hardware.&lt;p&gt;I&amp;#x27;m particularly excited about the AI integration possibilities. Instead of yet another chat interface, you can have AI generate content that exists in the physical world – artwork, poems, todo lists, custom receipts, etc.&lt;p&gt;Would love to hear your thoughts, feature requests, or creative use cases you can think of! Also happy to answer any technical questions about the implementation.</description>
+      <guid>42778771</guid>
+      <comments>https://news.ycombinator.com/item?id=42778771</comments>
+      <pubDate>Tue, 21 Jan 2025 11:06:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Kimi K1.5: Scaling Reinforcement Learning with LLMs</title>
+      <link>https://github.com/MoonshotAI/Kimi-k1.5</link>
+      <description>No Text</description>
+      <guid>42777857</guid>
+      <comments>https://news.ycombinator.com/item?id=42777857</comments>
+      <pubDate>Tue, 21 Jan 2025 08:53:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek-R1</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-R1</link>
+      <description>No Text</description>
+      <guid>42768072</guid>
+      <comments>https://news.ycombinator.com/item?id=42768072</comments>
+      <pubDate>Mon, 20 Jan 2025 12:37:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Amurex – An open source AI meeting copilot</title>
+      <link>https://sansyrox.github.io/amurex_ce/</link>
+      <description>No Text</description>
+      <guid>42779378</guid>
+      <comments>https://news.ycombinator.com/item?id=42779378</comments>
+      <pubDate>Tue, 21 Jan 2025 12:29:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Reverse engineering Call of Duty anti-cheat</title>
+      <link>https://ssno.cc/posts/reversing-tac-1-4-2025/</link>
+      <description>No Text</description>
+      <guid>42774221</guid>
+      <comments>https://news.ycombinator.com/item?id=42774221</comments>
+      <pubDate>Mon, 20 Jan 2025 23:07:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>Mixxx: GPL DJ Software</title>
+      <link>https://mixxx.org/</link>
+      <description>No Text</description>
+      <guid>42769871</guid>
+      <comments>https://news.ycombinator.com/item?id=42769871</comments>
+      <pubDate>Mon, 20 Jan 2025 15:53:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>417-megapixel Andromeda galaxy panorama took over a decade to make</title>
+      <link>https://petapixel.com/2025/01/16/417-megapixel-andromeda-galaxy-panorama-took-over-a-decade-to-make/</link>
+      <description>No Text</description>
+      <guid>42733654</guid>
+      <comments>https://news.ycombinator.com/item?id=42733654</comments>
+      <pubDate>Fri, 17 Jan 2025 03:03:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Sonnenschein-Mantel-Debreu Results After Thirty Years</title>
+      <link>https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=203ee701ee9833364eb551c342bb4b0a120f937e</link>
+      <description>No Text</description>
+      <guid>42752637</guid>
+      <comments>https://news.ycombinator.com/item?id=42752637</comments>
+      <pubDate>Sun, 19 Jan 2025 00:38:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA</title>
+      <link>https://news.ycombinator.com/item?id=42770125</link>
+      <description>I&amp;#x27;ll be here for the next 3 hours and then again at around 4 pm EST for another 3 hours. As usual, there are many possible topics and I&amp;#x27;ll be guided by whatever you&amp;#x27;re concerned with but as much as possible - because we&amp;#x27;ve received so many questions about this the past few months - I&amp;#x27;d like to focus on the impact of the new administration on U.S. immigration law and policy. Please remember that I can&amp;#x27;t provide legal advice on specific cases for liability reasons because I won&amp;#x27;t have access to all the facts. Please stick to a factual discussion in your questions and comments and I&amp;#x27;ll try to do the same in my answers. Thanks!&lt;p&gt;Edit: Thank you again for the great questions and discussion. I&amp;#x27;m taking a break now and will return in about an hour. If I miss any questions before the AMA ends today, I&amp;#x27;ll do my best to respond tomorrow</description>
+      <guid>42770125</guid>
+      <comments>https://news.ycombinator.com/item?id=42770125</comments>
+      <pubDate>Mon, 20 Jan 2025 16:20:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>Regency Sex Ed: How did women in 19th C. Europe learn about the birds and bees?</title>
+      <link>https://www.historynewsnetwork.org/article/regency-sex-ed</link>
+      <description>No Text</description>
+      <guid>42739597</guid>
+      <comments>https://news.ycombinator.com/item?id=42739597</comments>
+      <pubDate>Fri, 17 Jan 2025 16:22:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Fixing a uname bug (Apache NuttX RTOS)</title>
+      <link>https://lupyuen.org/articles/uname.html</link>
+      <description>No Text</description>
+      <guid>42751785</guid>
+      <comments>https://news.ycombinator.com/item?id=42751785</comments>
+      <pubDate>Sat, 18 Jan 2025 22:03:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car</title>
+      <link>https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/</link>
+      <description>No Text</description>
+      <guid>42767584</guid>
+      <comments>https://news.ycombinator.com/item?id=42767584</comments>
+      <pubDate>Mon, 20 Jan 2025 11:33:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>SRCL: Open-source React project to build web apps with terminal aesthetics</title>
+      <link>https://www.sacred.computer</link>
+      <description>No Text</description>
+      <guid>42754305</guid>
+      <comments>https://news.ycombinator.com/item?id=42754305</comments>
+      <pubDate>Sun, 19 Jan 2025 06:28:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>I am (not) a failure: Lessons learned from six failed startup attempts</title>
+      <link>http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html</link>
+      <description>No Text</description>
+      <guid>42771676</guid>
+      <comments>https://news.ycombinator.com/item?id=42771676</comments>
+      <pubDate>Mon, 20 Jan 2025 18:40:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Unlink vs. DEL – A deep dive into how it works internally in Redis</title>
+      <link>https://www.pankajtanwar.in/blog/unlink-vs-del-a-deep-dive-into-how-it-works-internally-in-redis</link>
+      <description>No Text</description>
+      <guid>42754345</guid>
+      <comments>https://news.ycombinator.com/item?id=42754345</comments>
+      <pubDate>Sun, 19 Jan 2025 06:34:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Celestial Navigation for Drones</title>
+      <link>https://www.mdpi.com/2504-446X/8/11/652</link>
+      <description>No Text</description>
+      <guid>42767797</guid>
+      <comments>https://news.ycombinator.com/item?id=42767797</comments>
+      <pubDate>Mon, 20 Jan 2025 12:02:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Guitar chord karaoke with Vamp, Chordino, and FFmpeg (2022)</title>
+      <link>https://dylanbeattie.net/2022/09/19/the-road-to-guitaraoke-part-1-vamp-chordino-imagesharp-ffmpeg.html</link>
+      <description>No Text</description>
+      <guid>42738143</guid>
+      <comments>https://news.ycombinator.com/item?id=42738143</comments>
+      <pubDate>Fri, 17 Jan 2025 14:56:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Zork: The Great Inner Workings (2020)</title>
+      <link>https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc</link>
+      <description>No Text</description>
+      <guid>42767132</guid>
+      <comments>https://news.ycombinator.com/item?id=42767132</comments>
+      <pubDate>Mon, 20 Jan 2025 10:23:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Personalized Duolingo (kind of) for vocabulary building</title>
+      <link>https://github.com/baturyilmaz/wordpecker-app</link>
+      <description>Hi! Wanted to share the project I really wanted to have. TLDR; this app lets you create your own list of words and you get a Duolingo-like experience (kind of, still needs a lot of features) practicing those words in their context.&lt;p&gt;My English is not the best but not the worst either. But I realized I can&amp;#x27;t boost it up after a certain level! In my belief, in order to truly learn a language, you need to be exposed to that language often. Vocabulary is the key factor here if you really want to improve in any language.&lt;p&gt;My experience is that when I read a book to improve my English vocabulary, I encounter words that I don&amp;#x27;t know so often and my reading gets disturbed. I go look for the meaning, come back, put it in context, re-read it, etc. It didn&amp;#x27;t work for me. So I tried listening to audiobooks - I listen to the book and read along, and whenever I encounter a word, I write it down. I get these 50 words in 2-3 pages and I ask ChatGPT to give me their meanings. I read them, take the book, and now read it myself. That helps for sure, but still after a while I lose those words because I never encounter them again. Well then, in order to not forget those words, I need some kind of exercise, right? A flashcard app maybe? Well, I still need to go out there, ask ChatGPT to create questions, put them in a flashcard app, etc. It&amp;#x27;s still time-consuming and this is supposed to be fun!&lt;p&gt;I need to be exposed to English in my daily life. I just need to save the words somewhere and whenever I want, I need to be able to practice them in a fun way, in Duolingo style maybe? So then I realized would it be better to store words in their own context? I mean, say I read Harry Potter and have a list of words I encountered in it, say I watch Breaking Bad and have a list of words I encountered watching it. I believe seeing those words together and practicing together makes it easier to remember them.&lt;p&gt;But I shouldn&amp;#x27;t be the one adding the meaning of the word and the one to generate exercises, right? It all should be automated. The exercise part will be handled by LLM for sure, but for the meaning of the word, I can fetch from a dictionary? But I really don&amp;#x27;t like the dictionary definitions and one word can have multiple meanings in their own context. So then I need to use LLM for this task too and have the word&amp;#x27;s meaning in its own context.&lt;p&gt;You create a list for your context, you add words, meanings get added automatically, and I see the word added in a different color (coloring is also a method used to remember words). It all takes seconds. And whenever I want to practice these lists, I can use learn mode to learn and test my knowledge in quiz mode. So I basically built this app ((thanks to Claude 3.5 Sonnet)). I want it to be like Duolingo, but of course I still have a way ahead to go, but wanted to share it in hopes of getting contributors.&lt;p&gt;You can read more in the repository. I would love to get your thoughts on this.</description>
+      <guid>42770200</guid>
+      <comments>https://news.ycombinator.com/item?id=42770200</comments>
+      <pubDate>Mon, 20 Jan 2025 16:27:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>ROCm Device Support Wishlist</title>
+      <link>https://github.com/ROCm/ROCm/discussions/4276</link>
+      <description>No Text</description>
+      <guid>42772170</guid>
+      <comments>https://news.ycombinator.com/item?id=42772170</comments>
+      <pubDate>Mon, 20 Jan 2025 19:31:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Remarks to Software Forum Dinner Meeting (1997)</title>
+      <link>http://www.klhess.com/sef_spch.html</link>
+      <description>No Text</description>
+      <guid>42742861</guid>
+      <comments>https://news.ycombinator.com/item?id=42742861</comments>
+      <pubDate>Fri, 17 Jan 2025 20:21:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Kronotop: Redis-compatible, transactional document store backed by FoundationDB</title>
+      <link>https://github.com/kronotop/kronotop</link>
+      <description>No Text</description>
+      <guid>42771403</guid>
+      <comments>https://news.ycombinator.com/item?id=42771403</comments>
+      <pubDate>Mon, 20 Jan 2025 18:12:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>YC X25, the spring 2025 batch</title>
+      <link>https://www.ycombinator.com/blog/announcing-yc-x25/</link>
+      <description>No Text</description>
+      <guid>42770629</guid>
+      <comments>https://news.ycombinator.com/item?id=42770629</comments>
+      <pubDate>Mon, 20 Jan 2025 17:02:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>Flag drawing with Turtle</title>
+      <link>https://jtanx.github.io/2018/12/28/turtle-flag-drawing/</link>
+      <description>No Text</description>
+      <guid>42772911</guid>
+      <comments>https://news.ycombinator.com/item?id=42772911</comments>
+      <pubDate>Mon, 20 Jan 2025 20:51:46 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
