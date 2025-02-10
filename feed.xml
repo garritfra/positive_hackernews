@@ -1,0 +1,222 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Mon, 10 Feb 2025 18:16:28 -0000</lastBuildDate>
+    <item>
+      <title>Surnames from nicknames nobody has any more</title>
+      <link>https://blog.plover.com/lang/etym/nickname-names.html</link>
+      <description>No Text</description>
+      <guid>43000316</guid>
+      <comments>https://news.ycombinator.com/item?id=43000316</comments>
+      <pubDate>Mon, 10 Feb 2025 13:54:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: HTML visualization of a PDF file's internal structure</title>
+      <link>https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md</link>
+      <description>Hi,
+I&amp;#x27;ve just finished a rebuild of this function and added a lot of new features: info, page index, minimap, inverted index,... 
+I think it may be useful for inspection, debugging or just as a learning resource showcasing the PDF file format.
+This is a pet project and I would be happy to receive some feedback!
+Regards</description>
+      <guid>43000303</guid>
+      <comments>https://news.ycombinator.com/item?id=43000303</comments>
+      <pubDate>Mon, 10 Feb 2025 13:52:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Global 3D Topography Explorer</title>
+      <link>https://topography.jessekv.com</link>
+      <description>I made a web app to generate 3D models of real places on earth from land cover and elevation data.&lt;p&gt;Click anywhere on the map to get a polygon, and then click &amp;quot;generate&amp;quot;.&lt;p&gt;It should work at most scales, but if your watershed or region selection is too large, the result can be less exciting because it&amp;#x27;s so flat.&lt;p&gt;As a warning, the 3D models can sometimes be too much for my phone. It&amp;#x27;s nicer on desktop. I&amp;#x27;m still working better on mobile support.&lt;p&gt;The land cover data I&amp;#x27;m using gives a cool effect, but at some point I&amp;#x27;d like to add in global imagery and clouds.&lt;p&gt;The backend is a Python thread running on an old Lenovo Thinkcentre in my closet, so if it goes down, this is why. (I also sometimes need to restart it when the network card stops working... I really should figure out why sometime.)&lt;p&gt;If you find a really cool island or watershed, let me know and I can add it to the &amp;quot;favorites&amp;quot;.</description>
+      <guid>43001688</guid>
+      <comments>https://news.ycombinator.com/item?id=43001688</comments>
+      <pubDate>Mon, 10 Feb 2025 15:54:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Anthropic Economic Index</title>
+      <link>https://www.anthropic.com/news/the-anthropic-economic-index</link>
+      <description>No Text</description>
+      <guid>43000529</guid>
+      <comments>https://news.ycombinator.com/item?id=43000529</comments>
+      <pubDate>Mon, 10 Feb 2025 14:14:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>What about K?</title>
+      <link>https://xpqz.github.io/kbook/Introduction.html</link>
+      <description>No Text</description>
+      <guid>42999650</guid>
+      <comments>https://news.ycombinator.com/item?id=42999650</comments>
+      <pubDate>Mon, 10 Feb 2025 12:51:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ancient-DNA Study Identifies Originators of Indo-European Language Family</title>
+      <link>https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family</link>
+      <description>No Text</description>
+      <guid>42969038</guid>
+      <comments>https://news.ycombinator.com/item?id=42969038</comments>
+      <pubDate>Fri, 07 Feb 2025 03:30:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Infinite Horizontal Array of Text Editors</title>
+      <link>https://zeminary.com/arrays/app.html</link>
+      <description>I made this app to write books chapter by chapter, while taking &amp;amp; browsing through temporary notes for each chapter.&lt;p&gt;The leftmost sidebar is the list of chapters. The sidebar to the right of that is the list of editors in the current chapter.&lt;p&gt;The UI &amp;amp; UX are a bit weird, but they have a basic logic to them.</description>
+      <guid>42995991</guid>
+      <comments>https://news.ycombinator.com/item?id=42995991</comments>
+      <pubDate>Mon, 10 Feb 2025 01:25:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>Thomas Aquinas' skull reveals appearance and cause of death</title>
+      <link>https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years</link>
+      <description>No Text</description>
+      <guid>42996671</guid>
+      <comments>https://news.ycombinator.com/item?id=42996671</comments>
+      <pubDate>Mon, 10 Feb 2025 03:38:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>I built an open source AI tool to find my autoimmune disease</title>
+      <link>https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/</link>
+      <description>No Text</description>
+      <guid>42999632</guid>
+      <comments>https://news.ycombinator.com/item?id=42999632</comments>
+      <pubDate>Mon, 10 Feb 2025 12:48:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Out of Africa: celebrating 100 years of human-origins research</title>
+      <link>https://www.nature.com/articles/d41586-025-00282-1</link>
+      <description>No Text</description>
+      <guid>42961684</guid>
+      <comments>https://news.ycombinator.com/item?id=42961684</comments>
+      <pubDate>Thu, 06 Feb 2025 12:23:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>Two Grand Canyon-size valleys on far side of the moon formed within 10 minutes</title>
+      <link>https://www.cnn.com/2025/02/05/science/lunar-grand-canyons-far-side-moon/index.html</link>
+      <description>No Text</description>
+      <guid>42974278</guid>
+      <comments>https://news.ycombinator.com/item?id=42974278</comments>
+      <pubDate>Fri, 07 Feb 2025 16:10:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Explainable Linear Programs</title>
+      <link>https://www.jeremykun.com/shortform/2025-02-06-2124/</link>
+      <description>No Text</description>
+      <guid>42976244</guid>
+      <comments>https://news.ycombinator.com/item?id=42976244</comments>
+      <pubDate>Fri, 07 Feb 2025 19:06:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC</title>
+      <link>https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808</link>
+      <description>No Text</description>
+      <guid>42999312</guid>
+      <comments>https://news.ycombinator.com/item?id=42999312</comments>
+      <pubDate>Mon, 10 Feb 2025 12:01:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>LIMO: Less Is More for Reasoning</title>
+      <link>https://arxiv.org/abs/2502.03387</link>
+      <description>No Text</description>
+      <guid>42991676</guid>
+      <comments>https://news.ycombinator.com/item?id=42991676</comments>
+      <pubDate>Sun, 09 Feb 2025 16:33:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Physics PhD at Stanford or Berkeley</title>
+      <link>https://news.ycombinator.com/item?id=43000792</link>
+      <description>What should one consider while signing up for a Physics PhD program, with an focus on experimental Quantum&amp;#x2F;Molecular optics, program at either university if both of them offer?&lt;p&gt;I understand there are many factors to take into account when choosing a school for research (advisor, research fit and funding to name a few), but these are on the individual.&lt;p&gt;Any Physicists on HN?</description>
+      <guid>43000792</guid>
+      <comments>https://news.ycombinator.com/item?id=43000792</comments>
+      <pubDate>Mon, 10 Feb 2025 14:38:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>Earth's inner core may have changed shape, say scientists</title>
+      <link>https://www.bbc.co.uk/news/articles/c4gx37ky3gyo</link>
+      <description>No Text</description>
+      <guid>43002130</guid>
+      <comments>https://news.ycombinator.com/item?id=43002130</comments>
+      <pubDate>Mon, 10 Feb 2025 16:31:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>Memory profilers, call graphs, exception reports, and telemetry</title>
+      <link>https://www.nuanced.dev/blog/system-wide-context</link>
+      <description>No Text</description>
+      <guid>42971038</guid>
+      <comments>https://news.ycombinator.com/item?id=42971038</comments>
+      <pubDate>Fri, 07 Feb 2025 09:57:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>The state of Rust trying to catch up with Ada [video]</title>
+      <link>https://fosdem.org/2025/schedule/event/fosdem-2025-5356-the-state-of-rust-trying-to-catch-up-with-ada/</link>
+      <description>No Text</description>
+      <guid>42998061</guid>
+      <comments>https://news.ycombinator.com/item?id=42998061</comments>
+      <pubDate>Mon, 10 Feb 2025 08:30:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Mapping Antarctica’s hidden ice-free lands: a blueprint for conservation</title>
+      <link>https://www.unsw.edu.au/newsroom/news/2025/01/mapping-antarcticas-hidden-ice-free-lands-a-blueprint-for-conservation</link>
+      <description>No Text</description>
+      <guid>42973049</guid>
+      <comments>https://news.ycombinator.com/item?id=42973049</comments>
+      <pubDate>Fri, 07 Feb 2025 14:37:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models</title>
+      <link>https://arxiv.org/abs/2502.01584</link>
+      <description>No Text</description>
+      <guid>42992336</guid>
+      <comments>https://news.ycombinator.com/item?id=42992336</comments>
+      <pubDate>Sun, 09 Feb 2025 18:14:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Douglas McIlroy responds to Unix spell article with new implementation details</title>
+      <link>https://twitter.com/abhi9u/status/1887010136155414602</link>
+      <description>I originally wrote this article explaining the data model as implemented in the original Unix &amp;quot;spell&amp;quot;: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;blog.codingconfessions.com&amp;#x2F;p&amp;#x2F;how-unix-spell-ran-in-64kb-ram&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;blog.codingconfessions.com&amp;#x2F;p&amp;#x2F;how-unix-spell-ran-in-6...&lt;/a&gt;.&lt;p&gt;This reached Doug, who then responded to it with the follow up work he did which wasn&amp;#x27;t published anywhere.</description>
+      <guid>42962394</guid>
+      <comments>https://news.ycombinator.com/item?id=42962394</comments>
+      <pubDate>Thu, 06 Feb 2025 14:03:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Revenge of the GPT Wrappers: Defensibility in a world of commoditized AI models</title>
+      <link>https://andrewchen.substack.com/p/revenge-of-the-gpt-wrappers-defensibility</link>
+      <description>No Text</description>
+      <guid>42971442</guid>
+      <comments>https://news.ycombinator.com/item?id=42971442</comments>
+      <pubDate>Fri, 07 Feb 2025 11:25:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Rwandan scientists develop local yeast for banana wine-makers</title>
+      <link>https://phys.org/news/2025-01-rwandan-scientists-local-yeast-banana.html</link>
+      <description>No Text</description>
+      <guid>42985342</guid>
+      <comments>https://news.ycombinator.com/item?id=42985342</comments>
+      <pubDate>Sat, 08 Feb 2025 19:09:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Perma.cc – Permanent Link Service</title>
+      <link>https://perma.cc/</link>
+      <description>No Text</description>
+      <guid>42972622</guid>
+      <comments>https://news.ycombinator.com/item?id=42972622</comments>
+      <pubDate>Fri, 07 Feb 2025 14:04:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Advanced Magnet Manufacturing Begins in the United States</title>
+      <link>https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us</link>
+      <description>No Text</description>
+      <guid>42991558</guid>
+      <comments>https://news.ycombinator.com/item?id=42991558</comments>
+      <pubDate>Sun, 09 Feb 2025 16:17:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Bank CEO: Retract your debanking piece? Me: No</title>
+      <link>https://www.kalzumeus.com/2025/02/10/retraction-request-denied/</link>
+      <description>No Text</description>
+      <guid>43001441</guid>
+      <comments>https://news.ycombinator.com/item?id=43001441</comments>
+      <pubDate>Mon, 10 Feb 2025 15:32:10 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
