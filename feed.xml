@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 29 Mar 2025 18:15:24 -0000</lastBuildDate>
+    <item>
+      <title>Accessible open textbooks in math-heavy disciplines</title>
+      <link>https://richardzach.org/2025/03/accessible-open-textbooks-in-math-heavy-disciplines/</link>
+      <description>No Text</description>
+      <guid>43516733</guid>
+      <comments>https://news.ycombinator.com/item?id=43516733</comments>
+      <pubDate>Sat, 29 Mar 2025 16:38:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen</title>
+      <link>https://github.com/Rukenshia/pomodoro</link>
+      <description>No Text</description>
+      <guid>43514383</guid>
+      <comments>https://news.ycombinator.com/item?id=43514383</comments>
+      <pubDate>Sat, 29 Mar 2025 10:42:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Real Time Chess – A physical chess board without the concept of turns</title>
+      <link>https://github.com/misprit7/real-time-chess</link>
+      <description>No Text</description>
+      <guid>43514695</guid>
+      <comments>https://news.ycombinator.com/item?id=43514695</comments>
+      <pubDate>Sat, 29 Mar 2025 11:41:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Plain – a web framework for building products with Python</title>
+      <link>https://plainframework.com/</link>
+      <description>No Text</description>
+      <guid>43512589</guid>
+      <comments>https://news.ycombinator.com/item?id=43512589</comments>
+      <pubDate>Sat, 29 Mar 2025 03:55:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Huge Structures Discovered Under Pyramids?</title>
+      <link>https://www.youtube.com/watch?v=cqCudopAz64</link>
+      <description>No Text</description>
+      <guid>43517352</guid>
+      <comments>https://news.ycombinator.com/item?id=43517352</comments>
+      <pubDate>Sat, 29 Mar 2025 18:07:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Koto Programming Language</title>
+      <link>https://koto.dev/</link>
+      <description>No Text</description>
+      <guid>43514915</guid>
+      <comments>https://news.ycombinator.com/item?id=43514915</comments>
+      <pubDate>Sat, 29 Mar 2025 12:14:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Mathematical Compact Models of Advanced Transistors [pdf]</title>
+      <link>https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-24.pdf</link>
+      <description>No Text</description>
+      <guid>43513397</guid>
+      <comments>https://news.ycombinator.com/item?id=43513397</comments>
+      <pubDate>Sat, 29 Mar 2025 06:58:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Chimpanzees act as 'engineers', choosing materials to make tools</title>
+      <link>https://www.sciencedaily.com/releases/2025/03/250324142002.htm</link>
+      <description>No Text</description>
+      <guid>43471907</guid>
+      <comments>https://news.ycombinator.com/item?id=43471907</comments>
+      <pubDate>Tue, 25 Mar 2025 14:39:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Bknd – Firebase alternative that embeds into any React stack</title>
+      <link>https://github.com/bknd-io/bknd</link>
+      <description>I built bknd because I was tired of stitching together auth, file storage, and database APIs every time I started a new project. Existing solutions were either too hard to extend, too basic, or required a separate deployment.&lt;p&gt;bknd runs directly inside your frontend app — no separate backend required. It works with Next.js, Remix, Astro, React Router. It also runs standalone on Cloudflare Workers, AWS Lambda, Bun, or Node.&lt;p&gt;It supports Postgres, LibSQL (Turso), D1, SQLite and has adapter-based storage. You get instant APIs, multi-strategy auth, media handling and a built-in Admin UI.&lt;p&gt;Curious what you’d build with it, feedback welcome!</description>
+      <guid>43471838</guid>
+      <comments>https://news.ycombinator.com/item?id=43471838</comments>
+      <pubDate>Tue, 25 Mar 2025 14:34:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Twitter (X) Hit by Data Leak of 2.8B Users – Allegedly an Insider Job</title>
+      <link>https://hackread.com/twitter-x-of-2-8-billion-data-leak-an-insider-job/</link>
+      <description>No Text</description>
+      <guid>43517318</guid>
+      <comments>https://news.ycombinator.com/item?id=43517318</comments>
+      <pubDate>Sat, 29 Mar 2025 18:02:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>Playstation Mod Turns the PSOne into a Crustacean</title>
+      <link>https://gizmodo.com/the-carcinisation-of-playstation-is-complete-say-hello-to-playstacean-2000579934</link>
+      <description>No Text</description>
+      <guid>43470416</guid>
+      <comments>https://news.ycombinator.com/item?id=43470416</comments>
+      <pubDate>Tue, 25 Mar 2025 12:30:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Matrix Calculus You Need for Deep Learning</title>
+      <link>https://explained.ai/matrix-calculus/</link>
+      <description>No Text</description>
+      <guid>43516506</guid>
+      <comments>https://news.ycombinator.com/item?id=43516506</comments>
+      <pubDate>Sat, 29 Mar 2025 16:01:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond Bohr and Einstein</title>
+      <link>https://cerncourier.com/beyond-bohr-and-einstein/</link>
+      <description>No Text</description>
+      <guid>43489173</guid>
+      <comments>https://news.ycombinator.com/item?id=43489173</comments>
+      <pubDate>Thu, 27 Mar 2025 00:37:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN Pianoboi – displays sheet music as you play your piano</title>
+      <link>https://pianoboi.site</link>
+      <description>I made a software library for displaying piano music 7 years back, and recently ported it to the web (which is now easier than even ever).&lt;p&gt;It displays sheet music as you play, and let&amp;#x27;s you take snapshots of specific chords, then keeps a running list of chords as keyboard visuals (instead of just displaying sheet music).&lt;p&gt;Just a simple tool for songwriting&amp;#x2F; figuring out songs by ear, or just understanding music key theory (which I&amp;#x27;m admittedly a still a beginner at).</description>
+      <guid>43506951</guid>
+      <comments>https://news.ycombinator.com/item?id=43506951</comments>
+      <pubDate>Fri, 28 Mar 2025 15:55:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Rubik's Cube Solutions, Puzzles, and 8-Balls (2023)</title>
+      <link>https://williambader.com/museum/cubes/cubes.html</link>
+      <description>No Text</description>
+      <guid>43493544</guid>
+      <comments>https://news.ycombinator.com/item?id=43493544</comments>
+      <pubDate>Thu, 27 Mar 2025 13:40:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Digital Echoes and Unquiet Minds</title>
+      <link>https://www.chrbutler.com/digital-echoes-and-unquiet-minds</link>
+      <description>No Text</description>
+      <guid>43509548</guid>
+      <comments>https://news.ycombinator.com/item?id=43509548</comments>
+      <pubDate>Fri, 28 Mar 2025 20:29:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Caido – A lightweight web security auditing toolkit</title>
+      <link>https://caido.io/</link>
+      <description>No Text</description>
+      <guid>43514075</guid>
+      <comments>https://news.ycombinator.com/item?id=43514075</comments>
+      <pubDate>Sat, 29 Mar 2025 09:32:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Et Tu, Grammarly?</title>
+      <link>https://dbushell.com/2025/03/29/et-tu-grammarly/</link>
+      <description>No Text</description>
+      <guid>43514308</guid>
+      <comments>https://news.ycombinator.com/item?id=43514308</comments>
+      <pubDate>Sat, 29 Mar 2025 10:27:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>Typed Japanese</title>
+      <link>https://github.com/typedgrammar/typed-japanese</link>
+      <description>No Text</description>
+      <guid>43515426</guid>
+      <comments>https://news.ycombinator.com/item?id=43515426</comments>
+      <pubDate>Sat, 29 Mar 2025 13:36:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Optimizing Matrix Multiplication on RDNA3</title>
+      <link>https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html</link>
+      <description>No Text</description>
+      <guid>43469535</guid>
+      <comments>https://news.ycombinator.com/item?id=43469535</comments>
+      <pubDate>Tue, 25 Mar 2025 09:55:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Around the World, Many People Are Leaving Their Childhood Religions</title>
+      <link>https://www.pewresearch.org/religion/2025/03/26/around-the-world-many-people-are-leaving-their-childhood-religions/</link>
+      <description>No Text</description>
+      <guid>43516879</guid>
+      <comments>https://news.ycombinator.com/item?id=43516879</comments>
+      <pubDate>Sat, 29 Mar 2025 16:59:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Decomposing a Factorial into Large Factors</title>
+      <link>https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/</link>
+      <description>No Text</description>
+      <guid>43506238</guid>
+      <comments>https://news.ycombinator.com/item?id=43506238</comments>
+      <pubDate>Fri, 28 Mar 2025 14:55:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Hexi – Modern header-only network binary serialisation for C++</title>
+      <link>https://github.com/EmberEmu/Hexi</link>
+      <description>Over the last few years, I&amp;#x27;ve needed an easy way to quickly serialise and deserialise various network protocols safely and efficiently. Most of the libraries that existed at the time were either quite heavy, had less than stellar performance, or were an abstraction level above what I was looking for.&lt;p&gt;I decided to put together my own class to do the job, starting with an easy, low-overhead way to move bytes in and out of arbitrary buffers. Along the way, it picked up useful bits and pieces, such as buffer structures and allocators that made the byte shuffling faster, often being able to do it with zero allocations and zero copies. Safety features came along to make sure that malicious packet data or mistakes in the code wouldn&amp;#x27;t result in segfaults or vulnerabilities.&lt;p&gt;It&amp;#x27;s become useful enough to me that I&amp;#x27;ve packaged it up in its own standalone library on the chance that it might be useful to others. It has zero dependencies other than the standard library and has been designed for quick integration into any project within minutes, or seconds with a copy paste of the amalgamated header. It can be used in production code but it&amp;#x27;s also ideal for for those that want to quickly hack away at binary data with minimal fuss.</description>
+      <guid>43508061</guid>
+      <comments>https://news.ycombinator.com/item?id=43508061</comments>
+      <pubDate>Fri, 28 Mar 2025 17:37:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>xAI has acquired X, xAI now valued at $80B</title>
+      <link>https://twitter.com/elonmusk/status/1905731750275510312</link>
+      <description>No Text</description>
+      <guid>43509923</guid>
+      <comments>https://news.ycombinator.com/item?id=43509923</comments>
+      <pubDate>Fri, 28 Mar 2025 21:23:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>How to write blog posts that developers read</title>
+      <link>https://refactoringenglish.com/chapters/write-blog-posts-developers-read/</link>
+      <description>No Text</description>
+      <guid>43503872</guid>
+      <comments>https://news.ycombinator.com/item?id=43503872</comments>
+      <pubDate>Fri, 28 Mar 2025 11:01:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Real Book (2021)</title>
+      <link>https://99percentinvisible.org/episode/the-real-book/</link>
+      <description>No Text</description>
+      <guid>43507404</guid>
+      <comments>https://news.ycombinator.com/item?id=43507404</comments>
+      <pubDate>Fri, 28 Mar 2025 16:39:10 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
