@@ -1,0 +1,254 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 05 Apr 2025 18:15:56 -0000</lastBuildDate>
+    <item>
+      <title>What If We Made Advertising Illegal?</title>
+      <link>https://simone.org/advertising/</link>
+      <description>No Text</description>
+      <guid>43595269</guid>
+      <comments>https://news.ycombinator.com/item?id=43595269</comments>
+      <pubDate>Sat, 05 Apr 2025 17:57:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>A Vision for WebAssembly Support in Swift</title>
+      <link>https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060</link>
+      <description>No Text</description>
+      <guid>43593596</guid>
+      <comments>https://news.ycombinator.com/item?id=43593596</comments>
+      <pubDate>Sat, 05 Apr 2025 13:58:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: I built a word game. My mom thinks it's great. What do you think?</title>
+      <link>https://www.whatsit.today/</link>
+      <description>No Text</description>
+      <guid>43593789</guid>
+      <comments>https://news.ycombinator.com/item?id=43593789</comments>
+      <pubDate>Sat, 05 Apr 2025 14:26:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Exeter's unassuming co-op worker leads double life as 'Lord of the Logos'</title>
+      <link>https://www.devonlive.com/whats-on/whats-on-news/exeters-unassuming-co-op-worker-10039941</link>
+      <description>No Text</description>
+      <guid>43594396</guid>
+      <comments>https://news.ycombinator.com/item?id=43594396</comments>
+      <pubDate>Sat, 05 Apr 2025 15:54:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Loader's Number</title>
+      <link>https://googology.fandom.com/wiki/Loader%27s_number</link>
+      <description>No Text</description>
+      <guid>43594554</guid>
+      <comments>https://news.ycombinator.com/item?id=43594554</comments>
+      <pubDate>Sat, 05 Apr 2025 16:18:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Compilers: Incrementally and Extensibly (2024)</title>
+      <link>https://okmij.org/ftp/tagless-final/Compiler/index.html</link>
+      <description>No Text</description>
+      <guid>43593088</guid>
+      <comments>https://news.ycombinator.com/item?id=43593088</comments>
+      <pubDate>Sat, 05 Apr 2025 12:55:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture</title>
+      <link>https://chipsandcheese.com/p/dynamic-register-allocation-on-amds</link>
+      <description>No Text</description>
+      <guid>43595223</guid>
+      <comments>https://news.ycombinator.com/item?id=43595223</comments>
+      <pubDate>Sat, 05 Apr 2025 17:51:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Great Question (YC W21) Is Hiring Applied AI Engineers</title>
+      <link>https://www.ycombinator.com/companies/great-question/jobs/AtPa8pe-ai-engineer</link>
+      <description>No Text</description>
+      <guid>43594871</guid>
+      <comments>https://news.ycombinator.com/item?id=43594871</comments>
+      <pubDate>Sat, 05 Apr 2025 17:00:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Emulating an iPhone in QEMU</title>
+      <link>https://eshard.com/posts/emulating-ios-14-with-qemu</link>
+      <description>No Text</description>
+      <guid>43592409</guid>
+      <comments>https://news.ycombinator.com/item?id=43592409</comments>
+      <pubDate>Sat, 05 Apr 2025 10:57:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Jumping Spiders</title>
+      <link>https://digital.tnconservationist.org/publication/?i=663361&amp;article_id=3697028&amp;view=articleBrowser</link>
+      <description>No Text</description>
+      <guid>43549469</guid>
+      <comments>https://news.ycombinator.com/item?id=43549469</comments>
+      <pubDate>Tue, 01 Apr 2025 17:33:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Recreating Daft Punk's Something About Us</title>
+      <link>https://thoughts-and-things.ghost.io/recreating-daft-punks-something-about-us/</link>
+      <description>No Text</description>
+      <guid>43591050</guid>
+      <comments>https://news.ycombinator.com/item?id=43591050</comments>
+      <pubDate>Sat, 05 Apr 2025 05:31:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Is Python Code Sensitive to CPU Caching? (2024)</title>
+      <link>https://lukasatkinson.de/2024/python-cpu-caching/</link>
+      <description>No Text</description>
+      <guid>43555110</guid>
+      <comments>https://news.ycombinator.com/item?id=43555110</comments>
+      <pubDate>Wed, 02 Apr 2025 09:53:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>The blissful Zen of a good side project</title>
+      <link>https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project</link>
+      <description>No Text</description>
+      <guid>43587380</guid>
+      <comments>https://news.ycombinator.com/item?id=43587380</comments>
+      <pubDate>Fri, 04 Apr 2025 20:37:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens</title>
+      <link>https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html</link>
+      <description>No Text</description>
+      <guid>43589989</guid>
+      <comments>https://news.ycombinator.com/item?id=43589989</comments>
+      <pubDate>Sat, 05 Apr 2025 02:15:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>Nissan eyes shifting Rogue production to U.S. due to tariffs</title>
+      <link>https://asia.nikkei.com/Business/Transportation/Nissan-eyes-shifting-Rogue-production-to-U.S.-due-to-Trump-tariffs</link>
+      <description>No Text</description>
+      <guid>43595299</guid>
+      <comments>https://news.ycombinator.com/item?id=43595299</comments>
+      <pubDate>Sat, 05 Apr 2025 18:02:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Importance of Fact-Checking</title>
+      <link>https://lithub.com/on-the-episode-that-changed-ira-glasss-this-american-life-forever/</link>
+      <description>No Text</description>
+      <guid>43549893</guid>
+      <comments>https://news.ycombinator.com/item?id=43549893</comments>
+      <pubDate>Tue, 01 Apr 2025 18:20:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: OCR pipeline for ML training (tables, diagrams, math, multilingual)</title>
+      <link>https://github.com/ses4255/Versatile-OCR-Program</link>
+      <description>Hi HN,&lt;p&gt;I’ve been working on an OCR pipeline specifically optimized for machine learning dataset preparation. It’s designed to process complex academic materials — including math formulas, tables, figures, and multilingual text — and output clean, structured formats like JSON and Markdown.&lt;p&gt;Some features:
+ • Multi-stage OCR combining DocLayout-YOLO, Google Vision, MathPix, and Gemini Pro Vision
+ • Extracts and understands diagrams, tables, LaTeX-style math, and multilingual text (Japanese&amp;#x2F;Korean&amp;#x2F;English)
+ • Highly tuned for ML training pipelines, including dataset generation and preprocessing for RAG or fine-tuning tasks&lt;p&gt;Sample outputs and real exam-based examples are included (EJU Biology, UTokyo Math, etc.)
+Would love to hear any feedback or ideas for improvement.&lt;p&gt;GitHub: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;ses4255&amp;#x2F;Versatile-OCR-Program&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;ses4255&amp;#x2F;Versatile-OCR-Program&lt;/a&gt;</description>
+      <guid>43590998</guid>
+      <comments>https://news.ycombinator.com/item?id=43590998</comments>
+      <pubDate>Sat, 05 Apr 2025 05:22:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>Scientists witness living plant cells generate cellulose and form cell walls</title>
+      <link>https://phys.org/news/2025-03-scientists-witness-cells-generate-cellulose.html</link>
+      <description>No Text</description>
+      <guid>43555552</guid>
+      <comments>https://news.ycombinator.com/item?id=43555552</comments>
+      <pubDate>Wed, 02 Apr 2025 11:23:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative</title>
+      <link>https://coolify.io/</link>
+      <description>No Text</description>
+      <guid>43555996</guid>
+      <comments>https://news.ycombinator.com/item?id=43555996</comments>
+      <pubDate>Wed, 02 Apr 2025 12:41:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>Tracking the international space station with an Arduino</title>
+      <link>https://faridrener.com/2025/04/04/tracking-iss.html</link>
+      <description>No Text</description>
+      <guid>43593956</guid>
+      <comments>https://news.ycombinator.com/item?id=43593956</comments>
+      <pubDate>Sat, 05 Apr 2025 14:54:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>An interactive-speed Linux computer made of only 3 8-pin chips</title>
+      <link>https://dmitry.gr/?r=05.Projects&amp;proj=36.%208pinLinux</link>
+      <description>No Text</description>
+      <guid>43586654</guid>
+      <comments>https://news.ycombinator.com/item?id=43586654</comments>
+      <pubDate>Fri, 04 Apr 2025 19:22:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding Machine Learning: From Theory to Algorithms</title>
+      <link>https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html</link>
+      <description>No Text</description>
+      <guid>43586073</guid>
+      <comments>https://news.ycombinator.com/item?id=43586073</comments>
+      <pubDate>Fri, 04 Apr 2025 18:25:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Yann LeCun, Pioneer of AI, Thinks Today's LLM's Are Nearly Obsolete</title>
+      <link>https://www.newsweek.com/ai-impact-interview-yann-lecun-artificial-intelligence-2054237</link>
+      <description>No Text</description>
+      <guid>43562768</guid>
+      <comments>https://news.ycombinator.com/item?id=43562768</comments>
+      <pubDate>Wed, 02 Apr 2025 22:59:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>The End of Sierra as We Knew It, Part 1: The Acquisition</title>
+      <link>https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/</link>
+      <description>No Text</description>
+      <guid>43586157</guid>
+      <comments>https://news.ycombinator.com/item?id=43586157</comments>
+      <pubDate>Fri, 04 Apr 2025 18:34:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>Functors: Identity, Composition, and fmap</title>
+      <link>https://codehakase.com/blog/2025-03-26-on-functors/</link>
+      <description>No Text</description>
+      <guid>43559439</guid>
+      <comments>https://news.ycombinator.com/item?id=43559439</comments>
+      <pubDate>Wed, 02 Apr 2025 18:01:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>Annotated Unix Magic Poster</title>
+      <link>https://unixmagic.net/</link>
+      <description>No Text</description>
+      <guid>43589042</guid>
+      <comments>https://news.ycombinator.com/item?id=43589042</comments>
+      <pubDate>Sat, 05 Apr 2025 00:04:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Pytest for Neovim</title>
+      <link>https://github.com/richardhapb/pytest.nvim</link>
+      <description>No Text</description>
+      <guid>43591246</guid>
+      <comments>https://news.ycombinator.com/item?id=43591246</comments>
+      <pubDate>Sat, 05 Apr 2025 06:08:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>The DDA Algorithm, explained interactively</title>
+      <link>https://aaaa.sh/creatures/dda-algorithm-interactive</link>
+      <description>No Text</description>
+      <guid>43543007</guid>
+      <comments>https://news.ycombinator.com/item?id=43543007</comments>
+      <pubDate>Tue, 01 Apr 2025 04:59:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Configuration Complexity Clock (2012)</title>
+      <link>http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html</link>
+      <description>No Text</description>
+      <guid>43555760</guid>
+      <comments>https://news.ycombinator.com/item?id=43555760</comments>
+      <pubDate>Wed, 02 Apr 2025 12:00:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Universal Transverse Mercator (UTM) geographic coordinate system</title>
+      <link>http://www.mibsar.com/LandNav/UTM/UTM.htm</link>
+      <description>No Text</description>
+      <guid>43551007</guid>
+      <comments>https://news.ycombinator.com/item?id=43551007</comments>
+      <pubDate>Tue, 01 Apr 2025 20:31:17 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
