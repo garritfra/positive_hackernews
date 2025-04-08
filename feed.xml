@@ -1,0 +1,210 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Tue, 08 Apr 2025 12:23:44 -0000</lastBuildDate>
+    <item>
+      <title>Brazil's government-run payments system has become dominant</title>
+      <link>https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant</link>
+      <description>No Text</description>
+      <guid>43620279</guid>
+      <comments>https://news.ycombinator.com/item?id=43620279</comments>
+      <pubDate>Tue, 08 Apr 2025 10:59:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Middle-aged man trading cards go viral in rural Japan town</title>
+      <link>https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/</link>
+      <description>No Text</description>
+      <guid>43615912</guid>
+      <comments>https://news.ycombinator.com/item?id=43615912</comments>
+      <pubDate>Mon, 07 Apr 2025 21:03:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>No elephants: Breakthroughs in image generation</title>
+      <link>https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image</link>
+      <description>No Text</description>
+      <guid>43590569</guid>
+      <comments>https://news.ycombinator.com/item?id=43590569</comments>
+      <pubDate>Sat, 05 Apr 2025 03:51:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>Intelligence Evolved at Least Twice in Vertebrate Animals</title>
+      <link>https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/</link>
+      <description>No Text</description>
+      <guid>43619548</guid>
+      <comments>https://news.ycombinator.com/item?id=43619548</comments>
+      <pubDate>Tue, 08 Apr 2025 08:36:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Any program can be a GitHub Actions shell</title>
+      <link>https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/</link>
+      <description>No Text</description>
+      <guid>43617493</guid>
+      <comments>https://news.ycombinator.com/item?id=43617493</comments>
+      <pubDate>Tue, 08 Apr 2025 01:20:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>IBM Announces the Z17 Mainframe Powered by Telum II Processors</title>
+      <link>https://www.phoronix.com/news/IBM-z17-Telum-2-Announced</link>
+      <description>No Text</description>
+      <guid>43620257</guid>
+      <comments>https://news.ycombinator.com/item?id=43620257</comments>
+      <pubDate>Tue, 08 Apr 2025 10:55:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code</title>
+      <link>https://browsermcp.io/</link>
+      <description>No Text</description>
+      <guid>43613194</guid>
+      <comments>https://news.ycombinator.com/item?id=43613194</comments>
+      <pubDate>Mon, 07 Apr 2025 16:25:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Smallest Pacemaker Is the Size of a Rice Grain</title>
+      <link>https://www.sciencealert.com/breakthrough-worlds-smallest-pacemaker-is-the-size-of-a-rice-grain</link>
+      <description>No Text</description>
+      <guid>43585911</guid>
+      <comments>https://news.ycombinator.com/item?id=43585911</comments>
+      <pubDate>Fri, 04 Apr 2025 18:10:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Deleting multiplayer from the Unreal engine can save memory</title>
+      <link>https://larstofus.com/2025/04/05/how-deleting-multiplayer-from-the-engine-can-save-memory/</link>
+      <description>No Text</description>
+      <guid>43600363</guid>
+      <comments>https://news.ycombinator.com/item?id=43600363</comments>
+      <pubDate>Sun, 06 Apr 2025 10:23:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>LLM-hacker-news: LLM plugin for pulling content from Hacker News</title>
+      <link>https://github.com/simonw/llm-hacker-news</link>
+      <description>No Text</description>
+      <guid>43620125</guid>
+      <comments>https://news.ycombinator.com/item?id=43620125</comments>
+      <pubDate>Tue, 08 Apr 2025 10:32:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Neural Graffiti – Liquid Memory Layer for LLMs</title>
+      <link>https://github.com/babycommando/neuralgraffiti</link>
+      <description>No Text</description>
+      <guid>43618339</guid>
+      <comments>https://news.ycombinator.com/item?id=43618339</comments>
+      <pubDate>Tue, 08 Apr 2025 04:24:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Paradigm (YC W24) Hiring Founding Engineers in SF</title>
+      <link>https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer</link>
+      <description>No Text</description>
+      <guid>43619346</guid>
+      <comments>https://news.ycombinator.com/item?id=43619346</comments>
+      <pubDate>Tue, 08 Apr 2025 07:51:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Less Htmx Is More</title>
+      <link>https://unplannedobsolescence.com/blog/less-htmx-is-more/</link>
+      <description>No Text</description>
+      <guid>43619581</guid>
+      <comments>https://news.ycombinator.com/item?id=43619581</comments>
+      <pubDate>Tue, 08 Apr 2025 08:42:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Lux – A luxurious package manager for Lua</title>
+      <link>https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html</link>
+      <description>No Text</description>
+      <guid>43614285</guid>
+      <comments>https://news.ycombinator.com/item?id=43614285</comments>
+      <pubDate>Mon, 07 Apr 2025 18:13:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>UK Effort to Keep Apple Encryption Fight Secret Is Blocked</title>
+      <link>https://www.msn.com/en-us/money/other/uk-effort-to-keep-apple-encryption-fight-secret-is-blocked/ar-AA1CsokD</link>
+      <description>No Text</description>
+      <guid>43619315</guid>
+      <comments>https://news.ycombinator.com/item?id=43619315</comments>
+      <pubDate>Tue, 08 Apr 2025 07:46:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ancient Dagger Up to 2.5k Years Old W Stars/Moons/Geometric Patterns Unearthed</title>
+      <link>https://www.smithsonianmag.com/smart-news/metal-detectorists-unearth-ancient-dagger-decorated-with-tiny-stars-crescent-moons-and-geometric-patterns-180986369/</link>
+      <description>No Text</description>
+      <guid>43615925</guid>
+      <comments>https://news.ycombinator.com/item?id=43615925</comments>
+      <pubDate>Mon, 07 Apr 2025 21:04:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Interviewing a software engineer who prepared with AI</title>
+      <link>https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/</link>
+      <description>No Text</description>
+      <guid>43577490</guid>
+      <comments>https://news.ycombinator.com/item?id=43577490</comments>
+      <pubDate>Fri, 04 Apr 2025 01:41:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>What a refugee camp reveals about economics</title>
+      <link>https://www.economist.com/finance-and-economics/2025/04/03/what-a-refugee-camp-reveals-about-economics</link>
+      <description>No Text</description>
+      <guid>43589309</guid>
+      <comments>https://news.ycombinator.com/item?id=43589309</comments>
+      <pubDate>Sat, 05 Apr 2025 00:58:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>'Exploding' Tunnock's teacakes cleared by tests to fly again</title>
+      <link>https://www.bbc.co.uk/news/articles/c20x5x0g3kqo</link>
+      <description>No Text</description>
+      <guid>43592116</guid>
+      <comments>https://news.ycombinator.com/item?id=43592116</comments>
+      <pubDate>Sat, 05 Apr 2025 09:23:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Arbitrage and equilibrium in the Team Fortress 2 economy (2012)</title>
+      <link>https://web.archive.org/web/20130530084230/http://blogs.valvesoftware.com/economics/arbitrage-and-equilibrium-in-the-team-fortress-2-economy/</link>
+      <description>No Text</description>
+      <guid>43599704</guid>
+      <comments>https://news.ycombinator.com/item?id=43599704</comments>
+      <pubDate>Sun, 06 Apr 2025 07:52:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>India's repair culture gives new life to dead laptops</title>
+      <link>https://www.theverge.com/tech/639126/india-frankenstein-laptops</link>
+      <description>No Text</description>
+      <guid>43618105</guid>
+      <comments>https://news.ycombinator.com/item?id=43618105</comments>
+      <pubDate>Tue, 08 Apr 2025 03:27:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>Fifty Years of Open Source Software Supply Chain Security</title>
+      <link>https://queue.acm.org/detail.cfm?id=3722542</link>
+      <description>No Text</description>
+      <guid>43614199</guid>
+      <comments>https://news.ycombinator.com/item?id=43614199</comments>
+      <pubDate>Mon, 07 Apr 2025 18:04:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Tom and Jerry One-Minute Video Generation with Test-Time Training</title>
+      <link>https://test-time-training.github.io/video-dit/</link>
+      <description>No Text</description>
+      <guid>43618458</guid>
+      <comments>https://news.ycombinator.com/item?id=43618458</comments>
+      <pubDate>Tue, 08 Apr 2025 04:56:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Scaffold Level Editor</title>
+      <link>https://blog.littlepolygon.com/posts/scaffold/</link>
+      <description>No Text</description>
+      <guid>43615322</guid>
+      <comments>https://news.ycombinator.com/item?id=43615322</comments>
+      <pubDate>Mon, 07 Apr 2025 20:00:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>What Was Quartz?</title>
+      <link>https://www.zachseward.com/what-was-quartz/</link>
+      <description>No Text</description>
+      <guid>43616604</guid>
+      <comments>https://news.ycombinator.com/item?id=43616604</comments>
+      <pubDate>Mon, 07 Apr 2025 22:24:16 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
