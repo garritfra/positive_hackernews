@@ -1,0 +1,212 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 19 Apr 2025 21:11:32 -0000</lastBuildDate>
+    <item>
+      <title>Raspberry Pi Lidar Scanner</title>
+      <link>https://github.com/PiLiDAR/PiLiDAR</link>
+      <description>No Text</description>
+      <guid>43738561</guid>
+      <comments>https://news.ycombinator.com/item?id=43738561</comments>
+      <pubDate>Sat, 19 Apr 2025 18:53:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Art of Assembly Language</title>
+      <link>https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html</link>
+      <description>No Text</description>
+      <guid>43739285</guid>
+      <comments>https://news.ycombinator.com/item?id=43739285</comments>
+      <pubDate>Sat, 19 Apr 2025 20:38:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Icelandic Voting System</title>
+      <link>https://smarimccarthy.is/posts/2024-11-25-voting-system/</link>
+      <description>No Text</description>
+      <guid>43738675</guid>
+      <comments>https://news.ycombinator.com/item?id=43738675</comments>
+      <pubDate>Sat, 19 Apr 2025 19:10:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>Packing Input Frame Context in Next-Frame Prediction Models for Video Generation</title>
+      <link>https://lllyasviel.github.io/frame_pack_gitpage/</link>
+      <description>No Text</description>
+      <guid>43736193</guid>
+      <comments>https://news.ycombinator.com/item?id=43736193</comments>
+      <pubDate>Sat, 19 Apr 2025 13:17:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code: Best practices for agentic coding</title>
+      <link>https://www.anthropic.com/engineering/claude-code-best-practices</link>
+      <description>No Text</description>
+      <guid>43735550</guid>
+      <comments>https://news.ycombinator.com/item?id=43735550</comments>
+      <pubDate>Sat, 19 Apr 2025 10:48:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>How to Write a Fast Matrix Multiplication from Scratch with Tensor Cores (2024)</title>
+      <link>https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html</link>
+      <description>No Text</description>
+      <guid>43736739</guid>
+      <comments>https://news.ycombinator.com/item?id=43736739</comments>
+      <pubDate>Sat, 19 Apr 2025 14:42:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Animals That Exist Between Life and Death</title>
+      <link>https://nautil.us/the-animals-that-exist-between-life-and-death-1202592/</link>
+      <description>No Text</description>
+      <guid>43712024</guid>
+      <comments>https://news.ycombinator.com/item?id=43712024</comments>
+      <pubDate>Thu, 17 Apr 2025 01:05:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine</title>
+      <link>https://philwip.com/2025/04/14/galaxian-3-project-revival/</link>
+      <description>No Text</description>
+      <guid>43735239</guid>
+      <comments>https://news.ycombinator.com/item?id=43735239</comments>
+      <pubDate>Sat, 19 Apr 2025 09:22:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>An Image of the Australian Desert Illuminates Satellite Pollution</title>
+      <link>https://www.thisiscolossal.com/2025/04/a-stunning-image-of-the-australian-desert-illuminates-the-growing-problem-of-satellite-pollution/</link>
+      <description>No Text</description>
+      <guid>43737469</guid>
+      <comments>https://news.ycombinator.com/item?id=43737469</comments>
+      <pubDate>Sat, 19 Apr 2025 16:32:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Infisical (YC W23) Is Hiring Design Engineer in San Francisco</title>
+      <link>https://www.ycombinator.com/companies/infisical/jobs/I8zvnRW-design-engineer-san-francisco</link>
+      <description>No Text</description>
+      <guid>43737661</guid>
+      <comments>https://news.ycombinator.com/item?id=43737661</comments>
+      <pubDate>Sat, 19 Apr 2025 17:00:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Inside ArXiv</title>
+      <link>https://www.wired.com/story/inside-arxiv-most-transformative-code-science/</link>
+      <description>No Text</description>
+      <guid>43738478</guid>
+      <comments>https://news.ycombinator.com/item?id=43738478</comments>
+      <pubDate>Sat, 19 Apr 2025 18:42:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Inferring the Phylogeny of Large Language Models</title>
+      <link>https://arxiv.org/abs/2404.04671</link>
+      <description>No Text</description>
+      <guid>43736366</guid>
+      <comments>https://news.ycombinator.com/item?id=43736366</comments>
+      <pubDate>Sat, 19 Apr 2025 13:47:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>How to Force Your Kids to Do Math?</title>
+      <link>https://blog.avocados.ovh/posts/how-to-force-your-kids-to-do-math/</link>
+      <description>No Text</description>
+      <guid>43738195</guid>
+      <comments>https://news.ycombinator.com/item?id=43738195</comments>
+      <pubDate>Sat, 19 Apr 2025 18:08:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>Consistent Hash Ring</title>
+      <link>https://gallery.selfboot.cn/en/algorithms/hashring</link>
+      <description>No Text</description>
+      <guid>43716106</guid>
+      <comments>https://news.ycombinator.com/item?id=43716106</comments>
+      <pubDate>Thu, 17 Apr 2025 12:54:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>Zack: A Simple Backtesting Engine in Zig</title>
+      <link>https://github.com/zerotech-studio/zack</link>
+      <description>No Text</description>
+      <guid>43712877</guid>
+      <comments>https://news.ycombinator.com/item?id=43712877</comments>
+      <pubDate>Thu, 17 Apr 2025 03:36:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>Silicon Valley crosswalk buttons apparently hacked to imitate Musk, Zuck voices</title>
+      <link>https://www.paloaltoonline.com/technology/2025/04/12/silicon-valley-crosswalk-buttons-apparently-hacked-to-imitate-musk-zuckerberg-voices/</link>
+      <description>No Text</description>
+      <guid>43669151</guid>
+      <comments>https://news.ycombinator.com/item?id=43669151</comments>
+      <pubDate>Sun, 13 Apr 2025 00:55:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Goldbach Conjecture up to 4*10^18+7*10^13</title>
+      <link>https://medium.com/@jay_gridbach/grid-computing-shatters-world-record-for-goldbach-conjecture-verification-1ef3dc58a38d</link>
+      <description>Achieved a new world record in verifying the Goldbach Conjecture using grid computing, by extending the verification up to 4 quadrillion (4×10¹⁸) + 70 trillion (7×10¹³).&lt;p&gt;My grid computing system - Gridbach is a cloud-based distributed computing system accessible from any PC or smartphone. It requires no login or app installation. The high-performance WASM (WebAssembly) binary code is downloaded as browser content, enabling computation on the user’s browser.&lt;p&gt;[Website]
+&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;gridbach.com&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;gridbach.com&amp;#x2F;&lt;/a&gt;&lt;p&gt;[Medium]
+&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;medium.com&amp;#x2F;@jay_gridbach&amp;#x2F;grid-computing-shatters-world-record-for-goldbach-conjecture-verification-1ef3dc58a38d&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;medium.com&amp;#x2F;@jay_gridbach&amp;#x2F;grid-computing-shatters-wor...&lt;/a&gt;</description>
+      <guid>43734583</guid>
+      <comments>https://news.ycombinator.com/item?id=43734583</comments>
+      <pubDate>Sat, 19 Apr 2025 06:11:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>First baby born in UK to woman with transplanted womb</title>
+      <link>https://www.bbc.com/news/articles/c78jd517z87o</link>
+      <description>No Text</description>
+      <guid>43717513</guid>
+      <comments>https://news.ycombinator.com/item?id=43717513</comments>
+      <pubDate>Thu, 17 Apr 2025 14:36:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2</title>
+      <link>https://qradiolink.org/open-source-DMR-transceiver-implementation.html</link>
+      <description>No Text</description>
+      <guid>43735945</guid>
+      <comments>https://news.ycombinator.com/item?id=43735945</comments>
+      <pubDate>Sat, 19 Apr 2025 12:23:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Notes on a claim that a mceliece348864 distinguisher uses only 2^529 operations [pdf]</title>
+      <link>https://classic.mceliece.org/mceliece-529-20250417.pdf</link>
+      <description>No Text</description>
+      <guid>43715452</guid>
+      <comments>https://news.ycombinator.com/item?id=43715452</comments>
+      <pubDate>Thu, 17 Apr 2025 11:52:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Undercutf1 – F1 Live Timing TUI with Driver Tracker, Variable Delay</title>
+      <link>https://github.com/JustAman62/undercut-f1</link>
+      <description>undercutf1 is a F1 live timing app, built as a TUI. It contains traditional timing pages like a Driver Tracker, Timing Tower, Race Control, along with some more detailed analysis like lap and gap history, so that you can see strategies unfolding.&lt;p&gt;I started to build undercutf1 almost two years ago, after becoming increasingly frustrated with the TV direction and lack of detailed information coming out of the live feed. Overtakes were often missed and strategies were often ill-explained or missed. I discovered that F1 live timing data is available over a simple SignalR stream, so I set out building an app that would let me see all the information I could dream of. Now undercutf1 serves as the perfect companion (like a second Martin Brundle) when I&amp;#x27;m watching the sessions live.&lt;p&gt;If you want to test it out, you replay the Suzuka race easily by downloading the timing data, then starting a simulated session:&lt;p&gt;1. Download undercutf1 using the installation instructions in the README.&lt;p&gt;2. Import the Suzuka race session data using `undercutf1 import 2025 -m 1256 -s 10006`.&lt;p&gt;3. Start the app (`undercutf1`) then press S (Session) then F (Simulated Session), then select Suzuka then Race using the arrow keys, then press Enter.&lt;p&gt;4. Use arrow keys to navigate between the timing pages, and use N &amp;#x2F; Shift+N to fast-forward through the session.&lt;p&gt;If you want to test it out during this weekends Jeddah GP, simply install as in the README then start a live session by pressing S (Session) then L (Live Session).&lt;p&gt;The app is built for a terminal of roughly 110x30 cells, which probably seems an odd size but just so happens to be the size of a fullscreen terminal on a MBP zoomed in far enough that the text is easily glanceable when the laptop is placed on a coffee table some distance away from me :) Other terminal sizes will work fine, but information density&amp;#x2F;scaling may not be ideal.&lt;p&gt;If you&amp;#x27;re using the TUI during a live session, you&amp;#x27;ll want to synchronise the delay of the timing feed to your TV feed. Use the N&amp;#x2F;M keys to increase&amp;#x2F;decrease the delay. During non-race session, I find it fairly easy to sync the session clock on TV with the session clock on the bottom left of the timing screen. For race sessions, synchronisation is a little harder. I usually aim to sync the start of the race time (e.g. 13:00 on the timing screen clock) with the start of the formation lap, where the live feed helpfully shows the clock tick over to 0 minutes. I usually delay the feed by 30 to 60 seconds.</description>
+      <guid>43734910</guid>
+      <comments>https://news.ycombinator.com/item?id=43734910</comments>
+      <pubDate>Sat, 19 Apr 2025 07:50:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Demo &quot;The Mind&quot; by Haujobb and Sweet16</title>
+      <link>https://www.lexaloffle.com/bbs/?pid=145596</link>
+      <description>No Text</description>
+      <guid>43735592</guid>
+      <comments>https://news.ycombinator.com/item?id=43735592</comments>
+      <pubDate>Sat, 19 Apr 2025 11:00:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>15,000 lines of verified cryptography now in Python</title>
+      <link>https://jonathan.protzenko.fr/2025/04/18/python.html</link>
+      <description>No Text</description>
+      <guid>43731165</guid>
+      <comments>https://news.ycombinator.com/item?id=43731165</comments>
+      <pubDate>Fri, 18 Apr 2025 19:28:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Full Text Search of US Court records</title>
+      <link>https://www.judyrecords.com/</link>
+      <description>No Text</description>
+      <guid>43731552</guid>
+      <comments>https://news.ycombinator.com/item?id=43731552</comments>
+      <pubDate>Fri, 18 Apr 2025 20:24:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>Android phones will soon reboot themselves after sitting unused for three days</title>
+      <link>https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/</link>
+      <description>No Text</description>
+      <guid>43735902</guid>
+      <comments>https://news.ycombinator.com/item?id=43735902</comments>
+      <pubDate>Sat, 19 Apr 2025 12:14:13 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
