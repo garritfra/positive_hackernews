@@ -1,0 +1,226 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sun, 25 May 2025 01:06:43 -0000</lastBuildDate>
+    <item>
+      <title>Reinvent the Wheel</title>
+      <link>https://endler.dev/2025/reinvent-the-wheel/</link>
+      <description>No Text</description>
+      <guid>44083467</guid>
+      <comments>https://news.ycombinator.com/item?id=44083467</comments>
+      <pubDate>Sat, 24 May 2025 20:05:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Tachy0n: The Last 0day Jailbreak</title>
+      <link>https://blog.siguza.net/tachy0n/</link>
+      <description>No Text</description>
+      <guid>44083388</guid>
+      <comments>https://news.ycombinator.com/item?id=44083388</comments>
+      <pubDate>Sat, 24 May 2025 19:50:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>I used o3 to find a remote zeroday in the Linux SMB implementation</title>
+      <link>https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/</link>
+      <description>No Text</description>
+      <guid>44081338</guid>
+      <comments>https://news.ycombinator.com/item?id=44081338</comments>
+      <pubDate>Sat, 24 May 2025 14:25:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Logistics of Road War in the Wasteland</title>
+      <link>https://acoup.blog/2025/05/23/collections-the-logistics-of-road-war-in-the-wasteland/</link>
+      <description>No Text</description>
+      <guid>44083580</guid>
+      <comments>https://news.ycombinator.com/item?id=44083580</comments>
+      <pubDate>Sat, 24 May 2025 20:22:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>Using the Apple ][+ with the RetroTink-5X</title>
+      <link>https://nicole.express/2025/apple-ii-more-like-apple-5x.html</link>
+      <description>No Text</description>
+      <guid>44083910</guid>
+      <comments>https://news.ycombinator.com/item?id=44083910</comments>
+      <pubDate>Sat, 24 May 2025 21:27:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>CAPTCHAs are over (in ticketing)</title>
+      <link>https://behind.pretix.eu/2025/05/23/captchas-are-over/</link>
+      <description>No Text</description>
+      <guid>44084677</guid>
+      <comments>https://news.ycombinator.com/item?id=44084677</comments>
+      <pubDate>Sun, 25 May 2025 00:37:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Good Writing</title>
+      <link>https://paulgraham.com/goodwriting.html</link>
+      <description>No Text</description>
+      <guid>44081586</guid>
+      <comments>https://news.ycombinator.com/item?id=44081586</comments>
+      <pubDate>Sat, 24 May 2025 15:03:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Rotary Phone Dial Linux Kernel Driver</title>
+      <link>https://gitlab.com/sephalon/rotary_dial_kmod</link>
+      <description>A Linux kernel driver that turns a rotary phone dial into an evdev input device. You might be interested in this driver if you&lt;p&gt;- prefer the slow pace of dialing over typing numbers with your numpad,&lt;p&gt;- want to bring your old rotary phone into the digital era,&lt;p&gt;- are an educator looking for a simple example driver with a VM-based end-to-end development &amp;amp; test environment (no real hardware needed)&lt;p&gt;- have another creative use case in mind!&lt;p&gt;This driver was my introduction to embedded Linux years ago—and ultimately led to my career. However, it remained unfinished and unpublished until now. Initially, I intended to reimplement the driver in Rust to explore the state of the Rust for Linux project. Unfortunately, I soon realized that the necessary bindings simply are not available yet, so that part will have to wait.</description>
+      <guid>44080803</guid>
+      <comments>https://news.ycombinator.com/item?id=44080803</comments>
+      <pubDate>Sat, 24 May 2025 13:02:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Lone coder cracks 50-year puzzle to find Boggle's top-scoring board</title>
+      <link>https://www.ft.com/content/0ab64ced-1ed1-466d-acd3-78510d10c3a1</link>
+      <description>No Text</description>
+      <guid>44082892</guid>
+      <comments>https://news.ycombinator.com/item?id=44082892</comments>
+      <pubDate>Sat, 24 May 2025 18:24:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>Hong Kong's Famous Bamboo Scaffolding Hangs on (For Now)</title>
+      <link>https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html</link>
+      <description>No Text</description>
+      <guid>44080549</guid>
+      <comments>https://news.ycombinator.com/item?id=44080549</comments>
+      <pubDate>Sat, 24 May 2025 12:08:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>One of the Most Popular Games on the Planet</title>
+      <link>https://kotaku.com/grow-a-garden-roblox-5-million-active-users-record-pc-1851781824</link>
+      <description>No Text</description>
+      <guid>44057606</guid>
+      <comments>https://news.ycombinator.com/item?id=44057606</comments>
+      <pubDate>Thu, 22 May 2025 00:30:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Scientific conferences are leaving the US amid border fears</title>
+      <link>https://www.nature.com/articles/d41586-025-01636-5</link>
+      <description>No Text</description>
+      <guid>44084017</guid>
+      <comments>https://news.ycombinator.com/item?id=44084017</comments>
+      <pubDate>Sat, 24 May 2025 21:53:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>Exposed Industrial Control Systems and Honeypots in the Wild [pdf]</title>
+      <link>https://gsmaragd.github.io/publications/EuroSP2025-ICS/EuroSP2025-ICS.pdf</link>
+      <description>No Text</description>
+      <guid>44082835</guid>
+      <comments>https://news.ycombinator.com/item?id=44082835</comments>
+      <pubDate>Sat, 24 May 2025 18:14:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: I built StickerFacet to turn photos into high quality vinyl stickers</title>
+      <link>https://stickerfacet.com</link>
+      <description>I decided to focus on pets because my girlfriend and I have this cute little cat called Lola and I immediately needed to produce as many stickers of her as possible.&lt;p&gt;Eager for feedback! Thank you</description>
+      <guid>44084332</guid>
+      <comments>https://news.ycombinator.com/item?id=44084332</comments>
+      <pubDate>Sat, 24 May 2025 23:13:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Verse Calculus: A Core Calculus for Functional Logic Programming [pdf]</title>
+      <link>https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf</link>
+      <description>No Text</description>
+      <guid>44083695</guid>
+      <comments>https://news.ycombinator.com/item?id=44083695</comments>
+      <pubDate>Sat, 24 May 2025 20:43:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>Trellis (YC W24) Is Hiring founding SDR to help automate healthcare paperwork</title>
+      <link>https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr</link>
+      <description>No Text</description>
+      <guid>44082307</guid>
+      <comments>https://news.ycombinator.com/item?id=44082307</comments>
+      <pubDate>Sat, 24 May 2025 17:01:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: F2 – Cross-Platform CLI Batch Renaming Tool</title>
+      <link>https://github.com/ayoisaiah/f2</link>
+      <description>Hey HN!&lt;p&gt;I&amp;#x27;m excited to share f2, a command-line tool I built for fast and flexible bulk renaming of files. It&amp;#x27;s cross-platform (Linux, macOS, Windows), executes a dry-run by default, supports undo, and provides great flexibility in file renaming with several built-in variables and Exiftool integration.&lt;p&gt;I hope you find it useful!</description>
+      <guid>44081850</guid>
+      <comments>https://news.ycombinator.com/item?id=44081850</comments>
+      <pubDate>Sat, 24 May 2025 15:49:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Peer Programming with LLMs, for Senior+ Engineers</title>
+      <link>https://pmbanugo.me/blog/peer-programming-with-llms</link>
+      <description>No Text</description>
+      <guid>44081081</guid>
+      <comments>https://news.ycombinator.com/item?id=44081081</comments>
+      <pubDate>Sat, 24 May 2025 13:45:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Last Nomads</title>
+      <link>https://www.thedial.world/articles/news/issue-28/georgia-adjara-highlands-nomads</link>
+      <description>No Text</description>
+      <guid>44063477</guid>
+      <comments>https://news.ycombinator.com/item?id=44063477</comments>
+      <pubDate>Thu, 22 May 2025 16:11:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>Goethe's Faustian Life</title>
+      <link>https://www.commonwealmagazine.org/goethe-mitchell-wilson-faust-johann-biography</link>
+      <description>No Text</description>
+      <guid>44048420</guid>
+      <comments>https://news.ycombinator.com/item?id=44048420</comments>
+      <pubDate>Wed, 21 May 2025 04:56:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Live facial recognition cameras may become 'commonplace' as police use soars</title>
+      <link>https://www.theguardian.com/technology/2025/may/24/police-live-facial-recognition-cameras-england-and-wales</link>
+      <description>No Text</description>
+      <guid>44082326</guid>
+      <comments>https://news.ycombinator.com/item?id=44082326</comments>
+      <pubDate>Sat, 24 May 2025 17:03:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Root for your friends</title>
+      <link>https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html</link>
+      <description>No Text</description>
+      <guid>44077533</guid>
+      <comments>https://news.ycombinator.com/item?id=44077533</comments>
+      <pubDate>Fri, 23 May 2025 23:28:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>Is Astrophotography Without Tracking Possible?</title>
+      <link>https://astroimagery.com/astrophotography/heres-how-to-do-astrophotography-without-tracking/</link>
+      <description>No Text</description>
+      <guid>44049965</guid>
+      <comments>https://news.ycombinator.com/item?id=44049965</comments>
+      <pubDate>Wed, 21 May 2025 10:22:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>The legacy of the iconic Nakagin capsule tower</title>
+      <link>https://www.designboom.com/architecture/moma-nakagin-capsule-tower-exhibition-many-lives-museum-modern-art-new-york-05-23-2025/</link>
+      <description>No Text</description>
+      <guid>44080820</guid>
+      <comments>https://news.ycombinator.com/item?id=44080820</comments>
+      <pubDate>Sat, 24 May 2025 13:05:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Why Algebraic Effects?</title>
+      <link>https://antelang.org/blog/why_effects/</link>
+      <description>No Text</description>
+      <guid>44078434</guid>
+      <comments>https://news.ycombinator.com/item?id=44078434</comments>
+      <pubDate>Sat, 24 May 2025 03:00:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: 1 min workouts for people who sit all day</title>
+      <link>https://shortreps.com</link>
+      <description>I am a software developer and in the last few months after recently becoming a father I was barely finding time for a proper workout. Recently I was reading about new research on Snack Exercises and how beneficial mini workouts of less than 2mins every so often, during the day are to our body.  So, I decided to build an iOS App for me and others to help with this. The app generates a list of exercises that I need to tick to complete daily or loose my streak. The algorithm takes into account muscle groups and balancing the exercises to hit most main muscles. I also stayed going through all exercises and adding a couple of alternative exercises in case I don&amp;#x27;t feel like the recommended exercise. Since I&amp;#x27;m not a trainer I commissioned professional exercise posture video guides and animations by an exercise expert which I attached to each exercise.&lt;p&gt;I uploaded the app on the app store for free and no ads. If this is something that interests you, I want to hear how you balance a long day on your desk vs exercise.</description>
+      <guid>44083687</guid>
+      <comments>https://news.ycombinator.com/item?id=44083687</comments>
+      <pubDate>Sat, 24 May 2025 20:41:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>AI, Heidegger, and Evangelion</title>
+      <link>https://fakepixels.substack.com/p/ai-heidegger-and-evangelion</link>
+      <description>No Text</description>
+      <guid>44081346</guid>
+      <comments>https://news.ycombinator.com/item?id=44081346</comments>
+      <pubDate>Sat, 24 May 2025 14:26:48 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
