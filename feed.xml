@@ -1,0 +1,255 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 31 May 2025 21:12:23 -0000</lastBuildDate>
+    <item>
+      <title>Precision Clock Mk IV</title>
+      <link>https://mitxela.com/projects/precision_clock_mk_iv</link>
+      <description>No Text</description>
+      <guid>44144750</guid>
+      <comments>https://news.ycombinator.com/item?id=44144750</comments>
+      <pubDate>Sat, 31 May 2025 15:06:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>A Lean companion to Analysis I</title>
+      <link>https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/</link>
+      <description>No Text</description>
+      <guid>44145517</guid>
+      <comments>https://news.ycombinator.com/item?id=44145517</comments>
+      <pubDate>Sat, 31 May 2025 16:55:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>Sguaba: Hard-to-misuse rigid body transforms for engineers</title>
+      <link>https://blog.helsing.ai/sguaba-hard-to-misuse-rigid-body-transforms-for-engineers-with-other-things-to-worry-about-than-aeaa45af9e0d</link>
+      <description>No Text</description>
+      <guid>44146744</guid>
+      <comments>https://news.ycombinator.com/item?id=44146744</comments>
+      <pubDate>Sat, 31 May 2025 20:27:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>Oxfordshire clock still keeping village on time after 500 years</title>
+      <link>https://www.bbc.com/news/articles/cz70p0qevlro</link>
+      <description>No Text</description>
+      <guid>44122860</guid>
+      <comments>https://news.ycombinator.com/item?id=44122860</comments>
+      <pubDate>Thu, 29 May 2025 03:32:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>YOLO-World: Real-Time Open-Vocabulary Object Detection</title>
+      <link>https://arxiv.org/abs/2401.17270</link>
+      <description>No Text</description>
+      <guid>44146858</guid>
+      <comments>https://news.ycombinator.com/item?id=44146858</comments>
+      <pubDate>Sat, 31 May 2025 20:54:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: PunchCard Key Backup</title>
+      <link>https://github.com/volution/punchcard-key-backup</link>
+      <description>No Text</description>
+      <guid>44145202</guid>
+      <comments>https://news.ycombinator.com/item?id=44145202</comments>
+      <pubDate>Sat, 31 May 2025 16:09:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Photos taken inside musical instruments</title>
+      <link>https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments</link>
+      <description>No Text</description>
+      <guid>44139626</guid>
+      <comments>https://news.ycombinator.com/item?id=44139626</comments>
+      <pubDate>Fri, 30 May 2025 20:32:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>AtomVM, the Erlang virtual machine for IoT devices</title>
+      <link>https://www.atomvm.net/</link>
+      <description>No Text</description>
+      <guid>44115897</guid>
+      <comments>https://news.ycombinator.com/item?id=44115897</comments>
+      <pubDate>Wed, 28 May 2025 13:35:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Designing Pareto-optimal RAG workflows with syftr</title>
+      <link>https://www.datarobot.com/blog/pareto-optimized-ai-workflows-syftr/</link>
+      <description>No Text</description>
+      <guid>44116130</guid>
+      <comments>https://news.ycombinator.com/item?id=44116130</comments>
+      <pubDate>Wed, 28 May 2025 14:01:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>Using Ed(1) as My Static Site Generator</title>
+      <link>https://aartaka.me/this-post-is-ed.html</link>
+      <description>No Text</description>
+      <guid>44144308</guid>
+      <comments>https://news.ycombinator.com/item?id=44144308</comments>
+      <pubDate>Sat, 31 May 2025 13:55:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>From Clocks to Chaos: The Rhythms of Life</title>
+      <link>https://press.princeton.edu/books/paperback/9780691084961/from-clocks-to-chaos</link>
+      <description>No Text</description>
+      <guid>44112948</guid>
+      <comments>https://news.ycombinator.com/item?id=44112948</comments>
+      <pubDate>Wed, 28 May 2025 05:16:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Two Ideals of Fields</title>
+      <link>https://susam.net/two-ideals-of-fields.html</link>
+      <description>No Text</description>
+      <guid>44144331</guid>
+      <comments>https://news.ycombinator.com/item?id=44144331</comments>
+      <pubDate>Sat, 31 May 2025 13:59:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of Fast-Math</title>
+      <link>https://simonbyrne.github.io/notes/fastmath/</link>
+      <description>No Text</description>
+      <guid>44142472</guid>
+      <comments>https://news.ycombinator.com/item?id=44142472</comments>
+      <pubDate>Sat, 31 May 2025 07:05:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Fontofweb – Discover Fonts Used on a Website or Websites Using Font(s)</title>
+      <link>https://fontofweb.com</link>
+      <description>Hey HN,
+I&amp;#x27;ve been working on fontofweb.com on and off for the past 4 years, and I&amp;#x27;m keen to share it with you. It lets you type in the URL of any website and see exactly how the fonts are used: all the weights, line heights, and sizes.&lt;p&gt;A big plus is that it doesn&amp;#x27;t require a Chrome extension, unlike a lot of other tools in this space.&lt;p&gt;You can also search for a specific font and find websites using it. For example, check out sites using Inter: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;fontofweb.com&amp;#x2F;w&amp;#x2F;inter&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;fontofweb.com&amp;#x2F;w&amp;#x2F;inter&lt;/a&gt;. This reverse font search even supports looking for multiple fonts at once, like here’s an example with Inter and Space Mono: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;fontofweb.com&amp;#x2F;w&amp;#x2F;inter&amp;#x2F;space-mono&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;fontofweb.com&amp;#x2F;w&amp;#x2F;inter&amp;#x2F;space-mono&lt;/a&gt;.&lt;p&gt;My goal with Font of Web is to build up a comprehensive database of font usage across the web. By collecting and analyzing this data, I believe we can uncover some valuable trends, such as:&lt;p&gt;* Common font pairings * Popular heading fonts over time * Market share of commercial fonts * Top font foundries based on actual usage&lt;p&gt;I originally built a version of this four years ago and was surprised by how much organic interest it received.&lt;p&gt;I’ve now rebuilt the tool from scratch, moving away from browserless.io — which was quite expensive — to an invisible iframe approach with a proxied URL to handle CORS (it’s a straightforward solution, and I’m rather surprised it isn’t discussed more often). This change has completely eliminated all costs related to web scraping.&lt;p&gt;Here&amp;#x27;s the Tech Stack:&lt;p&gt;* Remix + HeroUI + Tailwind * Rust Backend in Axum * Authentication with OTP email and Google social auth (via openidconnect) * Sqlite running on the same VPS as the API service * $5&amp;#x2F;mo VPS * Cloudflare CDN * Cloudflare R2 for storage * Zeptomail for emails (very cheap and reliable, highly recommend!) * Simple Analytics: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;dashboard.simpleanalytics.com&amp;#x2F;fontofweb.com&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;dashboard.simpleanalytics.com&amp;#x2F;fontofweb.com&lt;/a&gt; * Logging: Journalctl :)&lt;p&gt;There are currently 275 websites in the database, and I&amp;#x27;m working on increasing this. Stats are available at: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;api.fontofweb.com&amp;#x2F;stats&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;api.fontofweb.com&amp;#x2F;stats&lt;/a&gt;.&lt;p&gt;While the main site doesn&amp;#x27;t need an extension, for more robust searching and to help with Cloudflare-protected sites, there’s a chrome extension available.&lt;p&gt;There&amp;#x27;s also a public API for domains that have already been checked. For instance: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;api.fontofweb.com&amp;#x2F;report?domain=apple.com&amp;amp;path=&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;api.fontofweb.com&amp;#x2F;report?domain=apple.com&amp;amp;path=&amp;#x2F;&lt;/a&gt;.&lt;p&gt;There&amp;#x27;s also RSS feed I’ve got no idea why you would need this directly, but I&amp;#x27;m using it because Pinterest allows you to automatically populate boards with an RSS. &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;api.fontofweb.com&amp;#x2F;rss&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;api.fontofweb.com&amp;#x2F;rss&lt;/a&gt;&lt;p&gt;Appreciate your thoughts and feedback</description>
+      <guid>44144451</guid>
+      <comments>https://news.ycombinator.com/item?id=44144451</comments>
+      <pubDate>Sat, 31 May 2025 14:20:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Using lots of little tools to aggressively reject the bots</title>
+      <link>https://lambdacreate.com/posts/68</link>
+      <description>No Text</description>
+      <guid>44142761</guid>
+      <comments>https://news.ycombinator.com/item?id=44142761</comments>
+      <pubDate>Sat, 31 May 2025 08:06:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>AI video you can watch and interact with, in real-time</title>
+      <link>https://experience.odyssey.world</link>
+      <description>No Text</description>
+      <guid>44119144</guid>
+      <comments>https://news.ycombinator.com/item?id=44119144</comments>
+      <pubDate>Wed, 28 May 2025 18:33:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Gradients Are the New Intervals</title>
+      <link>https://www.mattkeeter.com/blog/2025-05-14-gradients/</link>
+      <description>No Text</description>
+      <guid>44142266</guid>
+      <comments>https://news.ycombinator.com/item?id=44142266</comments>
+      <pubDate>Sat, 31 May 2025 06:25:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Atlas: Learning to Optimally Memorize the Context at Test Time</title>
+      <link>https://arxiv.org/abs/2505.23735</link>
+      <description>No Text</description>
+      <guid>44144407</guid>
+      <comments>https://news.ycombinator.com/item?id=44144407</comments>
+      <pubDate>Sat, 31 May 2025 14:13:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Webb telescope helps refines Hubble constant, suggesting resolution rate debate</title>
+      <link>https://phys.org/news/2025-05-webb-telescope-refines-hubble-constant.html</link>
+      <description>No Text</description>
+      <guid>44114309</guid>
+      <comments>https://news.ycombinator.com/item?id=44114309</comments>
+      <pubDate>Wed, 28 May 2025 09:49:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Surprisingly fast AI-generated kernels we didn't mean to publish yet</title>
+      <link>https://crfm.stanford.edu/2025/05/28/fast-kernels.html</link>
+      <description>No Text</description>
+      <guid>44139454</guid>
+      <comments>https://news.ycombinator.com/item?id=44139454</comments>
+      <pubDate>Fri, 30 May 2025 20:03:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Exploring a Language Runtime with Bpftrace</title>
+      <link>https://www.mgaudet.ca/technical/2025/5/28/exploring-a-language-runtime-with-bpftrace</link>
+      <description>No Text</description>
+      <guid>44117937</guid>
+      <comments>https://news.ycombinator.com/item?id=44117937</comments>
+      <pubDate>Wed, 28 May 2025 16:46:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>Acclimation of Osmoregulatory Function in Salmon</title>
+      <link>https://www.unm.edu/~toolson/salmon_osmoregulation.html</link>
+      <description>No Text</description>
+      <guid>44144543</guid>
+      <comments>https://news.ycombinator.com/item?id=44144543</comments>
+      <pubDate>Sat, 31 May 2025 14:34:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Illusion of Causality in Charts</title>
+      <link>https://filwd.substack.com/p/the-illusion-of-causality-in-charts</link>
+      <description>No Text</description>
+      <guid>44118718</guid>
+      <comments>https://news.ycombinator.com/item?id=44118718</comments>
+      <pubDate>Wed, 28 May 2025 17:49:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Trackers and SDKs in ChatGPT, Claude, Grok and Perplexity</title>
+      <link>https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-perplexity/</link>
+      <description>No Text</description>
+      <guid>44142839</guid>
+      <comments>https://news.ycombinator.com/item?id=44142839</comments>
+      <pubDate>Sat, 31 May 2025 08:23:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: I built an AI agent that turns ROS 2's turtlesim into a digital artist</title>
+      <link>https://github.com/Yutarop/turtlesim_agent</link>
+      <description>I&amp;#x27;m a grad student studying robotics, with a particular interest in the intersection of LLMs and mobile robots. Recently, I discovered how easily LangChain enables the creation of AI agents, and I wanted to explore how such agents could interact with simulated environments.&lt;p&gt;So, I built TurtleSim Agent, an AI agent that turns the classic ROS 2 turtlesim turtle into a creative artist.&lt;p&gt;With this agent, you can give plain English commands like “draw a triangle” or “make a red star,” and it will reason through the instructions and control the simulated turtle accordingly. I’ve included demo videos on GitHub.
+Behind the scenes, it uses an LLM to interpret the text, decide what actions are needed, and then call a set of modular tools (motion, pen control, math, etc.) to complete the task.&lt;p&gt;If you&amp;#x27;re interested in LLM+robotics, ROS, or just want to see a turtle become a digital artist, I&amp;#x27;d love for you to check it out:&lt;p&gt;GitHub: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;Yutarop&amp;#x2F;turtlesim_agent&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;Yutarop&amp;#x2F;turtlesim_agent&lt;/a&gt;&lt;p&gt;Looking ahead, I’m also exploring frameworks like LangGraph and MCP (Modular Chain of Thought Planning) to see whether they might be better suited for more complex planning and decision-making tasks in robotics.
+If anyone here is familiar with these frameworks or working in this space, I’d love to connect or hear your thoughts.</description>
+      <guid>44143244</guid>
+      <comments>https://news.ycombinator.com/item?id=44143244</comments>
+      <pubDate>Sat, 31 May 2025 10:17:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>C++ to Rust Phrasebook</title>
+      <link>https://cel.cs.brown.edu/crp/</link>
+      <description>No Text</description>
+      <guid>44140349</guid>
+      <comments>https://news.ycombinator.com/item?id=44140349</comments>
+      <pubDate>Fri, 30 May 2025 22:18:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: AI Peer Reviewer – Multiagent System for Scientific Manuscript Analysis</title>
+      <link>https://github.com/robertjakob/rigorous</link>
+      <description>After waiting 8 months for a journal response or two months for co-author feedback that consisted of &amp;quot;looks good&amp;quot; and a single comma change, we built an AI-powered peer review system that helps researchers improve their manuscripts rapidly before submission.&lt;p&gt;The system uses multiple specialized agents to analyze different aspects of scientific papers, from methodology to writing quality.&lt;p&gt;Key features: 24 specialized agents analyzing sections, scientific rigor, and writing quality &amp;#x2F;&amp;#x2F; Detailed feedback with actionable recommendations. &amp;#x2F;&amp;#x2F; PDF report generation. &amp;#x2F;&amp;#x2F; Support for custom review criteria and target journals.&lt;p&gt;Two ways to use it:&lt;p&gt;1. Cloud version (free during testing):
+   &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.rigorous.company&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.rigorous.company&lt;/a&gt;
+- Upload your manuscript
+- Get a comprehensive PDF report within 1–2 working days
+- No setup required&lt;p&gt;2. Self-hosted version (GitHub):
+   &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;robertjakob&amp;#x2F;rigorous&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;robertjakob&amp;#x2F;rigorous&lt;/a&gt;
+   - Use your own OpenAI API keys
+   - Full control over the review process
+   - Customize agents and criteria
+   - MIT licensed&lt;p&gt;The system is particularly useful for researchers preparing manuscripts before submission to co-authors or target journals.&lt;p&gt;Would love to get feedback from the HN community, especially from PhDs and researchers across all academic fields. The project is open source and we welcome contributions!&lt;p&gt;GitHub: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;robertjakob&amp;#x2F;rigorous&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;robertjakob&amp;#x2F;rigorous&lt;/a&gt;  
+Cloud version: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.rigorous.company&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.rigorous.company&lt;/a&gt;</description>
+      <guid>44144280</guid>
+      <comments>https://news.ycombinator.com/item?id=44144280</comments>
+      <pubDate>Sat, 31 May 2025 13:51:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 100s of SaaS</title>
+      <link>https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus</link>
+      <description>No Text</description>
+      <guid>44142436</guid>
+      <comments>https://news.ycombinator.com/item?id=44142436</comments>
+      <pubDate>Sat, 31 May 2025 07:00:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Beating Google's kernelCTF PoW using AVX512</title>
+      <link>https://anemato.de/blog/kctf-vdf</link>
+      <description>No Text</description>
+      <guid>44137715</guid>
+      <comments>https://news.ycombinator.com/item?id=44137715</comments>
+      <pubDate>Fri, 30 May 2025 16:19:50 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
