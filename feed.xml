@@ -1,0 +1,210 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 07 Jun 2025 21:12:27 -0000</lastBuildDate>
+    <item>
+      <title>Convert Photos to Atkinson Dithering</title>
+      <link>https://gazs.github.io/canvas-atkinson-dither/</link>
+      <description>No Text</description>
+      <guid>44212446</guid>
+      <comments>https://news.ycombinator.com/item?id=44212446</comments>
+      <pubDate>Sat, 07 Jun 2025 20:33:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>BorgBackup 2 has no server-side append-only anymore</title>
+      <link>https://github.com/borgbackup/borg/pull/8798</link>
+      <description>No Text</description>
+      <guid>44211612</guid>
+      <comments>https://news.ycombinator.com/item?id=44211612</comments>
+      <pubDate>Sat, 07 Jun 2025 18:39:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Host and Tech Independence: The Joy of Building Your Own</title>
+      <link>https://www.ssp.sh/blog/self-host-self-independence/</link>
+      <description>No Text</description>
+      <guid>44211273</guid>
+      <comments>https://news.ycombinator.com/item?id=44211273</comments>
+      <pubDate>Sat, 07 Jun 2025 17:51:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>Updates to Advanced Voice Mode for paid users</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>No Text</description>
+      <guid>44212413</guid>
+      <comments>https://news.ycombinator.com/item?id=44212413</comments>
+      <pubDate>Sat, 07 Jun 2025 20:27:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray</title>
+      <link>https://aoli.al/blogs/jdk-bug/</link>
+      <description>No Text</description>
+      <guid>44211779</guid>
+      <comments>https://news.ycombinator.com/item?id=44211779</comments>
+      <pubDate>Sat, 07 Jun 2025 19:01:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta Apps (and Yandex)</title>
+      <link>https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex</link>
+      <description>No Text</description>
+      <guid>44210689</guid>
+      <comments>https://news.ycombinator.com/item?id=44210689</comments>
+      <pubDate>Sat, 07 Jun 2025 16:33:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Why We're Moving on from Nix</title>
+      <link>https://blog.railway.com/p/introducing-railpack</link>
+      <description>No Text</description>
+      <guid>44208968</guid>
+      <comments>https://news.ycombinator.com/item?id=44208968</comments>
+      <pubDate>Sat, 07 Jun 2025 11:36:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Low-Level Optimization with Zig</title>
+      <link>https://alloc.dev/2025/06/07/zig_optimization</link>
+      <description>No Text</description>
+      <guid>44208060</guid>
+      <comments>https://news.ycombinator.com/item?id=44208060</comments>
+      <pubDate>Sat, 07 Jun 2025 07:26:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>A tool for burning visible pictures on a compact disc surface</title>
+      <link>https://github.com/arduinocelentano/cdimage</link>
+      <description>No Text</description>
+      <guid>44208283</guid>
+      <comments>https://news.ycombinator.com/item?id=44208283</comments>
+      <pubDate>Sat, 07 Jun 2025 08:30:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers develop ‘transparent paper’ as alternative to plastics</title>
+      <link>https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/</link>
+      <description>No Text</description>
+      <guid>44205282</guid>
+      <comments>https://news.ycombinator.com/item?id=44205282</comments>
+      <pubDate>Fri, 06 Jun 2025 21:43:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer</title>
+      <link>https://jobs.ashbyhq.com/one-text/b95952a2-9bc2-4c3a-9da1-3dcc157b4a27</link>
+      <description>No Text</description>
+      <guid>44210895</guid>
+      <comments>https://news.ycombinator.com/item?id=44210895</comments>
+      <pubDate>Sat, 07 Jun 2025 17:00:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Hollywood Is Already Using AI (and Hiding It)</title>
+      <link>https://www.vulture.com/article/generative-ai-hollywood-movies-tv.html</link>
+      <description>No Text</description>
+      <guid>44211882</guid>
+      <comments>https://news.ycombinator.com/item?id=44211882</comments>
+      <pubDate>Sat, 07 Jun 2025 19:14:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>What was Radiant AI, anyway?</title>
+      <link>https://blog.paavo.me/radiant-ai/</link>
+      <description>No Text</description>
+      <guid>44209497</guid>
+      <comments>https://news.ycombinator.com/item?id=44209497</comments>
+      <pubDate>Sat, 07 Jun 2025 13:22:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>The FAIR Package Manager: Decentralized WordPress infrastructure</title>
+      <link>https://joost.blog/path-forward-for-wordpress/</link>
+      <description>Related: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;fairpm&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;fairpm&lt;/a&gt;, &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.linuxfoundation.org&amp;#x2F;press&amp;#x2F;linux-foundation-announces-the-fair-package-manager-project-for-open-source-content-management-system-stability&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.linuxfoundation.org&amp;#x2F;press&amp;#x2F;linux-foundation-annou...&lt;/a&gt;.</description>
+      <guid>44207503</guid>
+      <comments>https://news.ycombinator.com/item?id=44207503</comments>
+      <pubDate>Sat, 07 Jun 2025 04:45:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Getting Past Procrastination</title>
+      <link>https://spectrum.ieee.org/getting-past-procastination</link>
+      <description>No Text</description>
+      <guid>44207095</guid>
+      <comments>https://news.ycombinator.com/item?id=44207095</comments>
+      <pubDate>Sat, 07 Jun 2025 03:06:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>How we decreased GitLab repo backup times from 48 hours to 41 minutes</title>
+      <link>https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/</link>
+      <description>No Text</description>
+      <guid>44201975</guid>
+      <comments>https://news.ycombinator.com/item?id=44201975</comments>
+      <pubDate>Fri, 06 Jun 2025 15:43:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>I read all of Cloudflare's Claude-generated commits</title>
+      <link>https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/</link>
+      <description>No Text</description>
+      <guid>44205697</guid>
+      <comments>https://news.ycombinator.com/item?id=44205697</comments>
+      <pubDate>Fri, 06 Jun 2025 22:35:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>PyOpticL – Code-to-CAD optical system engineering</title>
+      <link>https://github.com/UMassIonTrappers/PyOpticL</link>
+      <description>No Text</description>
+      <guid>44210582</guid>
+      <comments>https://news.ycombinator.com/item?id=44210582</comments>
+      <pubDate>Sat, 07 Jun 2025 16:16:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>A year of funded FreeBSD development</title>
+      <link>https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html</link>
+      <description>No Text</description>
+      <guid>44204224</guid>
+      <comments>https://news.ycombinator.com/item?id=44204224</comments>
+      <pubDate>Fri, 06 Jun 2025 19:35:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Why are smokestacks so tall?</title>
+      <link>https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall</link>
+      <description>No Text</description>
+      <guid>44206553</guid>
+      <comments>https://news.ycombinator.com/item?id=44206553</comments>
+      <pubDate>Sat, 07 Jun 2025 01:06:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>If it works, it's not AI: a commercial look at AI startups (1999)</title>
+      <link>https://dspace.mit.edu/handle/1721.1/80558</link>
+      <description>No Text</description>
+      <guid>44209665</guid>
+      <comments>https://news.ycombinator.com/item?id=44209665</comments>
+      <pubDate>Sat, 07 Jun 2025 13:52:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Log-Linear Attention</title>
+      <link>https://arxiv.org/abs/2506.04761</link>
+      <description>No Text</description>
+      <guid>44210502</guid>
+      <comments>https://news.ycombinator.com/item?id=44210502</comments>
+      <pubDate>Sat, 07 Jun 2025 16:01:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>My experiment living in a tent in Hong Kong's jungle</title>
+      <link>https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment</link>
+      <description>No Text</description>
+      <guid>44210736</guid>
+      <comments>https://news.ycombinator.com/item?id=44210736</comments>
+      <pubDate>Sat, 07 Jun 2025 16:40:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]</title>
+      <link>https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf</link>
+      <description>No Text</description>
+      <guid>44203562</guid>
+      <comments>https://news.ycombinator.com/item?id=44203562</comments>
+      <pubDate>Fri, 06 Jun 2025 18:18:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Reverse Engineering Cursor's LLM Client</title>
+      <link>https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client/</link>
+      <description>No Text</description>
+      <guid>44207063</guid>
+      <comments>https://news.ycombinator.com/item?id=44207063</comments>
+      <pubDate>Sat, 07 Jun 2025 02:59:26 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
