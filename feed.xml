@@ -1,0 +1,242 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 14 Jun 2025 21:13:57 -0000</lastBuildDate>
+    <item>
+      <title>I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch</title>
+      <link>https://github.com/yousef-rafat/miniDiffusion</link>
+      <description>No Text</description>
+      <guid>44276476</guid>
+      <comments>https://news.ycombinator.com/item?id=44276476</comments>
+      <pubDate>Sat, 14 Jun 2025 13:56:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Seven replies to the viral Apple reasoning paper – and why they fall short</title>
+      <link>https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple</link>
+      <description>No Text</description>
+      <guid>44278403</guid>
+      <comments>https://news.ycombinator.com/item?id=44278403</comments>
+      <pubDate>Sat, 14 Jun 2025 19:52:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Inside the Apollo &quot;8-Ball&quot; FDAI (Flight Director / Attitude Indicator)</title>
+      <link>https://www.righto.com/2025/06/inside-apollo-fdai.html</link>
+      <description>No Text</description>
+      <guid>44277051</guid>
+      <comments>https://news.ycombinator.com/item?id=44277051</comments>
+      <pubDate>Sat, 14 Jun 2025 15:43:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Solar Orbiter gets world-first views of the Sun's poles</title>
+      <link>https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles</link>
+      <description>No Text</description>
+      <guid>44252717</guid>
+      <comments>https://news.ycombinator.com/item?id=44252717</comments>
+      <pubDate>Wed, 11 Jun 2025 23:00:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Unsupervised Elicitation of Language Models</title>
+      <link>https://arxiv.org/abs/2506.10139</link>
+      <description>No Text</description>
+      <guid>44276041</guid>
+      <comments>https://news.ycombinator.com/item?id=44276041</comments>
+      <pubDate>Sat, 14 Jun 2025 12:32:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>We investigated Amsterdam's attempt to build a 'fair' fraud detection model</title>
+      <link>https://www.lighthousereports.com/methodology/amsterdam-fairness/</link>
+      <description>No Text</description>
+      <guid>44257862</guid>
+      <comments>https://news.ycombinator.com/item?id=44257862</comments>
+      <pubDate>Thu, 12 Jun 2025 13:54:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>How the Final Cartridge III Freezer Works</title>
+      <link>https://www.pagetable.com/?p=1810</link>
+      <description>No Text</description>
+      <guid>44277431</guid>
+      <comments>https://news.ycombinator.com/item?id=44277431</comments>
+      <pubDate>Sat, 14 Jun 2025 16:57:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Last fifty years of integer linear programming: Recent practical advances</title>
+      <link>https://inria.hal.science/hal-04776866v1</link>
+      <description>No Text</description>
+      <guid>44274567</guid>
+      <comments>https://news.ycombinator.com/item?id=44274567</comments>
+      <pubDate>Sat, 14 Jun 2025 06:15:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Debunking HDR [video]</title>
+      <link>https://yedlin.net/DebunkingHDR/index.html</link>
+      <description>No Text</description>
+      <guid>44248968</guid>
+      <comments>https://news.ycombinator.com/item?id=44248968</comments>
+      <pubDate>Wed, 11 Jun 2025 15:56:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Peano arithmetic is enough, because Peano arithmetic  encodes computation</title>
+      <link>https://math.stackexchange.com/a/5075056/6708</link>
+      <description>No Text</description>
+      <guid>44269822</guid>
+      <comments>https://news.ycombinator.com/item?id=44269822</comments>
+      <pubDate>Fri, 13 Jun 2025 16:10:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Many Sides of Erik Satie</title>
+      <link>https://thereader.mitpress.mit.edu/the-many-sides-of-erik-satie/</link>
+      <description>No Text</description>
+      <guid>44216921</guid>
+      <comments>https://news.ycombinator.com/item?id=44216921</comments>
+      <pubDate>Sun, 08 Jun 2025 13:36:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>SIMD-friendly algorithms for substring searching (2018)</title>
+      <link>http://0x80.pl/notesen/2016-11-28-simd-strfind.html</link>
+      <description>No Text</description>
+      <guid>44274001</guid>
+      <comments>https://news.ycombinator.com/item?id=44274001</comments>
+      <pubDate>Sat, 14 Jun 2025 03:31:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Endometriosis is an interesting disease</title>
+      <link>https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting</link>
+      <description>No Text</description>
+      <guid>44272933</guid>
+      <comments>https://news.ycombinator.com/item?id=44272933</comments>
+      <pubDate>Fri, 13 Jun 2025 22:40:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>SSHTron: A multiplayer lightcycle game that runs through SSH</title>
+      <link>https://github.com/zachlatta/sshtron</link>
+      <description>No Text</description>
+      <guid>44277245</guid>
+      <comments>https://news.ycombinator.com/item?id=44277245</comments>
+      <pubDate>Sat, 14 Jun 2025 16:22:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>&quot;Language and Image Minus Cognition.&quot; Leif Weatherby on LLMs</title>
+      <link>https://www.jhiblog.org/2025/06/11/language-and-image-minus-cognition-an-interview-with-leif-weatherby/</link>
+      <description>No Text</description>
+      <guid>44247759</guid>
+      <comments>https://news.ycombinator.com/item?id=44247759</comments>
+      <pubDate>Wed, 11 Jun 2025 14:03:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>TimeGuessr</title>
+      <link>https://timeguessr.com/</link>
+      <description>No Text</description>
+      <guid>44233063</guid>
+      <comments>https://news.ycombinator.com/item?id=44233063</comments>
+      <pubDate>Tue, 10 Jun 2025 05:56:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Slowing the flow of core-dump-related CVEs</title>
+      <link>https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/</link>
+      <description>No Text</description>
+      <guid>44240909</guid>
+      <comments>https://news.ycombinator.com/item?id=44240909</comments>
+      <pubDate>Tue, 10 Jun 2025 20:07:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Solidroad (YC W25) Is Hiring</title>
+      <link>https://solidroad.com/careers</link>
+      <description>No Text</description>
+      <guid>44275843</guid>
+      <comments>https://news.ycombinator.com/item?id=44275843</comments>
+      <pubDate>Sat, 14 Jun 2025 12:00:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>Peeling the Covers Off Germany's Exascale &quot;Jupiter&quot; Supercomputer</title>
+      <link>https://www.nextplatform.com/2025/06/11/peeling-the-covers-off-germanys-exascale-jupiter-supercomputer/</link>
+      <description>No Text</description>
+      <guid>44255770</guid>
+      <comments>https://news.ycombinator.com/item?id=44255770</comments>
+      <pubDate>Thu, 12 Jun 2025 09:52:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>Liquid Glass – WWDC25 [video]</title>
+      <link>https://developer.apple.com/videos/play/wwdc2025/219</link>
+      <description>No Text</description>
+      <guid>44235612</guid>
+      <comments>https://news.ycombinator.com/item?id=44235612</comments>
+      <pubDate>Tue, 10 Jun 2025 11:48:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>Filedb: Disk-based key-value store inspired by Bitcask</title>
+      <link>https://github.com/rajivharlalka/filedb</link>
+      <description>No Text</description>
+      <guid>44273857</guid>
+      <comments>https://news.ycombinator.com/item?id=44273857</comments>
+      <pubDate>Sat, 14 Jun 2025 02:45:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Adapting Language Models</title>
+      <link>https://arxiv.org/abs/2506.10943</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;jyopari.github.io&amp;#x2F;posts&amp;#x2F;seal&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;jyopari.github.io&amp;#x2F;posts&amp;#x2F;seal&lt;/a&gt;</description>
+      <guid>44271284</guid>
+      <comments>https://news.ycombinator.com/item?id=44271284</comments>
+      <pubDate>Fri, 13 Jun 2025 19:03:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>Implementing Logic Programming</title>
+      <link>https://btmc.substack.com/p/implementing-logic-programming</link>
+      <description>No Text</description>
+      <guid>44272467</guid>
+      <comments>https://news.ycombinator.com/item?id=44272467</comments>
+      <pubDate>Fri, 13 Jun 2025 21:32:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Student discovers fungus predicted by Albert Hoffman</title>
+      <link>https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor</link>
+      <description>No Text</description>
+      <guid>44243059</guid>
+      <comments>https://news.ycombinator.com/item?id=44243059</comments>
+      <pubDate>Wed, 11 Jun 2025 00:36:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Strace Tips for Better Debugging</title>
+      <link>https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/</link>
+      <description>No Text</description>
+      <guid>44274784</guid>
+      <comments>https://news.ycombinator.com/item?id=44274784</comments>
+      <pubDate>Sat, 14 Jun 2025 07:20:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Army’s Newest Recruits: Tech Execs From Meta, OpenAI and More</title>
+      <link>https://www.wsj.com/tech/army-reserve-tech-executives-meta-palantir-796f5360</link>
+      <description>No Text</description>
+      <guid>44268547</guid>
+      <comments>https://news.ycombinator.com/item?id=44268547</comments>
+      <pubDate>Fri, 13 Jun 2025 13:51:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>The international standard for identifying postal items</title>
+      <link>https://www.akpain.net/blog/s10-upu/</link>
+      <description>No Text</description>
+      <guid>44258633</guid>
+      <comments>https://news.ycombinator.com/item?id=44258633</comments>
+      <pubDate>Thu, 12 Jun 2025 15:02:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Writing a Truth Oracle in Lisp</title>
+      <link>https://lambda-cove.net/posts/truth-oracle-lisp/</link>
+      <description>No Text</description>
+      <guid>44251677</guid>
+      <comments>https://news.ycombinator.com/item?id=44251677</comments>
+      <pubDate>Wed, 11 Jun 2025 20:50:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>If the moon were only 1 pixel: A tediously accurate solar system model (2014)</title>
+      <link>https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html</link>
+      <description>No Text</description>
+      <guid>44266828</guid>
+      <comments>https://news.ycombinator.com/item?id=44266828</comments>
+      <pubDate>Fri, 13 Jun 2025 08:40:05 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
