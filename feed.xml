@@ -1,0 +1,226 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 21 Jun 2025 21:11:50 -0000</lastBuildDate>
+    <item>
+      <title>LaborBerlin: State-of-the-Art 16mm Projector</title>
+      <link>https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start</link>
+      <description>No Text</description>
+      <guid>44340386</guid>
+      <comments>https://news.ycombinator.com/item?id=44340386</comments>
+      <pubDate>Sat, 21 Jun 2025 20:08:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge</title>
+      <link>https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/</link>
+      <description>No Text</description>
+      <guid>44309191</guid>
+      <comments>https://news.ycombinator.com/item?id=44309191</comments>
+      <pubDate>Wed, 18 Jun 2025 12:13:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Compact Representations for Arrays in Lua [pdf]</title>
+      <link>https://sol.sbc.org.br/index.php/sblp/article/view/30252/30059</link>
+      <description>No Text</description>
+      <guid>44314234</guid>
+      <comments>https://news.ycombinator.com/item?id=44314234</comments>
+      <pubDate>Wed, 18 Jun 2025 23:49:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>AllTracker: Efficient Dense Point Tracking at High Resolution</title>
+      <link>https://alltracker.github.io/</link>
+      <description>No Text</description>
+      <guid>44339076</guid>
+      <comments>https://news.ycombinator.com/item?id=44339076</comments>
+      <pubDate>Sat, 21 Jun 2025 17:09:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>ARIA, the UK's Bet to Build Scientific Revolutions</title>
+      <link>https://www.asimov.press/p/aria</link>
+      <description>No Text</description>
+      <guid>44338862</guid>
+      <comments>https://news.ycombinator.com/item?id=44338862</comments>
+      <pubDate>Sat, 21 Jun 2025 16:39:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>Scaling our observability platform by embracing wide events and replacing OTel</title>
+      <link>https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel</link>
+      <description>No Text</description>
+      <guid>44336015</guid>
+      <comments>https://news.ycombinator.com/item?id=44336015</comments>
+      <pubDate>Sat, 21 Jun 2025 09:23:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Using Microsoft's New CLI Text Editor on Ubuntu</title>
+      <link>https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu</link>
+      <description>No Text</description>
+      <guid>44306892</guid>
+      <comments>https://news.ycombinator.com/item?id=44306892</comments>
+      <pubDate>Wed, 18 Jun 2025 05:25:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Balatro for the Nintendo E-Reader</title>
+      <link>https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/</link>
+      <description>No Text</description>
+      <guid>44339025</guid>
+      <comments>https://news.ycombinator.com/item?id=44339025</comments>
+      <pubDate>Sat, 21 Jun 2025 16:59:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>Delta Chat is a decentralized and secure messenger app</title>
+      <link>https://delta.chat/en/</link>
+      <description>No Text</description>
+      <guid>44335065</guid>
+      <comments>https://news.ycombinator.com/item?id=44335065</comments>
+      <pubDate>Sat, 21 Jun 2025 06:29:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung embeds IronSource spyware app on phones across WANA</title>
+      <link>https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/</link>
+      <description>No Text</description>
+      <guid>44334167</guid>
+      <comments>https://news.ycombinator.com/item?id=44334167</comments>
+      <pubDate>Sat, 21 Jun 2025 03:06:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Nyanja new PC-Engine/TurboGrafx 16-bit console game in development</title>
+      <link>https://sarupro.itch.io/thenyanja</link>
+      <description>No Text</description>
+      <guid>44314305</guid>
+      <comments>https://news.ycombinator.com/item?id=44314305</comments>
+      <pubDate>Thu, 19 Jun 2025 00:02:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>Airpass – easily overcome WiFi time limits</title>
+      <link>https://airpass.tiagoalves.me/</link>
+      <description>No Text</description>
+      <guid>44310763</guid>
+      <comments>https://news.ycombinator.com/item?id=44310763</comments>
+      <pubDate>Wed, 18 Jun 2025 15:29:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: MMOndrian</title>
+      <link>https://mmondrian.com/</link>
+      <description>Made a collaborative, persistent state Mondrian-style painting editor. Feedback welcome!</description>
+      <guid>44336381</guid>
+      <comments>https://news.ycombinator.com/item?id=44336381</comments>
+      <pubDate>Sat, 21 Jun 2025 10:39:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Weave (YC W25) is hiring a founding AI engineer</title>
+      <link>https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer</link>
+      <description>No Text</description>
+      <guid>44339043</guid>
+      <comments>https://news.ycombinator.com/item?id=44339043</comments>
+      <pubDate>Sat, 21 Jun 2025 17:01:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Phoenix.new – Remote AI Runtime for Phoenix</title>
+      <link>https://fly.io/blog/phoenix-new-the-remote-ai-runtime/</link>
+      <description>No Text</description>
+      <guid>44328326</guid>
+      <comments>https://news.ycombinator.com/item?id=44328326</comments>
+      <pubDate>Fri, 20 Jun 2025 14:57:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>YouTube's new anti-adblock measures</title>
+      <link>https://iter.ca/post/yt-adblock/</link>
+      <description>No Text</description>
+      <guid>44329712</guid>
+      <comments>https://news.ycombinator.com/item?id=44329712</comments>
+      <pubDate>Fri, 20 Jun 2025 17:01:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>Harper – an open-source alternative to Grammarly</title>
+      <link>https://writewithharper.com</link>
+      <description>No Text</description>
+      <guid>44331362</guid>
+      <comments>https://news.ycombinator.com/item?id=44331362</comments>
+      <pubDate>Fri, 20 Jun 2025 19:51:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>'Gwada negative': French scientists find new blood type in woman</title>
+      <link>https://www.lemonde.fr/en/science/article/2025/06/21/gwada-negative-french-scientists-find-new-blood-type-in-woman_6742577_10.html</link>
+      <description>No Text</description>
+      <guid>44335517</guid>
+      <comments>https://news.ycombinator.com/item?id=44335517</comments>
+      <pubDate>Sat, 21 Jun 2025 07:38:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>Plastic bag bans and fees reduce harmful bag litter on shorelines</title>
+      <link>https://www.science.org/doi/10.1126/science.adp9274</link>
+      <description>No Text</description>
+      <guid>44333187</guid>
+      <comments>https://news.ycombinator.com/item?id=44333187</comments>
+      <pubDate>Fri, 20 Jun 2025 23:46:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>AI Is Ushering in the 'Tiny Team' Era in Silicon Valley</title>
+      <link>https://www.bloomberg.com/news/articles/2025-06-20/ai-is-ushering-in-the-tiny-team-era-in-silicon-valley</link>
+      <description>No Text</description>
+      <guid>44339596</guid>
+      <comments>https://news.ycombinator.com/item?id=44339596</comments>
+      <pubDate>Sat, 21 Jun 2025 18:21:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft suspended the email account of an ICC prosecutor at The Hague</title>
+      <link>https://www.nytimes.com/2025/06/20/technology/us-tech-europe-microsoft-trump-icc.html</link>
+      <description>No Text</description>
+      <guid>44336915</guid>
+      <comments>https://news.ycombinator.com/item?id=44336915</comments>
+      <pubDate>Sat, 21 Jun 2025 12:06:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Life as Slime</title>
+      <link>https://www.asimov.press/p/slime</link>
+      <description>No Text</description>
+      <guid>44298666</guid>
+      <comments>https://news.ycombinator.com/item?id=44298666</comments>
+      <pubDate>Tue, 17 Jun 2025 13:03:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Augmented Vertex Block Descent (AVBD)</title>
+      <link>https://graphics.cs.utah.edu/research/projects/avbd/</link>
+      <description>No Text</description>
+      <guid>44334403</guid>
+      <comments>https://news.ycombinator.com/item?id=44334403</comments>
+      <pubDate>Sat, 21 Jun 2025 04:04:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Captain Cook's missing ship found after sinking 250 years ago</title>
+      <link>https://www.independent.co.uk/news/science/captain-cook-missing-ship-found-hms-endeavour-b2771322.html</link>
+      <description>No Text</description>
+      <guid>44303767</guid>
+      <comments>https://news.ycombinator.com/item?id=44303767</comments>
+      <pubDate>Tue, 17 Jun 2025 20:46:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä</title>
+      <link>https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/</link>
+      <description>No Text</description>
+      <guid>44328598</guid>
+      <comments>https://news.ycombinator.com/item?id=44328598</comments>
+      <pubDate>Fri, 20 Jun 2025 15:23:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: lambda-nat-proxy – Serverless proxy using Lambda and UDP NAT punching</title>
+      <link>https://github.com/dan-v/lambda-nat-proxy</link>
+      <description>Revisited an old experiment of mine (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;dan-v&amp;#x2F;awslambdaproxy&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;dan-v&amp;#x2F;awslambdaproxy&lt;/a&gt;): can AWS Lambda functions work as network proxies? This time using UDP NAT hole punching + QUIC tunnels.&lt;p&gt;Client discovers public IP via STUN, writes session data to S3, which triggers a Lambda. Both endpoints punch UDP holes through their NATs, then establish a QUIC connection for encrypted traffic forwarding.</description>
+      <guid>44302623</guid>
+      <comments>https://news.ycombinator.com/item?id=44302623</comments>
+      <pubDate>Tue, 17 Jun 2025 19:01:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Cosmoe: BeOS Class Library on Top of Wayland</title>
+      <link>https://cosmoe.org/index.html</link>
+      <description>No Text</description>
+      <guid>44335907</guid>
+      <comments>https://news.ycombinator.com/item?id=44335907</comments>
+      <pubDate>Sat, 21 Jun 2025 09:00:01 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
