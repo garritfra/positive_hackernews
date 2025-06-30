@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Mon, 30 Jun 2025 06:21:06 -0000</lastBuildDate>
+    <item>
+      <title>Bought an Ampere Altra System</title>
+      <link>https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/</link>
+      <description>No Text</description>
+      <guid>44419446</guid>
+      <comments>https://news.ycombinator.com/item?id=44419446</comments>
+      <pubDate>Mon, 30 Jun 2025 04:38:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Gridfinity: The modular, open-source grid storage system</title>
+      <link>https://gridfinity.xyz/</link>
+      <description>No Text</description>
+      <guid>44419091</guid>
+      <comments>https://news.ycombinator.com/item?id=44419091</comments>
+      <pubDate>Mon, 30 Jun 2025 03:37:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>NativeJIT: A C++ expression –&gt; x64 JIT</title>
+      <link>https://github.com/BitFunnel/NativeJIT</link>
+      <description>No Text</description>
+      <guid>44418840</guid>
+      <comments>https://news.ycombinator.com/item?id=44418840</comments>
+      <pubDate>Mon, 30 Jun 2025 02:59:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>I made my VM think it has a CPU fan</title>
+      <link>https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html</link>
+      <description>No Text</description>
+      <guid>44413185</guid>
+      <comments>https://news.ycombinator.com/item?id=44413185</comments>
+      <pubDate>Sun, 29 Jun 2025 13:55:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Continuous Glucose Monitoring</title>
+      <link>https://www.imperialviolet.org/2025/06/29/cgm.html</link>
+      <description>No Text</description>
+      <guid>44418520</guid>
+      <comments>https://news.ycombinator.com/item?id=44418520</comments>
+      <pubDate>Mon, 30 Jun 2025 02:09:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Book of Shaders</title>
+      <link>https://thebookofshaders.com/</link>
+      <description>No Text</description>
+      <guid>44389622</guid>
+      <comments>https://news.ycombinator.com/item?id=44389622</comments>
+      <pubDate>Thu, 26 Jun 2025 17:48:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Amber insect fossils reveal &quot;zombie&quot; fungi likely lived alongside dinosaurs</title>
+      <link>https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil</link>
+      <description>No Text</description>
+      <guid>44391590</guid>
+      <comments>https://news.ycombinator.com/item?id=44391590</comments>
+      <pubDate>Thu, 26 Jun 2025 21:25:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)</title>
+      <link>https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security</link>
+      <description>No Text</description>
+      <guid>44416761</guid>
+      <comments>https://news.ycombinator.com/item?id=44416761</comments>
+      <pubDate>Sun, 29 Jun 2025 21:48:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: What Are You Working On? (June 2025)</title>
+      <link>https://news.ycombinator.com/item?id=44416093</link>
+      <description>What are you working on?  Any new ideas which you&amp;#x27;re thinking about?</description>
+      <guid>44416093</guid>
+      <comments>https://news.ycombinator.com/item?id=44416093</comments>
+      <pubDate>Sun, 29 Jun 2025 20:21:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>ICE test train reaches speeds of up to 405.0 km/h</title>
+      <link>https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/ICE-Testzug-faehrt-bis-zu-405-0-km-h-und-sammelt-wichtige-Erkenntnisse-fuer-den-Hochgeschwindigkeitsverkehr-13428394</link>
+      <description>No Text</description>
+      <guid>44417276</guid>
+      <comments>https://news.ycombinator.com/item?id=44417276</comments>
+      <pubDate>Sun, 29 Jun 2025 22:43:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Touching the back wall of the Apple store</title>
+      <link>https://blog.lauramichet.com/touching-the-back-wall-of-the-apple-store/</link>
+      <description>No Text</description>
+      <guid>44393307</guid>
+      <comments>https://news.ycombinator.com/item?id=44393307</comments>
+      <pubDate>Fri, 27 Jun 2025 02:45:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Revisiting Knuth's &quot;Premature Optimization&quot; Paper</title>
+      <link>https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/</link>
+      <description>No Text</description>
+      <guid>44386236</guid>
+      <comments>https://news.ycombinator.com/item?id=44386236</comments>
+      <pubDate>Thu, 26 Jun 2025 11:17:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>That Dropped Call with Customer Service? It Was on Purpose</title>
+      <link>https://www.theatlantic.com/ideas/archive/2025/06/customer-service-sludge/683340/</link>
+      <description>No Text</description>
+      <guid>44419753</guid>
+      <comments>https://news.ycombinator.com/item?id=44419753</comments>
+      <pubDate>Mon, 30 Jun 2025 05:29:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>We accidentally solved robotics by watching 1M hours of YouTube</title>
+      <link>https://ksagar.bearblog.dev/vjepa/</link>
+      <description>No Text</description>
+      <guid>44414171</guid>
+      <comments>https://news.ycombinator.com/item?id=44414171</comments>
+      <pubDate>Sun, 29 Jun 2025 16:08:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Jane Austen's Boldest Novel Is Also Her Least Understood</title>
+      <link>https://www.nytimes.com/2025/06/27/books/review/jane-austen-mansfield-park.html</link>
+      <description>No Text</description>
+      <guid>44401350</guid>
+      <comments>https://news.ycombinator.com/item?id=44401350</comments>
+      <pubDate>Fri, 27 Jun 2025 23:54:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>LLM's Illusion of Alignment</title>
+      <link>https://www.systemicmisalignment.com/</link>
+      <description>No Text</description>
+      <guid>44418692</guid>
+      <comments>https://news.ycombinator.com/item?id=44418692</comments>
+      <pubDate>Mon, 30 Jun 2025 02:35:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Use keyword-only arguments in Python dataclasses</title>
+      <link>https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/</link>
+      <description>No Text</description>
+      <guid>44418036</guid>
+      <comments>https://news.ycombinator.com/item?id=44418036</comments>
+      <pubDate>Mon, 30 Jun 2025 00:45:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Building untrusted container images safely at scale</title>
+      <link>https://depot.dev/blog/container-security-at-scale-building-untrusted-images-safely</link>
+      <description>No Text</description>
+      <guid>44389926</guid>
+      <comments>https://news.ycombinator.com/item?id=44389926</comments>
+      <pubDate>Thu, 26 Jun 2025 18:22:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>Anticheat Update Tracking</title>
+      <link>https://not-matthias.github.io/posts/anticheat-update-tracking/</link>
+      <description>No Text</description>
+      <guid>44416421</guid>
+      <comments>https://news.ycombinator.com/item?id=44416421</comments>
+      <pubDate>Sun, 29 Jun 2025 21:06:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>4-10x faster in-process pub/sub for Go</title>
+      <link>https://github.com/kelindar/event</link>
+      <description>No Text</description>
+      <guid>44413809</guid>
+      <comments>https://news.ycombinator.com/item?id=44413809</comments>
+      <pubDate>Sun, 29 Jun 2025 15:19:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Finding a former Australian prime minister’s passport number on Instagram (2020)</title>
+      <link>https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram/</link>
+      <description>No Text</description>
+      <guid>44417091</guid>
+      <comments>https://news.ycombinator.com/item?id=44417091</comments>
+      <pubDate>Sun, 29 Jun 2025 22:22:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ultrasound toothbrush promises painless checks for hidden gum problems</title>
+      <link>https://phys.org/news/2025-06-ultrasound-toothbrush-painless-hidden-gum.html</link>
+      <description>No Text</description>
+      <guid>44390440</guid>
+      <comments>https://news.ycombinator.com/item?id=44390440</comments>
+      <pubDate>Thu, 26 Jun 2025 19:20:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Medley Interlisp Project: Reviving a Historical Software System [pdf]</title>
+      <link>https://interlisp.org/documentation/young-ccece2025.pdf</link>
+      <description>No Text</description>
+      <guid>44413574</guid>
+      <comments>https://news.ycombinator.com/item?id=44413574</comments>
+      <pubDate>Sun, 29 Jun 2025 14:45:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>WorldVLA: Towards Autoregressive Action World Model</title>
+      <link>https://arxiv.org/abs/2506.21539</link>
+      <description>No Text</description>
+      <guid>44417725</guid>
+      <comments>https://news.ycombinator.com/item?id=44417725</comments>
+      <pubDate>Sun, 29 Jun 2025 23:51:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>Modelling API rate limits as diophantine inequalities</title>
+      <link>https://vivekn.dev/blog/rate-limit-diophantine</link>
+      <description>No Text</description>
+      <guid>44393998</guid>
+      <comments>https://news.ycombinator.com/item?id=44393998</comments>
+      <pubDate>Fri, 27 Jun 2025 05:48:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Reverse Engineering the Microchip CLB</title>
+      <link>http://mcp-clb.markomo.me/</link>
+      <description>No Text</description>
+      <guid>44416589</guid>
+      <comments>https://news.ycombinator.com/item?id=44416589</comments>
+      <pubDate>Sun, 29 Jun 2025 21:30:02 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
