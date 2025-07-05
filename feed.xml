@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 05 Jul 2025 21:12:47 -0000</lastBuildDate>
+    <item>
+      <title>Local-first software (2019)</title>
+      <link>https://www.inkandswitch.com/essay/local-first/</link>
+      <description>No Text</description>
+      <guid>44473135</guid>
+      <comments>https://news.ycombinator.com/item?id=44473135</comments>
+      <pubDate>Sat, 05 Jul 2025 14:45:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Europe's first geostationary sounder satellite is launched</title>
+      <link>https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched</link>
+      <description>No Text</description>
+      <guid>44472992</guid>
+      <comments>https://news.ycombinator.com/item?id=44472992</comments>
+      <pubDate>Sat, 05 Jul 2025 14:21:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Speeding up PostgreSQL dump/restore snapshots</title>
+      <link>https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql</link>
+      <description>No Text</description>
+      <guid>44473888</guid>
+      <comments>https://news.ycombinator.com/item?id=44473888</comments>
+      <pubDate>Sat, 05 Jul 2025 16:42:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Prime Reasons to Avoid Amazon</title>
+      <link>https://blog.thenewoil.org/the-prime-reasons-to-avoid-amazon</link>
+      <description>No Text</description>
+      <guid>44475297</guid>
+      <comments>https://news.ycombinator.com/item?id=44475297</comments>
+      <pubDate>Sat, 05 Jul 2025 20:28:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Atomic &quot;Bomb&quot; Ring from KiX (1947)</title>
+      <link>https://toytales.ca/atomic-bomb-ring-from-kix-1947/</link>
+      <description>No Text</description>
+      <guid>44447797</guid>
+      <comments>https://news.ycombinator.com/item?id=44447797</comments>
+      <pubDate>Wed, 02 Jul 2025 19:24:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>macOS Icon History</title>
+      <link>https://basicappleguy.com/basicappleblog/macos-icon-history</link>
+      <description>No Text</description>
+      <guid>44473400</guid>
+      <comments>https://news.ycombinator.com/item?id=44473400</comments>
+      <pubDate>Sat, 05 Jul 2025 15:25:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Holding Cellphone while driving is illegal, California court rules</title>
+      <link>https://www.latimes.com/california/story/2025-06-05/holding-your-cell-to-navigate-while-driving-is-illegal-court-says</link>
+      <description>No Text</description>
+      <guid>44475352</guid>
+      <comments>https://news.ycombinator.com/item?id=44475352</comments>
+      <pubDate>Sat, 05 Jul 2025 20:36:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>X-Clacks-Overhead</title>
+      <link>https://xclacksoverhead.org/home/about</link>
+      <description>No Text</description>
+      <guid>44440968</guid>
+      <comments>https://news.ycombinator.com/item?id=44440968</comments>
+      <pubDate>Wed, 02 Jul 2025 07:14:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Seine reopens to Paris swimmers after century-long ban</title>
+      <link>https://www.lemonde.fr/en/france/article/2025/07/05/seine-reopens-to-paris-swimmers-after-century-long-ban_6743058_7.html</link>
+      <description>No Text</description>
+      <guid>44474297</guid>
+      <comments>https://news.ycombinator.com/item?id=44474297</comments>
+      <pubDate>Sat, 05 Jul 2025 17:43:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Cod Have Been Shrinking for Decades, Scientists Say They've Solved Mystery</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-cod-have-been-shrinking-dramatically-for-decades-now-scientists-say-theyve-solved-the-mystery-180986920/</link>
+      <description>No Text</description>
+      <guid>44474759</guid>
+      <comments>https://news.ycombinator.com/item?id=44474759</comments>
+      <pubDate>Sat, 05 Jul 2025 19:00:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>Haskell, Reverse Polish Notation, and Parsing</title>
+      <link>https://mattwills.bearblog.dev/haskell-postfix/</link>
+      <description>No Text</description>
+      <guid>44444673</guid>
+      <comments>https://news.ycombinator.com/item?id=44444673</comments>
+      <pubDate>Wed, 02 Jul 2025 15:07:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Mini NASes marry NVMe to Intel's efficient chip</title>
+      <link>https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip</link>
+      <description>No Text</description>
+      <guid>44465319</guid>
+      <comments>https://news.ycombinator.com/item?id=44465319</comments>
+      <pubDate>Fri, 04 Jul 2025 15:21:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>Is It Cake? How Our Brain Deciphers Materials</title>
+      <link>https://nautil.us/is-it-cake-how-our-brain-deciphers-materials-1222193/</link>
+      <description>No Text</description>
+      <guid>44455591</guid>
+      <comments>https://news.ycombinator.com/item?id=44455591</comments>
+      <pubDate>Thu, 03 Jul 2025 14:43:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>Gecode is an open source C++ toolkit for developing constraint-based systems</title>
+      <link>https://www.gecode.org/</link>
+      <description>No Text</description>
+      <guid>44471150</guid>
+      <comments>https://news.ycombinator.com/item?id=44471150</comments>
+      <pubDate>Sat, 05 Jul 2025 08:43:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Pet ownership and cognitive functioning in later adulthood across pet types</title>
+      <link>https://www.nature.com/articles/s41598-025-03727-9</link>
+      <description>No Text</description>
+      <guid>44474894</guid>
+      <comments>https://news.ycombinator.com/item?id=44474894</comments>
+      <pubDate>Sat, 05 Jul 2025 19:21:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>Build Systems à la Carte (2018) [pdf]</title>
+      <link>https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf</link>
+      <description>No Text</description>
+      <guid>44442396</guid>
+      <comments>https://news.ycombinator.com/item?id=44442396</comments>
+      <pubDate>Wed, 02 Jul 2025 11:27:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>Optimizing typography of insect labels using free fonts and free software (2012) [pdf]</title>
+      <link>https://www.akentsoc.org/doc/Bowser_ML_2012.pdf</link>
+      <description>No Text</description>
+      <guid>44439915</guid>
+      <comments>https://news.ycombinator.com/item?id=44439915</comments>
+      <pubDate>Wed, 02 Jul 2025 03:06:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Just Ask for Generalization (2021)</title>
+      <link>https://evjang.com/2021/10/23/generalization.html</link>
+      <description>No Text</description>
+      <guid>44458914</guid>
+      <comments>https://news.ycombinator.com/item?id=44458914</comments>
+      <pubDate>Thu, 03 Jul 2025 20:31:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>The History of Electronic Music in 476 Tracks (1937–2001)</title>
+      <link>https://www.openculture.com/2025/06/the-history-of-electronic-music-in-476-tracks.html</link>
+      <description>No Text</description>
+      <guid>44449509</guid>
+      <comments>https://news.ycombinator.com/item?id=44449509</comments>
+      <pubDate>Wed, 02 Jul 2025 22:28:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>QSBS Limits Raised</title>
+      <link>https://www.mintz.com/insights-center/viewpoints/2906/2025-06-25-qsbs-benefits-expanded-under-senate-finance-proposal</link>
+      <description>No Text</description>
+      <guid>44471896</guid>
+      <comments>https://news.ycombinator.com/item?id=44471896</comments>
+      <pubDate>Sat, 05 Jul 2025 11:14:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>'Positive review only': Researchers hide AI prompts in papers</title>
+      <link>https://asia.nikkei.com/Business/Technology/Artificial-intelligence/Positive-review-only-Researchers-hide-AI-prompts-in-papers</link>
+      <description>No Text</description>
+      <guid>44473319</guid>
+      <comments>https://news.ycombinator.com/item?id=44473319</comments>
+      <pubDate>Sat, 05 Jul 2025 15:15:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>Telli (YC F24) Is Hiring Engineers [On-Site Berlin]</title>
+      <link>https://hi.telli.com/join-us</link>
+      <description>No Text</description>
+      <guid>44470656</guid>
+      <comments>https://news.ycombinator.com/item?id=44470656</comments>
+      <pubDate>Sat, 05 Jul 2025 07:00:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>Incapacitating Google Tag Manager (2022)</title>
+      <link>https://backlit.neocities.org/incapacitate-google-tag-manager</link>
+      <description>No Text</description>
+      <guid>44466697</guid>
+      <comments>https://news.ycombinator.com/item?id=44466697</comments>
+      <pubDate>Fri, 04 Jul 2025 18:12:25 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
