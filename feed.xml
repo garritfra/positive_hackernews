@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 12 Jul 2025 18:17:54 -0000</lastBuildDate>
+    <item>
+      <title>MacPaint Art from the Mid-80s Still Looks Great Today</title>
+      <link>https://blog.decryption.net.au/posts/macpaint.html</link>
+      <description>No Text</description>
+      <guid>44540402</guid>
+      <comments>https://news.ycombinator.com/item?id=44540402</comments>
+      <pubDate>Sat, 12 Jul 2025 08:45:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: BinaryRPC – Lightweight WebSocket-based RPC framework in modern C++</title>
+      <link>https://github.com/efecan0/binaryrpc-framework</link>
+      <description>Hi HN,&lt;p&gt;I’m a recent CS graduate.
+During the past few months I wrote BinaryRPC, an open-source RPC framework in modern C++20 focused on low-latency, binary WebSocket messaging.&lt;p&gt;Why I built it
+* Wanted first-class session support, pluggable QoS levels and a simple middleware chain (global, specific, multi handler) without extra JSON&amp;#x2F;XML parsing.
+* Easy developer experience&lt;p&gt;A quick feature list
+* Binary WebSocket frames – minimal overhead
+* Built-in session layer (login &amp;#x2F; reconnect &amp;#x2F; heartbeat)
+* QoS1 &amp;#x2F; QoS2 with automatic ACK &amp;amp; retry
+* Plugin system – rooms, msgpack, etc. can be added in one line
+* Thread-safe core: RAII + folly&lt;p&gt;Still early (solo project), so any feedback on design, concurrency model or missing must-have features would help a lot.&lt;p&gt;Thanks for reading!&lt;p&gt;also see &amp;quot;Chat Server in 5 Minutes with BinaryRPC&amp;quot;: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;medium.com&amp;#x2F;@efecanerdem0907&amp;#x2F;building-a-chat-server-in-5-minutes-with-binaryrpc-qos2-session-management-and-room-plugin-ccb66d722466&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;medium.com&amp;#x2F;@efecanerdem0907&amp;#x2F;building-a-chat-server-i...&lt;/a&gt;</description>
+      <guid>44543156</guid>
+      <comments>https://news.ycombinator.com/item?id=44543156</comments>
+      <pubDate>Sat, 12 Jul 2025 16:32:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Vibe-Coding a PCB – surprisingly good</title>
+      <link>https://atomic14.substack.com/p/vibe-coding-a-pcb-surprisingly-good</link>
+      <description>No Text</description>
+      <guid>44542880</guid>
+      <comments>https://news.ycombinator.com/item?id=44542880</comments>
+      <pubDate>Sat, 12 Jul 2025 15:47:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google</title>
+      <link>https://www.theverge.com/openai/705999/google-windsurf-ceo-openai</link>
+      <description>No Text</description>
+      <guid>44536988</guid>
+      <comments>https://news.ycombinator.com/item?id=44536988</comments>
+      <pubDate>Fri, 11 Jul 2025 21:35:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>Kimi k2 largest open source SOTA model?</title>
+      <link>https://github.com/MoonshotAI/Kimi-K2</link>
+      <description>No Text</description>
+      <guid>44543508</guid>
+      <comments>https://news.ycombinator.com/item?id=44543508</comments>
+      <pubDate>Sat, 12 Jul 2025 17:26:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Grok 4 Heavy Protects it's System prompt</title>
+      <link>https://simonwillison.net/2025/Jul/12/grok-4-heavy/</link>
+      <description>No Text</description>
+      <guid>44543590</guid>
+      <comments>https://news.ycombinator.com/item?id=44543590</comments>
+      <pubDate>Sat, 12 Jul 2025 17:36:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: DesignArena – crowdsourced benchmark for AI-generated UI/UX</title>
+      <link>https://www.designarena.ai/</link>
+      <description>I’ve been using AI to generate some repetitive frontend (guilty), and while most outputs felt vibe-coded, some results were surprisingly good. So I cleaned it up and made a ranking game out of it with friends, and you can check it out here: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.designarena.ai&amp;#x2F;vote&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.designarena.ai&amp;#x2F;vote&lt;/a&gt;&lt;p&gt;&amp;#x2F;vote: Your prompt will be answered by four random, anonymous models. You pick the one you prefer and crown the winner, tournament-style.&lt;p&gt;&amp;#x2F;leaderboard: See the current winning models, as dictated by voter preferences.&lt;p&gt;&amp;#x2F;play: Iterate quickly by seeing four models respond to the same input and pressing space to regenerate the results you don’t lock-in.&lt;p&gt;We were especially impressed with the quality of DeepSeek and Grok, and variance between categories (To judge by the results so far, OpenAI is very good for game dev, but seems to suck everywhere else).&lt;p&gt;We’ve learned a lot, and are curious to hear your comments and questions. Excited to make this better!</description>
+      <guid>44542578</guid>
+      <comments>https://news.ycombinator.com/item?id=44542578</comments>
+      <pubDate>Sat, 12 Jul 2025 15:07:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Working through 'Writing A C Compiler'</title>
+      <link>https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/</link>
+      <description>No Text</description>
+      <guid>44541565</guid>
+      <comments>https://news.ycombinator.com/item?id=44541565</comments>
+      <pubDate>Sat, 12 Jul 2025 12:23:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>Context Engineering Guide</title>
+      <link>https://nlp.elvissaravia.com/p/context-engineering-guide</link>
+      <description>No Text</description>
+      <guid>44508068</guid>
+      <comments>https://news.ycombinator.com/item?id=44508068</comments>
+      <pubDate>Wed, 09 Jul 2025 09:59:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>ETH Zurich and EPFL to release a LLM developed on public infrastructure</title>
+      <link>https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html</link>
+      <description>No Text</description>
+      <guid>44535637</guid>
+      <comments>https://news.ycombinator.com/item?id=44535637</comments>
+      <pubDate>Fri, 11 Jul 2025 18:45:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>The fish kick may be the fastest subsurface swim stroke yet (2015)</title>
+      <link>https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/</link>
+      <description>No Text</description>
+      <guid>44541576</guid>
+      <comments>https://news.ycombinator.com/item?id=44541576</comments>
+      <pubDate>Sat, 12 Jul 2025 12:25:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>First malaria treatment for babies approved for use</title>
+      <link>https://www.bbc.com/news/articles/c89e872jdjxo</link>
+      <description>No Text</description>
+      <guid>44500815</guid>
+      <comments>https://news.ycombinator.com/item?id=44500815</comments>
+      <pubDate>Tue, 08 Jul 2025 15:16:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>Stone–Wales Transformations</title>
+      <link>https://johncarlosbaez.wordpress.com/2025/07/12/stone-wales-transformation/</link>
+      <description>No Text</description>
+      <guid>44542170</guid>
+      <comments>https://news.ycombinator.com/item?id=44542170</comments>
+      <pubDate>Sat, 12 Jul 2025 14:07:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Sieve (YC X25) is hiring researchers to build large video datasets for AI labs</title>
+      <link>https://sievedata.com/about/jobs</link>
+      <description>No Text</description>
+      <guid>44541458</guid>
+      <comments>https://news.ycombinator.com/item?id=44541458</comments>
+      <pubDate>Sat, 12 Jul 2025 12:00:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>Faking a JPEG</title>
+      <link>https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/</link>
+      <description>No Text</description>
+      <guid>44537631</guid>
+      <comments>https://news.ycombinator.com/item?id=44537631</comments>
+      <pubDate>Fri, 11 Jul 2025 22:57:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>Commodore 64 Ultimate</title>
+      <link>https://www.commodore.net</link>
+      <description>No Text</description>
+      <guid>44540589</guid>
+      <comments>https://news.ycombinator.com/item?id=44540589</comments>
+      <pubDate>Sat, 12 Jul 2025 09:21:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Making a Speedrun Timer in D</title>
+      <link>https://bradley.chatha.dev/blog/linux-speedrun-timer-dlang/post/</link>
+      <description>No Text</description>
+      <guid>44501417</guid>
+      <comments>https://news.ycombinator.com/item?id=44501417</comments>
+      <pubDate>Tue, 08 Jul 2025 16:14:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>XAI seeks up to $200B valuation in next fundraising</title>
+      <link>https://www.ft.com/content/25aab987-c2a1-4fca-8883-38a617269b68</link>
+      <description>No Text</description>
+      <guid>44543113</guid>
+      <comments>https://news.ycombinator.com/item?id=44543113</comments>
+      <pubDate>Sat, 12 Jul 2025 16:26:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Preliminary report into Air India crash released</title>
+      <link>https://www.bbc.co.uk/news/live/cx20p2x9093t</link>
+      <description>Report: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;aaib.gov.in&amp;#x2F;What%27s%20New%20Assets&amp;#x2F;Preliminary%20Report%20VT-ANB.pdf&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;aaib.gov.in&amp;#x2F;What%27s%20New%20Assets&amp;#x2F;Preliminary%20Re...&lt;/a&gt;</description>
+      <guid>44536459</guid>
+      <comments>https://news.ycombinator.com/item?id=44536459</comments>
+      <pubDate>Fri, 11 Jul 2025 20:23:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Fundamentals of garbage collection (2023)</title>
+      <link>https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals</link>
+      <description>No Text</description>
+      <guid>44505121</guid>
+      <comments>https://news.ycombinator.com/item?id=44505121</comments>
+      <pubDate>Wed, 09 Jul 2025 00:03:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>Jank is C++</title>
+      <link>https://jank-lang.org/blog/2025-07-11-jank-is-cpp/</link>
+      <description>No Text</description>
+      <guid>44534787</guid>
+      <comments>https://news.ycombinator.com/item?id=44534787</comments>
+      <pubDate>Fri, 11 Jul 2025 17:22:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>What Manifest V3 Means for Brave Shields and the Use of Extensions in Brave</title>
+      <link>https://brave.com/blog/brave-shields-manifest-v3/</link>
+      <description>No Text</description>
+      <guid>44543660</guid>
+      <comments>https://news.ycombinator.com/item?id=44543660</comments>
+      <pubDate>Sat, 12 Jul 2025 17:43:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]</title>
+      <link>https://eprint.iacr.org/2025/1237.pdf</link>
+      <description>No Text</description>
+      <guid>44538693</guid>
+      <comments>https://news.ycombinator.com/item?id=44538693</comments>
+      <pubDate>Sat, 12 Jul 2025 02:05:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Building Watson: An Overview of the DeepQA Project (2010)</title>
+      <link>https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2303</link>
+      <description>No Text</description>
+      <guid>44502052</guid>
+      <comments>https://news.ycombinator.com/item?id=44502052</comments>
+      <pubDate>Tue, 08 Jul 2025 17:20:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>Leveraging Elixir's hot code loading capabilities to modularize a monolithic app</title>
+      <link>https://lucassifoni.info/blog/leveraging-hot-code-loading-for-fun-and-profit/</link>
+      <description>No Text</description>
+      <guid>44497808</guid>
+      <comments>https://news.ycombinator.com/item?id=44497808</comments>
+      <pubDate>Tue, 08 Jul 2025 07:14:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Andrew Ng: Building Faster with AI [video]</title>
+      <link>https://www.youtube.com/watch?v=RNJCfif1dPY</link>
+      <description>No Text</description>
+      <guid>44521225</guid>
+      <comments>https://news.ycombinator.com/item?id=44521225</comments>
+      <pubDate>Thu, 10 Jul 2025 14:02:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Reverse proxy deep dive</title>
+      <link>https://medium.com/@mitendra_mahto/cross-posted-from-https-startwithawhy-com-reverseproxy-2024-01-15-reverseproxy-deep-dive-html-c3443dc3e0e5</link>
+      <description>No Text</description>
+      <guid>44497981</guid>
+      <comments>https://news.ycombinator.com/item?id=44497981</comments>
+      <pubDate>Tue, 08 Jul 2025 07:49:39 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
