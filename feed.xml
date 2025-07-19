@@ -1,0 +1,226 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 19 Jul 2025 21:13:22 -0000</lastBuildDate>
+    <item>
+      <title>2025 Infrastructure Report Card</title>
+      <link>https://infrastructurereportcard.org/</link>
+      <description>No Text</description>
+      <guid>44618679</guid>
+      <comments>https://news.ycombinator.com/item?id=44618679</comments>
+      <pubDate>Sat, 19 Jul 2025 19:42:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Make Your Own Backup System – Part 1: Strategy Before Scripts</title>
+      <link>https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/</link>
+      <description>No Text</description>
+      <guid>44618687</guid>
+      <comments>https://news.ycombinator.com/item?id=44618687</comments>
+      <pubDate>Sat, 19 Jul 2025 19:43:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>MCP Security Vulnerabilities and Attack Vectors</title>
+      <link>https://forgecode.dev/blog/prevent-attacks-on-mcp/</link>
+      <description>No Text</description>
+      <guid>44617910</guid>
+      <comments>https://news.ycombinator.com/item?id=44617910</comments>
+      <pubDate>Sat, 19 Jul 2025 18:14:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI claims gold-medal performance at IMO 2025</title>
+      <link>https://twitter.com/alexwei_/status/1946477742855532918</link>
+      <description>No Text</description>
+      <guid>44613840</guid>
+      <comments>https://news.ycombinator.com/item?id=44613840</comments>
+      <pubDate>Sat, 19 Jul 2025 09:11:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>TSMC to start building four new plants with 1.4nm technology</title>
+      <link>https://www.taipeitimes.com/News/front/archives/2025/07/20/2003840583</link>
+      <description>No Text</description>
+      <guid>44618762</guid>
+      <comments>https://news.ycombinator.com/item?id=44618762</comments>
+      <pubDate>Sat, 19 Jul 2025 19:52:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Local LLMs versus Offline Wikipedia</title>
+      <link>https://evanhahn.com/local-llms-versus-offline-wikipedia/</link>
+      <description>No Text</description>
+      <guid>44617078</guid>
+      <comments>https://news.ycombinator.com/item?id=44617078</comments>
+      <pubDate>Sat, 19 Jul 2025 16:49:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Curious Case of the Unix workstation layout</title>
+      <link>https://thejpster.org.uk/blog/blog-2025-07-19/</link>
+      <description>No Text</description>
+      <guid>44616760</guid>
+      <comments>https://news.ycombinator.com/item?id=44616760</comments>
+      <pubDate>Sat, 19 Jul 2025 16:15:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Babies made using three people's DNA are born free of mitochondrial disease</title>
+      <link>https://www.bbc.com/news/articles/cn8179z199vo</link>
+      <description>No Text</description>
+      <guid>44587116</guid>
+      <comments>https://news.ycombinator.com/item?id=44587116</comments>
+      <pubDate>Wed, 16 Jul 2025 21:43:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>Trigon: Exploiting coprocessors for fun and for profit (part 2)</title>
+      <link>https://alfiecg.uk/2025/07/16/Trigon.html</link>
+      <description>No Text</description>
+      <guid>44618959</guid>
+      <comments>https://news.ycombinator.com/item?id=44618959</comments>
+      <pubDate>Sat, 19 Jul 2025 20:15:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Piano Keys</title>
+      <link>https://www.mathpages.com/home/kmath043.htm</link>
+      <description>No Text</description>
+      <guid>44576183</guid>
+      <comments>https://news.ycombinator.com/item?id=44576183</comments>
+      <pubDate>Tue, 15 Jul 2025 21:50:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Zig Interface Revisited</title>
+      <link>https://williamw520.github.io/2025/07/13/zig-interface-revisited.html</link>
+      <description>No Text</description>
+      <guid>44584414</guid>
+      <comments>https://news.ycombinator.com/item?id=44584414</comments>
+      <pubDate>Wed, 16 Jul 2025 16:52:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>The tech that the US Post Office gave us</title>
+      <link>https://www.theverge.com/report/709749/usps-250th-anniversary-pioneer-modern-technology</link>
+      <description>No Text</description>
+      <guid>44618576</guid>
+      <comments>https://news.ycombinator.com/item?id=44618576</comments>
+      <pubDate>Sat, 19 Jul 2025 19:32:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Am-I-vibing, detect agentic coding environments</title>
+      <link>https://github.com/ascorbic/am-i-vibing</link>
+      <description>No Text</description>
+      <guid>44616688</guid>
+      <comments>https://news.ycombinator.com/item?id=44616688</comments>
+      <pubDate>Sat, 19 Jul 2025 16:07:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Pimping My Casio: Part Deux</title>
+      <link>https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html</link>
+      <description>No Text</description>
+      <guid>44613486</guid>
+      <comments>https://news.ycombinator.com/item?id=44613486</comments>
+      <pubDate>Sat, 19 Jul 2025 07:58:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Rethinking CLI interfaces for AI</title>
+      <link>https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/</link>
+      <description>No Text</description>
+      <guid>44617184</guid>
+      <comments>https://news.ycombinator.com/item?id=44617184</comments>
+      <pubDate>Sat, 19 Jul 2025 16:58:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>How we tracked down a Go 1.24 memory regression</title>
+      <link>https://www.datadoghq.com/blog/engineering/go-memory-regression/</link>
+      <description>No Text</description>
+      <guid>44597550</guid>
+      <comments>https://news.ycombinator.com/item?id=44597550</comments>
+      <pubDate>Thu, 17 Jul 2025 20:02:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Linux and Secure Boot certificate expiration</title>
+      <link>https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/</link>
+      <description>No Text</description>
+      <guid>44601045</guid>
+      <comments>https://news.ycombinator.com/item?id=44601045</comments>
+      <pubDate>Fri, 18 Jul 2025 03:53:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>Hyatt Hotels are using algorithmic Rest “smoking detectors”</title>
+      <link>https://twitter.com/_ZachGriff/status/1945959030851035223</link>
+      <description>No Text</description>
+      <guid>44612487</guid>
+      <comments>https://news.ycombinator.com/item?id=44612487</comments>
+      <pubDate>Sat, 19 Jul 2025 04:02:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>'Universal cancer vaccine' trains the immune system to kill any tumor</title>
+      <link>https://newatlas.com/cancer/universal-cancer-vaccine/</link>
+      <description>No Text</description>
+      <guid>44618595</guid>
+      <comments>https://news.ycombinator.com/item?id=44618595</comments>
+      <pubDate>Sat, 19 Jul 2025 19:34:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>N78 band 5G NR recordings</title>
+      <link>https://destevez.net/2025/07/n78-band-5g-nr-recordings/</link>
+      <description>No Text</description>
+      <guid>44593628</guid>
+      <comments>https://news.ycombinator.com/item?id=44593628</comments>
+      <pubDate>Thu, 17 Jul 2025 14:08:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Piramidal (YC W24) is hiring a full stack engineer</title>
+      <link>https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer</link>
+      <description>No Text</description>
+      <guid>44614788</guid>
+      <comments>https://news.ycombinator.com/item?id=44614788</comments>
+      <pubDate>Sat, 19 Jul 2025 12:00:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Display Photos on a World Map</title>
+      <link>https://worldsnap.surge.sh/</link>
+      <description>I had this idea where you would see realtime photos on a map, right now this is simply using cat pics, not sure where to take it from here but maybe it&amp;#x27;s useful to someone. :)&lt;p&gt;GitHub: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;stagas&amp;#x2F;worldsnap&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;stagas&amp;#x2F;worldsnap&lt;/a&gt;</description>
+      <guid>44583729</guid>
+      <comments>https://news.ycombinator.com/item?id=44583729</comments>
+      <pubDate>Wed, 16 Jul 2025 15:57:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>A 14kb page can load much faster than a 15kb page (2022)</title>
+      <link>https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/</link>
+      <description>No Text</description>
+      <guid>44613625</guid>
+      <comments>https://news.ycombinator.com/item?id=44613625</comments>
+      <pubDate>Sat, 19 Jul 2025 08:26:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>What the Internet Was Like in 1998</title>
+      <link>https://cybercultural.com/p/internet-1998/</link>
+      <description>No Text</description>
+      <guid>44576423</guid>
+      <comments>https://news.ycombinator.com/item?id=44576423</comments>
+      <pubDate>Tue, 15 Jul 2025 22:16:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Why you should choose HTMX for your next web-based side project (2024)</title>
+      <link>https://hamy.xyz/blog/2024-02_htmx-for-side-projects</link>
+      <description>No Text</description>
+      <guid>44615703</guid>
+      <comments>https://news.ycombinator.com/item?id=44615703</comments>
+      <pubDate>Sat, 19 Jul 2025 14:23:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>My Self-Hosting Setup</title>
+      <link>https://codecaptured.com/blog/my-ultimate-self-hosting-setup/</link>
+      <description>No Text</description>
+      <guid>44612151</guid>
+      <comments>https://news.ycombinator.com/item?id=44612151</comments>
+      <pubDate>Sat, 19 Jul 2025 02:56:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>A CarFax for Used PCs: Hewlett Packard wants to give old laptops new life</title>
+      <link>https://spectrum.ieee.org/carfax-used-pcs</link>
+      <description>No Text</description>
+      <guid>44574065</guid>
+      <comments>https://news.ycombinator.com/item?id=44574065</comments>
+      <pubDate>Tue, 15 Jul 2025 18:02:37 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
