@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Mon, 25 Aug 2025 18:19:28 -0000</lastBuildDate>
+    <item>
+      <title>Japan Post to temporarily suspend mail to US over end of de minimis exemption</title>
+      <link>https://www.post.japanpost.jp/int/information/2025/0825_01_en.html</link>
+      <description>No Text</description>
+      <guid>45016517</guid>
+      <comments>https://news.ycombinator.com/item?id=45016517</comments>
+      <pubDate>Mon, 25 Aug 2025 17:41:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Base, an SQLite database editor for macOS</title>
+      <link>https://menial.co.uk/base/</link>
+      <description>I recently released v3 of Base, my SQLite editor for macOS.&lt;p&gt;The goal of this app is to provide a comfortable native GUI for SQLite, without it turning into a massive IDE-style app.&lt;p&gt;The coolest features are&lt;p&gt;- That it can handle full altering of tables, which is quite finicky to do manually with SQLite.&lt;p&gt;- It has a more detailed display of column constraints than most editors. Each constraint is shown as an icon if active, with full details available on clicking the icon.&lt;p&gt;This update also adds support for attaching databases, which is a bit fiddly with macOS sandboxing.&lt;p&gt;I&amp;#x27;d love to hear any feedback or answer any questions.</description>
+      <guid>45014131</guid>
+      <comments>https://news.ycombinator.com/item?id=45014131</comments>
+      <pubDate>Mon, 25 Aug 2025 14:17:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Building the mouse Logitech won't make</title>
+      <link>https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods</link>
+      <description>No Text</description>
+      <guid>45014993</guid>
+      <comments>https://news.ycombinator.com/item?id=45014993</comments>
+      <pubDate>Mon, 25 Aug 2025 15:34:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Google's Liquid Cooling at Hot Chips 2025</title>
+      <link>https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips</link>
+      <description>No Text</description>
+      <guid>45016720</guid>
+      <comments>https://news.ycombinator.com/item?id=45016720</comments>
+      <pubDate>Mon, 25 Aug 2025 17:57:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Launch HN: April (YC S25) – Voice AI to manage your email and calendar</title>
+      <link>https://news.ycombinator.com/item?id=45015230</link>
+      <description>Hi HN, we’re Neha and Akash from April (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;tryapril.com&quot;&gt;https:&amp;#x2F;&amp;#x2F;tryapril.com&lt;/a&gt;). We are building an AI executive assistant to help you get through emails and manage your schedule, hands-free while you drive to work, or whenever else you prefer voice interaction.&lt;p&gt;Here&amp;#x27;s a demo: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.youtube.com&amp;#x2F;watch?v=ISKwEyuQQEo#t=50&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.youtube.com&amp;#x2F;watch?v=ISKwEyuQQEo#t=50&lt;/a&gt;&lt;p&gt;...and here&amp;#x27;s a second one showing more complex use cases: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.youtube.com&amp;#x2F;watch?v=P8APprJ3-eY&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.youtube.com&amp;#x2F;watch?v=P8APprJ3-eY&lt;/a&gt;.&lt;p&gt;While driving 40 mins daily from SF to Berkeley, my inbox would flood to 30+ emails and I&amp;#x27;d have back-to-back meetings lined up. I&amp;#x27;d reach work already behind, then spend another hour just catching up. We figured with recent advances in voice AI, we could solve this dead time problem and start doing things on the go.&lt;p&gt;You can just speak to April and it can:&lt;p&gt;- Summarize important emails and flag what needs attention&lt;p&gt;- Send replies that I dictate (it handles the formatting and tone)&lt;p&gt;- Review my calendar and reschedule meetings on the fly&lt;p&gt;- Pull context from email threads for each meeting&lt;p&gt;- Archive&amp;#x2F;organize emails into folders&lt;p&gt;April is built using Deepgram for STT. Eleven Labs for TTS  - built on top of LiveKit. We built our own MCP (Model Context Protocol) servers for Google integration, which handle auth, rate limiting, and maintain conversation context across email threads.&lt;p&gt;The most interesting part has been optimizing for lowest latency given we are a tool call heavy application. We are also trying to optimize the interruption handling and turn taking to make it feel more natural.&lt;p&gt;April is available on the AppStore (iPhone&amp;#x2F;iPad). You can try us out here &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;apps.apple.com&amp;#x2F;us&amp;#x2F;app&amp;#x2F;april-ai-executive-assistant&amp;#x2F;id6747432952&quot;&gt;https:&amp;#x2F;&amp;#x2F;apps.apple.com&amp;#x2F;us&amp;#x2F;app&amp;#x2F;april-ai-executive-assistant&amp;#x2F;i...&lt;/a&gt;&lt;p&gt;Free 3-day trial, then $14.99&amp;#x2F;mo. We&amp;#x27;d love feedback on: Which email &amp;#x2F;calendar workflows are most painful for you? What tools beyond Gmail &amp;amp; Google calendar would be most valuable with a voice interface?&lt;p&gt;We’ll be in the thread all day to answer any questions, share more technical details and learn what would make April most useful to you. Comment away!</description>
+      <guid>45015230</guid>
+      <comments>https://news.ycombinator.com/item?id=45015230</comments>
+      <pubDate>Mon, 25 Aug 2025 15:56:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>What are OKLCH colors?</title>
+      <link>https://jakub.kr/components/oklch-colors</link>
+      <description>No Text</description>
+      <guid>45010876</guid>
+      <comments>https://news.ycombinator.com/item?id=45010876</comments>
+      <pubDate>Mon, 25 Aug 2025 06:32:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>A Small Change to Improve Browsers for Keyboard Navigation</title>
+      <link>https://b.43z.one/2025-07-22/</link>
+      <description>No Text</description>
+      <guid>45013737</guid>
+      <comments>https://news.ycombinator.com/item?id=45013737</comments>
+      <pubDate>Mon, 25 Aug 2025 13:40:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>A visual introduction to big O notation</title>
+      <link>https://samwho.dev/big-o/</link>
+      <description>No Text</description>
+      <guid>45002182</guid>
+      <comments>https://news.ycombinator.com/item?id=45002182</comments>
+      <pubDate>Sun, 24 Aug 2025 07:39:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>FCC Bars over 1,200 Providers for Non-Compliance with Robocall Protections</title>
+      <link>https://docs.fcc.gov/public/attachments/DOC-414073A1.txt</link>
+      <description>No Text</description>
+      <guid>45015354</guid>
+      <comments>https://news.ycombinator.com/item?id=45015354</comments>
+      <pubDate>Mon, 25 Aug 2025 16:06:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>How to Make Things Slower So They Go Faster</title>
+      <link>https://www.gojiberries.io/how-to-make-things-slower-so-they-go-faster-a-jitter-design-manual/</link>
+      <description>No Text</description>
+      <guid>45001556</guid>
+      <comments>https://news.ycombinator.com/item?id=45001556</comments>
+      <pubDate>Sun, 24 Aug 2025 05:10:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>What Is a Color Space?</title>
+      <link>https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts</link>
+      <description>No Text</description>
+      <guid>45013154</guid>
+      <comments>https://news.ycombinator.com/item?id=45013154</comments>
+      <pubDate>Mon, 25 Aug 2025 12:33:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>An Illustrated Guide to OAuth</title>
+      <link>https://www.ducktyped.org/p/an-illustrated-guide-to-oauth</link>
+      <description>No Text</description>
+      <guid>45013131</guid>
+      <comments>https://news.ycombinator.com/item?id=45013131</comments>
+      <pubDate>Mon, 25 Aug 2025 12:29:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Agent-C: a 4KB AI agent</title>
+      <link>https://github.com/bravenewxyz/agent-c</link>
+      <description>No Text</description>
+      <guid>45012430</guid>
+      <comments>https://news.ycombinator.com/item?id=45012430</comments>
+      <pubDate>Mon, 25 Aug 2025 10:43:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Extraordinary Rise in the Wealth of Older American Households</title>
+      <link>https://www.nber.org/papers/w34131</link>
+      <description>No Text</description>
+      <guid>45016208</guid>
+      <comments>https://news.ycombinator.com/item?id=45016208</comments>
+      <pubDate>Mon, 25 Aug 2025 17:16:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>SmallJS: Smalltalk-80 that compiles to JavaScript</title>
+      <link>https://small-js.org/Home/Home.html</link>
+      <description>No Text</description>
+      <guid>45002776</guid>
+      <comments>https://news.ycombinator.com/item?id=45002776</comments>
+      <pubDate>Sun, 24 Aug 2025 09:29:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Git-Annex</title>
+      <link>https://git-annex.branchable.com/</link>
+      <description>No Text</description>
+      <guid>45010161</guid>
+      <comments>https://news.ycombinator.com/item?id=45010161</comments>
+      <pubDate>Mon, 25 Aug 2025 04:18:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Mathematical secrets of ancient tablet unlocked after nearly a century of study (2017)</title>
+      <link>https://www.theguardian.com/science/2017/aug/24/mathematical-secrets-of-ancient-tablet-unlocked-after-nearly-a-century-of-study</link>
+      <description>No Text</description>
+      <guid>45007992</guid>
+      <comments>https://news.ycombinator.com/item?id=45007992</comments>
+      <pubDate>Sun, 24 Aug 2025 21:31:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>IBM's Power11 Processor Architecture at Hot Chips 2025</title>
+      <link>https://www.servethehome.com/ibms-power11-processor-architecture-at-hot-chips-2025/</link>
+      <description>No Text</description>
+      <guid>45016542</guid>
+      <comments>https://news.ycombinator.com/item?id=45016542</comments>
+      <pubDate>Mon, 25 Aug 2025 17:43:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Standard Thermal: Energy Storage 500x Cheaper Than Batteries</title>
+      <link>https://austinvernon.site/blog/standardthermal.html</link>
+      <description>No Text</description>
+      <guid>45012942</guid>
+      <comments>https://news.ycombinator.com/item?id=45012942</comments>
+      <pubDate>Mon, 25 Aug 2025 12:04:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Busy beaver hunters reach numbers that overwhelm ordinary math</title>
+      <link>https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/</link>
+      <description>No Text</description>
+      <guid>44990839</guid>
+      <comments>https://news.ycombinator.com/item?id=44990839</comments>
+      <pubDate>Fri, 22 Aug 2025 22:47:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Prediction-Encoded Pixels image format</title>
+      <link>https://github.com/ENDESGA/PEP</link>
+      <description>No Text</description>
+      <guid>45012548</guid>
+      <comments>https://news.ycombinator.com/item?id=45012548</comments>
+      <pubDate>Mon, 25 Aug 2025 11:05:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>We put a coding agent in a while loop</title>
+      <link>https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md</link>
+      <description>No Text</description>
+      <guid>45005434</guid>
+      <comments>https://news.ycombinator.com/item?id=45005434</comments>
+      <pubDate>Sun, 24 Aug 2025 16:18:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>How to Fix Your Context</title>
+      <link>https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html</link>
+      <description>No Text</description>
+      <guid>45002048</guid>
+      <comments>https://news.ycombinator.com/item?id=45002048</comments>
+      <pubDate>Sun, 24 Aug 2025 07:09:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia's new 'robot brain' goes on sale for $3,499</title>
+      <link>https://www.cnbc.com/2025/08/25/nvidias-thor-t5000-robot-brain-chip.html</link>
+      <description>No Text</description>
+      <guid>45015532</guid>
+      <comments>https://news.ycombinator.com/item?id=45015532</comments>
+      <pubDate>Mon, 25 Aug 2025 16:19:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?</title>
+      <link>https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/</link>
+      <description>No Text</description>
+      <guid>45005545</guid>
+      <comments>https://news.ycombinator.com/item?id=45005545</comments>
+      <pubDate>Sun, 24 Aug 2025 16:30:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye</title>
+      <link>https://dseltzer.gitlab.io/sping/docs/</link>
+      <description>I&amp;#x27;ve frequently found myself using [nvitop](&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;XuehaiPan&amp;#x2F;nvitop&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;XuehaiPan&amp;#x2F;nvitop&lt;/a&gt;) to diagnose GPU&amp;#x2F;CPU contention issues.&lt;p&gt;The two best things about it are:&lt;p&gt;- It&amp;#x27;s easy to install if I can access pip in the container&lt;p&gt;- It makes a compelling screenshot (which helps me communicate with coworkers.)&lt;p&gt;With those two lessons in mind: Here is Sping!&lt;p&gt;Purpose: Help observe and diagnose latency issues at layer 4+ (TCP&amp;#x2F;HTTP&amp;#x2F;HTTPS)&lt;p&gt;Two good things about it:&lt;p&gt;- It&amp;#x27;s easy to install if you have pip. (Available at [service-ping-sping](&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;pypi.org&amp;#x2F;project&amp;#x2F;service-ping-sping&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;pypi.org&amp;#x2F;project&amp;#x2F;service-ping-sping&amp;#x2F;&lt;/a&gt;) on PyPi)&lt;p&gt;- It makes a compelling screenshot.&lt;p&gt;Not sure if this is the kind of thing that anyone else would be interested in. But I&amp;#x27;ve enjoyed making it and intend to keep using it.</description>
+      <guid>45008819</guid>
+      <comments>https://news.ycombinator.com/item?id=45008819</comments>
+      <pubDate>Sun, 24 Aug 2025 23:42:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Trees on city streets cope with drought by drinking from leaky pipes</title>
+      <link>https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;archive.ph&amp;#x2F;5gJNi&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;archive.ph&amp;#x2F;5gJNi&lt;/a&gt;</description>
+      <guid>44986723</guid>
+      <comments>https://news.ycombinator.com/item?id=44986723</comments>
+      <pubDate>Fri, 22 Aug 2025 16:46:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>In-Memory Filesystems in Rust</title>
+      <link>https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/</link>
+      <description>No Text</description>
+      <guid>45001883</guid>
+      <comments>https://news.ycombinator.com/item?id=45001883</comments>
+      <pubDate>Sun, 24 Aug 2025 06:33:35 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
