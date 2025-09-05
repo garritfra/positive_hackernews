@@ -1,4 +1,4 @@
 requests == 2.32.5
 transformers == 4.56.0
-torch == 2.7.1
+torch == 2.8.0
 accelerate == 1.10.1
