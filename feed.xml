@@ -1,0 +1,227 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 13 Sep 2025 18:15:44 -0000</lastBuildDate>
+    <item>
+      <title>Magical Systems Thinking</title>
+      <link>https://worksinprogress.co/issue/magical-systems-thinking/</link>
+      <description>No Text</description>
+      <guid>45233266</guid>
+      <comments>https://news.ycombinator.com/item?id=45233266</comments>
+      <pubDate>Sat, 13 Sep 2025 16:18:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>A store that generates products from anything you type in search</title>
+      <link>https://anycrap.shop/</link>
+      <description>No Text</description>
+      <guid>45231378</guid>
+      <comments>https://news.ycombinator.com/item?id=45231378</comments>
+      <pubDate>Sat, 13 Sep 2025 12:02:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>486Tang – 486 on a credit-card-sized FPGA board</title>
+      <link>https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/</link>
+      <description>No Text</description>
+      <guid>45232565</guid>
+      <comments>https://news.ycombinator.com/item?id=45232565</comments>
+      <pubDate>Sat, 13 Sep 2025 14:52:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Mago: A fast PHP toolchain written in Rust</title>
+      <link>https://github.com/carthage-software/mago</link>
+      <description>No Text</description>
+      <guid>45232275</guid>
+      <comments>https://news.ycombinator.com/item?id=45232275</comments>
+      <pubDate>Sat, 13 Sep 2025 14:20:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>My First Impressions of Gleam</title>
+      <link>https://mtlynch.io/notes/gleam-first-impressions/</link>
+      <description>No Text</description>
+      <guid>45231852</guid>
+      <comments>https://news.ycombinator.com/item?id=45231852</comments>
+      <pubDate>Sat, 13 Sep 2025 13:15:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: CLAVIER-36 (programming environment for generative music)</title>
+      <link>https://clavier36.com/p/LtZDdcRP3haTWHErgvdM</link>
+      <description>CLAVIER-36 is a programming environment for generative music. Programs are laid out in a two-dimensional grid, and evolve over time according to a fixed set of rules. The system is much like a cellular automaton, in that most of the rules governing the evolution of the system are local.&lt;p&gt;C36 programs describe sequences of discrete events in time. The environment includes a primitive sampler, as a self-contained means of interpreting these events as sound. For full expressivity, though, the system is best used as a generator of data for interpretation by an external musical instrument, such as a synthesizer.&lt;p&gt;The project was very directly inspired by Orca (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;100r.co&amp;#x2F;site&amp;#x2F;orca.html&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;100r.co&amp;#x2F;site&amp;#x2F;orca.html&lt;/a&gt;). It began as my own from-scratch implementation of Orca and diverged over time.&lt;p&gt;It&amp;#x27;s written in C, and compiled to WASM for the browser.&lt;p&gt;See the following pages for more info:&lt;p&gt;about page: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;clavier36.com&amp;#x2F;about&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;clavier36.com&amp;#x2F;about&lt;/a&gt;&lt;p&gt;user manual: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;clavier36.com&amp;#x2F;manual&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;clavier36.com&amp;#x2F;manual&lt;/a&gt;&lt;p&gt;tutorial video: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;youtu.be&amp;#x2F;rIpQmJVMjCA&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;youtu.be&amp;#x2F;rIpQmJVMjCA&lt;/a&gt;</description>
+      <guid>45232299</guid>
+      <comments>https://news.ycombinator.com/item?id=45232299</comments>
+      <pubDate>Sat, 13 Sep 2025 14:22:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>Open Source SDR Ham Transceiver Prototype</title>
+      <link>https://m17project.org/2025/08/18/first-linht-tests/</link>
+      <description>No Text</description>
+      <guid>45192012</guid>
+      <comments>https://news.ycombinator.com/item?id=45192012</comments>
+      <pubDate>Wed, 10 Sep 2025 01:38:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Japan sets record of nearly 100k people aged over 100</title>
+      <link>https://www.bbc.com/news/articles/cd07nljlyv0o</link>
+      <description>No Text</description>
+      <guid>45232052</guid>
+      <comments>https://news.ycombinator.com/item?id=45232052</comments>
+      <pubDate>Sat, 13 Sep 2025 13:47:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V</title>
+      <link>https://skiftos.org</link>
+      <description>No Text</description>
+      <guid>45229414</guid>
+      <comments>https://news.ycombinator.com/item?id=45229414</comments>
+      <pubDate>Sat, 13 Sep 2025 04:55:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>UTF-8 is a brilliant design</title>
+      <link>https://iamvishnu.com/posts/utf8-is-brilliant-design</link>
+      <description>No Text</description>
+      <guid>45225098</guid>
+      <comments>https://news.ycombinator.com/item?id=45225098</comments>
+      <pubDate>Fri, 12 Sep 2025 18:30:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Java 25's new CPU-Time Profiler (1)</title>
+      <link>https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/</link>
+      <description>No Text</description>
+      <guid>45230265</guid>
+      <comments>https://news.ycombinator.com/item?id=45230265</comments>
+      <pubDate>Sat, 13 Sep 2025 08:11:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>How to Use Claude Code Subagents to Parallelize Development</title>
+      <link>https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/</link>
+      <description>No Text</description>
+      <guid>45181577</guid>
+      <comments>https://news.ycombinator.com/item?id=45181577</comments>
+      <pubDate>Tue, 09 Sep 2025 13:21:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>QGIS is a free, open-source, cross platform geographical information system</title>
+      <link>https://github.com/qgis/QGIS</link>
+      <description>No Text</description>
+      <guid>45224156</guid>
+      <comments>https://news.ycombinator.com/item?id=45224156</comments>
+      <pubDate>Fri, 12 Sep 2025 16:57:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>'Someone must know this guy': four-year wedding crasher mystery solved</title>
+      <link>https://www.theguardian.com/uk-news/2025/sep/12/wedding-crasher-mystery-solved-four-years-bride-scotland</link>
+      <description>No Text</description>
+      <guid>45232562</guid>
+      <comments>https://news.ycombinator.com/item?id=45232562</comments>
+      <pubDate>Sat, 13 Sep 2025 14:52:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>Many hard LeetCode problems are easy constraint problems</title>
+      <link>https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/</link>
+      <description>No Text</description>
+      <guid>45222695</guid>
+      <comments>https://news.ycombinator.com/item?id=45222695</comments>
+      <pubDate>Fri, 12 Sep 2025 14:44:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Vicinae – a native, Raycast-compatible launcher for Linux</title>
+      <link>https://github.com/vicinaehq/vicinae</link>
+      <description>Hi HN!&lt;p&gt;I’ve always been a fan of application launchers, and I was impressed by the approach the Raycast team took — especially their extension system. About six months ago I started building something similar for Linux, aiming to integrate deeply at the OS level and give extensions a lot of power.&lt;p&gt;Vicinae is written in C++ with Qt Widgets. I chose Widgets over QML for more imperative control of the UI, especially around extension handling. So far that’s worked well — modern C++ is great.&lt;p&gt;To support my goals I built a number of custom widgets, including a fully virtualized list that can efficiently render tens of thousands of items. That gave me a lot of respect for Qt — it’s a powerful framework that mostly stayed out of my way.&lt;p&gt;A key feature is support for Raycast extensions (React + TypeScript), most of which can be installed and used directly inside the launcher (though not all features are implemented yet). There’s also a native API package (@vicinae&amp;#x2F;api) for writing Vicinae-specific extensions with additional capabilities. This required writing a custom React reconciler — surprisingly straightforward, though still unpolished.&lt;p&gt;Like Raycast, Vicinae ships with powerful built-in modules, but the goal isn’t to make a clone. I want it to grow into its own project that fits the FOSS model better, while staying compatible with the Raycast ecosystem. I also plan to bring it to other OSes eventually.&lt;p&gt;I’d love feedback on the technical approach, and suggestions for what would make this useful to you. Contributions are very welcome — I’ve already been pleasantly surprised by how quickly people started helping.&lt;p&gt;Docs: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;docs.vicinae.com&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;docs.vicinae.com&lt;/a&gt;
+Repo: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;vicinaehq&amp;#x2F;vicinae&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;vicinaehq&amp;#x2F;vicinae&lt;/a&gt;</description>
+      <guid>45188116</guid>
+      <comments>https://news.ycombinator.com/item?id=45188116</comments>
+      <pubDate>Tue, 09 Sep 2025 20:10:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Energy-Based Transformers Explained [video]</title>
+      <link>https://www.youtube.com/watch?v=LUQkWzjv2RM</link>
+      <description>No Text</description>
+      <guid>45188252</guid>
+      <comments>https://news.ycombinator.com/item?id=45188252</comments>
+      <pubDate>Tue, 09 Sep 2025 20:17:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>An Annual Blast of Pacific Cold Water Did Not Occur, Alarming Scientists</title>
+      <link>https://www.nytimes.com/2025/09/12/climate/pacific-cold-water-upwelling.html</link>
+      <description>No Text</description>
+      <guid>45232100</guid>
+      <comments>https://news.ycombinator.com/item?id=45232100</comments>
+      <pubDate>Sat, 13 Sep 2025 13:54:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>FFglitch, FFmpeg fork for glitch art</title>
+      <link>https://ffglitch.org/gallery/</link>
+      <description>No Text</description>
+      <guid>45227212</guid>
+      <comments>https://news.ycombinator.com/item?id=45227212</comments>
+      <pubDate>Fri, 12 Sep 2025 21:54:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>How 'overworked, underpaid' humans train Google's AI to seem smart</title>
+      <link>https://www.theguardian.com/technology/2025/sep/11/google-gemini-ai-training-humans</link>
+      <description>No Text</description>
+      <guid>45231239</guid>
+      <comments>https://news.ycombinator.com/item?id=45231239</comments>
+      <pubDate>Sat, 13 Sep 2025 11:30:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Does All Semiconductor Manufacturing Depend on Spruce Pine Quartz? (2024)</title>
+      <link>https://www.construction-physics.com/p/does-all-semiconductor-manufacturing</link>
+      <description>No Text</description>
+      <guid>45183057</guid>
+      <comments>https://news.ycombinator.com/item?id=45183057</comments>
+      <pubDate>Tue, 09 Sep 2025 15:12:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>&quot;Learning how to Learn&quot; will be next generation's most needed skill</title>
+      <link>https://techxplore.com/news/2025-09-google-ai-scientist-generation-skill.html</link>
+      <description>No Text</description>
+      <guid>45232720</guid>
+      <comments>https://news.ycombinator.com/item?id=45232720</comments>
+      <pubDate>Sat, 13 Sep 2025 15:10:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi Synthesizers – How the Pi is transforming synths</title>
+      <link>https://www.gearnews.com/raspberry-pi-synthesizers-how-the-pi-is-transforming-synths/</link>
+      <description>No Text</description>
+      <guid>45229227</guid>
+      <comments>https://news.ycombinator.com/item?id=45229227</comments>
+      <pubDate>Sat, 13 Sep 2025 04:08:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>Social media promised connection, but it has delivered exhaustion</title>
+      <link>https://www.noemamag.com/the-last-days-of-social-media/</link>
+      <description>No Text</description>
+      <guid>45229799</guid>
+      <comments>https://news.ycombinator.com/item?id=45229799</comments>
+      <pubDate>Sat, 13 Sep 2025 06:27:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Resizing images in Rust, now with EXIF orientation support</title>
+      <link>https://alexwlchan.net/2025/create-thumbnail-is-exif-aware/</link>
+      <description>No Text</description>
+      <guid>45180094</guid>
+      <comments>https://news.ycombinator.com/item?id=45180094</comments>
+      <pubDate>Tue, 09 Sep 2025 10:31:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>I used standard Emacs extension-points to extend org-mode</title>
+      <link>https://edoput.it/2025/04/16/emacs-paradigm-shift.html</link>
+      <description>No Text</description>
+      <guid>45226639</guid>
+      <comments>https://news.ycombinator.com/item?id=45226639</comments>
+      <pubDate>Fri, 12 Sep 2025 20:53:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>Life, work, death and the peasant: Rent and extraction</title>
+      <link>https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/</link>
+      <description>No Text</description>
+      <guid>45228472</guid>
+      <comments>https://news.ycombinator.com/item?id=45228472</comments>
+      <pubDate>Sat, 13 Sep 2025 01:15:37 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
