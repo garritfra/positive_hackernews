@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 25 Oct 2025 21:12:51 -0000</lastBuildDate>
+    <item>
+      <title>The Journey Before main()</title>
+      <link>https://amit.prasad.me/blog/before-main</link>
+      <description>No Text</description>
+      <guid>45706380</guid>
+      <comments>https://news.ycombinator.com/item?id=45706380</comments>
+      <pubDate>Sat, 25 Oct 2025 19:33:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Diagram as code tool with draggable customizations</title>
+      <link>https://github.com/RohanAdwankar/oxdraw</link>
+      <description>In the past I&amp;#x27;ve used declarative diagram generation tools like Mermaid.js a lot for quickly drawing up things but for presentations or deliverables I find that I have to then move the generated diagrams over to a tool like Lucidchart which allows full control of the organization and customization.&lt;p&gt;Therefore I am now working on this to combine the benefits of both into just one tool which can do both functions.&lt;p&gt;The project is certainly in the early stages but if you find yourself making architecture diagrams I&amp;#x27;d love to hear your thoughts on the idea or even a Github issue for a feature request!&lt;p&gt;One of the workflows I&amp;#x27;m targeting is when an AI generates the first draft of the diagram (all the LLMs know .mmd syntax) and then the user can then customize it to their liking which I think can drastically speed up making complex diagrams!</description>
+      <guid>45706792</guid>
+      <comments>https://news.ycombinator.com/item?id=45706792</comments>
+      <pubDate>Sat, 25 Oct 2025 20:38:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Shadcn/UI theme editor – Design and share Shadcn themes</title>
+      <link>https://shadcnthemer.com</link>
+      <description>Hey, I built &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;ShadcnThemer.com&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;ShadcnThemer.com&lt;/a&gt; - a web app for creating and sharing themes for shadcn&amp;#x2F;ui, made with my some of my favorites, Next.js 15, Tailwind CSS 4, Drizzle ORM, and Supabase.&lt;p&gt;The goal was to make it easy to visually design shadcn color themes, preview them live across various example UIs, and export them straight into your projects (as CSS or via the shadcn CLI registry command).&lt;p&gt;I had a bit of experience going into this because I built the Theme Studio for VS Code in the past, but it was fun using a modern stack and leveraging Cursor to help me along the way this time.&lt;p&gt;GitHub: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;miketromba&amp;#x2F;shadcn-themer&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;miketromba&amp;#x2F;shadcn-themer&lt;/a&gt;</description>
+      <guid>45706487</guid>
+      <comments>https://news.ycombinator.com/item?id=45706487</comments>
+      <pubDate>Sat, 25 Oct 2025 19:51:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>In memory of the Christmas Island shrew</title>
+      <link>https://news.mongabay.com/2025/10/in-memory-of-the-christmas-island-shrew/</link>
+      <description>No Text</description>
+      <guid>45706624</guid>
+      <comments>https://news.ycombinator.com/item?id=45706624</comments>
+      <pubDate>Sat, 25 Oct 2025 20:13:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>California invests in battery energy storage, leaving rolling blackouts behind</title>
+      <link>https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;web.archive.org&amp;#x2F;web&amp;#x2F;20251025210426&amp;#x2F;https:&amp;#x2F;&amp;#x2F;www.latimes.com&amp;#x2F;environment&amp;#x2F;story&amp;#x2F;2025-10-17&amp;#x2F;california-made-it-through-another-summer-without-a-flex-alert&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;web.archive.org&amp;#x2F;web&amp;#x2F;20251025210426&amp;#x2F;https:&amp;#x2F;&amp;#x2F;www.latim...&lt;/a&gt;</description>
+      <guid>45706527</guid>
+      <comments>https://news.ycombinator.com/item?id=45706527</comments>
+      <pubDate>Sat, 25 Oct 2025 19:58:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>Rock Tumbler Instructions</title>
+      <link>https://rocktumbler.com/tips/rock-tumbler-instructions/</link>
+      <description>No Text</description>
+      <guid>45705125</guid>
+      <comments>https://news.ycombinator.com/item?id=45705125</comments>
+      <pubDate>Sat, 25 Oct 2025 16:32:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Agent Lightning: Train agents with RL (no code changes needed)</title>
+      <link>https://github.com/microsoft/agent-lightning</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;microsoft.github.io&amp;#x2F;agent-lightning&amp;#x2F;stable&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;microsoft.github.io&amp;#x2F;agent-lightning&amp;#x2F;stable&amp;#x2F;&lt;/a&gt;</description>
+      <guid>45706729</guid>
+      <comments>https://news.ycombinator.com/item?id=45706729</comments>
+      <pubDate>Sat, 25 Oct 2025 20:30:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>Testing out BLE beacons with BeaconDB</title>
+      <link>https://blog.matthewbrunelle.com/testing-out-ble-beacons-with-beacondb/</link>
+      <description>No Text</description>
+      <guid>45706705</guid>
+      <comments>https://news.ycombinator.com/item?id=45706705</comments>
+      <pubDate>Sat, 25 Oct 2025 20:26:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>ARM Memory Tagging: how it improves C/C++ memory safety (2018) [pdf]</title>
+      <link>https://llvm.org/devmtg/2018-10/slides/Serebryany-Stepanov-Tsyrklevich-Memory-Tagging-Slides-LLVM-2018.pdf</link>
+      <description>No Text</description>
+      <guid>45706815</guid>
+      <comments>https://news.ycombinator.com/item?id=45706815</comments>
+      <pubDate>Sat, 25 Oct 2025 20:42:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Why I code as a CTO</title>
+      <link>https://www.assembled.com/blog/why-i-code-as-a-cto</link>
+      <description>No Text</description>
+      <guid>45695979</guid>
+      <comments>https://news.ycombinator.com/item?id=45695979</comments>
+      <pubDate>Fri, 24 Oct 2025 16:03:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: LLM Rescuer – Fixing the billion dollar mistake in Ruby</title>
+      <link>https://github.com/barodeur/llm_rescuer</link>
+      <description>&amp;gt; &amp;quot;In a world without nil safety, one gem dares to ask: &amp;#x27;What if we just guessed?&amp;#x27;&amp;quot;</description>
+      <guid>45694051</guid>
+      <comments>https://news.ycombinator.com/item?id=45694051</comments>
+      <pubDate>Fri, 24 Oct 2025 12:44:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>Project Amplify: Powered footwear for running and walking</title>
+      <link>https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images</link>
+      <description>No Text</description>
+      <guid>45706765</guid>
+      <comments>https://news.ycombinator.com/item?id=45706765</comments>
+      <pubDate>Sat, 25 Oct 2025 20:35:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Honda's ASIMO</title>
+      <link>https://www.robotsgottalents.com/post/asimo</link>
+      <description>No Text</description>
+      <guid>45706744</guid>
+      <comments>https://news.ycombinator.com/item?id=45706744</comments>
+      <pubDate>Sat, 25 Oct 2025 20:32:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>Do Orthodox Jewish Men Wear Suits 24/7?</title>
+      <link>https://jewinthecity.com/2018/02/do-orthodox-men-wear-suits-247/</link>
+      <description>No Text</description>
+      <guid>45706872</guid>
+      <comments>https://news.ycombinator.com/item?id=45706872</comments>
+      <pubDate>Sat, 25 Oct 2025 20:52:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>ProEnergy repurposes jet engines to power data centers</title>
+      <link>https://www.datacenterdynamics.com/en/news/proenergy-offers-repurposed-jet-engines-to-data-cent/</link>
+      <description>No Text</description>
+      <guid>45706534</guid>
+      <comments>https://news.ycombinator.com/item?id=45706534</comments>
+      <pubDate>Sat, 25 Oct 2025 19:59:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>AI, Wikipedia, and uncorrected machine translations of vulnerable languages</title>
+      <link>https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/</link>
+      <description>No Text</description>
+      <guid>45706518</guid>
+      <comments>https://news.ycombinator.com/item?id=45706518</comments>
+      <pubDate>Sat, 25 Oct 2025 19:57:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Load-time relocation of shared libraries (2011)</title>
+      <link>https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries/</link>
+      <description>No Text</description>
+      <guid>45706660</guid>
+      <comments>https://news.ycombinator.com/item?id=45706660</comments>
+      <pubDate>Sat, 25 Oct 2025 20:19:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>WebDAV isn't dead yet</title>
+      <link>https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/</link>
+      <description>No Text</description>
+      <guid>45698070</guid>
+      <comments>https://news.ycombinator.com/item?id=45698070</comments>
+      <pubDate>Fri, 24 Oct 2025 19:09:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Jacqueline – A minimal i386 kernel written in Pascal (2019)</title>
+      <link>https://github.com/danirod/jacqueline</link>
+      <description>No Text</description>
+      <guid>45672494</guid>
+      <comments>https://news.ycombinator.com/item?id=45672494</comments>
+      <pubDate>Wed, 22 Oct 2025 17:37:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>&quot;Learn APL&quot; Notes</title>
+      <link>https://luksamuk.codes/pages/learn-apl.html</link>
+      <description>No Text</description>
+      <guid>45706755</guid>
+      <comments>https://news.ycombinator.com/item?id=45706755</comments>
+      <pubDate>Sat, 25 Oct 2025 20:34:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>Making a micro Linux distro (2023)</title>
+      <link>https://popovicu.com/posts/making-a-micro-linux-distro/</link>
+      <description>No Text</description>
+      <guid>45703556</guid>
+      <comments>https://news.ycombinator.com/item?id=45703556</comments>
+      <pubDate>Sat, 25 Oct 2025 13:01:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Torchcomms: A modern PyTorch communications API</title>
+      <link>https://pytorch.org/blog/torchcomms/</link>
+      <description>No Text</description>
+      <guid>45706545</guid>
+      <comments>https://news.ycombinator.com/item?id=45706545</comments>
+      <pubDate>Sat, 25 Oct 2025 20:00:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>The future of Python web services looks GIL-free</title>
+      <link>https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free</link>
+      <description>No Text</description>
+      <guid>45633311</guid>
+      <comments>https://news.ycombinator.com/item?id=45633311</comments>
+      <pubDate>Sun, 19 Oct 2025 10:38:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>Passwords and Power Drills</title>
+      <link>https://google.github.io/building-secure-and-reliable-systems/raw/ch01.html#on_passwords_and_power_drills</link>
+      <description>No Text</description>
+      <guid>45653543</guid>
+      <comments>https://news.ycombinator.com/item?id=45653543</comments>
+      <pubDate>Tue, 21 Oct 2025 08:03:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Unlocking free WiFi on British Airways</title>
+      <link>https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html</link>
+      <description>No Text</description>
+      <guid>45695134</guid>
+      <comments>https://news.ycombinator.com/item?id=45695134</comments>
+      <pubDate>Fri, 24 Oct 2025 14:40:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Status of my favorite bike share stations</title>
+      <link>https://blog.alexboden.ca/toronto-bike-share-status/</link>
+      <description>No Text</description>
+      <guid>45706570</guid>
+      <comments>https://news.ycombinator.com/item?id=45706570</comments>
+      <pubDate>Sat, 25 Oct 2025 20:04:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Switzerland is spending millions revamping its vast network of bunkers</title>
+      <link>https://www.washingtonpost.com/world/2025/10/25/switzerland-nuclear-bunkers-overhaul/</link>
+      <description>No Text</description>
+      <guid>45706077</guid>
+      <comments>https://news.ycombinator.com/item?id=45706077</comments>
+      <pubDate>Sat, 25 Oct 2025 18:47:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>Visualizing the most common unisex names in the US</title>
+      <link>https://nameplay.org/blog/common-unisex-names-by-gender-ratio</link>
+      <description>No Text</description>
+      <guid>45706372</guid>
+      <comments>https://news.ycombinator.com/item?id=45706372</comments>
+      <pubDate>Sat, 25 Oct 2025 19:31:49 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
