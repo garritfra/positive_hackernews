@@ -1,0 +1,210 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 01 Nov 2025 21:11:38 -0000</lastBuildDate>
+    <item>
+      <title>Updated practice for review articles and position papers in ArXiv CS category</title>
+      <link>https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/</link>
+      <description>No Text</description>
+      <guid>45782136</guid>
+      <comments>https://news.ycombinator.com/item?id=45782136</comments>
+      <pubDate>Sat, 01 Nov 2025 14:58:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>GHC now runs in the browser</title>
+      <link>https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169</link>
+      <description>No Text</description>
+      <guid>45782981</guid>
+      <comments>https://news.ycombinator.com/item?id=45782981</comments>
+      <pubDate>Sat, 01 Nov 2025 16:29:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Why write code if the LLM can just do the thing? (web app experiment)</title>
+      <link>https://github.com/samrolken/nokode</link>
+      <description>I spent a few hours last weekend testing whether AI can replace code by executing directly. Built a contact manager where every HTTP request goes to an LLM with three tools: database (SQLite), webResponse (HTML&amp;#x2F;JSON&amp;#x2F;JS), and updateMemory (feedback). No routes, no controllers, no business logic. The AI designs schemas on first request, generates UIs from paths alone, and evolves based on natural language feedback. It works—forms submit, data persists, APIs return JSON—but it&amp;#x27;s catastrophically slow (30-60s per request), absurdly expensive ($0.05&amp;#x2F;request), and has zero UI consistency between requests. The capability exists; performance is the problem. When inference gets 10x faster, maybe the question shifts from &amp;quot;how do we generate better code?&amp;quot; to &amp;quot;why generate code at all?&amp;quot;</description>
+      <guid>45783640</guid>
+      <comments>https://news.ycombinator.com/item?id=45783640</comments>
+      <pubDate>Sat, 01 Nov 2025 17:45:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Beginner-friendly, unofficial documentation for Helix text editor</title>
+      <link>https://helix-editor.vercel.app/start-here/basics/</link>
+      <description>No Text</description>
+      <guid>45784596</guid>
+      <comments>https://news.ycombinator.com/item?id=45784596</comments>
+      <pubDate>Sat, 01 Nov 2025 19:33:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code Can Debug Low-Level Cryptography</title>
+      <link>https://words.filippo.io/claude-debugging/</link>
+      <description>No Text</description>
+      <guid>45784179</guid>
+      <comments>https://news.ycombinator.com/item?id=45784179</comments>
+      <pubDate>Sat, 01 Nov 2025 18:41:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Dating: A Mysterious Constellation of Facts</title>
+      <link>https://dynomight.net/dating/</link>
+      <description>No Text</description>
+      <guid>45761746</guid>
+      <comments>https://news.ycombinator.com/item?id=45761746</comments>
+      <pubDate>Thu, 30 Oct 2025 16:20:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>SQLite concurrency and why you should care about it</title>
+      <link>https://jellyfin.org/posts/SQLite-locking/</link>
+      <description>No Text</description>
+      <guid>45781298</guid>
+      <comments>https://news.ycombinator.com/item?id=45781298</comments>
+      <pubDate>Sat, 01 Nov 2025 12:59:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Austria: Pylons as sculpture for public acceptance of expanding electrification</title>
+      <link>https://www.goodgoodgood.co/articles/austrian-power-giants-power-line-animals</link>
+      <description>No Text</description>
+      <guid>45730940</guid>
+      <comments>https://news.ycombinator.com/item?id=45730940</comments>
+      <pubDate>Tue, 28 Oct 2025 09:56:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>Word2vec-style vector arithmetic on docs embeddings</title>
+      <link>https://technicalwriting.dev/embeddings/arithmetic/index.html</link>
+      <description>No Text</description>
+      <guid>45784455</guid>
+      <comments>https://news.ycombinator.com/item?id=45784455</comments>
+      <pubDate>Sat, 01 Nov 2025 19:14:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Smol Training Playbook: The Secrets to Building World-Class LLMs</title>
+      <link>https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook</link>
+      <description>No Text</description>
+      <guid>45762160</guid>
+      <comments>https://news.ycombinator.com/item?id=45762160</comments>
+      <pubDate>Thu, 30 Oct 2025 16:52:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>CharlotteOS – An Experimental Modern Operating System</title>
+      <link>https://github.com/charlotte-os/Catten</link>
+      <description>No Text</description>
+      <guid>45781397</guid>
+      <comments>https://news.ycombinator.com/item?id=45781397</comments>
+      <pubDate>Sat, 01 Nov 2025 13:12:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>Nutella maker in hazelnut stand-off with Turkish dealers</title>
+      <link>https://www.ft.com/content/4826dfd2-8d8e-4316-931f-974f604a3899</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;archive.ph&amp;#x2F;8teI6&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;archive.ph&amp;#x2F;8teI6&lt;/a&gt;</description>
+      <guid>45781076</guid>
+      <comments>https://news.ycombinator.com/item?id=45781076</comments>
+      <pubDate>Sat, 01 Nov 2025 12:20:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Reconfigurable Analog Computers</title>
+      <link>https://arxiv.org/abs/2510.25942</link>
+      <description>No Text</description>
+      <guid>45783835</guid>
+      <comments>https://news.ycombinator.com/item?id=45783835</comments>
+      <pubDate>Sat, 01 Nov 2025 18:03:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Where to begin with &quot;modern&quot; Emacs?</title>
+      <link>https://news.ycombinator.com/item?id=45783376</link>
+      <description>Hi all,&lt;p&gt;I’m a longtime Neovim user who’s been EMacs-curious. The hold up for me has been that I’ve been unable to find a source of truth for what’s top-of-the-line as far as plugins are. With Neovim, it’s a safe bet to look at what folks like Folke are doing, but I have struggled to find a similar figure in the Emacs community who gives insight into what’s-what. I know Doom exists, but I want to fully “own” my config and not over complicate it.&lt;p&gt;Thanks!</description>
+      <guid>45783376</guid>
+      <comments>https://news.ycombinator.com/item?id=45783376</comments>
+      <pubDate>Sat, 01 Nov 2025 17:13:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>Open-Source Ada: From Gateware to Application</title>
+      <link>https://blog.adacore.com/open-source-ada-from-gateware-to-application</link>
+      <description>No Text</description>
+      <guid>45782348</guid>
+      <comments>https://news.ycombinator.com/item?id=45782348</comments>
+      <pubDate>Sat, 01 Nov 2025 15:21:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Hard Rust requirements from May onward</title>
+      <link>https://lists.debian.org/debian-devel/2025/10/msg00285.html</link>
+      <description>No Text</description>
+      <guid>45779860</guid>
+      <comments>https://news.ycombinator.com/item?id=45779860</comments>
+      <pubDate>Sat, 01 Nov 2025 07:31:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Studies increasingly find links between air pollutants and dementia</title>
+      <link>https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html</link>
+      <description>No Text</description>
+      <guid>45783206</guid>
+      <comments>https://news.ycombinator.com/item?id=45783206</comments>
+      <pubDate>Sat, 01 Nov 2025 16:54:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>I built my own CityMapper</title>
+      <link>https://asherfalcon.com/blog/posts/5</link>
+      <description>No Text</description>
+      <guid>45719662</guid>
+      <comments>https://news.ycombinator.com/item?id=45719662</comments>
+      <pubDate>Mon, 27 Oct 2025 11:18:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Czech police forced to turn off facial recognition cameras at the Prague airport</title>
+      <link>https://edri.org/our-work/czech-police-forced-to-turn-off-facial-recognition-cameras-at-the-prague-airport-thanks-to-the-ai-act/</link>
+      <description>No Text</description>
+      <guid>45784185</guid>
+      <comments>https://news.ycombinator.com/item?id=45784185</comments>
+      <pubDate>Sat, 01 Nov 2025 18:42:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>NJVL: Nim's New Intermediate Representation</title>
+      <link>https://github.com/nim-lang/nimony/blob/master/doc/njvl-spec.md</link>
+      <description>No Text</description>
+      <guid>45755495</guid>
+      <comments>https://news.ycombinator.com/item?id=45755495</comments>
+      <pubDate>Thu, 30 Oct 2025 01:44:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>Self-help gets philosophical</title>
+      <link>https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/</link>
+      <description>No Text</description>
+      <guid>45783440</guid>
+      <comments>https://news.ycombinator.com/item?id=45783440</comments>
+      <pubDate>Sat, 01 Nov 2025 17:21:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Frank Gasking on preserving «lost» games</title>
+      <link>https://spillhistorie.no/2025/10/24/frank-gasking-on-preserving-lost-games/</link>
+      <description>No Text</description>
+      <guid>45732677</guid>
+      <comments>https://news.ycombinator.com/item?id=45732677</comments>
+      <pubDate>Tue, 28 Oct 2025 13:32:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Data centers contribute to high prices as energy bills electrify local politics</title>
+      <link>https://www.wsj.com/economy/consumers/surging-power-costs-are-putting-the-squeeze-on-customers-f8b2c04b</link>
+      <description>No Text</description>
+      <guid>45782865</guid>
+      <comments>https://news.ycombinator.com/item?id=45782865</comments>
+      <pubDate>Sat, 01 Nov 2025 16:16:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Sanders: Government should break up OpenAI</title>
+      <link>https://thehill.com/policy/technology/5571789-ai-threatens-jobs-sanders-warns/</link>
+      <description>No Text</description>
+      <guid>45784644</guid>
+      <comments>https://news.ycombinator.com/item?id=45784644</comments>
+      <pubDate>Sat, 01 Nov 2025 19:40:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>How I stopped worrying and started loving the Assembly</title>
+      <link>https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60</link>
+      <description>No Text</description>
+      <guid>45682917</guid>
+      <comments>https://news.ycombinator.com/item?id=45682917</comments>
+      <pubDate>Thu, 23 Oct 2025 15:23:55 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
