@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sun, 16 Nov 2025 03:46:37 -0000</lastBuildDate>
+    <item>
+      <title>AirPods libreated from Apple's ecosystem</title>
+      <link>https://github.com/kavishdevar/librepods</link>
+      <description>No Text</description>
+      <guid>45941596</guid>
+      <comments>https://news.ycombinator.com/item?id=45941596</comments>
+      <pubDate>Sun, 16 Nov 2025 00:01:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>IDEmacs: A Visual Studio Code clone for Emacs</title>
+      <link>https://codeberg.org/IDEmacs/IDEmacs</link>
+      <description>No Text</description>
+      <guid>45941835</guid>
+      <comments>https://news.ycombinator.com/item?id=45941835</comments>
+      <pubDate>Sun, 16 Nov 2025 00:56:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>Our investigation into the suspicious pressure on Archive.today</title>
+      <link>https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html</link>
+      <description>No Text</description>
+      <guid>45936460</guid>
+      <comments>https://news.ycombinator.com/item?id=45936460</comments>
+      <pubDate>Sat, 15 Nov 2025 10:30:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>Blocking LLM crawlers without JavaScript</title>
+      <link>https://www.owl.is/blogg/blocking-crawlers-without-javascript/</link>
+      <description>No Text</description>
+      <guid>45941441</guid>
+      <comments>https://news.ycombinator.com/item?id=45941441</comments>
+      <pubDate>Sat, 15 Nov 2025 23:30:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>libwifi: an 802.11 frame parsing and generation library written in C</title>
+      <link>https://libwifi.so/</link>
+      <description>No Text</description>
+      <guid>45941025</guid>
+      <comments>https://news.ycombinator.com/item?id=45941025</comments>
+      <pubDate>Sat, 15 Nov 2025 22:16:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>When did people favor composition over inheritance?</title>
+      <link>https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/</link>
+      <description>No Text</description>
+      <guid>45841095</guid>
+      <comments>https://news.ycombinator.com/item?id=45841095</comments>
+      <pubDate>Thu, 06 Nov 2025 22:09:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>The inconceivable types of Rust: How to make self-borrows safe (2024)</title>
+      <link>https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html</link>
+      <description>No Text</description>
+      <guid>45941443</guid>
+      <comments>https://news.ycombinator.com/item?id=45941443</comments>
+      <pubDate>Sat, 15 Nov 2025 23:31:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>AsciiMath</title>
+      <link>https://asciimath.org/</link>
+      <description>No Text</description>
+      <guid>45940706</guid>
+      <comments>https://news.ycombinator.com/item?id=45940706</comments>
+      <pubDate>Sat, 15 Nov 2025 21:22:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>Boa: A standard-conforming embeddable JavaScript engine written in Rust</title>
+      <link>https://github.com/boa-dev/boa</link>
+      <description>No Text</description>
+      <guid>45832051</guid>
+      <comments>https://news.ycombinator.com/item?id=45832051</comments>
+      <pubDate>Thu, 06 Nov 2025 06:15:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Transgenerational Epigenetic Inheritance: the story of learned avoidance</title>
+      <link>https://elifesciences.org/articles/109427</link>
+      <description>No Text</description>
+      <guid>45939550</guid>
+      <comments>https://news.ycombinator.com/item?id=45939550</comments>
+      <pubDate>Sat, 15 Nov 2025 18:40:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>Computing Across America (1983-1985)</title>
+      <link>https://microship.com/winnebiko/</link>
+      <description>No Text</description>
+      <guid>45828106</guid>
+      <comments>https://news.ycombinator.com/item?id=45828106</comments>
+      <pubDate>Wed, 05 Nov 2025 21:14:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>EyesOff: How I built a screen contact detection model</title>
+      <link>https://ym2132.github.io/building_EyesOff_part2_model_training</link>
+      <description>No Text</description>
+      <guid>45935970</guid>
+      <comments>https://news.ycombinator.com/item?id=45935970</comments>
+      <pubDate>Sat, 15 Nov 2025 08:42:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Unflip – a puzzle game about XOR patterns of squares</title>
+      <link>https://unflipgame.com/</link>
+      <description>No Text</description>
+      <guid>45891066</guid>
+      <comments>https://news.ycombinator.com/item?id=45891066</comments>
+      <pubDate>Tue, 11 Nov 2025 18:36:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Archimedes – A Python toolkit for hardware engineering</title>
+      <link>https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html</link>
+      <description>No Text</description>
+      <guid>45939938</guid>
+      <comments>https://news.ycombinator.com/item?id=45939938</comments>
+      <pubDate>Sat, 15 Nov 2025 19:29:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Linux on the Fujitsu Lifebook U729</title>
+      <link>https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729</link>
+      <description>No Text</description>
+      <guid>45937989</guid>
+      <comments>https://news.ycombinator.com/item?id=45937989</comments>
+      <pubDate>Sat, 15 Nov 2025 15:19:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>I made a better DOM morphing algorithm</title>
+      <link>https://joel.drapper.me/p/morphlex/</link>
+      <description>At least I think it’s better, but also I could also be missing something obvious.</description>
+      <guid>45845582</guid>
+      <comments>https://news.ycombinator.com/item?id=45845582</comments>
+      <pubDate>Fri, 07 Nov 2025 12:02:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Report: Tim Cook could step down as Apple CEO 'as soon as next year'</title>
+      <link>https://9to5mac.com/2025/11/14/tim-cook-step-down-as-apple-ceo-as-soon-as-next-year-report/</link>
+      <description>No Text</description>
+      <guid>45940681</guid>
+      <comments>https://news.ycombinator.com/item?id=45940681</comments>
+      <pubDate>Sat, 15 Nov 2025 21:18:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>TCP, the workhorse of the internet</title>
+      <link>https://cefboud.com/posts/tcp-deep-dive-internals/</link>
+      <description>No Text</description>
+      <guid>45935503</guid>
+      <comments>https://news.ycombinator.com/item?id=45935503</comments>
+      <pubDate>Sat, 15 Nov 2025 06:37:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Weighting an average to minimize variance</title>
+      <link>https://www.johndcook.com/blog/2025/11/12/minimum-variance/</link>
+      <description>No Text</description>
+      <guid>45938027</guid>
+      <comments>https://news.ycombinator.com/item?id=45938027</comments>
+      <pubDate>Sat, 15 Nov 2025 15:25:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>The computer poetry of J. M. Coetzee's early programming career (2017)</title>
+      <link>https://sites.utexas.edu/ransomcentermagazine/2017/06/28/the-computer-poetry-of-j-m-coetzees-early-programming-career/</link>
+      <description>No Text</description>
+      <guid>45939569</guid>
+      <comments>https://news.ycombinator.com/item?id=45939569</comments>
+      <pubDate>Sat, 15 Nov 2025 18:44:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>AMD continues to chip away at Intel's x86 market share</title>
+      <link>https://www.tomshardware.com/pc-components/cpus/amd-continues-to-chip-away-at-intels-x86-market-share-company-now-sells-over-25-percent-of-all-x86-chips-and-powers-33-percent-of-all-desktop-systems</link>
+      <description>No Text</description>
+      <guid>45940413</guid>
+      <comments>https://news.ycombinator.com/item?id=45940413</comments>
+      <pubDate>Sat, 15 Nov 2025 20:35:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>Messing with scraper bots</title>
+      <link>https://herman.bearblog.dev/messing-with-bots/</link>
+      <description>No Text</description>
+      <guid>45935729</guid>
+      <comments>https://news.ycombinator.com/item?id=45935729</comments>
+      <pubDate>Sat, 15 Nov 2025 07:38:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies</title>
+      <link>https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time</link>
+      <description>No Text</description>
+      <guid>45938785</guid>
+      <comments>https://news.ycombinator.com/item?id=45938785</comments>
+      <pubDate>Sat, 15 Nov 2025 17:00:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: High-Performance .NET Bindings for the Vello Sparse Strips CPU Renderer</title>
+      <link>https://github.com/wieslawsoltes/SparseStrips</link>
+      <description>No Text</description>
+      <guid>45885773</guid>
+      <comments>https://news.ycombinator.com/item?id=45885773</comments>
+      <pubDate>Tue, 11 Nov 2025 10:09:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Mag Wealth</title>
+      <link>https://saul.pw/mag/wealth/</link>
+      <description>No Text</description>
+      <guid>45938427</guid>
+      <comments>https://news.ycombinator.com/item?id=45938427</comments>
+      <pubDate>Sat, 15 Nov 2025 16:16:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>Solving Project Euler: Problem 45</title>
+      <link>https://loriculus.org/blog/euler-45/</link>
+      <description>No Text</description>
+      <guid>45941613</guid>
+      <comments>https://news.ycombinator.com/item?id=45941613</comments>
+      <pubDate>Sun, 16 Nov 2025 00:04:29 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
