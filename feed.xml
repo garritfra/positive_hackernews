@@ -1,0 +1,202 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sun, 30 Nov 2025 15:13:52 -0000</lastBuildDate>
+    <item>
+      <title>Advent of Code 2025</title>
+      <link>https://adventofcode.com/2025/about</link>
+      <description>No Text</description>
+      <guid>46096337</guid>
+      <comments>https://news.ycombinator.com/item?id=46096337</comments>
+      <pubDate>Sun, 30 Nov 2025 13:07:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Migrating Dillo from GitHub</title>
+      <link>https://dillo-browser.org/news/migration-from-github/</link>
+      <description>No Text</description>
+      <guid>46096800</guid>
+      <comments>https://news.ycombinator.com/item?id=46096800</comments>
+      <pubDate>Sun, 30 Nov 2025 14:11:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Windows drive letters are not limited to A-Z</title>
+      <link>https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/</link>
+      <description>No Text</description>
+      <guid>46096556</guid>
+      <comments>https://news.ycombinator.com/item?id=46096556</comments>
+      <pubDate>Sun, 30 Nov 2025 13:40:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>CachyOS: Fast and Customizable Linux Distribution</title>
+      <link>https://cachyos.org/</link>
+      <description>No Text</description>
+      <guid>46095585</guid>
+      <comments>https://news.ycombinator.com/item?id=46095585</comments>
+      <pubDate>Sun, 30 Nov 2025 10:47:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Boing</title>
+      <link>https://boing.greg.technology/</link>
+      <description>No Text</description>
+      <guid>46093473</guid>
+      <comments>https://news.ycombinator.com/item?id=46093473</comments>
+      <pubDate>Sun, 30 Nov 2025 03:46:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Real-time system that tracks how news spreads across 200k websites</title>
+      <link>https://yandori.io/news-flow/</link>
+      <description>I built a system that monitors ~200,000 news RSS feeds in near real-time and clusters related articles to show how stories spread across the web.&lt;p&gt;It uses Snowflake’s Arctic model for embeddings and HNSW for fast similarity search. Each “story cluster” shows who published first, how fast it propagated, and how the narrative evolved as more outlets picked it up.&lt;p&gt;Would love feedback on the architecture, scaling approach, and any ways to make the clusters more accurate or useful.&lt;p&gt;Live demo: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;yandori.io&amp;#x2F;news-flow&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;yandori.io&amp;#x2F;news-flow&amp;#x2F;&lt;/a&gt;</description>
+      <guid>46053076</guid>
+      <comments>https://news.ycombinator.com/item?id=46053076</comments>
+      <pubDate>Wed, 26 Nov 2025 01:27:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>Norway wealth fund to vote for human rights report at Microsoft, against Nadella</title>
+      <link>https://www.cnbc.com/2025/11/30/norway-wealth-fund-to-vote-for-human-rights-report-at-microsoft-agm-against-management.html</link>
+      <description>No Text</description>
+      <guid>46096555</guid>
+      <comments>https://news.ycombinator.com/item?id=46096555</comments>
+      <pubDate>Sun, 30 Nov 2025 13:40:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>Don't throw away your old PC–it makes a better NAS than anything you can buy</title>
+      <link>https://www.howtogeek.com/turned-old-windows-pc-into-inexpensive-nas/</link>
+      <description>No Text</description>
+      <guid>46096781</guid>
+      <comments>https://news.ycombinator.com/item?id=46096781</comments>
+      <pubDate>Sun, 30 Nov 2025 14:09:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>All it takes is for one to work out</title>
+      <link>https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/</link>
+      <description>No Text</description>
+      <guid>46090433</guid>
+      <comments>https://news.ycombinator.com/item?id=46090433</comments>
+      <pubDate>Sat, 29 Nov 2025 20:22:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Paul Hegarty's updated CS193p SwiftUI course released by Stanford</title>
+      <link>https://cs193p.stanford.edu/</link>
+      <description>No Text</description>
+      <guid>46051422</guid>
+      <comments>https://news.ycombinator.com/item?id=46051422</comments>
+      <pubDate>Tue, 25 Nov 2025 22:11:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>What's Hiding Inside Haribo's Power Bank and Headphones?</title>
+      <link>https://www.lumafield.com/first-article/posts/whats-hiding-inside-haribos-power-bank-and-headphones</link>
+      <description>No Text</description>
+      <guid>46071317</guid>
+      <comments>https://news.ycombinator.com/item?id=46071317</comments>
+      <pubDate>Thu, 27 Nov 2025 17:23:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>The space of minds</title>
+      <link>https://karpathy.bearblog.dev/the-space-of-minds/</link>
+      <description>No Text</description>
+      <guid>46095250</guid>
+      <comments>https://news.ycombinator.com/item?id=46095250</comments>
+      <pubDate>Sun, 30 Nov 2025 09:44:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Easiest Way to Build a Type Checker</title>
+      <link>https://jimmyhmiller.com/easiest-way-to-build-type-checker</link>
+      <description>No Text</description>
+      <guid>46070537</guid>
+      <comments>https://news.ycombinator.com/item?id=46070537</comments>
+      <pubDate>Thu, 27 Nov 2025 16:07:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Meshtastic</title>
+      <link>https://meshtastic.org/</link>
+      <description>No Text</description>
+      <guid>46092558</guid>
+      <comments>https://news.ycombinator.com/item?id=46092558</comments>
+      <pubDate>Sun, 30 Nov 2025 01:15:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>Geothermal Breakthrough in South Texas Signals New Era for Ercot</title>
+      <link>https://www.powermag.com/geothermal-breakthrough-in-south-texas-signals-new-era-for-ercot/</link>
+      <description>No Text</description>
+      <guid>46096921</guid>
+      <comments>https://news.ycombinator.com/item?id=46096921</comments>
+      <pubDate>Sun, 30 Nov 2025 14:29:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Landlock-Ing Linux</title>
+      <link>https://blog.prizrak.me/post/landlock/</link>
+      <description>No Text</description>
+      <guid>46090969</guid>
+      <comments>https://news.ycombinator.com/item?id=46090969</comments>
+      <pubDate>Sat, 29 Nov 2025 21:30:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>The HTTP Query Method</title>
+      <link>https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html</link>
+      <description>No Text</description>
+      <guid>46056954</guid>
+      <comments>https://news.ycombinator.com/item?id=46056954</comments>
+      <pubDate>Wed, 26 Nov 2025 12:57:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>Jiga (YC W21) Is Hiring Product Designer</title>
+      <link>https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe</link>
+      <description>No Text</description>
+      <guid>46094478</guid>
+      <comments>https://news.ycombinator.com/item?id=46094478</comments>
+      <pubDate>Sun, 30 Nov 2025 07:00:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Learning Feynman's Trick for Integrals</title>
+      <link>https://zackyzz.github.io/feynman.html</link>
+      <description>No Text</description>
+      <guid>46090269</guid>
+      <comments>https://news.ycombinator.com/item?id=46090269</comments>
+      <pubDate>Sat, 29 Nov 2025 19:55:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>A new Little Prince museum has opened its doors in Switzerland</title>
+      <link>https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/</link>
+      <description>No Text</description>
+      <guid>46092478</guid>
+      <comments>https://news.ycombinator.com/item?id=46092478</comments>
+      <pubDate>Sun, 30 Nov 2025 01:03:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Blender facial animation tool. What else should it do?</title>
+      <link>https://github.com/shun126/livelinkface_arkit_receiver/wiki</link>
+      <description>No Text</description>
+      <guid>46071221</guid>
+      <comments>https://news.ycombinator.com/item?id=46071221</comments>
+      <pubDate>Thu, 27 Nov 2025 17:13:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>Leak confirms OpenAI is preparing ads on ChatGPT for public roll out</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;x.com&amp;#x2F;btibor91&amp;#x2F;status&amp;#x2F;1994714152636690834&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;x.com&amp;#x2F;btibor91&amp;#x2F;status&amp;#x2F;1994714152636690834&lt;/a&gt;&lt;p&gt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;xcancel.com&amp;#x2F;btibor91&amp;#x2F;status&amp;#x2F;1994714152636690834&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;xcancel.com&amp;#x2F;btibor91&amp;#x2F;status&amp;#x2F;1994714152636690834&lt;/a&gt;</description>
+      <guid>46086771</guid>
+      <comments>https://news.ycombinator.com/item?id=46086771</comments>
+      <pubDate>Sat, 29 Nov 2025 11:31:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Matrix Core Programming on AMD CDNA Architecture</title>
+      <link>https://rocm.blogs.amd.com/software-tools-optimization/matrix-cores-cdna/README.html</link>
+      <description>No Text</description>
+      <guid>46047052</guid>
+      <comments>https://news.ycombinator.com/item?id=46047052</comments>
+      <pubDate>Tue, 25 Nov 2025 15:57:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Anthony Bourdain's Lost Li.st's</title>
+      <link>https://bourdain.greg.technology/</link>
+      <description>I read through the years about Bourdain&amp;#x27;s content on the defunct li.st service, but was never able to find an archive of it. A more thorough perusing of archive.org and a pointer from an Internet stranger led me to create this site. Cheers</description>
+      <guid>46054879</guid>
+      <comments>https://news.ycombinator.com/item?id=46054879</comments>
+      <pubDate>Wed, 26 Nov 2025 07:03:27 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
