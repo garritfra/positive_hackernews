@@ -1,0 +1,210 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 06 Dec 2025 21:12:39 -0000</lastBuildDate>
+    <item>
+      <title>Tiny Core Linux: a 23 MB Linux distro with graphical desktop</title>
+      <link>http://www.tinycorelinux.net/</link>
+      <description>No Text</description>
+      <guid>46173547</guid>
+      <comments>https://news.ycombinator.com/item?id=46173547</comments>
+      <pubDate>Sat, 06 Dec 2025 14:18:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>GrapheneOS is the only Android OS providing full security patches</title>
+      <link>https://grapheneos.social/@GrapheneOS/115647408229616018</link>
+      <description>No Text</description>
+      <guid>46173407</guid>
+      <comments>https://news.ycombinator.com/item?id=46173407</comments>
+      <pubDate>Sat, 06 Dec 2025 13:58:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>OMSCS Open Courseware</title>
+      <link>https://sites.gatech.edu/omscsopencourseware/</link>
+      <description>No Text</description>
+      <guid>46175826</guid>
+      <comments>https://news.ycombinator.com/item?id=46175826</comments>
+      <pubDate>Sat, 06 Dec 2025 19:14:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>Z-Image: Powerful and highly efficient image generation model with 6B parameters</title>
+      <link>https://github.com/Tongyi-MAI/Z-Image</link>
+      <description>No Text</description>
+      <guid>46095817</guid>
+      <comments>https://news.ycombinator.com/item?id=46095817</comments>
+      <pubDate>Sun, 30 Nov 2025 11:36:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>HTML as an Accessible Format for Papers</title>
+      <link>https://info.arxiv.org/about/accessible_HTML.html</link>
+      <description>No Text</description>
+      <guid>46173825</guid>
+      <comments>https://news.ycombinator.com/item?id=46173825</comments>
+      <pubDate>Sat, 06 Dec 2025 14:59:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>Abstract Interpretation in the Toy Optimizer</title>
+      <link>https://bernsteinbear.com/blog/toy-abstract-interpretation/</link>
+      <description>No Text</description>
+      <guid>46142949</guid>
+      <comments>https://news.ycombinator.com/item?id=46142949</comments>
+      <pubDate>Thu, 04 Dec 2025 02:09:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>Touching the Elephant – TPUs</title>
+      <link>https://considerthebulldog.com/tte-tpu/</link>
+      <description>No Text</description>
+      <guid>46172797</guid>
+      <comments>https://news.ycombinator.com/item?id=46172797</comments>
+      <pubDate>Sat, 06 Dec 2025 12:29:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Zebra-Llama: Towards Efficient Hybrid Models</title>
+      <link>https://arxiv.org/abs/2505.17272</link>
+      <description>No Text</description>
+      <guid>46176289</guid>
+      <comments>https://news.ycombinator.com/item?id=46176289</comments>
+      <pubDate>Sat, 06 Dec 2025 20:15:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Finding Gene Cernan's Missing Moon Camera</title>
+      <link>https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera</link>
+      <description>No Text</description>
+      <guid>46128616</guid>
+      <comments>https://news.ycombinator.com/item?id=46128616</comments>
+      <pubDate>Tue, 02 Dec 2025 23:59:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Traveling Neighborhoods</title>
+      <link>https://supernuclear.substack.com/p/traveling-neighborhoods</link>
+      <description>No Text</description>
+      <guid>46097201</guid>
+      <comments>https://news.ycombinator.com/item?id=46097201</comments>
+      <pubDate>Sun, 30 Nov 2025 15:04:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Instal Fest Belgrade</title>
+      <link>https://dmz.rs/lif2025_en</link>
+      <description>No Text</description>
+      <guid>46172167</guid>
+      <comments>https://news.ycombinator.com/item?id=46172167</comments>
+      <pubDate>Sat, 06 Dec 2025 10:20:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack</title>
+      <link>https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada</link>
+      <description>No Text</description>
+      <guid>46174789</guid>
+      <comments>https://news.ycombinator.com/item?id=46174789</comments>
+      <pubDate>Sat, 06 Dec 2025 17:01:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>The unexpected effectiveness of one-shot decompilation with Claude</title>
+      <link>https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/</link>
+      <description>No Text</description>
+      <guid>46080498</guid>
+      <comments>https://news.ycombinator.com/item?id=46080498</comments>
+      <pubDate>Fri, 28 Nov 2025 17:07:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Mapping Amazing: Bee Maps</title>
+      <link>https://maphappenings.com/2025/11/06/bee-maps/</link>
+      <description>No Text</description>
+      <guid>46094989</guid>
+      <comments>https://news.ycombinator.com/item?id=46094989</comments>
+      <pubDate>Sun, 30 Nov 2025 08:50:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>A compact camera built using an optical mouse</title>
+      <link>https://petapixel.com/2025/11/13/this-guy-built-a-compact-camera-using-an-optical-mouse/</link>
+      <description>No Text</description>
+      <guid>46136059</guid>
+      <comments>https://news.ycombinator.com/item?id=46136059</comments>
+      <pubDate>Wed, 03 Dec 2025 16:02:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>Kids who ran away to 1960s San Francisco</title>
+      <link>https://www.fieldnotes.nautilus.quest/p/the-kids-who-ran-away-to-1960s-san</link>
+      <description>No Text</description>
+      <guid>46123720</guid>
+      <comments>https://news.ycombinator.com/item?id=46123720</comments>
+      <pubDate>Tue, 02 Dec 2025 17:22:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>Self-hosting my photos with Immich</title>
+      <link>https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/</link>
+      <description>No Text</description>
+      <guid>46095087</guid>
+      <comments>https://news.ycombinator.com/item?id=46095087</comments>
+      <pubDate>Sun, 30 Nov 2025 09:11:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare outage on December 5, 2025</title>
+      <link>https://blog.cloudflare.com/5-december-2025-outage/</link>
+      <description>No Text</description>
+      <guid>46162656</guid>
+      <comments>https://news.ycombinator.com/item?id=46162656</comments>
+      <pubDate>Fri, 05 Dec 2025 15:35:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>How I discovered a hidden microphone on a Chinese NanoKVM</title>
+      <link>https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/</link>
+      <description>No Text</description>
+      <guid>46173383</guid>
+      <comments>https://news.ycombinator.com/item?id=46173383</comments>
+      <pubDate>Sat, 06 Dec 2025 13:54:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini 3 Pro: the frontier of vision AI</title>
+      <link>https://blog.google/technology/developers/gemini-3-pro-vision/</link>
+      <description>No Text</description>
+      <guid>46163308</guid>
+      <comments>https://news.ycombinator.com/item?id=46163308</comments>
+      <pubDate>Fri, 05 Dec 2025 16:15:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>Netflix to Acquire Warner Bros</title>
+      <link>https://about.netflix.com/en/news/netflix-to-acquire-warner-bros</link>
+      <description>No Text</description>
+      <guid>46160315</guid>
+      <comments>https://news.ycombinator.com/item?id=46160315</comments>
+      <pubDate>Fri, 05 Dec 2025 12:21:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Absent Silence (2010)</title>
+      <link>https://www.ursulakleguin.com/blog/3-the-absent-silence</link>
+      <description>No Text</description>
+      <guid>46120764</guid>
+      <comments>https://news.ycombinator.com/item?id=46120764</comments>
+      <pubDate>Tue, 02 Dec 2025 12:59:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>PalmOS on FisherPrice Pixter Toy</title>
+      <link>https://dmitry.gr/?r=05.Projects&amp;proj=27.%20rePalm#pixter</link>
+      <description>No Text</description>
+      <guid>46170309</guid>
+      <comments>https://news.ycombinator.com/item?id=46170309</comments>
+      <pubDate>Sat, 06 Dec 2025 03:17:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Making tiny 0.1cc two stroke engine from scratch</title>
+      <link>https://youtu.be/nKVq9u52A-c?si=KVY6AK7tsudqnbJN</link>
+      <description>No Text</description>
+      <guid>46098655</guid>
+      <comments>https://news.ycombinator.com/item?id=46098655</comments>
+      <pubDate>Sun, 30 Nov 2025 17:34:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Netflix’s AV1 Journey: From Android to TVs and Beyond</title>
+      <link>https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80</link>
+      <description>No Text</description>
+      <guid>46155135</guid>
+      <comments>https://news.ycombinator.com/item?id=46155135</comments>
+      <pubDate>Fri, 05 Dec 2025 00:09:57 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
