@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sun, 14 Dec 2025 01:09:25 -0000</lastBuildDate>
+    <item>
+      <title>Linux Sandboxes and Fil-C</title>
+      <link>https://fil-c.org/seccomp</link>
+      <description>No Text</description>
+      <guid>46259064</guid>
+      <comments>https://news.ycombinator.com/item?id=46259064</comments>
+      <pubDate>Sat, 13 Dec 2025 22:58:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>Closures as Win32 Window Procedures</title>
+      <link>https://nullprogram.com/blog/2025/12/12/</link>
+      <description>No Text</description>
+      <guid>46259334</guid>
+      <comments>https://news.ycombinator.com/item?id=46259334</comments>
+      <pubDate>Sat, 13 Dec 2025 23:39:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Why Twilio Segment moved from microservices back to a monolith</title>
+      <link>https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices</link>
+      <description>No Text</description>
+      <guid>46257714</guid>
+      <comments>https://news.ycombinator.com/item?id=46257714</comments>
+      <pubDate>Sat, 13 Dec 2025 20:30:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>Recovering Anthony Bourdain's (really) lost Li.st's</title>
+      <link>https://sandyuraz.com/blogs/bourdain/</link>
+      <description>No Text</description>
+      <guid>46258163</guid>
+      <comments>https://news.ycombinator.com/item?id=46258163</comments>
+      <pubDate>Sat, 13 Dec 2025 21:18:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>I fed 24 years of my blog posts to a Markov model</title>
+      <link>https://susam.net/fed-24-years-of-posts-to-markov-model.html</link>
+      <description>No Text</description>
+      <guid>46257607</guid>
+      <comments>https://news.ycombinator.com/item?id=46257607</comments>
+      <pubDate>Sat, 13 Dec 2025 20:19:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>I tried Gleam for Advent of Code</title>
+      <link>https://blog.tymscar.com/posts/gleamaoc2025/</link>
+      <description>No Text</description>
+      <guid>46255991</guid>
+      <comments>https://news.ycombinator.com/item?id=46255991</comments>
+      <pubDate>Sat, 13 Dec 2025 17:00:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Cat Gap</title>
+      <link>https://en.wikipedia.org/wiki/Cat_gap</link>
+      <description>No Text</description>
+      <guid>46213985</guid>
+      <comments>https://news.ycombinator.com/item?id=46213985</comments>
+      <pubDate>Wed, 10 Dec 2025 04:09:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Rise of Computer Games, Part I: Adventure</title>
+      <link>https://technicshistory.com/2025/12/13/the-rise-of-computer-games-part-i-adventure/</link>
+      <description>No Text</description>
+      <guid>46257599</guid>
+      <comments>https://news.ycombinator.com/item?id=46257599</comments>
+      <pubDate>Sat, 13 Dec 2025 20:19:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>Useful patterns for building HTML tools</title>
+      <link>https://simonwillison.net/2025/Dec/10/html-tools/</link>
+      <description>No Text</description>
+      <guid>46223882</guid>
+      <comments>https://news.ycombinator.com/item?id=46223882</comments>
+      <pubDate>Wed, 10 Dec 2025 21:08:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Want to sway an election? Here’s how much fake online accounts cost</title>
+      <link>https://www.science.org/content/article/want-sway-election-here-s-how-much-fake-online-accounts-cost</link>
+      <description>No Text</description>
+      <guid>46257871</guid>
+      <comments>https://news.ycombinator.com/item?id=46257871</comments>
+      <pubDate>Sat, 13 Dec 2025 20:48:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>llamafile: Distribute and Run LLMs with a Single File</title>
+      <link>https://github.com/mozilla-ai/llamafile</link>
+      <description>No Text</description>
+      <guid>46257125</guid>
+      <comments>https://news.ycombinator.com/item?id=46257125</comments>
+      <pubDate>Sat, 13 Dec 2025 19:22:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: How can I get better at using AI for programming?</title>
+      <link>https://news.ycombinator.com/item?id=46255285</link>
+      <description>I&amp;#x27;ve been working on a personal project recently, rewriting an old jQuery + Django project into SvelteKit. The main work is translating the UI templates into idiomatic SvelteKit while maintaining the original styling. This includes things like using semantic HTML instead of div-spamming, not wrapping divs in divs in divs, and replacing bootstrap with minimal tailwind. It also includes some logic refactors, to maintain the original functionality but rewritten to avoid years of code debt. Things like replacing templates using boolean flags for multiple views with composable Svelte components.&lt;p&gt;I&amp;#x27;ve had a fairly steady process for doing this: look at each route defined in Django, build out my `+page.server.ts`, and then split each major section of the page into a Svelte component with a matching Storybook story. It takes a lot of time to do this, since I have to ensure I&amp;#x27;m not just copying the template but rather recreating it in a more idiomatic style.&lt;p&gt;This kind of work seems like a great use case for AI assisted programming, but I&amp;#x27;ve failed to use it effectively. At most, I can only get Claude Code to recreate some slightly less spaghetti code in Svelte. Simple prompting just isn&amp;#x27;t able to get AI&amp;#x27;s code quality within 90% of what I&amp;#x27;d write by hand. Ideally, AI could get it&amp;#x27;s code to something I could review manually in 15-20 minutes, which would massively speed up the time spent on this project (right now it takes me 1-2 hours to properly translate a route).&lt;p&gt;Do you guys have tips or suggestions on how to improve my efficiency and code quality with AI?</description>
+      <guid>46255285</guid>
+      <comments>https://news.ycombinator.com/item?id=46255285</comments>
+      <pubDate>Sat, 13 Dec 2025 15:37:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>Cryptids</title>
+      <link>https://wiki.bbchallenge.org/wiki/Cryptids</link>
+      <description>No Text</description>
+      <guid>46172586</guid>
+      <comments>https://news.ycombinator.com/item?id=46172586</comments>
+      <pubDate>Sat, 06 Dec 2025 11:48:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Some surprising things about DuckDuckGo</title>
+      <link>https://gabrielweinberg.com/p/some-surprising-things-about-duckduckgo</link>
+      <description>No Text</description>
+      <guid>46258529</guid>
+      <comments>https://news.ycombinator.com/item?id=46258529</comments>
+      <pubDate>Sat, 13 Dec 2025 21:57:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Flat-pack washing machine spins a fairer future</title>
+      <link>https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/</link>
+      <description>No Text</description>
+      <guid>46258906</guid>
+      <comments>https://news.ycombinator.com/item?id=46258906</comments>
+      <pubDate>Sat, 13 Dec 2025 22:38:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>EasyPost (YC S13) Is Hiring</title>
+      <link>https://www.easypost.com/careers</link>
+      <description>No Text</description>
+      <guid>46256002</guid>
+      <comments>https://news.ycombinator.com/item?id=46256002</comments>
+      <pubDate>Sat, 13 Dec 2025 17:01:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>Go Proposal: Secret Mode</title>
+      <link>https://antonz.org/accepted/runtime-secret/</link>
+      <description>No Text</description>
+      <guid>46210705</guid>
+      <comments>https://news.ycombinator.com/item?id=46210705</comments>
+      <pubDate>Tue, 09 Dec 2025 21:10:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>From Azure Functions to FreeBSD</title>
+      <link>https://jmmv.dev/2025/12/from-azure-functions-to-freebsd.html</link>
+      <description>No Text</description>
+      <guid>46189616</guid>
+      <comments>https://news.ycombinator.com/item?id=46189616</comments>
+      <pubDate>Mon, 08 Dec 2025 08:02:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>A Giant Ball Will Help This Man Survive a Year on an Iceberg</title>
+      <link>https://www.outsideonline.com/outdoor-adventure/exploration-survival/how-giant-ball-will-help-man-survive-year-iceberg/</link>
+      <description>No Text</description>
+      <guid>46255175</guid>
+      <comments>https://news.ycombinator.com/item?id=46255175</comments>
+      <pubDate>Sat, 13 Dec 2025 15:25:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>TigerBeetle as a File Storage</title>
+      <link>https://aivarsk.com/2025/12/07/tigerbeetle-blob-storage/</link>
+      <description>No Text</description>
+      <guid>46184030</guid>
+      <comments>https://news.ycombinator.com/item?id=46184030</comments>
+      <pubDate>Sun, 07 Dec 2025 18:51:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>Are we stuck with the same Desktop UX forever? [video]</title>
+      <link>https://www.youtube.com/watch?v=1fZTOjd_bOQ</link>
+      <description>No Text</description>
+      <guid>46256834</guid>
+      <comments>https://news.ycombinator.com/item?id=46256834</comments>
+      <pubDate>Sat, 13 Dec 2025 18:39:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Listened to your feedback, Critical CSS Generator</title>
+      <link>https://kigo.studio/tools/critical-css-generator</link>
+      <description>No Text</description>
+      <guid>46191807</guid>
+      <comments>https://news.ycombinator.com/item?id=46191807</comments>
+      <pubDate>Mon, 08 Dec 2025 13:13:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>What is the nicest thing a stranger has ever done for you?</title>
+      <link>https://louplummer.lol/nice-stranger/</link>
+      <description>No Text</description>
+      <guid>46236001</guid>
+      <comments>https://news.ycombinator.com/item?id=46236001</comments>
+      <pubDate>Thu, 11 Dec 2025 19:28:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Purdue University Approves New AI Requirement for All Undergrads</title>
+      <link>https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/</link>
+      <description>No Text</description>
+      <guid>46257939</guid>
+      <comments>https://news.ycombinator.com/item?id=46257939</comments>
+      <pubDate>Sat, 13 Dec 2025 20:54:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Photographer built a medium-format rangefinder</title>
+      <link>https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/</link>
+      <description>No Text</description>
+      <guid>46177160</guid>
+      <comments>https://news.ycombinator.com/item?id=46177160</comments>
+      <pubDate>Sat, 06 Dec 2025 22:29:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>Will West Coast Jazz Get Some Respect?</title>
+      <link>https://www.honest-broker.com/p/will-west-coast-jazz-finally-get</link>
+      <description>No Text</description>
+      <guid>46176592</guid>
+      <comments>https://news.ycombinator.com/item?id=46176592</comments>
+      <pubDate>Sat, 06 Dec 2025 21:06:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers seeking better measures of cognitive fatigue</title>
+      <link>https://www.nature.com/articles/d41586-025-03974-w</link>
+      <description>No Text</description>
+      <guid>46222162</guid>
+      <comments>https://news.ycombinator.com/item?id=46222162</comments>
+      <pubDate>Wed, 10 Dec 2025 19:13:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Using Python for Scripting</title>
+      <link>https://hypirion.com/musings/use-python-for-scripting</link>
+      <description>No Text</description>
+      <guid>46189962</guid>
+      <comments>https://news.ycombinator.com/item?id=46189962</comments>
+      <pubDate>Mon, 08 Dec 2025 08:52:03 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
