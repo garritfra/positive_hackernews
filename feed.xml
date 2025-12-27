@@ -1,0 +1,210 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 27 Dec 2025 21:13:40 -0000</lastBuildDate>
+    <item>
+      <title>Floor796</title>
+      <link>https://floor796.com/</link>
+      <description>No Text</description>
+      <guid>46401612</guid>
+      <comments>https://news.ycombinator.com/item?id=46401612</comments>
+      <pubDate>Sat, 27 Dec 2025 13:13:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Janet Jackson had the power to crash laptop computers (2022)</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994</link>
+      <description>No Text</description>
+      <guid>46403291</guid>
+      <comments>https://news.ycombinator.com/item?id=46403291</comments>
+      <pubDate>Sat, 27 Dec 2025 17:16:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia's $20B antitrust loophole</title>
+      <link>https://ossa-ma.github.io/blog/groq</link>
+      <description>No Text</description>
+      <guid>46403559</guid>
+      <comments>https://news.ycombinator.com/item?id=46403559</comments>
+      <pubDate>Sat, 27 Dec 2025 17:42:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 2 for the Apricot PC/Xi</title>
+      <link>https://www.ninakalinina.com/notes/win2apri/</link>
+      <description>No Text</description>
+      <guid>46403915</guid>
+      <comments>https://news.ycombinator.com/item?id=46403915</comments>
+      <pubDate>Sat, 27 Dec 2025 18:22:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>OrangePi 6 Plus Review</title>
+      <link>https://boilingsteam.com/orange-pi-6-plus-review/</link>
+      <description>No Text</description>
+      <guid>46401499</guid>
+      <comments>https://news.ycombinator.com/item?id=46401499</comments>
+      <pubDate>Sat, 27 Dec 2025 12:51:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Ez FFmpeg – Video editing in plain English</title>
+      <link>http://npmjs.com/package/ezff</link>
+      <description>I built a CLI tool that lets you do common video&amp;#x2F;audio operations without remembering ffmpeg syntax.&lt;p&gt;Instead of:
+ffmpeg -i video.mp4 -vf &amp;quot;fps=15,scale=480:-1:flags=lanczos&amp;quot; -loop 0 output.gif&lt;p&gt;You write:
+  ff convert video.mp4 to gif&lt;p&gt;More examples:
+  ff compress video.mp4 to 10mb
+  ff trim video.mp4 from 0:30 to 1:00
+  ff extract audio from video.mp4
+  ff resize video.mp4 to 720p
+  ff speed up video.mp4 by 2x
+  ff reverse video.mp4&lt;p&gt;There are similar tools that use LLMs (wtffmpeg, llmpeg, ai-ffmpeg-cli), but they require API keys, cost money, and have latency.&lt;p&gt;Ez FFmpeg is different:
+  - No AI – just regex pattern matching
+  - Instant – no API calls
+  - Free – no tokens
+  - Offline – works without internet&lt;p&gt;It handles ~20 common operations that cover 90% of what developers actually do with ffmpeg. For edge cases, you still need ffmpeg directly.&lt;p&gt;Interactive mode (just type ff) shows media files in your current folder with typeahead search.&lt;p&gt;npm install -g ezff</description>
+      <guid>46400251</guid>
+      <comments>https://news.ycombinator.com/item?id=46400251</comments>
+      <pubDate>Sat, 27 Dec 2025 08:45:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>How uv got so fast</title>
+      <link>https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html</link>
+      <description>No Text</description>
+      <guid>46393992</guid>
+      <comments>https://news.ycombinator.com/item?id=46393992</comments>
+      <pubDate>Fri, 26 Dec 2025 17:13:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Resources to get better at outbound sales?</title>
+      <link>https://news.ycombinator.com/item?id=46346648</link>
+      <description>Hi!&lt;p&gt;I run a small custom software company in Michigan.&lt;p&gt;I want to get better at outbound sales beyond just cold emailing or messaging people through LinkedIn.&lt;p&gt;We’re about to start publishing case studies and doing some outreach, so I want to take some time to study outbound sales and improve my skills.&lt;p&gt;Any recommended courses, books, or frameworks for B2B outbound sales, consultative selling, or building effective outreach pipelines?&lt;p&gt;Thanks!</description>
+      <guid>46346648</guid>
+      <comments>https://news.ycombinator.com/item?id=46346648</comments>
+      <pubDate>Sun, 21 Dec 2025 17:49:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Love Actually is around Heathrow (2021)</title>
+      <link>https://www.heathrow.com/latest-news/love-actually-is-all-around-at-heathrow-airport</link>
+      <description>No Text</description>
+      <guid>46381236</guid>
+      <comments>https://news.ycombinator.com/item?id=46381236</comments>
+      <pubDate>Thu, 25 Dec 2025 01:21:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>They made me an offer I couldn't refuse (1997)</title>
+      <link>https://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/</link>
+      <description>No Text</description>
+      <guid>46370309</guid>
+      <comments>https://news.ycombinator.com/item?id=46370309</comments>
+      <pubDate>Tue, 23 Dec 2025 22:38:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Scientists edited genes in a living person and saved his life</title>
+      <link>https://www.popularmechanics.com/science/health/a64815804/crispr-therapy/</link>
+      <description>Paper: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.nejm.org&amp;#x2F;doi&amp;#x2F;full&amp;#x2F;10.1056&amp;#x2F;NEJMoa2504747&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.nejm.org&amp;#x2F;doi&amp;#x2F;full&amp;#x2F;10.1056&amp;#x2F;NEJMoa2504747&lt;/a&gt;</description>
+      <guid>46403955</guid>
+      <comments>https://news.ycombinator.com/item?id=46403955</comments>
+      <pubDate>Sat, 27 Dec 2025 18:26:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize</title>
+      <link>https://github.com/DeepMyst/Mysti</link>
+      <description>Hey HN! I&amp;#x27;m Baha, creator of Mysti.&lt;p&gt;The problem: I pay for Claude Pro, ChatGPT Plus, and Gemini but only one could help at a time. On tricky architecture decisions, I wanted a second opinion.&lt;p&gt;The solution: Mysti lets you pick any two AI agents (Claude Code, Codex, Gemini) to collaborate. They each analyze your request, debate approaches, then synthesize the best solution.&lt;p&gt;Your prompt → Agent 1 analyzes → Agent 2 analyzes → Discussion → Synthesized solution&lt;p&gt;Why this matters: each model has different training and blind spots. Two perspectives catch edge cases one would miss. It&amp;#x27;s like pair programming with two senior devs who actually discuss before answering.&lt;p&gt;What you get:
+* Use your existing subscriptions (no new accounts, just your CLI tools)
+* 16 personas (Architect, Debugger, Security Expert, etc)
+* Full permission control from read-only to autonomous
+* Unified context when switching agents&lt;p&gt;Tech: TypeScript, VS Code Extension API, shells out to claude-code&amp;#x2F;codex-cli&amp;#x2F;gemini-cli&lt;p&gt;License: BSL 1.1, free for personal and educational use, converts to MIT in 2030 (would love input on this, does it make sense to just go MIT?)&lt;p&gt;GitHub: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;DeepMyst&amp;#x2F;Mysti&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;DeepMyst&amp;#x2F;Mysti&lt;/a&gt;&lt;p&gt;Would love feedback on the brainstorm mode. Is multi-agent collaboration actually useful or am I just solving my own niche problem?</description>
+      <guid>46365105</guid>
+      <comments>https://news.ycombinator.com/item?id=46365105</comments>
+      <pubDate>Tue, 23 Dec 2025 13:18:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>NMH BASIC</title>
+      <link>https://t3x.org/nmhbasic/index.html</link>
+      <description>No Text</description>
+      <guid>46401938</guid>
+      <comments>https://news.ycombinator.com/item?id=46401938</comments>
+      <pubDate>Sat, 27 Dec 2025 14:05:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Mruby: Ruby for Embedded Systems</title>
+      <link>https://github.com/mruby/mruby</link>
+      <description>No Text</description>
+      <guid>46351457</guid>
+      <comments>https://news.ycombinator.com/item?id=46351457</comments>
+      <pubDate>Mon, 22 Dec 2025 05:00:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Splice a Fibre</title>
+      <link>https://react-networks-lib.rackout.net/fibre</link>
+      <description>It&amp;#x27;s interactive, try and splice one!&lt;p&gt;Written in react, it&amp;#x27;s moderately heavy and not entirely mobile optimised.</description>
+      <guid>46401190</guid>
+      <comments>https://news.ycombinator.com/item?id=46401190</comments>
+      <pubDate>Sat, 27 Dec 2025 11:57:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Intertapes – collection of found cassette tapes from different locations</title>
+      <link>https://intertapes.net/</link>
+      <description>No Text</description>
+      <guid>46345528</guid>
+      <comments>https://news.ycombinator.com/item?id=46345528</comments>
+      <pubDate>Sun, 21 Dec 2025 15:29:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>Exe.dev</title>
+      <link>https://exe.dev/</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;blog.exe.dev&amp;#x2F;meet-exe.dev&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;blog.exe.dev&amp;#x2F;meet-exe.dev&lt;/a&gt;&lt;p&gt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;exe.dev&amp;#x2F;docs&amp;#x2F;how-exedev-works&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;exe.dev&amp;#x2F;docs&amp;#x2F;how-exedev-works&lt;/a&gt;&lt;p&gt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;exe.dev&amp;#x2F;docs&amp;#x2F;pricing&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;exe.dev&amp;#x2F;docs&amp;#x2F;pricing&lt;/a&gt;</description>
+      <guid>46397609</guid>
+      <comments>https://news.ycombinator.com/item?id=46397609</comments>
+      <pubDate>Fri, 26 Dec 2025 23:42:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Always bet on text (2014)</title>
+      <link>https://graydon2.dreamwidth.org/193447.html</link>
+      <description>No Text</description>
+      <guid>46397379</guid>
+      <comments>https://news.ycombinator.com/item?id=46397379</comments>
+      <pubDate>Fri, 26 Dec 2025 23:09:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Publishing your work increases your luck</title>
+      <link>https://github.com/readme/guides/publishing-your-work</link>
+      <description>No Text</description>
+      <guid>46397991</guid>
+      <comments>https://news.ycombinator.com/item?id=46397991</comments>
+      <pubDate>Sat, 27 Dec 2025 00:43:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>QNX Self-Hosted Developer Desktop</title>
+      <link>https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/</link>
+      <description>No Text</description>
+      <guid>46398201</guid>
+      <comments>https://news.ycombinator.com/item?id=46398201</comments>
+      <pubDate>Sat, 27 Dec 2025 01:16:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Detect memory leaks of C extensions with psutil and psleak</title>
+      <link>https://gmpy.dev/blog/2025/psutil-heap-introspection-apis</link>
+      <description>No Text</description>
+      <guid>46376608</guid>
+      <comments>https://news.ycombinator.com/item?id=46376608</comments>
+      <pubDate>Wed, 24 Dec 2025 15:53:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>The best things and stuff of 2025</title>
+      <link>https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html</link>
+      <description>No Text</description>
+      <guid>46365726</guid>
+      <comments>https://news.ycombinator.com/item?id=46365726</comments>
+      <pubDate>Tue, 23 Dec 2025 14:51:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52 hours</title>
+      <link>https://github.com/Syn-Nine/gar-lang/blob/main/DEVLOG.md</link>
+      <description>No Text</description>
+      <guid>46348251</guid>
+      <comments>https://news.ycombinator.com/item?id=46348251</comments>
+      <pubDate>Sun, 21 Dec 2025 20:44:35 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
