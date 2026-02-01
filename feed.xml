@@ -1,0 +1,251 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sun, 01 Feb 2026 01:29:11 -0000</lastBuildDate>
+    <item>
+      <title>Mobile carriers can get your GPS location</title>
+      <link>https://an.dywa.ng/carrier-gnss.html</link>
+      <description>No Text</description>
+      <guid>46838597</guid>
+      <comments>https://news.ycombinator.com/item?id=46838597</comments>
+      <pubDate>Sat, 31 Jan 2026 17:21:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>Scientist who helped eradicate smallpox dies at age 89</title>
+      <link>https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/</link>
+      <description>No Text</description>
+      <guid>46793313</guid>
+      <comments>https://news.ycombinator.com/item?id=46793313</comments>
+      <pubDate>Wed, 28 Jan 2026 10:03:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>Generative AI and Wikipedia editing: What we learned in 2025</title>
+      <link>https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/</link>
+      <description>No Text</description>
+      <guid>46840924</guid>
+      <comments>https://news.ycombinator.com/item?id=46840924</comments>
+      <pubDate>Sat, 31 Jan 2026 21:14:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Demystifying ARM SME to Optimize General Matrix Multiplications</title>
+      <link>https://arxiv.org/abs/2512.21473</link>
+      <description>No Text</description>
+      <guid>46840252</guid>
+      <comments>https://news.ycombinator.com/item?id=46840252</comments>
+      <pubDate>Sat, 31 Jan 2026 20:05:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Wikipedia: Sandbox</title>
+      <link>https://en.wikipedia.org/wiki/Wikipedia:Sandbox</link>
+      <description>I was learning about Wikipedia recently and thought it was interesting there was a global, public page specifically for writing random stuff to learn how to use their editor. I assumed there would be something like this on a per-user, invisible to the public level, but not a global level like this page.</description>
+      <guid>46829965</guid>
+      <comments>https://news.ycombinator.com/item?id=46829965</comments>
+      <pubDate>Fri, 30 Jan 2026 21:12:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.</title>
+      <link>https://github.com/zupat/related_post_gen</link>
+      <description>No Text</description>
+      <guid>46840698</guid>
+      <comments>https://news.ycombinator.com/item?id=46840698</comments>
+      <pubDate>Sat, 31 Jan 2026 20:50:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Saddest Moment (2013) [pdf]</title>
+      <link>https://www.usenix.org/system/files/login-logout_1305_mickens.pdf</link>
+      <description>No Text</description>
+      <guid>46840219</guid>
+      <comments>https://news.ycombinator.com/item?id=46840219</comments>
+      <pubDate>Sat, 31 Jan 2026 20:02:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Swift is a more convenient Rust</title>
+      <link>https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust</link>
+      <description>No Text</description>
+      <guid>46841374</guid>
+      <comments>https://news.ycombinator.com/item?id=46841374</comments>
+      <pubDate>Sat, 31 Jan 2026 22:05:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Minimal – Open-Source Community driven Hardened Container Images</title>
+      <link>https://github.com/rtvkiz/minimal</link>
+      <description>I would like to share Minimal - Its a open source collection of hardened container images build using Apko, Melange and Wolfi packages. The images are build daily, checked for updates and resolved as soon as fix is available in upstream  source and Wolfi package. It utilizes the power of available open source solutions and contains commercially available images for free. Minimal demonstrates that it is possible to build and maintain hardened container images by ourselves.
+Minimal will add more images support, and goal is to be community driven to add images as required and fully customizable.</description>
+      <guid>46840178</guid>
+      <comments>https://news.ycombinator.com/item?id=46840178</comments>
+      <pubDate>Sat, 31 Jan 2026 19:58:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ferrari vs. Markets</title>
+      <link>https://ferrari-imports.enigmatechnologies.dev/</link>
+      <description>No Text</description>
+      <guid>46815209</guid>
+      <comments>https://news.ycombinator.com/item?id=46815209</comments>
+      <pubDate>Thu, 29 Jan 2026 19:25:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>In Praise of –dry-run</title>
+      <link>https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/</link>
+      <description>No Text</description>
+      <guid>46840612</guid>
+      <comments>https://news.ycombinator.com/item?id=46840612</comments>
+      <pubDate>Sat, 31 Jan 2026 20:42:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Nintendo DS code editor and scriptable game engine</title>
+      <link>https://crl.io/ds-game-engine/</link>
+      <description>No Text</description>
+      <guid>46839215</guid>
+      <comments>https://news.ycombinator.com/item?id=46839215</comments>
+      <pubDate>Sat, 31 Jan 2026 18:27:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Finland to end &quot;uncontrolled human experiment&quot; with ban on youth social media</title>
+      <link>https://yle.fi/a/74-20207494</link>
+      <description>No Text</description>
+      <guid>46838417</guid>
+      <comments>https://news.ycombinator.com/item?id=46838417</comments>
+      <pubDate>Sat, 31 Jan 2026 17:06:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Writing a .NET Garbage Collector in C# – Part 6: Mark and Sweep</title>
+      <link>https://minidump.net/writing-a-net-gc-in-c-part-6/</link>
+      <description>No Text</description>
+      <guid>46779061</guid>
+      <comments>https://news.ycombinator.com/item?id=46779061</comments>
+      <pubDate>Tue, 27 Jan 2026 12:23:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>CollectWise (YC F24) Is Hiring</title>
+      <link>https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer</link>
+      <description>No Text</description>
+      <guid>46840801</guid>
+      <comments>https://news.ycombinator.com/item?id=46840801</comments>
+      <pubDate>Sat, 31 Jan 2026 21:00:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>CPython Internals Explained</title>
+      <link>https://github.com/zpoint/CPython-Internals</link>
+      <description>No Text</description>
+      <guid>46780086</guid>
+      <comments>https://news.ycombinator.com/item?id=46780086</comments>
+      <pubDate>Tue, 27 Jan 2026 14:07:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Spacecraft That Wouldn't Die</title>
+      <link>https://www.corememory.com/p/exclusive-theres-a-spaceship-epic-aerospace-chimera</link>
+      <description>No Text</description>
+      <guid>46840753</guid>
+      <comments>https://news.ycombinator.com/item?id=46840753</comments>
+      <pubDate>Sat, 31 Jan 2026 20:56:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>Genode OS is a tool kit for building highly secure special-purpose OS</title>
+      <link>https://genode.org/about/index</link>
+      <description>No Text</description>
+      <guid>46838981</guid>
+      <comments>https://news.ycombinator.com/item?id=46838981</comments>
+      <pubDate>Sat, 31 Jan 2026 18:03:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Moltbook – A social network for moltbots (clawdbots) to hang out</title>
+      <link>https://www.moltbook.com/</link>
+      <description>Hey everyone!&lt;p&gt;Just made this over the past few days.&lt;p&gt;Moltbots can sign up and interact via CLI, no direct human interactions.&lt;p&gt;Just for fun to see what they all talk about :)</description>
+      <guid>46802254</guid>
+      <comments>https://news.ycombinator.com/item?id=46802254</comments>
+      <pubDate>Wed, 28 Jan 2026 22:09:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Giving up upstream-ing my patches and feel free to pick them up</title>
+      <link>https://mail.openjdk.org/pipermail/hotspot-dev/2026-January/118080.html</link>
+      <description>No Text</description>
+      <guid>46835454</guid>
+      <comments>https://news.ycombinator.com/item?id=46835454</comments>
+      <pubDate>Sat, 31 Jan 2026 10:53:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Noctia: A sleek and minimal desktop shell thoughtfully crafted for Wayland</title>
+      <link>https://github.com/noctalia-dev/noctalia-shell</link>
+      <description>No Text</description>
+      <guid>46840179</guid>
+      <comments>https://news.ycombinator.com/item?id=46840179</comments>
+      <pubDate>Sat, 31 Jan 2026 19:58:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Outsourcing thinking</title>
+      <link>https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html</link>
+      <description>No Text</description>
+      <guid>46840865</guid>
+      <comments>https://news.ycombinator.com/item?id=46840865</comments>
+      <pubDate>Sat, 31 Jan 2026 21:06:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>My ridiculously robust photo management system (Immich edition)</title>
+      <link>https://jaisenmathai.com/articles/my-ridiculously-robust-photo-management-system-immich-edition/</link>
+      <description>No Text</description>
+      <guid>46794971</guid>
+      <comments>https://news.ycombinator.com/item?id=46794971</comments>
+      <pubDate>Wed, 28 Jan 2026 13:17:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>We have ipinfo at home or how to geolocate IPs in your CLI using latency</title>
+      <link>https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/</link>
+      <description>No Text</description>
+      <guid>46834953</guid>
+      <comments>https://news.ycombinator.com/item?id=46834953</comments>
+      <pubDate>Sat, 31 Jan 2026 09:30:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>Guix System First Impressions as a Nix User</title>
+      <link>https://nemin.hu/guix.html</link>
+      <description>No Text</description>
+      <guid>46835612</guid>
+      <comments>https://news.ycombinator.com/item?id=46835612</comments>
+      <pubDate>Sat, 31 Jan 2026 11:22:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>US has investigated claims WhatsApp chats aren't private</title>
+      <link>https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;archive.ph&amp;#x2F;lZlAs&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;archive.ph&amp;#x2F;lZlAs&lt;/a&gt;&lt;p&gt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.theguardian.com&amp;#x2F;technology&amp;#x2F;2026&amp;#x2F;jan&amp;#x2F;31&amp;#x2F;us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.theguardian.com&amp;#x2F;technology&amp;#x2F;2026&amp;#x2F;jan&amp;#x2F;31&amp;#x2F;us-author...&lt;/a&gt;</description>
+      <guid>46838635</guid>
+      <comments>https://news.ycombinator.com/item?id=46838635</comments>
+      <pubDate>Sat, 31 Jan 2026 17:25:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>NASA's WB-57 crash lands at Houston</title>
+      <link>https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/</link>
+      <description>No Text</description>
+      <guid>46792242</guid>
+      <comments>https://news.ycombinator.com/item?id=46792242</comments>
+      <pubDate>Wed, 28 Jan 2026 07:43:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Autonomous cars, drones cheerfully obey prompt injection by road sign</title>
+      <link>https://www.theregister.com/2026/01/30/road_sign_hijack_ai/</link>
+      <description>No Text</description>
+      <guid>46840676</guid>
+      <comments>https://news.ycombinator.com/item?id=46840676</comments>
+      <pubDate>Sat, 31 Jan 2026 20:48:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>The hunt for Benchmark Modula-2 (2018)</title>
+      <link>https://amigasourcepres.gitlab.io/post/2018-06-29-benchmarkmodula/</link>
+      <description>No Text</description>
+      <guid>46791836</guid>
+      <comments>https://news.ycombinator.com/item?id=46791836</comments>
+      <pubDate>Wed, 28 Jan 2026 06:40:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: An extensible pub/sub messaging server for edge applications</title>
+      <link>https://github.com/narwhal-io/narwhal</link>
+      <description>hi there! i’ve been working on a project called Narwhal, and I wanted to share it with the community to get some valuable feedback.&lt;p&gt;what is it? Narwhal is a lightweight Pub&amp;#x2F;Sub server and protocol designed specifically for edge applications. while there are great tools out there like NATS or MQTT, i wanted to build something that prioritizes customization and extensibility. my goal was to create a system where developers can easily adapt the routing logic or message handling pipeline to fit specific edge use cases, without fighting the server&amp;#x27;s defaults.&lt;p&gt;why Rust? i chose Rust because i needed a low memory footprint to run efficiently on edge devices (like Raspberry Pis or small gateways), and also because I have a personal vendetta against Garbage Collection pauses. :)&lt;p&gt;current status: it is currently in Alpha. it works for basic pub&amp;#x2F;sub patterns, but I’d like to start working on persistence support soon (so messages survive restarts or network partitions).&lt;p&gt;i’d love for you to take a look at the code! i’m particularly interested in all kind of feedback regarding any improvements i may have overlooked.</description>
+      <guid>46795487</guid>
+      <comments>https://news.ycombinator.com/item?id=46795487</comments>
+      <pubDate>Wed, 28 Jan 2026 13:59:06 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
