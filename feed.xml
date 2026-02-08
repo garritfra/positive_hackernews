@@ -1,0 +1,241 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sun, 08 Feb 2026 09:24:50 -0000</lastBuildDate>
+    <item>
+      <title>DoNotNotify is now Open Source</title>
+      <link>https://donotnotify.com/opensource.html</link>
+      <description>No Text</description>
+      <guid>46932192</guid>
+      <comments>https://news.ycombinator.com/item?id=46932192</comments>
+      <pubDate>Sun, 08 Feb 2026 07:39:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory</title>
+      <link>https://github.com/localgpt-app/localgpt</link>
+      <description>I built LocalGPT over 4 nights as a Rust reimagining of the OpenClaw assistant pattern (markdown-based persistent memory, autonomous heartbeat tasks, skills system).&lt;p&gt;It compiles to a single ~27MB binary — no Node.js, Docker, or Python required.&lt;p&gt;Key features:&lt;p&gt;- Persistent memory via markdown files (MEMORY, HEARTBEAT, SOUL markdown files) — compatible with OpenClaw&amp;#x27;s format
+- Full-text search (SQLite FTS5) + semantic search (local embeddings, no API key needed)
+- Autonomous heartbeat runner that checks tasks on a configurable interval
+- CLI + web interface + desktop GUI
+- Multi-provider: Anthropic, OpenAI, Ollama etc
+- Apache 2.0&lt;p&gt;Install: `cargo install localgpt`&lt;p&gt;I use it daily as a knowledge accumulator, research assistant, and autonomous task runner for my side projects. The memory compounds — every session makes the next one better.&lt;p&gt;GitHub: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;localgpt-app&amp;#x2F;localgpt&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;localgpt-app&amp;#x2F;localgpt&lt;/a&gt;
+Website: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;localgpt.app&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;localgpt.app&lt;/a&gt;&lt;p&gt;Would love feedback on the architecture or feature ideas.</description>
+      <guid>46930391</guid>
+      <comments>https://news.ycombinator.com/item?id=46930391</comments>
+      <pubDate>Sun, 08 Feb 2026 01:26:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Haskell for all: Beyond agentic coding</title>
+      <link>https://haskellforall.com/2026/02/beyond-agentic-coding</link>
+      <description>No Text</description>
+      <guid>46930565</guid>
+      <comments>https://news.ycombinator.com/item?id=46930565</comments>
+      <pubDate>Sun, 08 Feb 2026 01:55:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>Roger Ebert Reviews &quot;The Shawshank Redemption&quot; (1999)</title>
+      <link>https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994</link>
+      <description>No Text</description>
+      <guid>46931559</guid>
+      <comments>https://news.ycombinator.com/item?id=46931559</comments>
+      <pubDate>Sun, 08 Feb 2026 05:25:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>SectorC: A C Compiler in 512 bytes (2023)</title>
+      <link>https://xorvoid.com/sectorc.html</link>
+      <description>No Text</description>
+      <guid>46925741</guid>
+      <comments>https://news.ycombinator.com/item?id=46925741</comments>
+      <pubDate>Sat, 07 Feb 2026 17:39:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Moroccan sardine prices to stabilise via new measures: officials</title>
+      <link>https://maghrebi.org/2026/01/27/moroccan-sardine-prices-to-stabilise-via-new-measures-officials/</link>
+      <description>No Text</description>
+      <guid>46855852</guid>
+      <comments>https://news.ycombinator.com/item?id=46855852</comments>
+      <pubDate>Mon, 02 Feb 2026 13:33:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>LLMs as the new high level language</title>
+      <link>https://federicopereiro.com/llm-high/</link>
+      <description>No Text</description>
+      <guid>46868928</guid>
+      <comments>https://news.ycombinator.com/item?id=46868928</comments>
+      <pubDate>Tue, 03 Feb 2026 10:00:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Software factories and the agentic moment</title>
+      <link>https://factory.strongdm.ai/</link>
+      <description>See also &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;simonwillison.net&amp;#x2F;2026&amp;#x2F;Feb&amp;#x2F;7&amp;#x2F;software-factory&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;simonwillison.net&amp;#x2F;2026&amp;#x2F;Feb&amp;#x2F;7&amp;#x2F;software-factory&amp;#x2F;&lt;/a&gt;</description>
+      <guid>46924426</guid>
+      <comments>https://news.ycombinator.com/item?id=46924426</comments>
+      <pubDate>Sat, 07 Feb 2026 15:05:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Speed up responses with fast mode</title>
+      <link>https://code.claude.com/docs/en/fast-mode</link>
+      <description>No Text</description>
+      <guid>46926043</guid>
+      <comments>https://news.ycombinator.com/item?id=46926043</comments>
+      <pubDate>Sat, 07 Feb 2026 18:08:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Architecture of Open Source Applications (Volume 1) Berkeley DB</title>
+      <link>https://aosabook.org/en/v1/bdb.html</link>
+      <description>No Text</description>
+      <guid>46861158</guid>
+      <comments>https://news.ycombinator.com/item?id=46861158</comments>
+      <pubDate>Mon, 02 Feb 2026 20:37:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>LineageOS 23.2</title>
+      <link>https://lineageos.org/Changelog-31/</link>
+      <description>No Text</description>
+      <guid>46931595</guid>
+      <comments>https://news.ycombinator.com/item?id=46931595</comments>
+      <pubDate>Sun, 08 Feb 2026 05:33:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Hoot: Scheme on WebAssembly</title>
+      <link>https://www.spritely.institute/hoot/</link>
+      <description>No Text</description>
+      <guid>46923254</guid>
+      <comments>https://news.ycombinator.com/item?id=46923254</comments>
+      <pubDate>Sat, 07 Feb 2026 12:18:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>Stories from 25 Years of Software Development</title>
+      <link>https://susam.net/twenty-five-years-of-computing.html</link>
+      <description>No Text</description>
+      <guid>46924264</guid>
+      <comments>https://news.ycombinator.com/item?id=46924264</comments>
+      <pubDate>Sat, 07 Feb 2026 14:42:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>Brookhaven Lab's RHIC concludes 25-year run with final collisions</title>
+      <link>https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/</link>
+      <description>No Text</description>
+      <guid>46926576</guid>
+      <comments>https://news.ycombinator.com/item?id=46926576</comments>
+      <pubDate>Sat, 07 Feb 2026 19:07:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Vocal Guide – belt sing without killing yourself</title>
+      <link>https://jesperordrup.github.io/vocal-guide/</link>
+      <description>No Text</description>
+      <guid>46922049</guid>
+      <comments>https://news.ycombinator.com/item?id=46922049</comments>
+      <pubDate>Sat, 07 Feb 2026 07:37:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Wood Gas Vehicles: Firewood in the Fuel Tank (2010)</title>
+      <link>https://solar.lowtechmagazine.com/2010/01/wood-gas-vehicles-firewood-in-the-fuel-tank/</link>
+      <description>No Text</description>
+      <guid>46897407</guid>
+      <comments>https://news.ycombinator.com/item?id=46897407</comments>
+      <pubDate>Thu, 05 Feb 2026 08:56:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>uLauncher</title>
+      <link>https://github.com/jrpie/launcher</link>
+      <description>No Text</description>
+      <guid>46869713</guid>
+      <comments>https://news.ycombinator.com/item?id=46869713</comments>
+      <pubDate>Tue, 03 Feb 2026 11:41:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>First Proof</title>
+      <link>https://arxiv.org/abs/2602.05192</link>
+      <description>No Text</description>
+      <guid>46924591</guid>
+      <comments>https://news.ycombinator.com/item?id=46924591</comments>
+      <pubDate>Sat, 07 Feb 2026 15:25:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version</title>
+      <link>https://github.com/Momciloo/fun-with-clip-path</link>
+      <description>Two clip-paths, over the navigation:&lt;p&gt;- The first clip-path is a circle (top-left corner)
+- The second clip-path is a polygon, that acts like a ray (hardcoded, can be improved)&lt;p&gt;The original work by Iventions Events &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;iventions.com&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;iventions.com&amp;#x2F;&lt;/a&gt; uses JavaScript, but I found CSS-only approach more fun&lt;p&gt;Here&amp;#x27;s a demo and the codebase: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;Momciloo&amp;#x2F;fun-with-clip-path&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;Momciloo&amp;#x2F;fun-with-clip-path&lt;/a&gt;</description>
+      <guid>46925811</guid>
+      <comments>https://news.ycombinator.com/item?id=46925811</comments>
+      <pubDate>Sat, 07 Feb 2026 17:45:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Start all of your commands with a comma (2009)</title>
+      <link>https://rhodesmill.org/brandon/2009/commands-with-comma/</link>
+      <description>No Text</description>
+      <guid>46890814</guid>
+      <comments>https://news.ycombinator.com/item?id=46890814</comments>
+      <pubDate>Wed, 04 Feb 2026 19:59:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Al Lowe on model trains, funny deaths and working with Disney</title>
+      <link>https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/</link>
+      <description>No Text</description>
+      <guid>46924790</guid>
+      <comments>https://news.ycombinator.com/item?id=46924790</comments>
+      <pubDate>Sat, 07 Feb 2026 15:52:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: A luma dependent chroma compression algorithm (image compression)</title>
+      <link>https://www.bitsnbites.eu/a-spatial-domain-variable-block-size-luma-dependent-chroma-compression-algorithm/</link>
+      <description>No Text</description>
+      <guid>46884412</guid>
+      <comments>https://news.ycombinator.com/item?id=46884412</comments>
+      <pubDate>Wed, 04 Feb 2026 11:13:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Scriptovision Super Micro Script video titler is almost a home computer</title>
+      <link>http://oldvcr.blogspot.com/2026/02/the-scriptovision-super-micro-script.html</link>
+      <description>No Text</description>
+      <guid>46930634</guid>
+      <comments>https://news.ycombinator.com/item?id=46930634</comments>
+      <pubDate>Sun, 08 Feb 2026 02:10:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>OpenCiv3: Open-source, cross-platform reimagining of Civilization III</title>
+      <link>https://openciv3.org/</link>
+      <description>No Text</description>
+      <guid>46918612</guid>
+      <comments>https://news.ycombinator.com/item?id=46918612</comments>
+      <pubDate>Fri, 06 Feb 2026 21:51:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox</title>
+      <link>https://github.com/valdanylchuk/breezydemo</link>
+      <description>Example repo: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;valdanylchuk&amp;#x2F;breezydemo&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;valdanylchuk&amp;#x2F;breezydemo&lt;/a&gt;&lt;p&gt;The underlying ESP-IDF component: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;valdanylchuk&amp;#x2F;breezybox&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;valdanylchuk&amp;#x2F;breezybox&lt;/a&gt;&lt;p&gt;It is something like Raspberry Pi, but without the overhead of a full server-grade OS.&lt;p&gt;It captures a lot of the old school DOS era coding experience. I created a custom fast text mode driver, plan to add VGA-like graphics next. ANSI text demos run smooth, as you can see in the demo video featured in the Readme.&lt;p&gt;App installs also work smoothly. The first time it installed 6 apps from my git repo with one command, felt like, &amp;quot;OMG, I got homebrew to run on a toaster!&amp;quot; And best of all, it can install from any repo, no approvals or waiting, you just publish a compatible ELF file in your release.&lt;p&gt;Coverage:&lt;p&gt;Hackaday: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;hackaday.com&amp;#x2F;2026&amp;#x2F;02&amp;#x2F;06&amp;#x2F;breezybox-a-busybox-like-shell-and-virtual-terminal-for-esp32&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;hackaday.com&amp;#x2F;2026&amp;#x2F;02&amp;#x2F;06&amp;#x2F;breezybox-a-busybox-like-she...&lt;/a&gt;&lt;p&gt;Hackster.io: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.hackster.io&amp;#x2F;news&amp;#x2F;valentyn-danylchuk-s-breezybox-turns-an-espressif-esp32-s3-into-a-tiny-instant-on-pc-3d3135050df1&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.hackster.io&amp;#x2F;news&amp;#x2F;valentyn-danylchuk-s-breezybox-...&lt;/a&gt;&lt;p&gt;Reddit: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.reddit.com&amp;#x2F;r&amp;#x2F;esp32&amp;#x2F;comments&amp;#x2F;1qq503c&amp;#x2F;i_made_an_instanton_tiny_pc_based_on_esp32s3_with&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.reddit.com&amp;#x2F;r&amp;#x2F;esp32&amp;#x2F;comments&amp;#x2F;1qq503c&amp;#x2F;i_made_an_in...&lt;/a&gt;</description>
+      <guid>46918429</guid>
+      <comments>https://news.ycombinator.com/item?id=46918429</comments>
+      <pubDate>Fri, 06 Feb 2026 21:33:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>Where did all the starships go?</title>
+      <link>https://www.datawrapper.de/blog/science-fiction-decline</link>
+      <description>No Text</description>
+      <guid>46870694</guid>
+      <comments>https://news.ycombinator.com/item?id=46870694</comments>
+      <pubDate>Tue, 03 Feb 2026 13:27:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Selection rather than prediction</title>
+      <link>https://voratiq.com/blog/selection-rather-than-prediction/</link>
+      <description>No Text</description>
+      <guid>46878942</guid>
+      <comments>https://news.ycombinator.com/item?id=46878942</comments>
+      <pubDate>Tue, 03 Feb 2026 23:31:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>FDA intends to take action against non-FDA-approved GLP-1 drugs</title>
+      <link>https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs</link>
+      <description>No Text</description>
+      <guid>46928810</guid>
+      <comments>https://news.ycombinator.com/item?id=46928810</comments>
+      <pubDate>Sat, 07 Feb 2026 22:25:03 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
