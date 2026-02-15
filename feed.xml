@@ -1,0 +1,242 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sun, 15 Feb 2026 12:32:36 -0000</lastBuildDate>
+    <item>
+      <title>I love the work of the ArchWiki maintainers</title>
+      <link>https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/</link>
+      <description>No Text</description>
+      <guid>47020191</guid>
+      <comments>https://news.ycombinator.com/item?id=47020191</comments>
+      <pubDate>Sun, 15 Feb 2026 01:20:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Flashpoint Archive – Over 200k web games and animations preserved</title>
+      <link>https://flashpointarchive.org</link>
+      <description>No Text</description>
+      <guid>47021354</guid>
+      <comments>https://news.ycombinator.com/item?id=47021354</comments>
+      <pubDate>Sun, 15 Feb 2026 05:43:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>Two different tricks for fast LLM inference</title>
+      <link>https://www.seangoedecke.com/fast-llm-inference/</link>
+      <description>No Text</description>
+      <guid>47022329</guid>
+      <comments>https://news.ycombinator.com/item?id=47022329</comments>
+      <pubDate>Sun, 15 Feb 2026 09:27:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>My smart sleep mask broadcasts users' brainwaves to an open MQTT broker</title>
+      <link>https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/</link>
+      <description>No Text</description>
+      <guid>47015294</guid>
+      <comments>https://news.ycombinator.com/item?id=47015294</comments>
+      <pubDate>Sat, 14 Feb 2026 15:35:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>Inspecting the Source of Go Modules</title>
+      <link>https://words.filippo.io/go-source/</link>
+      <description>No Text</description>
+      <guid>46989859</guid>
+      <comments>https://news.ycombinator.com/item?id=46989859</comments>
+      <pubDate>Thu, 12 Feb 2026 15:17:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Copy-and-patch compiler for hard real-time Python</title>
+      <link>https://github.com/Nonannet/copapy</link>
+      <description>I built Copapy as an experiment: Can Python be used for hard real-time systems?&lt;p&gt;Instead of an interpreter or JIT, Copapy builds a computation graph by tracing Python code and uses a custom copy-and-patch compiler. The result is very fast native code with no GC, no syscalls, and no memory allocations at runtime.&lt;p&gt;The copy-and-patch compiler currently supports x86_64 as well as 32- and 64-bit ARM. It comes as small Python package with no other dependencies - no cross-compiler, nothing except Python.&lt;p&gt;The current focus is on robotics and control systems in general. This project is early but already usable and easy to try out.&lt;p&gt;Would love your feedback!</description>
+      <guid>46972392</guid>
+      <comments>https://news.ycombinator.com/item?id=46972392</comments>
+      <pubDate>Wed, 11 Feb 2026 08:34:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>A practical guide to observing the night sky for real skies and real equipment</title>
+      <link>https://stargazingbuddy.com/</link>
+      <description>No Text</description>
+      <guid>46990888</guid>
+      <comments>https://news.ycombinator.com/item?id=46990888</comments>
+      <pubDate>Thu, 12 Feb 2026 16:35:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>Zvec: A lightweight, fast, in-process vector database</title>
+      <link>https://github.com/alibaba/zvec</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;zvec.org&amp;#x2F;en&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;zvec.org&amp;#x2F;en&amp;#x2F;&lt;/a&gt;</description>
+      <guid>47000535</guid>
+      <comments>https://news.ycombinator.com/item?id=47000535</comments>
+      <pubDate>Fri, 13 Feb 2026 08:53:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>Guitars of the USSR and the Jolana Special in Azerbaijani Music</title>
+      <link>https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/</link>
+      <description>No Text</description>
+      <guid>47020791</guid>
+      <comments>https://news.ycombinator.com/item?id=47020791</comments>
+      <pubDate>Sun, 15 Feb 2026 03:29:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>uBlock filter list to hide all YouTube Shorts</title>
+      <link>https://github.com/i5heu/ublock-hide-yt-shorts/</link>
+      <description>No Text</description>
+      <guid>47016443</guid>
+      <comments>https://news.ycombinator.com/item?id=47016443</comments>
+      <pubDate>Sat, 14 Feb 2026 17:36:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Interference Pattern Formed in a Finger Gap Is Not Single Slit Diffraction</title>
+      <link>https://note.com/hydraenids/n/nbe89030deaba</link>
+      <description>No Text</description>
+      <guid>46998580</guid>
+      <comments>https://news.ycombinator.com/item?id=46998580</comments>
+      <pubDate>Fri, 13 Feb 2026 03:28:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools</title>
+      <link>https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/</link>
+      <description>No Text</description>
+      <guid>46970733</guid>
+      <comments>https://news.ycombinator.com/item?id=46970733</comments>
+      <pubDate>Wed, 11 Feb 2026 04:12:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>How often do full-body MRIs find cancer?</title>
+      <link>https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/</link>
+      <description>No Text</description>
+      <guid>47008607</guid>
+      <comments>https://news.ycombinator.com/item?id=47008607</comments>
+      <pubDate>Fri, 13 Feb 2026 22:21:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>News publishers limit Internet Archive access due to AI scraping concerns</title>
+      <link>https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/</link>
+      <description>No Text</description>
+      <guid>47017138</guid>
+      <comments>https://news.ycombinator.com/item?id=47017138</comments>
+      <pubDate>Sat, 14 Feb 2026 18:46:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Amsterdam Compiler Kit</title>
+      <link>https://github.com/davidgiven/ack</link>
+      <description>No Text</description>
+      <guid>47016008</guid>
+      <comments>https://news.ycombinator.com/item?id=47016008</comments>
+      <pubDate>Sat, 14 Feb 2026 16:50:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI should build Slack</title>
+      <link>https://www.latent.space/p/ainews-why-openai-should-build-slack</link>
+      <description>No Text</description>
+      <guid>47012553</guid>
+      <comments>https://news.ycombinator.com/item?id=47012553</comments>
+      <pubDate>Sat, 14 Feb 2026 07:50:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Breaking the spell of vibe coding</title>
+      <link>https://www.fast.ai/posts/2026-01-28-dark-flow/</link>
+      <description>No Text</description>
+      <guid>47006615</guid>
+      <comments>https://news.ycombinator.com/item?id=47006615</comments>
+      <pubDate>Fri, 13 Feb 2026 19:22:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>MDST Engine: run GGUF models in the browser with WebGPU/WASM</title>
+      <link>https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser</link>
+      <description>No Text</description>
+      <guid>46975112</guid>
+      <comments>https://news.ycombinator.com/item?id=46975112</comments>
+      <pubDate>Wed, 11 Feb 2026 14:09:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ooh.directory: a place to find good blogs that interest you</title>
+      <link>https://ooh.directory/</link>
+      <description>No Text</description>
+      <guid>47014449</guid>
+      <comments>https://news.ycombinator.com/item?id=47014449</comments>
+      <pubDate>Sat, 14 Feb 2026 13:40:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>The consequences of task switching in supervisory programming</title>
+      <link>https://martinfowler.com/fragments/2026-02-13.html</link>
+      <description>No Text</description>
+      <guid>47005856</guid>
+      <comments>https://news.ycombinator.com/item?id=47005856</comments>
+      <pubDate>Fri, 13 Feb 2026 18:18:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Discord Distances Itself from Peter Thiel's Palantir Age Verification Firm</title>
+      <link>https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951</link>
+      <description>No Text</description>
+      <guid>47021421</guid>
+      <comments>https://news.ycombinator.com/item?id=47021421</comments>
+      <pubDate>Sun, 15 Feb 2026 06:00:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>A review of M Disc archival capability with long term testing results (2016)</title>
+      <link>http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html</link>
+      <description>No Text</description>
+      <guid>47015579</guid>
+      <comments>https://news.ycombinator.com/item?id=47015579</comments>
+      <pubDate>Sat, 14 Feb 2026 16:07:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Seeing Theory</title>
+      <link>https://seeing-theory.brown.edu/</link>
+      <description>No Text</description>
+      <guid>47022067</guid>
+      <comments>https://news.ycombinator.com/item?id=47022067</comments>
+      <pubDate>Sun, 15 Feb 2026 08:40:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Descent, ported to the web</title>
+      <link>https://mrdoob.github.io/three-descent/</link>
+      <description>No Text</description>
+      <guid>47017545</guid>
+      <comments>https://news.ycombinator.com/item?id=47017545</comments>
+      <pubDate>Sat, 14 Feb 2026 19:33:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>NewPipe: YouTube client without vertical videos and algorithmic feed</title>
+      <link>https://newpipe.net/</link>
+      <description>No Text</description>
+      <guid>47020218</guid>
+      <comments>https://news.ycombinator.com/item?id=47020218</comments>
+      <pubDate>Sun, 15 Feb 2026 01:24:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>Flood Fill vs. The Magic Circle</title>
+      <link>https://www.robinsloan.com/winter-garden/magic-circle/</link>
+      <description>No Text</description>
+      <guid>46973299</guid>
+      <comments>https://news.ycombinator.com/item?id=46973299</comments>
+      <pubDate>Wed, 11 Feb 2026 10:31:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Windows NT/OS2 Design Workbook</title>
+      <link>https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/</link>
+      <description>No Text</description>
+      <guid>46968641</guid>
+      <comments>https://news.ycombinator.com/item?id=46968641</comments>
+      <pubDate>Tue, 10 Feb 2026 23:38:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Colored Petri Nets, LLMs, and distributed applications</title>
+      <link>https://blog.sao.dev/cpns-llms-distributed-apps/</link>
+      <description>No Text</description>
+      <guid>47018405</guid>
+      <comments>https://news.ycombinator.com/item?id=47018405</comments>
+      <pubDate>Sat, 14 Feb 2026 21:08:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>A header-only C vector database library</title>
+      <link>https://github.com/abdimoallim/vdb</link>
+      <description>No Text</description>
+      <guid>47016530</guid>
+      <comments>https://news.ycombinator.com/item?id=47016530</comments>
+      <pubDate>Sat, 14 Feb 2026 17:45:09 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
