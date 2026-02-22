@@ -1,0 +1,202 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sun, 22 Feb 2026 06:39:14 -0000</lastBuildDate>
+    <item>
+      <title>How I use Claude Code: Separation of planning and execution</title>
+      <link>https://boristane.com/blog/how-i-use-claude-code/</link>
+      <description>No Text</description>
+      <guid>47106686</guid>
+      <comments>https://news.ycombinator.com/item?id=47106686</comments>
+      <pubDate>Sun, 22 Feb 2026 00:29:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>Japanese Woodblock Print Search</title>
+      <link>https://ukiyo-e.org/</link>
+      <description>No Text</description>
+      <guid>47107781</guid>
+      <comments>https://news.ycombinator.com/item?id=47107781</comments>
+      <pubDate>Sun, 22 Feb 2026 03:18:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU</title>
+      <link>https://github.com/xaskasdf/ntransformer</link>
+      <description>Hi everyone, I&amp;#x27;m kinda involved in some retrogaming and with some experiments I ran into the following question: &amp;quot;It would be possible to run transformer models bypassing the cpu&amp;#x2F;ram, connecting the gpu to the nvme?&amp;quot;&lt;p&gt;This is the result of that question itself and some weekend vibecoding (it has the linked library repository in the readme as well), it seems to work, even on consumer gpus, it should work better on professional ones tho</description>
+      <guid>47104667</guid>
+      <comments>https://news.ycombinator.com/item?id=47104667</comments>
+      <pubDate>Sat, 21 Feb 2026 20:57:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>How Taalas &quot;prints&quot; LLM onto a chip?</title>
+      <link>https://www.anuragk.com/blog/posts/Taalas.html</link>
+      <description>No Text</description>
+      <guid>47103661</guid>
+      <comments>https://news.ycombinator.com/item?id=47103661</comments>
+      <pubDate>Sat, 21 Feb 2026 19:07:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>Two Bits Are Better Than One: making bloom filters 2x more accurate</title>
+      <link>https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate</link>
+      <description>No Text</description>
+      <guid>47046070</guid>
+      <comments>https://news.ycombinator.com/item?id=47046070</comments>
+      <pubDate>Tue, 17 Feb 2026 11:01:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>How far back in time can you understand English?</title>
+      <link>https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english</link>
+      <description>No Text</description>
+      <guid>47061614</guid>
+      <comments>https://news.ycombinator.com/item?id=47061614</comments>
+      <pubDate>Wed, 18 Feb 2026 14:56:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Evidence of the bouba-kiki effect in naïve baby chicks</title>
+      <link>https://www.science.org/doi/10.1126/science.adq7188</link>
+      <description>No Text</description>
+      <guid>47105198</guid>
+      <comments>https://news.ycombinator.com/item?id=47105198</comments>
+      <pubDate>Sat, 21 Feb 2026 21:51:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Gamedate – A site to revive dead multiplayer games</title>
+      <link>https://gamedate.org/</link>
+      <description>No Text</description>
+      <guid>47096167</guid>
+      <comments>https://news.ycombinator.com/item?id=47096167</comments>
+      <pubDate>Sat, 21 Feb 2026 00:44:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Parse, Don't Validate and Type-Driven Design in Rust</title>
+      <link>https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/</link>
+      <description>No Text</description>
+      <guid>47103931</guid>
+      <comments>https://news.ycombinator.com/item?id=47103931</comments>
+      <pubDate>Sat, 21 Feb 2026 19:40:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>Scientists discover recent tectonic activity on the moon</title>
+      <link>https://phys.org/news/2026-02-scientists-tectonic-moon.html</link>
+      <description>No Text</description>
+      <guid>47051709</guid>
+      <comments>https://news.ycombinator.com/item?id=47051709</comments>
+      <pubDate>Tue, 17 Feb 2026 19:13:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>zclaw: personal AI assistant in under 888 KB, running on an ESP32</title>
+      <link>https://github.com/tnm/zclaw</link>
+      <description>No Text</description>
+      <guid>47100232</guid>
+      <comments>https://news.ycombinator.com/item?id=47100232</comments>
+      <pubDate>Sat, 21 Feb 2026 12:37:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>CXMT has been offering DDR4 chips at about half the prevailing market rate</title>
+      <link>https://www.koreaherald.com/article/10679206</link>
+      <description>No Text</description>
+      <guid>47101171</guid>
+      <comments>https://news.ycombinator.com/item?id=47101171</comments>
+      <pubDate>Sat, 21 Feb 2026 14:32:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>Claws are now a new layer on top of LLM agents</title>
+      <link>https://twitter.com/karpathy/status/2024987174077432126</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;xcancel.com&amp;#x2F;karpathy&amp;#x2F;status&amp;#x2F;2024987174077432126&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;xcancel.com&amp;#x2F;karpathy&amp;#x2F;status&amp;#x2F;2024987174077432126&lt;/a&gt;&lt;p&gt;Related: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;simonwillison.net&amp;#x2F;2026&amp;#x2F;Feb&amp;#x2F;21&amp;#x2F;claws&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;simonwillison.net&amp;#x2F;2026&amp;#x2F;Feb&amp;#x2F;21&amp;#x2F;claws&amp;#x2F;&lt;/a&gt;</description>
+      <guid>47096253</guid>
+      <comments>https://news.ycombinator.com/item?id=47096253</comments>
+      <pubDate>Sat, 21 Feb 2026 00:56:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Human Root of Trust – public domain framework for agent accountability</title>
+      <link>https://humanrootoftrust.org/</link>
+      <description>I&amp;#x27;ve spent my career at the intersection of identity, trust, and distributed systems. The thing I keep thinking about: every digital system we&amp;#x27;ve built assumes a human is on the other end. Bank accounts, contracts, API keys — all designed around human singularity.&lt;p&gt;That assumption has already broken. AI agents are transacting, communicating, and signing contracts autonomously — passing identity checks designed for people, with no human visibly in the loop.&lt;p&gt;The Human Root of Trust is my attempt to name the problem and sketch the architecture: three pillars (proof of humanity, hardware-rooted device identity, action attestation), a six-step trust chain from human principal to cryptographic receipt, and two implementation paths.&lt;p&gt;It&amp;#x27;s dedicated to the public domain. No patent. No product. No ask except that whoever picks this up carries the principle forward.&lt;p&gt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;humanrootoftrust.org&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;humanrootoftrust.org&lt;/a&gt;</description>
+      <guid>47100935</guid>
+      <comments>https://news.ycombinator.com/item?id=47100935</comments>
+      <pubDate>Sat, 21 Feb 2026 14:01:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Coccinelle: Source-to-source transformation tool</title>
+      <link>https://github.com/coccinelle/coccinelle</link>
+      <description>No Text</description>
+      <guid>47098669</guid>
+      <comments>https://news.ycombinator.com/item?id=47098669</comments>
+      <pubDate>Sat, 21 Feb 2026 08:26:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>A New Perspective on Drawing Venn Diagrams for Data Visualization</title>
+      <link>https://arxiv.org/abs/2601.06980</link>
+      <description>No Text</description>
+      <guid>47061350</guid>
+      <comments>https://news.ycombinator.com/item?id=47061350</comments>
+      <pubDate>Wed, 18 Feb 2026 14:34:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Canvas_ity: A tiny, single-header &lt;canvas&gt;-like 2D rasterizer for C++</title>
+      <link>https://github.com/a-e-k/canvas_ity</link>
+      <description>No Text</description>
+      <guid>47103506</guid>
+      <comments>https://news.ycombinator.com/item?id=47103506</comments>
+      <pubDate>Sat, 21 Feb 2026 18:50:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>EDuke32 – Duke Nukem 3D (Open-Source)</title>
+      <link>https://www.eduke32.com/</link>
+      <description>No Text</description>
+      <guid>47104185</guid>
+      <comments>https://news.ycombinator.com/item?id=47104185</comments>
+      <pubDate>Sat, 21 Feb 2026 20:10:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>I verified my LinkedIn identity. Here's what I handed over</title>
+      <link>https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/</link>
+      <description>No Text</description>
+      <guid>47098245</guid>
+      <comments>https://news.ycombinator.com/item?id=47098245</comments>
+      <pubDate>Sat, 21 Feb 2026 07:06:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Be wary of Bluesky</title>
+      <link>https://kevinak.se/blog/be-wary-of-bluesky</link>
+      <description>No Text</description>
+      <guid>47095597</guid>
+      <comments>https://news.ycombinator.com/item?id=47095597</comments>
+      <pubDate>Fri, 20 Feb 2026 23:35:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>“Playmakers,” reviewed: The race to give every child a toy</title>
+      <link>https://www.newyorker.com/magazine/2026/02/16/playmakers-the-jewish-entrepreneurs-who-created-the-toy-industry-in-america-michael-kimmel-book-review</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;archive.ph&amp;#x2F;uKuFH&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;archive.ph&amp;#x2F;uKuFH&lt;/a&gt;</description>
+      <guid>47088307</guid>
+      <comments>https://news.ycombinator.com/item?id=47088307</comments>
+      <pubDate>Fri, 20 Feb 2026 14:14:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>Finding forall-exists Hyperbugs using Symbolic Execution</title>
+      <link>https://dl.acm.org/doi/full/10.1145/3689761</link>
+      <description>No Text</description>
+      <guid>47042779</guid>
+      <comments>https://news.ycombinator.com/item?id=47042779</comments>
+      <pubDate>Tue, 17 Feb 2026 01:57:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>What not to write on your security clearance form (1988)</title>
+      <link>https://milk.com/wall-o-shame/security_clearance.html</link>
+      <description>No Text</description>
+      <guid>47102576</guid>
+      <comments>https://news.ycombinator.com/item?id=47102576</comments>
+      <pubDate>Sat, 21 Feb 2026 17:08:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Inputlag.science – Repository of knowledge about input lag in gaming</title>
+      <link>https://inputlag.science</link>
+      <description>No Text</description>
+      <guid>47103945</guid>
+      <comments>https://news.ycombinator.com/item?id=47103945</comments>
+      <pubDate>Sat, 21 Feb 2026 19:41:52 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
