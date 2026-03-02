@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Mon, 02 Mar 2026 01:19:52 -0000</lastBuildDate>
+    <item>
+      <title>How to talk to anyone, and why you should</title>
+      <link>https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should</link>
+      <description>No Text</description>
+      <guid>47142183</guid>
+      <comments>https://news.ycombinator.com/item?id=47142183</comments>
+      <pubDate>Tue, 24 Feb 2026 20:08:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>WebMCP is available for early preview</title>
+      <link>https://developer.chrome.com/blog/webmcp-epp</link>
+      <description>No Text</description>
+      <guid>47211249</guid>
+      <comments>https://news.ycombinator.com/item?id=47211249</comments>
+      <pubDate>Sun, 01 Mar 2026 22:13:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Tove Jansson's criticized illustrations of The Hobbit</title>
+      <link>https://tovejansson.com/hobbit-tolkien/</link>
+      <description>No Text</description>
+      <guid>47182284</guid>
+      <comments>https://news.ycombinator.com/item?id=47182284</comments>
+      <pubDate>Fri, 27 Feb 2026 16:17:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ghostty – Terminal Emulator</title>
+      <link>https://ghostty.org/docs</link>
+      <description>No Text</description>
+      <guid>47206009</guid>
+      <comments>https://news.ycombinator.com/item?id=47206009</comments>
+      <pubDate>Sun, 01 Mar 2026 12:13:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Little Free Library Books</title>
+      <link>https://littlefreelibrary.org/</link>
+      <description>No Text</description>
+      <guid>47211280</guid>
+      <comments>https://news.ycombinator.com/item?id=47211280</comments>
+      <pubDate>Sun, 01 Mar 2026 22:18:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>What Your DNA Reveals about the Sex Life of Neanderthals</title>
+      <link>https://www.nytimes.com/2026/02/26/science/human-evolution-neanderthal-sex.html</link>
+      <description>No Text</description>
+      <guid>47172481</guid>
+      <comments>https://news.ycombinator.com/item?id=47172481</comments>
+      <pubDate>Thu, 26 Feb 2026 21:55:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>When does MCP make sense vs CLI?</title>
+      <link>https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html</link>
+      <description>No Text</description>
+      <guid>47208398</guid>
+      <comments>https://news.ycombinator.com/item?id=47208398</comments>
+      <pubDate>Sun, 01 Mar 2026 16:54:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Microgpt explained interactively</title>
+      <link>https://growingswe.com/blog/microgpt</link>
+      <description>No Text</description>
+      <guid>47205208</guid>
+      <comments>https://news.ycombinator.com/item?id=47205208</comments>
+      <pubDate>Sun, 01 Mar 2026 09:43:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Long Range E-Bike (2021)</title>
+      <link>https://jacquesmattheij.com/long-range-ebike/</link>
+      <description>No Text</description>
+      <guid>47165965</guid>
+      <comments>https://news.ycombinator.com/item?id=47165965</comments>
+      <pubDate>Thu, 26 Feb 2026 13:41:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Chorba: A novel CRC32 implementation (2024)</title>
+      <link>https://arxiv.org/abs/2412.16398</link>
+      <description>No Text</description>
+      <guid>47180140</guid>
+      <comments>https://news.ycombinator.com/item?id=47180140</comments>
+      <pubDate>Fri, 27 Feb 2026 13:12:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Flightradar24 for Ships</title>
+      <link>https://atlas.flexport.com/</link>
+      <description>No Text</description>
+      <guid>47205637</guid>
+      <comments>https://news.ycombinator.com/item?id=47205637</comments>
+      <pubDate>Sun, 01 Mar 2026 11:01:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Allegations of insider trading over prediction-market bets tied to Iran conflict</title>
+      <link>https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict</link>
+      <description>No Text</description>
+      <guid>47211476</guid>
+      <comments>https://news.ycombinator.com/item?id=47211476</comments>
+      <pubDate>Sun, 01 Mar 2026 22:39:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Microgpt</title>
+      <link>http://karpathy.github.io/2026/02/12/microgpt/</link>
+      <description>No Text</description>
+      <guid>47202708</guid>
+      <comments>https://news.ycombinator.com/item?id=47202708</comments>
+      <pubDate>Sun, 01 Mar 2026 01:39:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Are the Mysteries of Quantum Mechanics Beginning to Dissolve?</title>
+      <link>https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/</link>
+      <description>No Text</description>
+      <guid>47210903</guid>
+      <comments>https://news.ycombinator.com/item?id=47210903</comments>
+      <pubDate>Sun, 01 Mar 2026 21:33:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Why XML tags are so fundamental to Claude</title>
+      <link>https://glthr.com/XML-fundamental-to-Claude</link>
+      <description>No Text</description>
+      <guid>47207236</guid>
+      <comments>https://news.ycombinator.com/item?id=47207236</comments>
+      <pubDate>Sun, 01 Mar 2026 14:52:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Python Type Checker Comparison: Empty Container Inference</title>
+      <link>https://pyrefly.org/blog/container-inference-comparison/</link>
+      <description>No Text</description>
+      <guid>47151367</guid>
+      <comments>https://news.ycombinator.com/item?id=47151367</comments>
+      <pubDate>Wed, 25 Feb 2026 13:45:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Interview with Øyvind Kolås, GIMP developer (2017)</title>
+      <link>https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/</link>
+      <description>No Text</description>
+      <guid>47168405</guid>
+      <comments>https://news.ycombinator.com/item?id=47168405</comments>
+      <pubDate>Thu, 26 Feb 2026 16:39:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>I built a demo of what AI chat will look like when it's &quot;free&quot; and ad-supported</title>
+      <link>https://99helpers.com/tools/ad-supported-chat</link>
+      <description>No Text</description>
+      <guid>47205890</guid>
+      <comments>https://news.ycombinator.com/item?id=47205890</comments>
+      <pubDate>Sun, 01 Mar 2026 11:49:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Operational issue – Multiple services (UAE)</title>
+      <link>https://health.aws.amazon.com/health/status</link>
+      <description>No Text</description>
+      <guid>47209781</guid>
+      <comments>https://news.ycombinator.com/item?id=47209781</comments>
+      <pubDate>Sun, 01 Mar 2026 19:24:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Gzpeek: Tool to Parse Gzip Metadata</title>
+      <link>https://evanhahn.com/introducing-gzpeek/</link>
+      <description>No Text</description>
+      <guid>47177700</guid>
+      <comments>https://news.ycombinator.com/item?id=47177700</comments>
+      <pubDate>Fri, 27 Feb 2026 07:39:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>10-202: Introduction to Modern AI (CMU)</title>
+      <link>https://modernaicourse.org</link>
+      <description>No Text</description>
+      <guid>47204559</guid>
+      <comments>https://news.ycombinator.com/item?id=47204559</comments>
+      <pubDate>Sun, 01 Mar 2026 07:35:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Programming in K</title>
+      <link>https://github.com/JohnEarnest/ok/blob/gh-pages/docs/Programming.md</link>
+      <description>No Text</description>
+      <guid>47164608</guid>
+      <comments>https://news.ycombinator.com/item?id=47164608</comments>
+      <pubDate>Thu, 26 Feb 2026 11:27:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Audio Toolkit for Agents</title>
+      <link>https://github.com/shiehn/sas-audio-processor</link>
+      <description>No Text</description>
+      <guid>47207806</guid>
+      <comments>https://news.ycombinator.com/item?id=47207806</comments>
+      <pubDate>Sun, 01 Mar 2026 15:52:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Why does C have the best file API</title>
+      <link>https://maurycyz.com/misc/c_files/</link>
+      <description>No Text</description>
+      <guid>47209788</guid>
+      <comments>https://news.ycombinator.com/item?id=47209788</comments>
+      <pubDate>Sun, 01 Mar 2026 19:25:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>New iron nanomaterial wipes out cancer cells without harming healthy tissue</title>
+      <link>https://www.sciencedaily.com/releases/2026/02/260228093456.htm</link>
+      <description>No Text</description>
+      <guid>47207404</guid>
+      <comments>https://news.ycombinator.com/item?id=47207404</comments>
+      <pubDate>Sun, 01 Mar 2026 15:09:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>How the Government Deceived Congress in the Debate over Surveillance Powers (2013)</title>
+      <link>https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived</link>
+      <description>No Text</description>
+      <guid>47210572</guid>
+      <comments>https://news.ycombinator.com/item?id=47210572</comments>
+      <pubDate>Sun, 01 Mar 2026 20:55:22 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
