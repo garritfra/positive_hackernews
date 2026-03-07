@@ -1,0 +1,226 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 07 Mar 2026 21:15:36 -0000</lastBuildDate>
+    <item>
+      <title>CasNum</title>
+      <link>https://github.com/0x0mer/CasNum</link>
+      <description>No Text</description>
+      <guid>47291292</guid>
+      <comments>https://news.ycombinator.com/item?id=47291292</comments>
+      <pubDate>Sat, 07 Mar 2026 20:43:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>A Decade of Docker Containers</title>
+      <link>https://cacm.acm.org/research/a-decade-of-docker-containers/</link>
+      <description>No Text</description>
+      <guid>47289311</guid>
+      <comments>https://news.ycombinator.com/item?id=47289311</comments>
+      <pubDate>Sat, 07 Mar 2026 16:55:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Dumping Lego NXT firmware off of an existing brick</title>
+      <link>https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html</link>
+      <description>No Text</description>
+      <guid>47271988</guid>
+      <comments>https://news.ycombinator.com/item?id=47271988</comments>
+      <pubDate>Fri, 06 Mar 2026 07:17:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Millisecond That Could Change Cancer Treatment</title>
+      <link>https://spectrum.ieee.org/flash-radiotherapy</link>
+      <description>No Text</description>
+      <guid>47288533</guid>
+      <comments>https://news.ycombinator.com/item?id=47288533</comments>
+      <pubDate>Sat, 07 Mar 2026 15:33:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ki Editor - an editor that operates on the AST</title>
+      <link>https://ki-editor.org/</link>
+      <description>No Text</description>
+      <guid>47286311</guid>
+      <comments>https://news.ycombinator.com/item?id=47286311</comments>
+      <pubDate>Sat, 07 Mar 2026 10:29:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>macOS code injection for fun and no profit (2024)</title>
+      <link>https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/</link>
+      <description>No Text</description>
+      <guid>47250500</guid>
+      <comments>https://news.ycombinator.com/item?id=47250500</comments>
+      <pubDate>Wed, 04 Mar 2026 17:05:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Compiling Prolog to Forth [pdf]</title>
+      <link>https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf</link>
+      <description>No Text</description>
+      <guid>47240169</guid>
+      <comments>https://news.ycombinator.com/item?id=47240169</comments>
+      <pubDate>Tue, 03 Mar 2026 22:45:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>Re-creating the complex cuisine of prehistoric Europeans</title>
+      <link>https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/</link>
+      <description>No Text</description>
+      <guid>47280958</guid>
+      <comments>https://news.ycombinator.com/item?id=47280958</comments>
+      <pubDate>Fri, 06 Mar 2026 20:57:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>Plasma Bigscreen – 10-foot interface for KDE plasma</title>
+      <link>https://plasma-bigscreen.org</link>
+      <description>No Text</description>
+      <guid>47282736</guid>
+      <comments>https://news.ycombinator.com/item?id=47282736</comments>
+      <pubDate>Fri, 06 Mar 2026 23:59:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: ANSI-Saver – A macOS Screensaver</title>
+      <link>https://github.com/lardissone/ansi-saver</link>
+      <description>Hi, I&amp;#x27;ve been working on something I&amp;#x27;ve been thinking for long time but since I had no experience with macOS screen savers I always posponed. Now thanks to Claude I was able to create a screensaver that scroll ANSI files while your computer is idle.&lt;p&gt;It allow to use local ANS files or packs directly from 16colo.rs.&lt;p&gt;Repo: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;lardissone&amp;#x2F;ansi-saver&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;lardissone&amp;#x2F;ansi-saver&lt;/a&gt;</description>
+      <guid>47288007</guid>
+      <comments>https://news.ycombinator.com/item?id=47288007</comments>
+      <pubDate>Sat, 07 Mar 2026 14:34:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>SigNoz (YC W21, open source Datadog) Is Hiring across roles</title>
+      <link>https://signoz.io/careers</link>
+      <description>No Text</description>
+      <guid>47289357</guid>
+      <comments>https://news.ycombinator.com/item?id=47289357</comments>
+      <pubDate>Sat, 07 Mar 2026 17:01:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Bourdieu's theory of taste: a grumbling abrégé (2023)</title>
+      <link>https://dynomight.net/bourdieu/</link>
+      <description>No Text</description>
+      <guid>47260028</guid>
+      <comments>https://news.ycombinator.com/item?id=47260028</comments>
+      <pubDate>Thu, 05 Mar 2026 10:33:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>The yoghurt delivery women combatting loneliness in Japan</title>
+      <link>https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan</link>
+      <description>No Text</description>
+      <guid>47287344</guid>
+      <comments>https://news.ycombinator.com/item?id=47287344</comments>
+      <pubDate>Sat, 07 Mar 2026 13:12:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Filesystems Are Having a Moment</title>
+      <link>https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/</link>
+      <description>No Text</description>
+      <guid>47286408</guid>
+      <comments>https://news.ycombinator.com/item?id=47286408</comments>
+      <pubDate>Sat, 07 Mar 2026 10:48:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Senators Launch Effort Ban Elected Officials Profiting from Prediction Markets</title>
+      <link>https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/</link>
+      <description>No Text</description>
+      <guid>47291406</guid>
+      <comments>https://news.ycombinator.com/item?id=47291406</comments>
+      <pubDate>Sat, 07 Mar 2026 20:55:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>PC processors entered the Gigahertz era today in the year 2000 with AMD's Athlon</title>
+      <link>https://www.tomshardware.com/pc-components/cpus/pc-processors-entered-the-gigahertz-era-today-in-the-year-2000-with-amds-athlon-amd-hit-marketing-gold-with-its-1-ghz-athlon-beat-intel-by-a-nose</link>
+      <description>No Text</description>
+      <guid>47287792</guid>
+      <comments>https://news.ycombinator.com/item?id=47287792</comments>
+      <pubDate>Sat, 07 Mar 2026 14:10:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>UUID package coming to Go standard library</title>
+      <link>https://github.com/golang/go/issues/62026</link>
+      <description>No Text</description>
+      <guid>47283665</guid>
+      <comments>https://news.ycombinator.com/item?id=47283665</comments>
+      <pubDate>Sat, 07 Mar 2026 02:03:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Portrait by Ernst Mach (1886)</title>
+      <link>https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/</link>
+      <description>No Text</description>
+      <guid>47268838</guid>
+      <comments>https://news.ycombinator.com/item?id=47268838</comments>
+      <pubDate>Thu, 05 Mar 2026 23:48:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>this css proves me human</title>
+      <link>https://will-keleher.com/posts/this-css-makes-me-human/</link>
+      <description>No Text</description>
+      <guid>47281593</guid>
+      <comments>https://news.ycombinator.com/item?id=47281593</comments>
+      <pubDate>Fri, 06 Mar 2026 21:52:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Helix: A post-modern text editor</title>
+      <link>https://helix-editor.com/</link>
+      <description>No Text</description>
+      <guid>47282701</guid>
+      <comments>https://news.ycombinator.com/item?id=47282701</comments>
+      <pubDate>Fri, 06 Mar 2026 23:53:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>48x32, a 1536 LED Game Computer (2023)</title>
+      <link>https://jacquesmattheij.com/48x32-introduction/</link>
+      <description>No Text</description>
+      <guid>47255798</guid>
+      <comments>https://news.ycombinator.com/item?id=47255798</comments>
+      <pubDate>Thu, 05 Mar 2026 00:10:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>Tinnitus Is Connected to Sleep</title>
+      <link>https://www.sciencealert.com/tinnitus-is-somehow-connected-to-a-crucial-bodily-function</link>
+      <description>No Text</description>
+      <guid>47287763</guid>
+      <comments>https://news.ycombinator.com/item?id=47287763</comments>
+      <pubDate>Sat, 07 Mar 2026 14:06:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues</title>
+      <link>https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/</link>
+      <description>No Text</description>
+      <guid>47285960</guid>
+      <comments>https://news.ycombinator.com/item?id=47285960</comments>
+      <pubDate>Sat, 07 Mar 2026 09:18:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: µJS, a 5KB alternative to Htmx and Turbo with zero dependencies</title>
+      <link>https://mujs.org</link>
+      <description>I built µJS because I wanted AJAX navigation without the verbosity of HTMX or the overhead of Turbo.&lt;p&gt;It intercepts links and form submissions, fetches pages via AJAX, and swaps fragments of the DOM. Single &amp;lt;script&amp;gt; tag, one call to `mu.init()`. No build step, no dependencies.&lt;p&gt;Key features: patch mode (update multiple fragments in one request), SSE support, DOM morphing via idiomorph, View Transitions, prefetch on hover, polling, and full HTTP verb support on any element.&lt;p&gt;At ~5KB gzipped, it&amp;#x27;s smaller than HTMX (16KB) and Turbo (25KB), and works with any backend: PHP, Python, Go, Ruby, whatever.&lt;p&gt;Playground: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;mujs.org&amp;#x2F;playground&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;mujs.org&amp;#x2F;playground&lt;/a&gt;&lt;p&gt;Comparison with HTMX and Turbo: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;mujs.org&amp;#x2F;comparison&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;mujs.org&amp;#x2F;comparison&lt;/a&gt;&lt;p&gt;About the project creation, why and when: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;mujs.org&amp;#x2F;about&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;mujs.org&amp;#x2F;about&lt;/a&gt;&lt;p&gt;GitHub: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;Digicreon&amp;#x2F;muJS&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;Digicreon&amp;#x2F;muJS&lt;/a&gt;&lt;p&gt;Happy to discuss the project.</description>
+      <guid>47285876</guid>
+      <comments>https://news.ycombinator.com/item?id=47285876</comments>
+      <pubDate>Sat, 07 Mar 2026 08:59:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>Working and Communicating with Japanese Engineers</title>
+      <link>https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers</link>
+      <description>No Text</description>
+      <guid>47233441</guid>
+      <comments>https://news.ycombinator.com/item?id=47233441</comments>
+      <pubDate>Tue, 03 Mar 2026 15:02:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Galileo's handwritten notes found in ancient astronomy text</title>
+      <link>https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text</link>
+      <description>No Text</description>
+      <guid>47263938</guid>
+      <comments>https://news.ycombinator.com/item?id=47263938</comments>
+      <pubDate>Thu, 05 Mar 2026 16:47:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Seurat Most Famous for Paris Park Painting Yet Half His Paintings Were Seascapes</title>
+      <link>https://www.smithsonianmag.com/smart-news/georges-seurat-is-most-famous-for-his-pointillist-painting-of-a-paris-park-but-more-than-half-of-his-canvases-were-stunning-seascapes-180988245/</link>
+      <description>No Text</description>
+      <guid>47236346</guid>
+      <comments>https://news.ycombinator.com/item?id=47236346</comments>
+      <pubDate>Tue, 03 Mar 2026 18:12:06 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
