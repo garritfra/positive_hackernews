@@ -1,0 +1,210 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sun, 22 Mar 2026 21:20:27 -0000</lastBuildDate>
+    <item>
+      <title>We indexed the Delve audit leak: 533 reports, 455 companies, 99.8% identical</title>
+      <link>https://trustcompliance.xyz</link>
+      <description>No Text</description>
+      <guid>47481729</guid>
+      <comments>https://news.ycombinator.com/item?id=47481729</comments>
+      <pubDate>Sun, 22 Mar 2026 20:20:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading</title>
+      <link>https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/</link>
+      <description>No Text</description>
+      <guid>47480507</guid>
+      <comments>https://news.ycombinator.com/item?id=47480507</comments>
+      <pubDate>Sun, 22 Mar 2026 18:23:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Future of Version Control</title>
+      <link>https://bramcohen.com/p/manyana</link>
+      <description>No Text</description>
+      <guid>47478401</guid>
+      <comments>https://news.ycombinator.com/item?id=47478401</comments>
+      <pubDate>Sun, 22 Mar 2026 15:16:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>The gold standard of optimization: A look under the hood of RollerCoaster Tycoon</title>
+      <link>https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/</link>
+      <description>No Text</description>
+      <guid>47480886</guid>
+      <comments>https://news.ycombinator.com/item?id=47480886</comments>
+      <pubDate>Sun, 22 Mar 2026 19:02:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Five Years of Running a Systems Reading Group at Microsoft</title>
+      <link>https://armaansood.com/posts/systems-reading-group/</link>
+      <description>No Text</description>
+      <guid>47479627</guid>
+      <comments>https://news.ycombinator.com/item?id=47479627</comments>
+      <pubDate>Sun, 22 Mar 2026 17:06:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Project Nomad – Knowledge That Never Goes Offline</title>
+      <link>https://www.projectnomad.us</link>
+      <description>No Text</description>
+      <guid>47476821</guid>
+      <comments>https://news.ycombinator.com/item?id=47476821</comments>
+      <pubDate>Sun, 22 Mar 2026 12:28:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Flash-MoE: Running a 397B Parameter Model on a Laptop</title>
+      <link>https://github.com/danveloper/flash-moe</link>
+      <description>No Text</description>
+      <guid>47476422</guid>
+      <comments>https://news.ycombinator.com/item?id=47476422</comments>
+      <pubDate>Sun, 22 Mar 2026 11:30:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>MAUI Is Coming to Linux</title>
+      <link>https://avaloniaui.net/blog/maui-avalonia-preview-1</link>
+      <description>No Text</description>
+      <guid>47478687</guid>
+      <comments>https://news.ycombinator.com/item?id=47478687</comments>
+      <pubDate>Sun, 22 Mar 2026 15:43:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Teaching Claude to QA a mobile app</title>
+      <link>https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html</link>
+      <description>No Text</description>
+      <guid>47480900</guid>
+      <comments>https://news.ycombinator.com/item?id=47480900</comments>
+      <pubDate>Sun, 22 Mar 2026 19:04:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>How to Attract AI Bots to Your Open Source Project</title>
+      <link>https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html</link>
+      <description>No Text</description>
+      <guid>47471271</guid>
+      <comments>https://news.ycombinator.com/item?id=47471271</comments>
+      <pubDate>Sat, 21 Mar 2026 20:58:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Building an FPGA 3dfx Voodoo with Modern RTL Tools</title>
+      <link>https://noquiche.fyi/voodoo</link>
+      <description>No Text</description>
+      <guid>47477284</guid>
+      <comments>https://news.ycombinator.com/item?id=47477284</comments>
+      <pubDate>Sun, 22 Mar 2026 13:24:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Turkish Coffee? Since the 16th Century, It's in the Water</title>
+      <link>https://specialprojects.sprudge.com/?p=868</link>
+      <description>No Text</description>
+      <guid>47414231</guid>
+      <comments>https://news.ycombinator.com/item?id=47414231</comments>
+      <pubDate>Tue, 17 Mar 2026 15:41:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>Vectorization of Verilog Designs and its Effects on Verification and Synthesis</title>
+      <link>https://arxiv.org/abs/2603.17099</link>
+      <description>No Text</description>
+      <guid>47442194</guid>
+      <comments>https://news.ycombinator.com/item?id=47442194</comments>
+      <pubDate>Thu, 19 Mar 2026 16:40:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>Palantir extends reach into British state as gets access to sensitive FCA data</title>
+      <link>https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data</link>
+      <description>No Text</description>
+      <guid>47480200</guid>
+      <comments>https://news.ycombinator.com/item?id=47480200</comments>
+      <pubDate>Sun, 22 Mar 2026 17:56:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>What Young Workers Are Doing to AI-Proof Themselves</title>
+      <link>https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284</link>
+      <description>No Text</description>
+      <guid>47480447</guid>
+      <comments>https://news.ycombinator.com/item?id=47480447</comments>
+      <pubDate>Sun, 22 Mar 2026 18:18:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>More common mistakes to avoid when creating system architecture diagrams</title>
+      <link>https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/</link>
+      <description>No Text</description>
+      <guid>47476562</guid>
+      <comments>https://news.ycombinator.com/item?id=47476562</comments>
+      <pubDate>Sun, 22 Mar 2026 11:51:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>Personal Computing (2022)</title>
+      <link>https://josh8.com/blog/personal_computing.html</link>
+      <description>No Text</description>
+      <guid>47481202</guid>
+      <comments>https://news.ycombinator.com/item?id=47481202</comments>
+      <pubDate>Sun, 22 Mar 2026 19:32:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Why I love NixOS</title>
+      <link>https://www.birkey.co/2026-03-22-why-i-love-nixos.html</link>
+      <description>No Text</description>
+      <guid>47479751</guid>
+      <comments>https://news.ycombinator.com/item?id=47479751</comments>
+      <pubDate>Sun, 22 Mar 2026 17:17:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>A review of dice that came with the white castle</title>
+      <link>https://boardgamegeek.com/thread/3533812/a-review-of-dice-that-came-with-the-white-castle</link>
+      <description>No Text</description>
+      <guid>47435783</guid>
+      <comments>https://news.ycombinator.com/item?id=47435783</comments>
+      <pubDate>Thu, 19 Mar 2026 06:47:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>The IBM scientist who rewrote the rules of information just won a Turing Award</title>
+      <link>https://www.ibm.com/think/news/ibm-scientist-charles-bennett-turing-award</link>
+      <description>No Text</description>
+      <guid>47476566</guid>
+      <comments>https://news.ycombinator.com/item?id=47476566</comments>
+      <pubDate>Sun, 22 Mar 2026 11:53:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>25 Years of Eggs</title>
+      <link>https://www.john-rush.com/posts/eggs-25-years-20260219.html</link>
+      <description>No Text</description>
+      <guid>47427224</guid>
+      <comments>https://news.ycombinator.com/item?id=47427224</comments>
+      <pubDate>Wed, 18 Mar 2026 15:44:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>A case against currying</title>
+      <link>https://emi-h.com/articles/a-case-against-currying.html</link>
+      <description>No Text</description>
+      <guid>47477090</guid>
+      <comments>https://news.ycombinator.com/item?id=47477090</comments>
+      <pubDate>Sun, 22 Mar 2026 13:03:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>Zero ZGC4: A Better Graphing Calculator for School and Beyond</title>
+      <link>https://www.zerocalculators.com/features</link>
+      <description>No Text</description>
+      <guid>47416149</guid>
+      <comments>https://news.ycombinator.com/item?id=47416149</comments>
+      <pubDate>Tue, 17 Mar 2026 18:07:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>Learnings from training a font recognition model from scratch</title>
+      <link>https://www.mixfont.com/blog/learnings-from-training-a-font-recognition-model-from-scratch</link>
+      <description>No Text</description>
+      <guid>47417707</guid>
+      <comments>https://news.ycombinator.com/item?id=47417707</comments>
+      <pubDate>Tue, 17 Mar 2026 20:16:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>My first patch to the Linux kernel</title>
+      <link>https://pooladkhay.com/posts/first-kernel-patch/</link>
+      <description>No Text</description>
+      <guid>47444909</guid>
+      <comments>https://news.ycombinator.com/item?id=47444909</comments>
+      <pubDate>Thu, 19 Mar 2026 19:51:07 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
