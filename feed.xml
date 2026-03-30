@@ -1,0 +1,231 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Mon, 30 Mar 2026 01:46:42 -0000</lastBuildDate>
+    <item>
+      <title>Claude Code runs Git reset –hard origin/main against project repo every 10 mins</title>
+      <link>https://github.com/anthropics/claude-code/issues/40710</link>
+      <description>No Text</description>
+      <guid>47567969</guid>
+      <comments>https://news.ycombinator.com/item?id=47567969</comments>
+      <pubDate>Sun, 29 Mar 2026 22:15:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>Voyager 1 runs on 69 KB of memory and an 8-track tape recorder</title>
+      <link>https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/</link>
+      <description>No Text</description>
+      <guid>47564421</guid>
+      <comments>https://news.ycombinator.com/item?id=47564421</comments>
+      <pubDate>Sun, 29 Mar 2026 16:12:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Something unexpected: Sunbathers live longer</title>
+      <link>https://www.health.harvard.edu/blog/heres-something-unexpected-sunbathers-live-longer-201606069738</link>
+      <description>No Text</description>
+      <guid>47569290</guid>
+      <comments>https://news.ycombinator.com/item?id=47569290</comments>
+      <pubDate>Mon, 30 Mar 2026 01:10:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT won't let you type until Cloudflare reads your React state</title>
+      <link>https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/</link>
+      <description>No Text</description>
+      <guid>47566865</guid>
+      <comments>https://news.ycombinator.com/item?id=47566865</comments>
+      <pubDate>Sun, 29 Mar 2026 20:21:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>15 Years of Forking</title>
+      <link>https://www.waterfox.com/blog/15-years-of-forking/</link>
+      <description>No Text</description>
+      <guid>47545607</guid>
+      <comments>https://news.ycombinator.com/item?id=47545607</comments>
+      <pubDate>Fri, 27 Mar 2026 17:22:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>There is No Spoon. A software engineers primer for demystified ML</title>
+      <link>https://github.com/dreddnafious/thereisnospoon</link>
+      <description>No Text</description>
+      <guid>47568080</guid>
+      <comments>https://news.ycombinator.com/item?id=47568080</comments>
+      <pubDate>Sun, 29 Mar 2026 22:28:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>Midnight train from GA: A view of America from the tracks as airports struggle</title>
+      <link>https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a</link>
+      <description>No Text</description>
+      <guid>47566653</guid>
+      <comments>https://news.ycombinator.com/item?id=47566653</comments>
+      <pubDate>Sun, 29 Mar 2026 20:00:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Pretext: TypeScript library for multiline text measurement and layout</title>
+      <link>https://github.com/chenglou/pretext</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;x.com&amp;#x2F;_chenglou&amp;#x2F;status&amp;#x2F;2037713766205608234&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;x.com&amp;#x2F;_chenglou&amp;#x2F;status&amp;#x2F;2037713766205608234&lt;/a&gt;, &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;xcancel.com&amp;#x2F;_chenglou&amp;#x2F;status&amp;#x2F;2037713766205608234&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;xcancel.com&amp;#x2F;_chenglou&amp;#x2F;status&amp;#x2F;2037713766205608234&lt;/a&gt;&lt;p&gt;Demos: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;chenglou.me&amp;#x2F;pretext&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;chenglou.me&amp;#x2F;pretext&amp;#x2F;&lt;/a&gt;, &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;somnai-dreams.github.io&amp;#x2F;pretext-demos&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;somnai-dreams.github.io&amp;#x2F;pretext-demos&amp;#x2F;&lt;/a&gt;&lt;p&gt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;kevinho.com&amp;#x2F;experiments&amp;#x2F;biomap&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;kevinho.com&amp;#x2F;experiments&amp;#x2F;biomap&amp;#x2F;&lt;/a&gt;</description>
+      <guid>47556290</guid>
+      <comments>https://news.ycombinator.com/item?id=47556290</comments>
+      <pubDate>Sat, 28 Mar 2026 16:52:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>The road signs that teach travellers about France</title>
+      <link>https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france</link>
+      <description>No Text</description>
+      <guid>47566960</guid>
+      <comments>https://news.ycombinator.com/item?id=47566960</comments>
+      <pubDate>Sun, 29 Mar 2026 20:30:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>I'll buy your electronics to feed our robot</title>
+      <link>https://www.dayworkx.com/</link>
+      <description>No Text</description>
+      <guid>47534812</guid>
+      <comments>https://news.ycombinator.com/item?id=47534812</comments>
+      <pubDate>Thu, 26 Mar 2026 19:45:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>About the Atmosphere</title>
+      <link>https://toni.org/2026/03/27/about-the-atmosphere/</link>
+      <description>No Text</description>
+      <guid>47549586</guid>
+      <comments>https://news.ycombinator.com/item?id=47549586</comments>
+      <pubDate>Fri, 27 Mar 2026 23:10:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ohm's Peg-to-WASM Compiler</title>
+      <link>https://ohmjs.org/blog/2026/03/12/peg-to-wasm</link>
+      <description>No Text</description>
+      <guid>47539165</guid>
+      <comments>https://news.ycombinator.com/item?id=47539165</comments>
+      <pubDate>Fri, 27 Mar 2026 04:41:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>Coding Agents Could Make Free Software Matter Again</title>
+      <link>https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/</link>
+      <description>No Text</description>
+      <guid>47568028</guid>
+      <comments>https://news.ycombinator.com/item?id=47568028</comments>
+      <pubDate>Sun, 29 Mar 2026 22:21:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>C++26 is done ISO C++ standards meeting, Trip Report</title>
+      <link>https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/</link>
+      <description>No Text</description>
+      <guid>47565365</guid>
+      <comments>https://news.ycombinator.com/item?id=47565365</comments>
+      <pubDate>Sun, 29 Mar 2026 17:46:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>The RISE RISC-V Runners: free, native RISC-V CI on GitHub</title>
+      <link>https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/</link>
+      <description>No Text</description>
+      <guid>47531576</guid>
+      <comments>https://news.ycombinator.com/item?id=47531576</comments>
+      <pubDate>Thu, 26 Mar 2026 15:17:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>More on Version Control</title>
+      <link>https://bramcohen.com/p/more-on-version-control</link>
+      <description>No Text</description>
+      <guid>47566332</guid>
+      <comments>https://news.ycombinator.com/item?id=47566332</comments>
+      <pubDate>Sun, 29 Mar 2026 19:26:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Neovim 0.12.0</title>
+      <link>https://github.com/neovim/neovim/releases/tag/v0.12.0</link>
+      <description>No Text</description>
+      <guid>47565316</guid>
+      <comments>https://news.ycombinator.com/item?id=47565316</comments>
+      <pubDate>Sun, 29 Mar 2026 17:39:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes</title>
+      <link>https://github.com/elixir-volt/quickbeam</link>
+      <description>QuickBEAM is a JavaScript runtime embedded inside the Erlang&amp;#x2F;OTP VM.&lt;p&gt;If you’re building a full-stack app, JavaScript tends to leak in anyway — frontend, SSR, or third-party code.&lt;p&gt;QuickBEAM runs that JavaScript inside OTP supervision trees.&lt;p&gt;Each runtime is a process with a `Beam` global that can:
+- call Elixir code
+- send&amp;#x2F;receive messages
+- spawn and monitor processes
+- inspect runtime&amp;#x2F;system state&lt;p&gt;It also provides browser-style APIs backed by OTP&amp;#x2F;native primitives (fetch, WebSocket, Worker, BroadcastChannel, localStorage, native DOM, etc.).&lt;p&gt;This makes it usable for:
+- SSR
+- sandboxed user code
+- per-connection state
+- backend JS with direct OTP interop&lt;p&gt;Notable bits:&lt;p&gt;- JS runtimes are supervised and restartable
+- sandboxing with memory&amp;#x2F;reduction limits and API control
+- native DOM that Erlang can read directly (no string rendering step)
+- no JSON boundary between JS and Erlang
+- built-in TypeScript, npm support, and native addons&lt;p&gt;QuickBEAM is part of Elixir Volt — a full-stack frontend toolchain built on Erlang&amp;#x2F;OTP with no Node.js.&lt;p&gt;Still early, feedback welcome.</description>
+      <guid>47558094</guid>
+      <comments>https://news.ycombinator.com/item?id=47558094</comments>
+      <pubDate>Sat, 28 Mar 2026 21:03:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Creating West Coast Buddhism (2024)</title>
+      <link>https://letter.palladiummag.com/p/creating-west-coast-buddhism</link>
+      <description>No Text</description>
+      <guid>47530670</guid>
+      <comments>https://news.ycombinator.com/item?id=47530670</comments>
+      <pubDate>Thu, 26 Mar 2026 14:08:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history</title>
+      <link>https://www.righto.com/2026/03/ibm-4-pi-computer-history.html</link>
+      <description>No Text</description>
+      <guid>47564579</guid>
+      <comments>https://news.ycombinator.com/item?id=47564579</comments>
+      <pubDate>Sun, 29 Mar 2026 16:26:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>LinkedIn uses 2.4 GB RAM across two tabs</title>
+      <link>https://news.ycombinator.com/item?id=47561489</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;ibb.co&amp;#x2F;fYQVfMWp&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;ibb.co&amp;#x2F;fYQVfMWp&lt;/a&gt;
+&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;ibb.co&amp;#x2F;MyTNnrGQ&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;ibb.co&amp;#x2F;MyTNnrGQ&lt;/a&gt;</description>
+      <guid>47561489</guid>
+      <comments>https://news.ycombinator.com/item?id=47561489</comments>
+      <pubDate>Sun, 29 Mar 2026 08:58:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Nitrile and latex gloves may cause overestimation of microplastics</title>
+      <link>https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/</link>
+      <description>No Text</description>
+      <guid>47561711</guid>
+      <comments>https://news.ycombinator.com/item?id=47561711</comments>
+      <pubDate>Sun, 29 Mar 2026 09:46:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Kyushu Railway Company Train Varieties</title>
+      <link>https://www.jrkyushu.co.jp/english/train/index.html</link>
+      <description>No Text</description>
+      <guid>47566140</guid>
+      <comments>https://news.ycombinator.com/item?id=47566140</comments>
+      <pubDate>Sun, 29 Mar 2026 19:08:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust</title>
+      <link>https://github.com/DavidHavoc/ayaFlow</link>
+      <description>No Text</description>
+      <guid>47563978</guid>
+      <comments>https://news.ycombinator.com/item?id=47563978</comments>
+      <pubDate>Sun, 29 Mar 2026 15:28:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Full network of clitoral nerves mapped out for first time</title>
+      <link>https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery</link>
+      <description>No Text</description>
+      <guid>47564245</guid>
+      <comments>https://news.ycombinator.com/item?id=47564245</comments>
+      <pubDate>Sun, 29 Mar 2026 15:54:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>Observations from carbon dioxide monitoring</title>
+      <link>https://grieve-smith.com/ftn/2026/03/nine-observations-from-carbon-dioxide-monitoring/</link>
+      <description>No Text</description>
+      <guid>47542142</guid>
+      <comments>https://news.ycombinator.com/item?id=47542142</comments>
+      <pubDate>Fri, 27 Mar 2026 12:56:31 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
