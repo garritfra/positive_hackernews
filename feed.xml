@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Mon, 06 Apr 2026 05:18:14 -0000</lastBuildDate>
+    <item>
+      <title>Show HN: I built a tiny LLM to demystify how language models work</title>
+      <link>https://github.com/arman-bd/guppylm</link>
+      <description>Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks the meaning of life is food.&lt;p&gt;Fork it and swap the personality for your own character.</description>
+      <guid>47655408</guid>
+      <comments>https://news.ycombinator.com/item?id=47655408</comments>
+      <pubDate>Mon, 06 Apr 2026 00:20:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Gemma 4 on iPhone</title>
+      <link>https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337</link>
+      <description>No Text</description>
+      <guid>47652561</guid>
+      <comments>https://news.ycombinator.com/item?id=47652561</comments>
+      <pubDate>Sun, 05 Apr 2026 18:45:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Copilot is 'for entertainment purposes only', per Microsoft's terms of use</title>
+      <link>https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/</link>
+      <description>No Text</description>
+      <guid>47655329</guid>
+      <comments>https://news.ycombinator.com/item?id=47655329</comments>
+      <pubDate>Mon, 06 Apr 2026 00:07:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>An open-source 240-antenna array to bounce signals off the Moon</title>
+      <link>https://moonrf.com/</link>
+      <description>No Text</description>
+      <guid>47656622</guid>
+      <comments>https://news.ycombinator.com/item?id=47656622</comments>
+      <pubDate>Mon, 06 Apr 2026 03:22:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>The 1987 game &quot;The Last Ninja&quot; was 40 kilobytes</title>
+      <link>https://twitter.com/exQUIZitely/status/2040777977521398151</link>
+      <description>No Text</description>
+      <guid>47656501</guid>
+      <comments>https://news.ycombinator.com/item?id=47656501</comments>
+      <pubDate>Mon, 06 Apr 2026 03:03:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>LÖVE: 2D Game Framework for Lua</title>
+      <link>https://github.com/love2d/love</link>
+      <description>No Text</description>
+      <guid>47637377</guid>
+      <comments>https://news.ycombinator.com/item?id=47637377</comments>
+      <pubDate>Sat, 04 Apr 2026 09:20:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>Eight years of wanting, three months of building with AI</title>
+      <link>https://lalitm.com/post/building-syntaqlite-ai/</link>
+      <description>No Text</description>
+      <guid>47648828</guid>
+      <comments>https://news.ycombinator.com/item?id=47648828</comments>
+      <pubDate>Sun, 05 Apr 2026 12:43:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>Artemis II crew see first glimpse of far side of Moon [video]</title>
+      <link>https://www.bbc.com/news/videos/ce3d5gkd2geo</link>
+      <description>No Text</description>
+      <guid>47649721</guid>
+      <comments>https://news.ycombinator.com/item?id=47649721</comments>
+      <pubDate>Sun, 05 Apr 2026 14:18:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud</title>
+      <link>https://github.com/kessler/gemma-gem</link>
+      <description>Gemma Gem is a Chrome extension that loads Google&amp;#x27;s Gemma 4 (2B) through WebGPU in an offscreen document and gives it tools to interact with any webpage: read content, take screenshots, click elements, type text, scroll, and run JavaScript.&lt;p&gt;You get a small chat overlay on every page. Ask it about the page and it (usually) figures out which tools to call. It has a thinking mode that shows chain-of-thought reasoning as it works.&lt;p&gt;It&amp;#x27;s a 2B model in a browser. It works for simple page questions and running JavaScript, but multi-step tool chains are unreliable and it sometimes ignores its tools entirely. The agent loop has zero external dependencies and can be extracted as a standalone library if anyone wants to experiment with it.</description>
+      <guid>47655367</guid>
+      <comments>https://news.ycombinator.com/item?id=47655367</comments>
+      <pubDate>Mon, 06 Apr 2026 00:14:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice</title>
+      <link>https://github.com/mikf/gallery-dl/discussions/9304</link>
+      <description>No Text</description>
+      <guid>47656659</guid>
+      <comments>https://news.ycombinator.com/item?id=47656659</comments>
+      <pubDate>Mon, 06 Apr 2026 03:28:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>Winners of the 2026 Kokuyo Design Awards</title>
+      <link>https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/</link>
+      <description>No Text</description>
+      <guid>47656682</guid>
+      <comments>https://news.ycombinator.com/item?id=47656682</comments>
+      <pubDate>Mon, 06 Apr 2026 03:32:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Case study: recovery of a corrupted 12 TB multi-device pool</title>
+      <link>https://github.com/kdave/btrfs-progs/issues/1107</link>
+      <description>No Text</description>
+      <guid>47656303</guid>
+      <comments>https://news.ycombinator.com/item?id=47656303</comments>
+      <pubDate>Mon, 06 Apr 2026 02:28:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code</title>
+      <link>https://ai.georgeliu.com/p/running-google-gemma-4-locally-with</link>
+      <description>No Text</description>
+      <guid>47651540</guid>
+      <comments>https://news.ycombinator.com/item?id=47651540</comments>
+      <pubDate>Sun, 05 Apr 2026 17:13:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>Employers use your personal data to figure out the lowest salary you'll accept</title>
+      <link>https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb</link>
+      <description>No Text</description>
+      <guid>47655466</guid>
+      <comments>https://news.ycombinator.com/item?id=47655466</comments>
+      <pubDate>Mon, 06 Apr 2026 00:29:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf</title>
+      <link>https://github.com/mohshomis/modo</link>
+      <description>No Text</description>
+      <guid>47655268</guid>
+      <comments>https://news.ycombinator.com/item?id=47655268</comments>
+      <pubDate>Sun, 05 Apr 2026 23:59:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>Signals, the push-pull based algorithm</title>
+      <link>https://willybrauner.com/journal/signal-the-push-pull-based-algorithm</link>
+      <description>No Text</description>
+      <guid>47637116</guid>
+      <comments>https://news.ycombinator.com/item?id=47637116</comments>
+      <pubDate>Sat, 04 Apr 2026 08:31:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>We replaced Node.js with Bun for 5x throughput</title>
+      <link>https://trigger.dev/blog/firebun</link>
+      <description>No Text</description>
+      <guid>47656114</guid>
+      <comments>https://news.ycombinator.com/item?id=47656114</comments>
+      <pubDate>Mon, 06 Apr 2026 01:57:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>Rendering arbitrary-scale emojis using the Slug algorithm</title>
+      <link>https://leduyquang753.name.vn/blog/2026/4/4/rendering-arbitrary-scale-emojis-using-the-slug-algorithm</link>
+      <description>No Text</description>
+      <guid>47638043</guid>
+      <comments>https://news.ycombinator.com/item?id=47638043</comments>
+      <pubDate>Sat, 04 Apr 2026 11:18:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Why Switzerland has 25 Gbit internet and America doesn't</title>
+      <link>https://sschueller.github.io/posts/the-free-market-lie/</link>
+      <description>No Text</description>
+      <guid>47652400</guid>
+      <comments>https://news.ycombinator.com/item?id=47652400</comments>
+      <pubDate>Sun, 05 Apr 2026 18:29:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>Usenet Archives</title>
+      <link>https://usenetarchives.com</link>
+      <description>No Text</description>
+      <guid>47655905</guid>
+      <comments>https://news.ycombinator.com/item?id=47655905</comments>
+      <pubDate>Mon, 06 Apr 2026 01:33:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Sheets Spreadsheets in Your Terminal</title>
+      <link>https://github.com/maaslalani/sheets</link>
+      <description>No Text</description>
+      <guid>47636456</guid>
+      <comments>https://news.ycombinator.com/item?id=47636456</comments>
+      <pubDate>Sat, 04 Apr 2026 06:34:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Music for Programming</title>
+      <link>https://musicforprogramming.net</link>
+      <description>No Text</description>
+      <guid>47652322</guid>
+      <comments>https://news.ycombinator.com/item?id=47652322</comments>
+      <pubDate>Sun, 05 Apr 2026 18:23:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Mechanics of Steins Gate (2023) [pdf]</title>
+      <link>https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf</link>
+      <description>No Text</description>
+      <guid>47654171</guid>
+      <comments>https://news.ycombinator.com/item?id=47654171</comments>
+      <pubDate>Sun, 05 Apr 2026 21:42:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Computational Physics (2nd Edition) (2025)</title>
+      <link>https://websites.umich.edu/~mejn/cp2/</link>
+      <description>No Text</description>
+      <guid>47650502</guid>
+      <comments>https://news.ycombinator.com/item?id=47650502</comments>
+      <pubDate>Sun, 05 Apr 2026 15:38:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>A tail-call interpreter in (nightly) Rust</title>
+      <link>https://www.mattkeeter.com/blog/2026-04-05-tailcall/</link>
+      <description>No Text</description>
+      <guid>47650312</guid>
+      <comments>https://news.ycombinator.com/item?id=47650312</comments>
+      <pubDate>Sun, 05 Apr 2026 15:18:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Stamp It All Programs Must Report Their Version – Michael Stapelberg</title>
+      <link>https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/</link>
+      <description>No Text</description>
+      <guid>47655978</guid>
+      <comments>https://news.ycombinator.com/item?id=47655978</comments>
+      <pubDate>Mon, 06 Apr 2026 01:42:27 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
