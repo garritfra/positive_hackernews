@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Tue, 05 May 2026 02:03:37 -0000</lastBuildDate>
+    <item>
+      <title>Bun is being ported from Zig to Rust</title>
+      <link>https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5</link>
+      <description>No Text</description>
+      <guid>48016880</guid>
+      <comments>https://news.ycombinator.com/item?id=48016880</comments>
+      <pubDate>Tue, 05 May 2026 01:08:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>How OpenAI delivers low-latency voice AI at scale</title>
+      <link>https://openai.com/index/delivering-low-latency-voice-ai-at-scale/</link>
+      <description>No Text</description>
+      <guid>48013919</guid>
+      <comments>https://news.ycombinator.com/item?id=48013919</comments>
+      <pubDate>Mon, 04 May 2026 19:42:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>Talking to strangers at the gym</title>
+      <link>https://thienantran.com/talking-to-35-strangers-at-the-gym/</link>
+      <description>No Text</description>
+      <guid>48007438</guid>
+      <comments>https://news.ycombinator.com/item?id=48007438</comments>
+      <pubDate>Mon, 04 May 2026 11:41:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Agent Skills</title>
+      <link>https://addyosmani.com/blog/agent-skills/</link>
+      <description>No Text</description>
+      <guid>48015397</guid>
+      <comments>https://news.ycombinator.com/item?id=48015397</comments>
+      <pubDate>Mon, 04 May 2026 21:40:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>Securing a DoD contractor: Finding a multi-tenant authorization vulnerability</title>
+      <link>https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup</link>
+      <description>No Text</description>
+      <guid>48012162</guid>
+      <comments>https://news.ycombinator.com/item?id=48012162</comments>
+      <pubDate>Mon, 04 May 2026 17:46:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Testing macOS on the Apple Network Server 2.0 ROMs</title>
+      <link>http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html</link>
+      <description>No Text</description>
+      <guid>47998158</guid>
+      <comments>https://news.ycombinator.com/item?id=47998158</comments>
+      <pubDate>Sun, 03 May 2026 15:49:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks</title>
+      <link>https://www.nber.org/papers/w35117</link>
+      <description>No Text</description>
+      <guid>48009983</guid>
+      <comments>https://news.ycombinator.com/item?id=48009983</comments>
+      <pubDate>Mon, 04 May 2026 15:32:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Redis array: short story of a long development process</title>
+      <link>https://antirez.com/news/164</link>
+      <description>No Text</description>
+      <guid>48009172</guid>
+      <comments>https://news.ycombinator.com/item?id=48009172</comments>
+      <pubDate>Mon, 04 May 2026 14:23:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Edge stores all passwords in memory in clear text, even when unused</title>
+      <link>https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730</link>
+      <description>No Text</description>
+      <guid>48012735</guid>
+      <comments>https://news.ycombinator.com/item?id=48012735</comments>
+      <pubDate>Mon, 04 May 2026 18:22:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>I am worried about Bun</title>
+      <link>https://wwj.dev/posts/i-am-worried-about-bun/</link>
+      <description>No Text</description>
+      <guid>48011184</guid>
+      <comments>https://news.ycombinator.com/item?id=48011184</comments>
+      <pubDate>Mon, 04 May 2026 16:45:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'</title>
+      <link>https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/</link>
+      <description>No Text</description>
+      <guid>48009840</guid>
+      <comments>https://news.ycombinator.com/item?id=48009840</comments>
+      <pubDate>Mon, 04 May 2026 15:22:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>UK Fuel Price Intelligence – Market analytics from reporting stations</title>
+      <link>https://www.fuelinsight.co.uk</link>
+      <description>No Text</description>
+      <guid>48009747</guid>
+      <comments>https://news.ycombinator.com/item?id=48009747</comments>
+      <pubDate>Mon, 04 May 2026 15:15:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>How Monero’s proof of work works</title>
+      <link>https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works</link>
+      <description>No Text</description>
+      <guid>48009020</guid>
+      <comments>https://news.ycombinator.com/item?id=48009020</comments>
+      <pubDate>Mon, 04 May 2026 14:10:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Pomiferous: The most extensive apples (pommes) database</title>
+      <link>https://pomiferous.com/</link>
+      <description>No Text</description>
+      <guid>48009441</guid>
+      <comments>https://news.ycombinator.com/item?id=48009441</comments>
+      <pubDate>Mon, 04 May 2026 14:47:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Transformers Are Inherently Succinct (2025)</title>
+      <link>https://arxiv.org/abs/2510.19315</link>
+      <description>No Text</description>
+      <guid>48014197</guid>
+      <comments>https://news.ycombinator.com/item?id=48014197</comments>
+      <pubDate>Mon, 04 May 2026 20:03:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Jonathan Swift's Last Joke</title>
+      <link>https://www.newyorker.com/culture/the-weekend-essay/jonathan-swifts-last-joke</link>
+      <description>No Text</description>
+      <guid>47989594</guid>
+      <comments>https://news.ycombinator.com/item?id=47989594</comments>
+      <pubDate>Sat, 02 May 2026 19:27:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>PyInfra 3.8.0</title>
+      <link>https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0</link>
+      <description>No Text</description>
+      <guid>48008083</guid>
+      <comments>https://news.ycombinator.com/item?id=48008083</comments>
+      <pubDate>Mon, 04 May 2026 12:53:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Formatting a 25M-line codebase overnight</title>
+      <link>https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story</link>
+      <description>No Text</description>
+      <guid>48014325</guid>
+      <comments>https://news.ycombinator.com/item?id=48014325</comments>
+      <pubDate>Mon, 04 May 2026 20:11:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>GameStop makes $55.5B takeover offer for eBay</title>
+      <link>https://www.bbc.co.uk/news/articles/cn0p8yled1do</link>
+      <description>No Text</description>
+      <guid>48006402</guid>
+      <comments>https://news.ycombinator.com/item?id=48006402</comments>
+      <pubDate>Mon, 04 May 2026 09:31:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>US healthcare marketplaces shared citizenship and race data with ad tech giants</title>
+      <link>https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/</link>
+      <description>No Text</description>
+      <guid>48011689</guid>
+      <comments>https://news.ycombinator.com/item?id=48011689</comments>
+      <pubDate>Mon, 04 May 2026 17:16:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Sierra Raises $950M at $15B Valuation</title>
+      <link>https://sierra.ai/blog/better-customer-experiences-built-on-sierra</link>
+      <description>No Text</description>
+      <guid>48010266</guid>
+      <comments>https://news.ycombinator.com/item?id=48010266</comments>
+      <pubDate>Mon, 04 May 2026 15:51:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: nfsdiag – A NFS diagnostic application</title>
+      <link>https://github.com/lsferreira42/nfsdiag</link>
+      <description>No Text</description>
+      <guid>47985958</guid>
+      <comments>https://news.ycombinator.com/item?id=47985958</comments>
+      <pubDate>Sat, 02 May 2026 12:48:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: I Built a Museum Exhibit</title>
+      <link>https://knhash.in/built-an-exhibit/</link>
+      <description>No Text</description>
+      <guid>47990528</guid>
+      <comments>https://news.ycombinator.com/item?id=47990528</comments>
+      <pubDate>Sat, 02 May 2026 21:07:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Visible Zorker: Zork 3</title>
+      <link>https://eblong.com/infocom/visi/zork3/</link>
+      <description>No Text</description>
+      <guid>48011440</guid>
+      <comments>https://news.ycombinator.com/item?id=48011440</comments>
+      <pubDate>Mon, 04 May 2026 16:59:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Heat pump sales rise across Europe</title>
+      <link>https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/</link>
+      <description>No Text</description>
+      <guid>48012003</guid>
+      <comments>https://news.ycombinator.com/item?id=48012003</comments>
+      <pubDate>Mon, 04 May 2026 17:35:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Buffon's needle problem visualized</title>
+      <link>https://ivanludvig.dev/pi-needle/</link>
+      <description>No Text</description>
+      <guid>47991645</guid>
+      <comments>https://news.ycombinator.com/item?id=47991645</comments>
+      <pubDate>Sat, 02 May 2026 23:34:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>SprintiQ – open-source sprint planning for Claude Code</title>
+      <link>https://github.com/SprintiQ-Incorporated/sprintiq</link>
+      <description>No Text</description>
+      <guid>48016016</guid>
+      <comments>https://news.ycombinator.com/item?id=48016016</comments>
+      <pubDate>Mon, 04 May 2026 22:52:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Newton's law of gravity passes its biggest test</title>
+      <link>https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever</link>
+      <description>No Text</description>
+      <guid>48008074</guid>
+      <comments>https://news.ycombinator.com/item?id=48008074</comments>
+      <pubDate>Mon, 04 May 2026 12:52:57 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
