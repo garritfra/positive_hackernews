@@ -1,0 +1,253 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Thu, 02 Jul 2026 06:34:23 -0000</lastBuildDate>
+    <item>
+      <title>ZCode – Harness for GLM-5.2</title>
+      <link>https://zcode.z.ai/en</link>
+      <description>No Text</description>
+      <guid>48753715</guid>
+      <comments>https://news.ycombinator.com/item?id=48753715</comments>
+      <pubDate>Wed, 01 Jul 2026 22:03:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Oomwoo, an open-source robot vacuum you build yourself</title>
+      <link>https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/</link>
+      <description>No Text</description>
+      <guid>48755005</guid>
+      <comments>https://news.ycombinator.com/item?id=48755005</comments>
+      <pubDate>Thu, 02 Jul 2026 00:48:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>For first time, a cell built from scratch grows and divides</title>
+      <link>https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;biotic.org&amp;#x2F;research&amp;#x2F;spudcell&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;biotic.org&amp;#x2F;research&amp;#x2F;spudcell&amp;#x2F;&lt;/a&gt;&lt;p&gt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.science.org&amp;#x2F;content&amp;#x2F;article&amp;#x2F;lab-created-spudcell-marks-major-step-toward-building-life-scratch&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.science.org&amp;#x2F;content&amp;#x2F;article&amp;#x2F;lab-created-spudcell...&lt;/a&gt;&lt;p&gt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.nytimes.com&amp;#x2F;interactive&amp;#x2F;2026&amp;#x2F;07&amp;#x2F;01&amp;#x2F;science&amp;#x2F;spudcells-synthetic-cell.html?unlocked_article_code=1.uVA.6Rwg.20U5t0kLK6oU&amp;amp;smid=nytcore-ios-share&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.nytimes.com&amp;#x2F;interactive&amp;#x2F;2026&amp;#x2F;07&amp;#x2F;01&amp;#x2F;science&amp;#x2F;spudc...&lt;/a&gt;</description>
+      <guid>48747304</guid>
+      <comments>https://news.ycombinator.com/item?id=48747304</comments>
+      <pubDate>Wed, 01 Jul 2026 14:20:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>Kimi K2.7 Code is generally available in GitHub Copilot</title>
+      <link>https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/</link>
+      <description>No Text</description>
+      <guid>48756602</guid>
+      <comments>https://news.ycombinator.com/item?id=48756602</comments>
+      <pubDate>Thu, 02 Jul 2026 04:32:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers</title>
+      <link>https://senior-swe-bench.snorkel.ai/</link>
+      <description>No Text</description>
+      <guid>48755928</guid>
+      <comments>https://news.ycombinator.com/item?id=48755928</comments>
+      <pubDate>Thu, 02 Jul 2026 02:55:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>CursorBench 3.1</title>
+      <link>https://cursor.com/evals</link>
+      <description>No Text</description>
+      <guid>48756840</guid>
+      <comments>https://news.ycombinator.com/item?id=48756840</comments>
+      <pubDate>Thu, 02 Jul 2026 05:19:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>What to learn to be a graphics programmer</title>
+      <link>https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/</link>
+      <description>No Text</description>
+      <guid>48750710</guid>
+      <comments>https://news.ycombinator.com/item?id=48750710</comments>
+      <pubDate>Wed, 01 Jul 2026 17:53:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance</title>
+      <link>https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/</link>
+      <description>No Text</description>
+      <guid>48753979</guid>
+      <comments>https://news.ycombinator.com/item?id=48753979</comments>
+      <pubDate>Wed, 01 Jul 2026 22:27:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>FFmpeg 9.1's new AAC encoder</title>
+      <link>https://hydrogenaudio.org/index.php/topic,129691.0.html</link>
+      <description>No Text</description>
+      <guid>48747116</guid>
+      <comments>https://news.ycombinator.com/item?id=48747116</comments>
+      <pubDate>Wed, 01 Jul 2026 14:10:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>How do wombats poop cubes?</title>
+      <link>https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery</link>
+      <description>No Text</description>
+      <guid>48732860</guid>
+      <comments>https://news.ycombinator.com/item?id=48732860</comments>
+      <pubDate>Tue, 30 Jun 2026 13:59:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Who is hiring? (July 2026)</title>
+      <link>https://news.ycombinator.com/item?id=48747976</link>
+      <description>Please state the location and include REMOTE for remote work, REMOTE (US)
+or similar if the country is restricted, and ONSITE when remote work is &lt;i&gt;not&lt;/i&gt; an option.&lt;p&gt;Please only post if you personally are part of the hiring company—no
+recruiting firms or job boards. One post per company. If it isn&amp;#x27;t a household name,
+explain what your company does.&lt;p&gt;Please only post if you are actively filling a position and are committed
+to replying to applicants.&lt;p&gt;Commenters: please don&amp;#x27;t reply to job posts to complain about
+something. It&amp;#x27;s off topic here.&lt;p&gt;Readers: please only email if you are personally interested in the job.&lt;p&gt;Searchers: try &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;nthesis.ai&amp;#x2F;public&amp;#x2F;hn-who-is-hiring&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;nthesis.ai&amp;#x2F;public&amp;#x2F;hn-who-is-hiring&lt;/a&gt;, &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;dheerajck.github.io&amp;#x2F;hnwhoishiring&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;dheerajck.github.io&amp;#x2F;hnwhoishiring&amp;#x2F;&lt;/a&gt;,
+&lt;a href=&quot;http:&amp;#x2F;&amp;#x2F;nchelluri.github.io&amp;#x2F;hnjobs&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;http:&amp;#x2F;&amp;#x2F;nchelluri.github.io&amp;#x2F;hnjobs&amp;#x2F;&lt;/a&gt;, &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;hnjobs.emilburzo.com&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;hnjobs.emilburzo.com&lt;/a&gt;.&lt;p&gt;Don&amp;#x27;t miss this other fine thread: &lt;i&gt;Who wants to be hired?&lt;/i&gt; &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=48747975&quot;&gt;https:&amp;#x2F;&amp;#x2F;news.ycombinator.com&amp;#x2F;item?id=48747975&lt;/a&gt;</description>
+      <guid>48747976</guid>
+      <comments>https://news.ycombinator.com/item?id=48747976</comments>
+      <pubDate>Wed, 01 Jul 2026 15:01:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Underhanded C Contest</title>
+      <link>https://underhanded-c.org/</link>
+      <description>No Text</description>
+      <guid>48754080</guid>
+      <comments>https://news.ycombinator.com/item?id=48754080</comments>
+      <pubDate>Wed, 01 Jul 2026 22:39:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Qualcomm Linux 2.0</title>
+      <link>https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available</link>
+      <description>No Text</description>
+      <guid>48753069</guid>
+      <comments>https://news.ycombinator.com/item?id=48753069</comments>
+      <pubDate>Wed, 01 Jul 2026 21:01:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Searchable directory of 22k+ products from worker-owned co-ops</title>
+      <link>https://www.workerowned.info/</link>
+      <description>No Text</description>
+      <guid>48752905</guid>
+      <comments>https://news.ycombinator.com/item?id=48752905</comments>
+      <pubDate>Wed, 01 Jul 2026 20:47:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Database Traffic Control</title>
+      <link>https://planetscale.com/blog/introducing-database-traffic-control</link>
+      <description>No Text</description>
+      <guid>48730151</guid>
+      <comments>https://news.ycombinator.com/item?id=48730151</comments>
+      <pubDate>Tue, 30 Jun 2026 08:58:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries</title>
+      <link>https://www.weaverobotics.com/isaac-1</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;runtimewire.com&amp;#x2F;article&amp;#x2F;weave-robotics-isaac-1-home-robot-launch&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;runtimewire.com&amp;#x2F;article&amp;#x2F;weave-robotics-isaac-1-home-...&lt;/a&gt;</description>
+      <guid>48750989</guid>
+      <comments>https://news.ycombinator.com/item?id=48750989</comments>
+      <pubDate>Wed, 01 Jul 2026 18:12:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Internal Combustion Engine (2021)</title>
+      <link>https://ciechanow.ski/internal-combustion-engine/</link>
+      <description>No Text</description>
+      <guid>48746076</guid>
+      <comments>https://news.ycombinator.com/item?id=48746076</comments>
+      <pubDate>Wed, 01 Jul 2026 13:04:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>Learn Vim motions with an ice-cream van</title>
+      <link>https://thisismodest.com/vimscoops/</link>
+      <description>No Text</description>
+      <guid>48750803</guid>
+      <comments>https://news.ycombinator.com/item?id=48750803</comments>
+      <pubDate>Wed, 01 Jul 2026 18:00:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>Monetization Gateway: Charge for any resource behind Cloudflare via x402</title>
+      <link>https://blog.cloudflare.com/monetization-gateway/</link>
+      <description>No Text</description>
+      <guid>48746914</guid>
+      <comments>https://news.ycombinator.com/item?id=48746914</comments>
+      <pubDate>Wed, 01 Jul 2026 13:59:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Why jet engines aren't made in China</title>
+      <link>https://aakash.substack.com/p/why-jet-engines-arent-made-in-china</link>
+      <description>No Text</description>
+      <guid>48740971</guid>
+      <comments>https://news.ycombinator.com/item?id=48740971</comments>
+      <pubDate>Wed, 01 Jul 2026 00:22:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Chip Off The Old Block</title>
+      <link>https://www.astralcodexten.com/p/chip-off-the-old-block</link>
+      <description>No Text</description>
+      <guid>48753524</guid>
+      <comments>https://news.ycombinator.com/item?id=48753524</comments>
+      <pubDate>Wed, 01 Jul 2026 21:42:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Who wants to be hired? (July 2026)</title>
+      <link>https://news.ycombinator.com/item?id=48747975</link>
+      <description>Share your information if you are looking for work. Please use this format:&lt;p&gt;&lt;pre&gt;&lt;code&gt;  Location:
+  Remote:
+  Willing to relocate:
+  Technologies:
+  Résumé&amp;#x2F;CV:
+  Email:
+&lt;/code&gt;&lt;/pre&gt;
+Please only post if you are personally looking for work. Agencies, recruiters, job boards,
+and so on, are off topic here.&lt;p&gt;Readers: please only email these addresses to discuss work opportunities.&lt;p&gt;Searchers: try &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;nthesis.ai&amp;#x2F;public&amp;#x2F;hn-wants-to-be-hired&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;nthesis.ai&amp;#x2F;public&amp;#x2F;hn-wants-to-be-hired&lt;/a&gt;, &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.wantstobehired.com&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.wantstobehired.com&lt;/a&gt;.</description>
+      <guid>48747975</guid>
+      <comments>https://news.ycombinator.com/item?id=48747975</comments>
+      <pubDate>Wed, 01 Jul 2026 15:01:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Proliferate (YC S25) Is Hiring</title>
+      <link>https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer</link>
+      <description>No Text</description>
+      <guid>48753045</guid>
+      <comments>https://news.ycombinator.com/item?id=48753045</comments>
+      <pubDate>Wed, 01 Jul 2026 21:00:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>The &lt;Usermedia&gt; HTML Element</title>
+      <link>https://developer.chrome.com/blog/usermedia-html-element</link>
+      <description>No Text</description>
+      <guid>48754700</guid>
+      <comments>https://news.ycombinator.com/item?id=48754700</comments>
+      <pubDate>Wed, 01 Jul 2026 23:56:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Apple Disk II Controller Card (2021)</title>
+      <link>https://www.bigmessowires.com/2021/11/12/the-amazing-disk-ii-controller-card/</link>
+      <description>No Text</description>
+      <guid>48723102</guid>
+      <comments>https://news.ycombinator.com/item?id=48723102</comments>
+      <pubDate>Mon, 29 Jun 2026 18:23:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>The vibration of the pager has a sound all its own</title>
+      <link>https://www.notyouremergency.com/triage-intro</link>
+      <description>No Text</description>
+      <guid>48707979</guid>
+      <comments>https://news.ycombinator.com/item?id=48707979</comments>
+      <pubDate>Sun, 28 Jun 2026 15:06:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Healthy but sedentary people show early decline in cellular energy production</title>
+      <link>https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production</link>
+      <description>No Text</description>
+      <guid>48754155</guid>
+      <comments>https://news.ycombinator.com/item?id=48754155</comments>
+      <pubDate>Wed, 01 Jul 2026 22:48:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Launch HN: Parsewise (YC P25) – Reason Across Documents with an API</title>
+      <link>https://news.ycombinator.com/item?id=48746752</link>
+      <description>Hi all, it’s Greg and Max, founders of Parsewise here (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.parsewise.ai&amp;#x2F;api&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.parsewise.ai&amp;#x2F;api&lt;/a&gt;). Parsewise transforms a bucket of unstructured data into schema compliant data, retaining lineage for values resolved across documents.&lt;p&gt;Imagine giving Claude a bunch of files and asking for a CSV or JSON output. If you have tried this, you know both the system limitations (number of files, type of inputs, cost, latency) but also the human-facing challenge of having no way to validate the results quickly. We solve both.
+We help tech teams simplify their unstructured data ETL, and loop in business experts for the definitions and for instant validation.&lt;p&gt;Here is a video with a few use cases: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.youtube.com&amp;#x2F;watch?v=dbRllnnh47w&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.youtube.com&amp;#x2F;watch?v=dbRllnnh47w&lt;/a&gt;&lt;p&gt;Parsewise in the words of someone coming to us:
+”I need to extract information from insurance policy PDFs, phone calls that have been transcribed, emails, etc. I am NOT looking for something that would just extract data point by data point, page by page into a structured well-defined schema but more something more agentic that can understand that information might be across documents and that it should reason over what to extract.”&lt;p&gt;We started the company based on a decade of experience (and pain) in complex data transformation and data analysis &amp;#x2F; synthesis. Greg was building both classical ETL and implemented AI workflows at Palantir. At Bain, Max did highly complex data analysis in the financial sector, similar to many of our customers.&lt;p&gt;Parsewise works by taking in a bucket of data (think hundreds or thousands of pdfs, excels etc.), and outputting schema compliant data where every single value is traceable down to word level citations across multiple documents in the bucket. We provide API customers with ways to show the lineage in their own applications, or they can use our platform for internal operations.
+At the core of the data processing we have self-improving agent definitions. They define the acceptable sources, the logic for resolving or combining values, and the rule for highlighting uncertainty to the end user.&lt;p&gt;The underlying tech is model and cloud agnostic and can be deployed in private networks. We have seen the best results with Gemini models for visual reasoning, achieving SOTA (beating Claude Fable) on the strongest grounded reasoning benchmark we have found (Databricks OfficeQA).
+Notably, we focused more on the “human harness” rather than the model harness, leaning into the actual friction we saw in uptake, which is around verifiability. That means optimizing the time and clicks required to trust the outcomes.
+We use vLLMs for parsing, and then we use small models for efficient large scale exhaustive search. Unlike RAG, we do not sample; instead, we exhaustively find all relevant values for a given query. We use larger models for decision making around resolutions and flagging inconsistencies to users.&lt;p&gt;This exhaustiveness and explicit value sourcing is unique to our platform, and it goes beyond the first step of data parsing that many existing providers cover.&lt;p&gt;We would love to welcome builders and tinkerers to try Parsewise on your complex document challenges. We have a ton of ideas on how we can expand the product and make it better, but would appreciate feedback and ideas from the community!</description>
+      <guid>48746752</guid>
+      <comments>https://news.ycombinator.com/item?id=48746752</comments>
+      <pubDate>Wed, 01 Jul 2026 13:48:44 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
