@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Fri, 24 Jul 2026 13:21:51 -0000</lastBuildDate>
+    <item>
+      <title>Flux 3 X Mimic: The Next Generation of Video-Action Models</title>
+      <link>https://bfl.ai/blog/flux-3-mimic</link>
+      <description>No Text</description>
+      <guid>49033127</guid>
+      <comments>https://news.ycombinator.com/item?id=49033127</comments>
+      <pubDate>Fri, 24 Jul 2026 09:31:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Flux 3</title>
+      <link>https://bfl.ai/blog/flux-3</link>
+      <description>No Text</description>
+      <guid>49031796</guid>
+      <comments>https://news.ycombinator.com/item?id=49031796</comments>
+      <pubDate>Fri, 24 Jul 2026 06:17:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Em dashes are fucking amazing</title>
+      <link>https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing</link>
+      <description>No Text</description>
+      <guid>49034747</guid>
+      <comments>https://news.ycombinator.com/item?id=49034747</comments>
+      <pubDate>Fri, 24 Jul 2026 12:40:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>The case for MUDs in modern times</title>
+      <link>https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times</link>
+      <description>No Text</description>
+      <guid>49034217</guid>
+      <comments>https://news.ycombinator.com/item?id=49034217</comments>
+      <pubDate>Fri, 24 Jul 2026 11:46:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>I Tried Building a Real App with AI. It Took a Year</title>
+      <link>https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/</link>
+      <description>No Text</description>
+      <guid>49034342</guid>
+      <comments>https://news.ycombinator.com/item?id=49034342</comments>
+      <pubDate>Fri, 24 Jul 2026 12:00:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>My security camera shipped a GitHub admin token in its login page</title>
+      <link>https://hhh.hn/hanwha-github-token/</link>
+      <description>No Text</description>
+      <guid>49034292</guid>
+      <comments>https://news.ycombinator.com/item?id=49034292</comments>
+      <pubDate>Fri, 24 Jul 2026 11:54:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Buz – A fork of Bun using modern Zig, with sub-1s incremental builds</title>
+      <link>https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891</link>
+      <description>No Text</description>
+      <guid>49033099</guid>
+      <comments>https://news.ycombinator.com/item?id=49033099</comments>
+      <pubDate>Fri, 24 Jul 2026 09:26:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>India's first privately-developed rocket reaches orbit on dramatic debut launch</title>
+      <link>https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/</link>
+      <description>No Text</description>
+      <guid>48973835</guid>
+      <comments>https://news.ycombinator.com/item?id=48973835</comments>
+      <pubDate>Mon, 20 Jul 2026 02:43:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>The IBM PC, Part 1: Arrival</title>
+      <link>https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/</link>
+      <description>No Text</description>
+      <guid>49033916</guid>
+      <comments>https://news.ycombinator.com/item?id=49033916</comments>
+      <pubDate>Fri, 24 Jul 2026 11:13:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>Programming language file extensions that match ISO 3166-1 alpha-2 country code</title>
+      <link>https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/</link>
+      <description>No Text</description>
+      <guid>49034673</guid>
+      <comments>https://news.ycombinator.com/item?id=49034673</comments>
+      <pubDate>Fri, 24 Jul 2026 12:34:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Cookbook</title>
+      <link>https://platform.claude.com/cookbook/</link>
+      <description>No Text</description>
+      <guid>49031409</guid>
+      <comments>https://news.ycombinator.com/item?id=49031409</comments>
+      <pubDate>Fri, 24 Jul 2026 05:09:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Computational chemistry, Locally? My rant on SSH</title>
+      <link>https://chillphysicsenjoyer.substack.com/p/computational-chemistry-locally</link>
+      <description>No Text</description>
+      <guid>48996119</guid>
+      <comments>https://news.ycombinator.com/item?id=48996119</comments>
+      <pubDate>Tue, 21 Jul 2026 18:23:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models</title>
+      <link>https://news.ycombinator.com/item?id=49026810</link>
+      <description>I’ve been building Echo (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;echo.tracerml.ai&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;echo.tracerml.ai&amp;#x2F;&lt;/a&gt;), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.&lt;p&gt;It started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others, and ran them on the same evaluations. Then I measured what would happen if, for each problem, you somehow knew in advance which models would be useful and how their outputs should be combined.&lt;p&gt;That hypothetical system performed substantially better than any individual model in the pool. Of course, it is not something you can actually deploy because it relies on knowing which decisions were good after seeing the result. Echo is my attempt to recover some of that advantage without having that information in advance.&lt;p&gt;For each request, Echo decides how much computation to allocate, which models should participate, and how their work should be combined. Some prompts may only need a relatively small amount of inference, while others benefit from multiple models working on different parts of the problem.&lt;p&gt;One thing that surprised me while building it was how complementary the models are. A model that is clearly weaker overall can still be extremely useful on particular problems or as part of a combination.&lt;p&gt;On my first evaluation mix, Echo consistently performed better than the best individual model in its pool. It also reached roughly the same aggregate result as Fable, which I used as one of the stronger comparison systems, at around one third of the inference cost.&lt;p&gt;There are still some cases where Echo makes the wrong allocation or combination decision. I’m currently spending a lot of time understanding those failures, as well as testing whether the same approach holds up on coding and agentic tasks where measuring the quality of each decision becomes much harder.&lt;p&gt;I built a chat interface (echo.tracerml.ai) and an OpenAI-compatible API (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;echo.tracerml.ai&amp;#x2F;docs&amp;#x2F;api&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;echo.tracerml.ai&amp;#x2F;docs&amp;#x2F;api&lt;/a&gt;) so the system can be tested outside the evaluation setup.&lt;p&gt;Here is a short&amp;#x2F;high level video on how it works: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.youtube.com&amp;#x2F;watch?v=lJFJSvOdXhg&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.youtube.com&amp;#x2F;watch?v=lJFJSvOdXhg&lt;/a&gt;&lt;p&gt;I wrote up the evaluation methodology, individual model results, costs and current limitations here: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;echo.tracerml.ai&amp;#x2F;eval&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;echo.tracerml.ai&amp;#x2F;eval&lt;/a&gt;&lt;p&gt;I would love for you to try it! Especially if you hit any weird failure cases or places where the allocation looks unintuitive.</description>
+      <guid>49026810</guid>
+      <comments>https://news.ycombinator.com/item?id=49026810</comments>
+      <pubDate>Thu, 23 Jul 2026 19:26:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Launching Health in ChatGPT to US Users</title>
+      <link>https://openai.com/index/health-in-chatgpt/</link>
+      <description>No Text</description>
+      <guid>49033363</guid>
+      <comments>https://news.ycombinator.com/item?id=49033363</comments>
+      <pubDate>Fri, 24 Jul 2026 10:09:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Tangleflow: Converts GitHub Actions workflows to tangled workflows and back</title>
+      <link>https://github.com/43081j/tangleflow</link>
+      <description>No Text</description>
+      <guid>49001498</guid>
+      <comments>https://news.ycombinator.com/item?id=49001498</comments>
+      <pubDate>Wed, 22 Jul 2026 03:28:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Book Prize Index</title>
+      <link>https://book-prize-index.vercel.app</link>
+      <description>No Text</description>
+      <guid>49032756</guid>
+      <comments>https://news.ycombinator.com/item?id=49032756</comments>
+      <pubDate>Fri, 24 Jul 2026 08:29:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>Writing by hand is good for your brain</title>
+      <link>https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your</link>
+      <description>No Text</description>
+      <guid>49022152</guid>
+      <comments>https://news.ycombinator.com/item?id=49022152</comments>
+      <pubDate>Thu, 23 Jul 2026 14:24:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Hetzner is working on LLM Inference</title>
+      <link>https://sliplane.io/blog/hetzner-inference</link>
+      <description>No Text</description>
+      <guid>49033087</guid>
+      <comments>https://news.ycombinator.com/item?id=49033087</comments>
+      <pubDate>Fri, 24 Jul 2026 09:24:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Game of Trees – Git-based version control from OpenBSD folks</title>
+      <link>https://www.gameoftrees.org/</link>
+      <description>No Text</description>
+      <guid>49033412</guid>
+      <comments>https://news.ycombinator.com/item?id=49033412</comments>
+      <pubDate>Fri, 24 Jul 2026 10:15:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>AMD's Instinct MI455X: Aiming for the Sun</title>
+      <link>https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the</link>
+      <description>No Text</description>
+      <guid>49032072</guid>
+      <comments>https://news.ycombinator.com/item?id=49032072</comments>
+      <pubDate>Fri, 24 Jul 2026 06:59:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>How Do We Stop Vibe Coding?</title>
+      <link>https://alexklos.ca/blog/how-do-we-stop-vibe-coding</link>
+      <description>No Text</description>
+      <guid>49033388</guid>
+      <comments>https://news.ycombinator.com/item?id=49033388</comments>
+      <pubDate>Fri, 24 Jul 2026 10:12:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Startup founders urge U.S. government not to shut off Chinese open weight AI</title>
+      <link>https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;littletech.org&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;littletech.org&amp;#x2F;&lt;/a&gt;&lt;p&gt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;static.politico.com&amp;#x2F;4a&amp;#x2F;bf&amp;#x2F;9c4021d8404386b0a311dcccf0e5&amp;#x2F;lta-open-weight-ai-letter-7-22-26.pdf&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;static.politico.com&amp;#x2F;4a&amp;#x2F;bf&amp;#x2F;9c4021d8404386b0a311dcccf0...&lt;/a&gt;</description>
+      <guid>49023016</guid>
+      <comments>https://news.ycombinator.com/item?id=49023016</comments>
+      <pubDate>Thu, 23 Jul 2026 15:18:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>What happened to TheNumbers.com</title>
+      <link>https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all</link>
+      <description>No Text</description>
+      <guid>49024691</guid>
+      <comments>https://news.ycombinator.com/item?id=49024691</comments>
+      <pubDate>Thu, 23 Jul 2026 16:53:33 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
