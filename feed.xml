@@ -1,0 +1,202 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sun, 13 Sep 2026 07:50:25 -0000</lastBuildDate>
+    <item>
+      <title>American Medical Association Backs Classification of Nearsightedness as Disease</title>
+      <link>https://www.aao.org/newsroom/news-releases/detail/ama-backs-formal-classification-nearsightedness</link>
+      <description>No Text</description>
+      <guid>49681074</guid>
+      <comments>https://news.ycombinator.com/item?id=49681074</comments>
+      <pubDate>Sun, 13 Sep 2026 07:35:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>When Anyone Can Build Software, Who Decides What Not to Build?</title>
+      <link>https://architectureintel.com/when-anyone-can-build-software-who-decides-what-not-to-build-ae07fdb370e4</link>
+      <description>No Text</description>
+      <guid>49680485</guid>
+      <comments>https://news.ycombinator.com/item?id=49680485</comments>
+      <pubDate>Sun, 13 Sep 2026 05:59:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Interim Computer Museum</title>
+      <link>https://icm.museum/</link>
+      <description>No Text</description>
+      <guid>49679459</guid>
+      <comments>https://news.ycombinator.com/item?id=49679459</comments>
+      <pubDate>Sun, 13 Sep 2026 02:43:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>Make your first edit to OpenStreetMap</title>
+      <link>https://high5apps.github.io/josm-plugin-website-wizard/</link>
+      <description>No Text</description>
+      <guid>49674050</guid>
+      <comments>https://news.ycombinator.com/item?id=49674050</comments>
+      <pubDate>Sat, 12 Sep 2026 16:25:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases</title>
+      <link>https://withspecific.com/benchmarks/real-swe</link>
+      <description>No Text</description>
+      <guid>49676820</guid>
+      <comments>https://news.ycombinator.com/item?id=49676820</comments>
+      <pubDate>Sat, 12 Sep 2026 20:25:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant</title>
+      <link>https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77</link>
+      <description>No Text</description>
+      <guid>49640913</guid>
+      <comments>https://news.ycombinator.com/item?id=49640913</comments>
+      <pubDate>Thu, 10 Sep 2026 09:32:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>After Math</title>
+      <link>https://terrytao.wordpress.com/2026/09/12/after-math/</link>
+      <description>No Text</description>
+      <guid>49679637</guid>
+      <comments>https://news.ycombinator.com/item?id=49679637</comments>
+      <pubDate>Sun, 13 Sep 2026 03:16:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Aligned to whom?</title>
+      <link>https://hyperbo.la/w/aligned-to-whom/</link>
+      <description>No Text</description>
+      <guid>49679643</guid>
+      <comments>https://news.ycombinator.com/item?id=49679643</comments>
+      <pubDate>Sun, 13 Sep 2026 03:17:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia is the central bank of AI</title>
+      <link>https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;archive.ph&amp;#x2F;kt50V&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;archive.ph&amp;#x2F;kt50V&lt;/a&gt;</description>
+      <guid>49673098</guid>
+      <comments>https://news.ycombinator.com/item?id=49673098</comments>
+      <pubDate>Sat, 12 Sep 2026 15:08:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Apple iPod Engraver (2019)</title>
+      <link>https://dunstanorchard.com/apple-ipod-engraver/</link>
+      <description>No Text</description>
+      <guid>49619848</guid>
+      <comments>https://news.ycombinator.com/item?id=49619848</comments>
+      <pubDate>Wed, 09 Sep 2026 01:57:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>Stabilizing Rust's Never Type</title>
+      <link>https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/</link>
+      <description>No Text</description>
+      <guid>49625056</guid>
+      <comments>https://news.ycombinator.com/item?id=49625056</comments>
+      <pubDate>Wed, 09 Sep 2026 11:57:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>AgentsDock: An IDE designed for agentic AI research</title>
+      <link>https://agentsdock.net/</link>
+      <description>No Text</description>
+      <guid>49678435</guid>
+      <comments>https://news.ycombinator.com/item?id=49678435</comments>
+      <pubDate>Sat, 12 Sep 2026 23:45:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Don't be the out of touch Kung Fu master</title>
+      <link>https://twitter.com/ID_AA_Carmack/status/2098443262214230095</link>
+      <description>No Text</description>
+      <guid>49677577</guid>
+      <comments>https://news.ycombinator.com/item?id=49677577</comments>
+      <pubDate>Sat, 12 Sep 2026 21:51:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>A wandering black hole caught feeding on the run</title>
+      <link>https://phys.org/news/2026-08-black-hole-caught.html</link>
+      <description>No Text</description>
+      <guid>49679734</guid>
+      <comments>https://news.ycombinator.com/item?id=49679734</comments>
+      <pubDate>Sun, 13 Sep 2026 03:34:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Vintage Scientific Papers with LaTeX</title>
+      <link>https://github.com/Foadsf/vintage-latex</link>
+      <description>No Text</description>
+      <guid>49629624</guid>
+      <comments>https://news.ycombinator.com/item?id=49629624</comments>
+      <pubDate>Wed, 09 Sep 2026 16:58:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>P(doom)</title>
+      <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
+      <description>No Text</description>
+      <guid>49677450</guid>
+      <comments>https://news.ycombinator.com/item?id=49677450</comments>
+      <pubDate>Sat, 12 Sep 2026 21:35:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Liesegang Rings</title>
+      <link>https://chillphysicsenjoyer.substack.com/p/liesegang-rings</link>
+      <description>No Text</description>
+      <guid>49626110</guid>
+      <comments>https://news.ycombinator.com/item?id=49626110</comments>
+      <pubDate>Wed, 09 Sep 2026 13:20:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Getting 50 GB/S Back from the Apple Neural Engine</title>
+      <link>https://eiln.github.io/posts/ane-dma.html</link>
+      <description>RTL performance erratum in the Apple M3 Neural Engine throttles DRAM weight streaming throughput down to 17–19 GB&amp;#x2F;s from the nominal 45–60 GB&amp;#x2F;s. Avoiding the problematic path in the kernel DMA engine&amp;#x27;s speculative prefetch ring increased Llama 3.2 1B token throughput from 10.0 to 24.3 tokens&amp;#x2F;s.</description>
+      <guid>49636479</guid>
+      <comments>https://news.ycombinator.com/item?id=49636479</comments>
+      <pubDate>Thu, 10 Sep 2026 00:16:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>We must pace the frontier</title>
+      <link>https://darioamodei.com/post/we-must-pace-the-frontier</link>
+      <description>No Text</description>
+      <guid>49672510</guid>
+      <comments>https://news.ycombinator.com/item?id=49672510</comments>
+      <pubDate>Sat, 12 Sep 2026 14:10:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Will there be a 7G?</title>
+      <link>https://arxiv.org/abs/2609.01877</link>
+      <description>No Text</description>
+      <guid>49674498</guid>
+      <comments>https://news.ycombinator.com/item?id=49674498</comments>
+      <pubDate>Sat, 12 Sep 2026 17:05:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>I made a build visualizer to understand Bun's compile times</title>
+      <link>https://lalitm.com/post/buildprof/</link>
+      <description>No Text</description>
+      <guid>49672842</guid>
+      <comments>https://news.ycombinator.com/item?id=49672842</comments>
+      <pubDate>Sat, 12 Sep 2026 14:45:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Microcode in Intel's 8087 floating-point chip: the scale instruction</title>
+      <link>https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</link>
+      <description>No Text</description>
+      <guid>49673580</guid>
+      <comments>https://news.ycombinator.com/item?id=49673580</comments>
+      <pubDate>Sat, 12 Sep 2026 15:49:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>Günther Anders, the Philosopher at the End of the World</title>
+      <link>https://www.compactmag.com/article/gunther-anders-the-philosopher-at-the-end-of-the-world/</link>
+      <description>No Text</description>
+      <guid>49653559</guid>
+      <comments>https://news.ycombinator.com/item?id=49653559</comments>
+      <pubDate>Fri, 11 Sep 2026 04:28:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Zoom client proactively reading everything written to X11 clipboard</title>
+      <link>https://hachyderm.io/@simontatham/117201594980991062</link>
+      <description>No Text</description>
+      <guid>49675902</guid>
+      <comments>https://news.ycombinator.com/item?id=49675902</comments>
+      <pubDate>Sat, 12 Sep 2026 18:58:57 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
