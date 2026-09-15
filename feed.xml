@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Tue, 15 Sep 2026 18:38:12 -0000</lastBuildDate>
+    <item>
+      <title>Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations</title>
+      <link>https://github.com/arnegiacomo/fugleramme</link>
+      <description>No Text</description>
+      <guid>49711544</guid>
+      <comments>https://news.ycombinator.com/item?id=49711544</comments>
+      <pubDate>Tue, 15 Sep 2026 12:31:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>An Update on Wayback Machine Access</title>
+      <link>https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/</link>
+      <description>No Text</description>
+      <guid>49716176</guid>
+      <comments>https://news.ycombinator.com/item?id=49716176</comments>
+      <pubDate>Tue, 15 Sep 2026 17:52:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>We got admin access to Baseten's production GitHub in 25 minutes</title>
+      <link>https://www.strix.ai/blog/baseten-harbor-github-pat-takeover</link>
+      <description>No Text</description>
+      <guid>49716476</guid>
+      <comments>https://news.ycombinator.com/item?id=49716476</comments>
+      <pubDate>Tue, 15 Sep 2026 18:11:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Capsule – Single-file web apps that save their data into SQLite</title>
+      <link>https://withcapsule.app/</link>
+      <description>Hey HN,&lt;p&gt;I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I&amp;#x27;ve been building an app called Capsule (it’s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file.&lt;p&gt;The HTML file and any related assets are directly embedded in the database. User data can either be saved as a localStorage key&amp;#x2F;value store or via a MongoDB-inspired collections API as documents, saved in a table in the file. You can also save other assets, like PDF files or images, directly in the database to keep different documents together. All data can be easily exported to CSV or JSON if needed.&lt;p&gt;Privacy and security were a big priority for me, so documents cannot do anything out of the box. They don’t have direct access to the file system and they require permission to access the internet. The permission model is still something I’m working to improve. Capsule documents can also use local or remote AI models for document specific AI features.&lt;p&gt;One downside with this approach is that multiple people working on it will create different copies. To make it possible to merge different copies of the same file, each data entry has a unique UUID and timestamp.&lt;p&gt;I’m planning to open up the file format specification for the 1.0 version of the app so other apps can read or write Capsule files.&lt;p&gt;You can try it out in the web preview at &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;withcapsule.app&amp;#x2F;preview&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;withcapsule.app&amp;#x2F;preview&lt;/a&gt; with pre-built templates or use any AI provider of your choice to create a custom, Capsule-optimized app by using the following prompt:&lt;p&gt;&amp;quot;Please read the app wizard instructions at &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;withcapsule.app&amp;#x2F;prompt.txt&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;withcapsule.app&amp;#x2F;prompt.txt&lt;/a&gt; and help me design an app.“&lt;p&gt;I’m still working on the file format but there are migrations for each new version, so data should never be lost when using newer versions of the app in the future. Please let me know if you have any ideas or use cases where this might make sense or does not work.</description>
+      <guid>49712278</guid>
+      <comments>https://news.ycombinator.com/item?id=49712278</comments>
+      <pubDate>Tue, 15 Sep 2026 13:31:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>GEFS on OpenBSD: A Early Preview</title>
+      <link>https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2</link>
+      <description>No Text</description>
+      <guid>49715590</guid>
+      <comments>https://news.ycombinator.com/item?id=49715590</comments>
+      <pubDate>Tue, 15 Sep 2026 17:12:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>I can't stop thinking about Papua New Guinea</title>
+      <link>https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua</link>
+      <description>No Text</description>
+      <guid>49708431</guid>
+      <comments>https://news.ycombinator.com/item?id=49708431</comments>
+      <pubDate>Tue, 15 Sep 2026 06:16:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Hacking a $20 4G wireless hotspot into a texting device</title>
+      <link>https://bkovac.github.io/modem-thing/</link>
+      <description>No Text</description>
+      <guid>49712102</guid>
+      <comments>https://news.ycombinator.com/item?id=49712102</comments>
+      <pubDate>Tue, 15 Sep 2026 13:20:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Cartesian – AI 3D Modeling for Design</title>
+      <link>https://www.formas.ai/cartesian</link>
+      <description>No Text</description>
+      <guid>49713999</guid>
+      <comments>https://news.ycombinator.com/item?id=49713999</comments>
+      <pubDate>Tue, 15 Sep 2026 15:26:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Jiga (YC W21) Is Hiring Product Engineer (Remote/US)</title>
+      <link>https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd</link>
+      <description>No Text</description>
+      <guid>49715446</guid>
+      <comments>https://news.ycombinator.com/item?id=49715446</comments>
+      <pubDate>Tue, 15 Sep 2026 17:00:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>The CSS Zen Garden dream, finally shipped</title>
+      <link>https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/</link>
+      <description>No Text</description>
+      <guid>49713262</guid>
+      <comments>https://news.ycombinator.com/item?id=49713262</comments>
+      <pubDate>Tue, 15 Sep 2026 14:40:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini 3.8 Live and 3.8 Live Extended Thinking</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/</link>
+      <description>No Text</description>
+      <guid>49715947</guid>
+      <comments>https://news.ycombinator.com/item?id=49715947</comments>
+      <pubDate>Tue, 15 Sep 2026 17:38:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>How AI tool calling works (40 lines of vanilla JavaScript)</title>
+      <link>https://buttercup.sh/lessons/2026-09-15-lesson-2-tool-calling.html</link>
+      <description>No Text</description>
+      <guid>49716702</guid>
+      <comments>https://news.ycombinator.com/item?id=49716702</comments>
+      <pubDate>Tue, 15 Sep 2026 18:27:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Let's make quality the norm again</title>
+      <link>https://www.forbrukerradet.no/short-life/</link>
+      <description>No Text</description>
+      <guid>49710109</guid>
+      <comments>https://news.ycombinator.com/item?id=49710109</comments>
+      <pubDate>Tue, 15 Sep 2026 10:00:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Inference Hardware Revolution of 2026</title>
+      <link>https://spectrum.ieee.org/inference-hardware-revolution</link>
+      <description>No Text</description>
+      <guid>49713024</guid>
+      <comments>https://news.ycombinator.com/item?id=49713024</comments>
+      <pubDate>Tue, 15 Sep 2026 14:24:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Archiving pirate radio station Kool FM</title>
+      <link>https://londonist.com/london/music/kool-fm-archives</link>
+      <description>No Text</description>
+      <guid>49694382</guid>
+      <comments>https://news.ycombinator.com/item?id=49694382</comments>
+      <pubDate>Mon, 14 Sep 2026 10:01:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>Most people prefer traditional architecture</title>
+      <link>https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture</link>
+      <description>No Text</description>
+      <guid>49697496</guid>
+      <comments>https://news.ycombinator.com/item?id=49697496</comments>
+      <pubDate>Mon, 14 Sep 2026 14:30:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>US confirms for first time it has deployed space weapons</title>
+      <link>https://www.bbc.com/news/articles/ck790xg41ygro</link>
+      <description>No Text</description>
+      <guid>49707473</guid>
+      <comments>https://news.ycombinator.com/item?id=49707473</comments>
+      <pubDate>Tue, 15 Sep 2026 03:47:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Alternatives to MinIO for single-node local S3</title>
+      <link>https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/</link>
+      <description>No Text</description>
+      <guid>49709381</guid>
+      <comments>https://news.ycombinator.com/item?id=49709381</comments>
+      <pubDate>Tue, 15 Sep 2026 08:21:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Rat and Mouse Gazette: Nursing Care (1996)</title>
+      <link>https://www.rmca.org/Articles/nurse.htm</link>
+      <description>No Text</description>
+      <guid>49689801</guid>
+      <comments>https://news.ycombinator.com/item?id=49689801</comments>
+      <pubDate>Sun, 13 Sep 2026 23:22:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>CSS-Tricks in Limbo</title>
+      <link>https://vale.rocks/micros/20260915-0135</link>
+      <description>No Text</description>
+      <guid>49708993</guid>
+      <comments>https://news.ycombinator.com/item?id=49708993</comments>
+      <pubDate>Tue, 15 Sep 2026 07:27:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Sony's First Computer – The SMC-70 from 1982 [video]</title>
+      <link>https://www.youtube.com/watch?v=cT2-7KkPkBc</link>
+      <description>No Text</description>
+      <guid>49680428</guid>
+      <comments>https://news.ycombinator.com/item?id=49680428</comments>
+      <pubDate>Sun, 13 Sep 2026 05:47:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Panel – A research workspace where the agent can build its own panes</title>
+      <link>https://github.com/greentfrapp/panel</link>
+      <description>No Text</description>
+      <guid>49712621</guid>
+      <comments>https://news.ycombinator.com/item?id=49712621</comments>
+      <pubDate>Tue, 15 Sep 2026 13:58:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>A rough guide for going back to the Moon</title>
+      <link>https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model</link>
+      <description>No Text</description>
+      <guid>49697549</guid>
+      <comments>https://news.ycombinator.com/item?id=49697549</comments>
+      <pubDate>Mon, 14 Sep 2026 14:33:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>How much of F-Droid is LLM generated?</title>
+      <link>https://tintotint.eu/whacky-corner/f-droid_slop/</link>
+      <description>No Text</description>
+      <guid>49710015</guid>
+      <comments>https://news.ycombinator.com/item?id=49710015</comments>
+      <pubDate>Tue, 15 Sep 2026 09:47:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Fixing an NZXT Signal 4K30 part 2: the green/pink video bug</title>
+      <link>https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/</link>
+      <description>No Text</description>
+      <guid>49689770</guid>
+      <comments>https://news.ycombinator.com/item?id=49689770</comments>
+      <pubDate>Sun, 13 Sep 2026 23:19:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>What we have learned at OpenShell applying formal methods to control AI agents</title>
+      <link>https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/</link>
+      <description>No Text</description>
+      <guid>49713261</guid>
+      <comments>https://news.ycombinator.com/item?id=49713261</comments>
+      <pubDate>Tue, 15 Sep 2026 14:40:05 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
