@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 19 Sep 2026 12:48:51 -0000</lastBuildDate>
+    <item>
+      <title>Laya the open source version of Jev</title>
+      <link>https://laya.convaiinnovations.com/</link>
+      <description>No Text</description>
+      <guid>49765348</guid>
+      <comments>https://news.ycombinator.com/item?id=49765348</comments>
+      <pubDate>Sat, 19 Sep 2026 10:46:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Human brain is two separate organs, Stanford Medicine-led research finds</title>
+      <link>https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html</link>
+      <description>No Text</description>
+      <guid>49763697</guid>
+      <comments>https://news.ycombinator.com/item?id=49763697</comments>
+      <pubDate>Sat, 19 Sep 2026 05:48:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>“The Secret Life of Circuits” is here</title>
+      <link>https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here</link>
+      <description>No Text</description>
+      <guid>49720143</guid>
+      <comments>https://news.ycombinator.com/item?id=49720143</comments>
+      <pubDate>Tue, 15 Sep 2026 23:15:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Astra Solves a WWI German Radio Cipher</title>
+      <link>https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</link>
+      <description>No Text</description>
+      <guid>49763987</guid>
+      <comments>https://news.ycombinator.com/item?id=49763987</comments>
+      <pubDate>Sat, 19 Sep 2026 06:41:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Android 17 is the first since 3.x to add new APIs without releasing to the AOSP</title>
+      <link>https://grapheneos.social/@GrapheneOS/117282080803799576</link>
+      <description>No Text</description>
+      <guid>49758736</guid>
+      <comments>https://news.ycombinator.com/item?id=49758736</comments>
+      <pubDate>Fri, 18 Sep 2026 19:03:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>If math is more than proof, we need to better celebrate the rest of it</title>
+      <link>https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/</link>
+      <description>No Text</description>
+      <guid>49763928</guid>
+      <comments>https://news.ycombinator.com/item?id=49763928</comments>
+      <pubDate>Sat, 19 Sep 2026 06:28:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>San Francisco Onion Futures Company</title>
+      <link>https://onionfutures.com/</link>
+      <description>No Text</description>
+      <guid>49763296</guid>
+      <comments>https://news.ycombinator.com/item?id=49763296</comments>
+      <pubDate>Sat, 19 Sep 2026 04:23:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Communication by means of modulated Johnson noise</title>
+      <link>https://www.pnas.org/doi/10.1073/pnas.2201337119</link>
+      <description>No Text</description>
+      <guid>49736823</guid>
+      <comments>https://news.ycombinator.com/item?id=49736823</comments>
+      <pubDate>Thu, 17 Sep 2026 05:41:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: I wrote a custom assembler for CHIP-8 in C++</title>
+      <link>https://github.com/Tackx/c8-ass</link>
+      <description>I&amp;#x27;m writing a custom assembler for CHIP-8 and just finished adding support for the DB&amp;#x2F;.byte directive so I can embed sprites in the ROM and finally get something drawn on the screen. It SHOULD support all OG CHIP-8 instructions, but still a ton of rough edges that I&amp;#x27;m ironing out.&lt;p&gt;This is my first ever C++ project, just like the CHIP-8 emulator was my first ever C (and emudev) project. It&amp;#x27;s so satisfying to write assembly and have your program spit out a ROM that actually runs in the emulator you wrote.&lt;p&gt;All code is written by me (a lot of it livestreaming) as evident by the quality, no AI.</description>
+      <guid>49744174</guid>
+      <comments>https://news.ycombinator.com/item?id=49744174</comments>
+      <pubDate>Thu, 17 Sep 2026 17:47:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Quick Tunnels</title>
+      <link>https://try.cloudflare.com/</link>
+      <description>No Text</description>
+      <guid>49754785</guid>
+      <comments>https://news.ycombinator.com/item?id=49754785</comments>
+      <pubDate>Fri, 18 Sep 2026 14:18:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>How to Write with an LLM</title>
+      <link>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</link>
+      <description>No Text</description>
+      <guid>49747070</guid>
+      <comments>https://news.ycombinator.com/item?id=49747070</comments>
+      <pubDate>Thu, 17 Sep 2026 21:48:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>From Stonemasons to Carpenters</title>
+      <link>https://thelastsoftwareengineer.substack.com/p/from-stonemasons-to-carpenters</link>
+      <description>No Text</description>
+      <guid>49743490</guid>
+      <comments>https://news.ycombinator.com/item?id=49743490</comments>
+      <pubDate>Thu, 17 Sep 2026 16:55:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>SDCC – Small Device C Compiler</title>
+      <link>https://sdcc.sourceforge.net/</link>
+      <description>No Text</description>
+      <guid>49762744</guid>
+      <comments>https://news.ycombinator.com/item?id=49762744</comments>
+      <pubDate>Sat, 19 Sep 2026 02:32:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>You can run Git on object storage if you re-make packfiles</title>
+      <link>https://www.tigrisdata.com/blog/objgit-packfiles/</link>
+      <description>No Text</description>
+      <guid>49730069</guid>
+      <comments>https://news.ycombinator.com/item?id=49730069</comments>
+      <pubDate>Wed, 16 Sep 2026 17:16:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>Science Is Open Software</title>
+      <link>https://jepedersen.dk/blog/202505_research/</link>
+      <description>No Text</description>
+      <guid>49762687</guid>
+      <comments>https://news.ycombinator.com/item?id=49762687</comments>
+      <pubDate>Sat, 19 Sep 2026 02:21:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>Saving another 100TB of RAM</title>
+      <link>https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/</link>
+      <description>No Text</description>
+      <guid>49758580</guid>
+      <comments>https://news.ycombinator.com/item?id=49758580</comments>
+      <pubDate>Fri, 18 Sep 2026 18:51:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip</title>
+      <link>https://spectrum.ieee.org/llms-for-chip-design</link>
+      <description>No Text</description>
+      <guid>49761432</guid>
+      <comments>https://news.ycombinator.com/item?id=49761432</comments>
+      <pubDate>Fri, 18 Sep 2026 23:04:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ctenophores: Wonders of Biology</title>
+      <link>https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/</link>
+      <description>No Text</description>
+      <guid>49735541</guid>
+      <comments>https://news.ycombinator.com/item?id=49735541</comments>
+      <pubDate>Thu, 17 Sep 2026 01:58:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>NASA-IBM Lunar Foundation open-Source Geospatial AI Model</title>
+      <link>https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/</link>
+      <description>No Text</description>
+      <guid>49763379</guid>
+      <comments>https://news.ycombinator.com/item?id=49763379</comments>
+      <pubDate>Sat, 19 Sep 2026 04:44:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>The first new cat species discovered in 100 years</title>
+      <link>https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;archive.ph&amp;#x2F;cgMTM&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;archive.ph&amp;#x2F;cgMTM&lt;/a&gt;</description>
+      <guid>49744704</guid>
+      <comments>https://news.ycombinator.com/item?id=49744704</comments>
+      <pubDate>Thu, 17 Sep 2026 18:31:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>OpenJev</title>
+      <link>https://openjev.com/</link>
+      <description>No Text</description>
+      <guid>49752041</guid>
+      <comments>https://news.ycombinator.com/item?id=49752041</comments>
+      <pubDate>Fri, 18 Sep 2026 09:42:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Goroutine Leak Profiles</title>
+      <link>https://go.dev/blog/goroutine-leak-profiles</link>
+      <description>No Text</description>
+      <guid>49726773</guid>
+      <comments>https://news.ycombinator.com/item?id=49726773</comments>
+      <pubDate>Wed, 16 Sep 2026 13:30:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash</title>
+      <link>https://cactuscompute.com/needle</link>
+      <description>Hey HN, Henry from Cactus here.&lt;p&gt;We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I&amp;#x27;d love to hear what you think again.&lt;p&gt;The key features:&lt;p&gt;1) Automation (tool calls &amp;amp; structured JSON output): Needle still doesn&amp;#x27;t chat by design, its quite challenging to pack general capacity into such small models, so we focus on tool calls and structured JSON. If no tool you declared fits the request, you get an empty list back (note for when playing with the demo).&lt;p&gt;2) Intelligence Laddering: Every layer (2 to 20) is a deployable subnetwork, so one set of weights, 25 to 121 million parameters at 2-bit, shipping as 8-29MB binaries. On a Raspberry Pi 5 it decodes at up to 4k tokens&amp;#x2F;sec and prefills at up to 10k.&lt;p&gt;3) Monarch Hadamard MLP: replaces the dense FFN with three learnable Walsh-Hadamard-initialized Kronecker (Monarch) factor pairs interleaved with per-channel diagonal scales, fixed permutations, a SiLU nonlinearity, and a rank-8 input-conditioned gate, so each token gets a fully mixed nonlinear transform of its d_model channels at O(d√d) parameters and compute instead of the O(d²) a dense 4x-expansion MLP would cost.&lt;p&gt;4) Performance: On Mobile Actions (phone commands, scored on the exact call) the 20-layer model gets 86.0 through the shipped 2-bit binary; LFM2.5 1.2B is at 82.4, Qwen3.5 0.8B at 76.0, Apple&amp;#x27;s on-device model at 57.6, all at f16. More results on the link, we do not win everywhere ofc.&lt;p&gt;5) Multilingual: Needle 3 now supports English, French, Spanish, German, Dutch, Italian, Polish, with more languages coming.&lt;p&gt;6) Finetuning: You can achieve DeepSeek v4 Flash grade performance on a narrow task with just 4L, stress on &amp;quot;narrow task&amp;quot;, we found that production users often prefer tuning before production.&lt;p&gt;7) Triggers: Grounding is a common challenge for tool call, at least for Needle 2, so we added support case-insensitive regular expressions matched against each request to gate false negatives.&lt;p&gt;8) Confidence: Every response also carries a calibrated confidence score, the minimum of a judgement on the finished call and its decode probability. Act above your threshold, show the call and ask below it, or escalate to a bigger model.&lt;p&gt;9) Supported Platforms: macOS, Linux on x86-64, ARM64, ARMv7, RISC-V and MIPS32, Windows x64 and ARM, Android, iOS, watchOS, tvOS, the browser as WebAssembly, and a WASI component.&lt;p&gt;Thanks for reading and as always, thoughts appreciated!</description>
+      <guid>49748553</guid>
+      <comments>https://news.ycombinator.com/item?id=49748553</comments>
+      <pubDate>Fri, 18 Sep 2026 00:11:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug</title>
+      <link>https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/</link>
+      <description>No Text</description>
+      <guid>49757050</guid>
+      <comments>https://news.ycombinator.com/item?id=49757050</comments>
+      <pubDate>Fri, 18 Sep 2026 16:54:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>Veronese's Dogs</title>
+      <link>https://publicdomainreview.org/essay/veroneses-dogs</link>
+      <description>No Text</description>
+      <guid>49728602</guid>
+      <comments>https://news.ycombinator.com/item?id=49728602</comments>
+      <pubDate>Wed, 16 Sep 2026 15:32:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Warez: The Infrastructure and Aesthetics of Piracy (2021)</title>
+      <link>https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157</link>
+      <description>No Text</description>
+      <guid>49749724</guid>
+      <comments>https://news.ycombinator.com/item?id=49749724</comments>
+      <pubDate>Fri, 18 Sep 2026 02:56:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)</title>
+      <link>https://arxiv.org/abs/2510.03215</link>
+      <description>No Text</description>
+      <guid>49758615</guid>
+      <comments>https://news.ycombinator.com/item?id=49758615</comments>
+      <pubDate>Fri, 18 Sep 2026 18:55:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>Inside ZCode: Silently uploading your Git history to the cloud</title>
+      <link>https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/</link>
+      <description>No Text</description>
+      <guid>49750694</guid>
+      <comments>https://news.ycombinator.com/item?id=49750694</comments>
+      <pubDate>Fri, 18 Sep 2026 06:11:17 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
