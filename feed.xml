@@ -1,0 +1,210 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 26 Sep 2026 13:31:48 -0000</lastBuildDate>
+    <item>
+      <title>Breaking Up with Google Play: Why Conversations Is Now Free</title>
+      <link>https://gultsch.de/posts/breaking-up-with-google-play/</link>
+      <description>No Text</description>
+      <guid>49855315</guid>
+      <comments>https://news.ycombinator.com/item?id=49855315</comments>
+      <pubDate>Sat, 26 Sep 2026 10:55:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Fifteen years later, the Apple Cards origin story</title>
+      <link>https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story</link>
+      <description>No Text</description>
+      <guid>49854693</guid>
+      <comments>https://news.ycombinator.com/item?id=49854693</comments>
+      <pubDate>Sat, 26 Sep 2026 09:13:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding the Impact of LLM Watermarking on AI Agent Behavior</title>
+      <link>https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior</link>
+      <description>No Text</description>
+      <guid>49856149</guid>
+      <comments>https://news.ycombinator.com/item?id=49856149</comments>
+      <pubDate>Sat, 26 Sep 2026 13:05:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Revealing the details of how OpenAI agents hacked Hugging Face</title>
+      <link>https://swarmtraces.org/</link>
+      <description>No Text</description>
+      <guid>49849985</guid>
+      <comments>https://news.ycombinator.com/item?id=49849985</comments>
+      <pubDate>Fri, 25 Sep 2026 21:09:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>ASML currently sells no chipmaking machines in Europe, executive says</title>
+      <link>https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says</link>
+      <description>No Text</description>
+      <guid>49823628</guid>
+      <comments>https://news.ycombinator.com/item?id=49823628</comments>
+      <pubDate>Wed, 23 Sep 2026 22:42:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Floci: Locally emulating any cloud service</title>
+      <link>https://floci.io</link>
+      <description>No Text</description>
+      <guid>49854416</guid>
+      <comments>https://news.ycombinator.com/item?id=49854416</comments>
+      <pubDate>Sat, 26 Sep 2026 08:31:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>We're gonna need a lot more mathematicians</title>
+      <link>https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/</link>
+      <description>No Text</description>
+      <guid>49852717</guid>
+      <comments>https://news.ycombinator.com/item?id=49852717</comments>
+      <pubDate>Sat, 26 Sep 2026 02:46:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ollaya – Ollama for open-source, Jev-style decision models</title>
+      <link>https://ollaya.dev/</link>
+      <description>No Text</description>
+      <guid>49848269</guid>
+      <comments>https://news.ycombinator.com/item?id=49848269</comments>
+      <pubDate>Fri, 25 Sep 2026 18:33:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Is your Postgres migration safe or not safe?</title>
+      <link>https://safenotsafe.dev/</link>
+      <description>No Text</description>
+      <guid>49854161</guid>
+      <comments>https://news.ycombinator.com/item?id=49854161</comments>
+      <pubDate>Sat, 26 Sep 2026 07:33:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>A single function Jev-like wrapper for LLMs, including vision models</title>
+      <link>http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html</link>
+      <description>No Text</description>
+      <guid>49853175</guid>
+      <comments>https://news.ycombinator.com/item?id=49853175</comments>
+      <pubDate>Sat, 26 Sep 2026 04:20:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Jev Plays Pokémon Red</title>
+      <link>https://jev-pokemon.vercel.app/</link>
+      <description>Hey HN! Wanted to share a fun project I&amp;#x27;ve been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. So I went with Pokémon.&lt;p&gt;I&amp;#x27;ve spent endless hours playing this game as a child so building this was a ton of fun.&lt;p&gt;I open sourced everything in case you want to hack on it yourself here: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;christianmat&amp;#x2F;jev-pokemon&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;christianmat&amp;#x2F;jev-pokemon&lt;/a&gt;&lt;p&gt;The game is being streamed live including the tokens and cost - hopefully we get all the badges and don&amp;#x27;t get stuck in a cave :)</description>
+      <guid>49845172</guid>
+      <comments>https://news.ycombinator.com/item?id=49845172</comments>
+      <pubDate>Fri, 25 Sep 2026 14:28:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>CEO of Mistral: AI is software. It can be controlled</title>
+      <link>https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html</link>
+      <description>No Text</description>
+      <guid>49856034</guid>
+      <comments>https://news.ycombinator.com/item?id=49856034</comments>
+      <pubDate>Sat, 26 Sep 2026 12:52:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML</title>
+      <link>https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html</link>
+      <description>No Text</description>
+      <guid>49829528</guid>
+      <comments>https://news.ycombinator.com/item?id=49829528</comments>
+      <pubDate>Thu, 24 Sep 2026 12:10:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>16GB iPod Nano 3G Upgrade</title>
+      <link>https://tuckerosman.com/projects/16gb-ipod-nano</link>
+      <description>No Text</description>
+      <guid>49826087</guid>
+      <comments>https://news.ycombinator.com/item?id=49826087</comments>
+      <pubDate>Thu, 24 Sep 2026 03:58:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Calculating atmospheric drag on satellites for a Cubesat [pdf]</title>
+      <link>https://www.osti.gov/servlets/purl/1124870</link>
+      <description>No Text</description>
+      <guid>49824642</guid>
+      <comments>https://news.ycombinator.com/item?id=49824642</comments>
+      <pubDate>Thu, 24 Sep 2026 00:34:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>Gravity seems holographic. What does that mean for reality?</title>
+      <link>https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/</link>
+      <description>No Text</description>
+      <guid>49845998</guid>
+      <comments>https://news.ycombinator.com/item?id=49845998</comments>
+      <pubDate>Fri, 25 Sep 2026 15:31:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Who's still keeping a DOS machine up because the business depends on it?</title>
+      <link>https://news.ycombinator.com/item?id=49848955</link>
+      <description>Do you currently work with or know anyone who is still using:&lt;p&gt;* dBase&amp;#x2F;Clipper&amp;#x2F;CLARION&amp;#x2F;Paradox&amp;#x2F;other DOS RAD environments on period hardware to run business processes?&lt;p&gt;* CNC mills&amp;#x2F;spectrometers&amp;#x2F;microscopes&amp;#x2F;other industrial instruments controlled by ISA cards (either bespoke or standards like GPIB)?&lt;p&gt;* Anything with a parallel port dongle?&lt;p&gt;If so, I&amp;#x27;d be very interested in hearing your experience here, or feel free to send me an email at the address in my profile. I&amp;#x27;m not trying to sell anything, just doing some research for an idea around keeping these going on modern hardware.</description>
+      <guid>49848955</guid>
+      <comments>https://news.ycombinator.com/item?id=49848955</comments>
+      <pubDate>Fri, 25 Sep 2026 19:37:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>Scientists build most accurate atomic clock</title>
+      <link>https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html</link>
+      <description>No Text</description>
+      <guid>49824846</guid>
+      <comments>https://news.ycombinator.com/item?id=49824846</comments>
+      <pubDate>Thu, 24 Sep 2026 01:00:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Murky History of Soviet-Born Tetris</title>
+      <link>https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/</link>
+      <description>No Text</description>
+      <guid>49838040</guid>
+      <comments>https://news.ycombinator.com/item?id=49838040</comments>
+      <pubDate>Thu, 24 Sep 2026 23:11:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>One Month Without AI</title>
+      <link>https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</link>
+      <description>No Text</description>
+      <guid>49855018</guid>
+      <comments>https://news.ycombinator.com/item?id=49855018</comments>
+      <pubDate>Sat, 26 Sep 2026 10:08:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>HomelabFest will be in St. Louis in September 2027</title>
+      <link>https://www.homelabfest.org</link>
+      <description>No Text</description>
+      <guid>49852462</guid>
+      <comments>https://news.ycombinator.com/item?id=49852462</comments>
+      <pubDate>Sat, 26 Sep 2026 02:03:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>The far side of the Moon provides clues to a previous magnetic field</title>
+      <link>https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html</link>
+      <description>No Text</description>
+      <guid>49854216</guid>
+      <comments>https://news.ycombinator.com/item?id=49854216</comments>
+      <pubDate>Sat, 26 Sep 2026 07:49:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Fourier Analysis: Drawing Llamas with Circles</title>
+      <link>https://adekau.github.io/posts/2020/llamas.html</link>
+      <description>No Text</description>
+      <guid>49829472</guid>
+      <comments>https://news.ycombinator.com/item?id=49829472</comments>
+      <pubDate>Thu, 24 Sep 2026 12:03:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>Excel now supports multiple values in a single cell</title>
+      <link>https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395</link>
+      <description>Related: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;techcommunity.microsoft.com&amp;#x2F;blog&amp;#x2F;excelblog&amp;#x2F;excel-now-supports-multiple-values-in-a-single-cell&amp;#x2F;4549756&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;techcommunity.microsoft.com&amp;#x2F;blog&amp;#x2F;excelblog&amp;#x2F;excel-now...&lt;/a&gt;</description>
+      <guid>49849832</guid>
+      <comments>https://news.ycombinator.com/item?id=49849832</comments>
+      <pubDate>Fri, 25 Sep 2026 20:55:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Lab on a Contact Lens Can Measure Stress Through Serotonin</title>
+      <link>https://spectrum.ieee.org/serotonin-stress-smart-contact-lens</link>
+      <description>No Text</description>
+      <guid>49850781</guid>
+      <comments>https://news.ycombinator.com/item?id=49850781</comments>
+      <pubDate>Fri, 25 Sep 2026 22:28:02 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
