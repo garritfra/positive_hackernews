@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 24 Oct 2026 17:45:51 -0000</lastBuildDate>
+    <item>
+      <title>Roku developer repositories moved from GitHub to GitLab</title>
+      <link>https://blog.roku.com/developer/gitlab-move</link>
+      <description>No Text</description>
+      <guid>50222622</guid>
+      <comments>https://news.ycombinator.com/item?id=50222622</comments>
+      <pubDate>Sat, 24 Oct 2026 16:06:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise</title>
+      <link>https://de.numista.com/9866</link>
+      <description>No Text</description>
+      <guid>50222927</guid>
+      <comments>https://news.ycombinator.com/item?id=50222927</comments>
+      <pubDate>Sat, 24 Oct 2026 16:41:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>FreeDNS</title>
+      <link>https://freedns.afraid.org/</link>
+      <description>No Text</description>
+      <guid>50222133</guid>
+      <comments>https://news.ycombinator.com/item?id=50222133</comments>
+      <pubDate>Sat, 24 Oct 2026 15:20:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Neural chip decodes interactions between brain regions</title>
+      <link>https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/</link>
+      <description>No Text</description>
+      <guid>50222525</guid>
+      <comments>https://news.ycombinator.com/item?id=50222525</comments>
+      <pubDate>Sat, 24 Oct 2026 15:57:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Around a dozen banking apps began specifically permitting GrapheneOS</title>
+      <link>https://grapheneos.social/@GrapheneOS/117492375462459244</link>
+      <description>No Text</description>
+      <guid>50217495</guid>
+      <comments>https://news.ycombinator.com/item?id=50217495</comments>
+      <pubDate>Sat, 24 Oct 2026 01:15:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>OBS Studio 33</title>
+      <link>https://github.com/obsproject/obs-studio/releases/tag/33.0.0</link>
+      <description>No Text</description>
+      <guid>50218430</guid>
+      <comments>https://news.ycombinator.com/item?id=50218430</comments>
+      <pubDate>Sat, 24 Oct 2026 04:49:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps</title>
+      <link>https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</link>
+      <description>No Text</description>
+      <guid>50219177</guid>
+      <comments>https://news.ycombinator.com/item?id=50219177</comments>
+      <pubDate>Sat, 24 Oct 2026 08:06:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>TornadoVM 7 Enables GPU-Native Workloads from Java Applications</title>
+      <link>https://www.infoq.com/news/2026/10/tornadovm-7-gpu/</link>
+      <description>No Text</description>
+      <guid>50192975</guid>
+      <comments>https://news.ycombinator.com/item?id=50192975</comments>
+      <pubDate>Thu, 22 Oct 2026 09:01:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>Kimi K3.1 Pro and K3.1 Pro Highspeed</title>
+      <link>https://www.kimi.ai/blog/kimi-k3-1-pro</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.kimi.com&amp;#x2F;code&amp;#x2F;docs&amp;#x2F;en&amp;#x2F;kimi-code&amp;#x2F;models.html&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.kimi.com&amp;#x2F;code&amp;#x2F;docs&amp;#x2F;en&amp;#x2F;kimi-code&amp;#x2F;models.html&lt;/a&gt;&lt;p&gt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;artificialanalysis.ai&amp;#x2F;models&amp;#x2F;kimi-k3-1-pro&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;artificialanalysis.ai&amp;#x2F;models&amp;#x2F;kimi-k3-1-pro&lt;/a&gt;&lt;p&gt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.modelcompare.ai&amp;#x2F;blog&amp;#x2F;china-open-source-ai&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.modelcompare.ai&amp;#x2F;blog&amp;#x2F;china-open-source-ai&lt;/a&gt;</description>
+      <guid>50212065</guid>
+      <comments>https://news.ycombinator.com/item?id=50212065</comments>
+      <pubDate>Fri, 23 Oct 2026 16:59:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Physicists trap a single antimatter particle for a month</title>
+      <link>https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/</link>
+      <description>No Text</description>
+      <guid>50186450</guid>
+      <comments>https://news.ycombinator.com/item?id=50186450</comments>
+      <pubDate>Wed, 21 Oct 2026 19:40:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Today, we hacked what we'd set out to hack: the iPhone</title>
+      <link>https://blog.calif.io/p/iphone</link>
+      <description>No Text</description>
+      <guid>50211474</guid>
+      <comments>https://news.ycombinator.com/item?id=50211474</comments>
+      <pubDate>Fri, 23 Oct 2026 16:21:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards</title>
+      <link>https://github.com/Zagitta/gpu-unlock</link>
+      <description>No Text</description>
+      <guid>50219700</guid>
+      <comments>https://news.ycombinator.com/item?id=50219700</comments>
+      <pubDate>Sat, 24 Oct 2026 09:58:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Cecilia Berdichevsky, Clementina expert (1961)</title>
+      <link>https://en.wikipedia.org/wiki/Cecilia_Berdichevsky</link>
+      <description>No Text</description>
+      <guid>50179920</guid>
+      <comments>https://news.ycombinator.com/item?id=50179920</comments>
+      <pubDate>Wed, 21 Oct 2026 12:40:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Appreciating the beauty of all your body's scars and scratches</title>
+      <link>https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/</link>
+      <description>No Text</description>
+      <guid>50181106</guid>
+      <comments>https://news.ycombinator.com/item?id=50181106</comments>
+      <pubDate>Wed, 21 Oct 2026 14:00:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Twelve years of distributed SQLite</title>
+      <link>https://philipotoole.com/twelve-years-of-distributed-sqlite/</link>
+      <description>No Text</description>
+      <guid>50217500</guid>
+      <comments>https://news.ycombinator.com/item?id=50217500</comments>
+      <pubDate>Sat, 24 Oct 2026 01:16:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Parsing EDIFACT in Python with syntax trees</title>
+      <link>https://github.com/AmadeusITGroup/Edison</link>
+      <description>No Text</description>
+      <guid>50195535</guid>
+      <comments>https://news.ycombinator.com/item?id=50195535</comments>
+      <pubDate>Thu, 22 Oct 2026 14:07:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Local Wikipedia: Wikipedia, but only for things a half hour walk from you</title>
+      <link>https://edjefferson.com/localwiki/</link>
+      <description>No Text</description>
+      <guid>50202285</guid>
+      <comments>https://news.ycombinator.com/item?id=50202285</comments>
+      <pubDate>Thu, 22 Oct 2026 23:01:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>A practical guide to AI image generation, from diffusion to agents</title>
+      <link>https://danielball.com/notes/ai_image_generation.html</link>
+      <description>No Text</description>
+      <guid>50171379</guid>
+      <comments>https://news.ycombinator.com/item?id=50171379</comments>
+      <pubDate>Tue, 20 Oct 2026 19:22:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>How close can pure functional programming get to C?</title>
+      <link>https://rtfeldman.com/fp-vs-c</link>
+      <description>No Text</description>
+      <guid>50218195</guid>
+      <comments>https://news.ycombinator.com/item?id=50218195</comments>
+      <pubDate>Sat, 24 Oct 2026 03:43:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Bringing uv and ty together</title>
+      <link>https://astral.sh/blog/uv-ty-integration</link>
+      <description>No Text</description>
+      <guid>50172962</guid>
+      <comments>https://news.ycombinator.com/item?id=50172962</comments>
+      <pubDate>Tue, 20 Oct 2026 21:30:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Tiling Noise – Procedural GPU Patterns</title>
+      <link>https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/</link>
+      <description>No Text</description>
+      <guid>50180251</guid>
+      <comments>https://news.ycombinator.com/item?id=50180251</comments>
+      <pubDate>Wed, 21 Oct 2026 13:04:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>How to run a city builder on 16 MHz</title>
+      <link>https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/</link>
+      <description>No Text</description>
+      <guid>50194536</guid>
+      <comments>https://news.ycombinator.com/item?id=50194536</comments>
+      <pubDate>Thu, 22 Oct 2026 12:40:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706</title>
+      <link>https://gitlab.com/c4psu13/mali-pagecache-root</link>
+      <description>No Text</description>
+      <guid>50220042</guid>
+      <comments>https://news.ycombinator.com/item?id=50220042</comments>
+      <pubDate>Sat, 24 Oct 2026 10:51:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>Dessa: Conversation Model trained only on speech</title>
+      <link>https://block.xyz/dessa</link>
+      <description>No Text</description>
+      <guid>50213925</guid>
+      <comments>https://news.ycombinator.com/item?id=50213925</comments>
+      <pubDate>Fri, 23 Oct 2026 19:09:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Security Research Device</title>
+      <link>https://security.apple.com/research-device/</link>
+      <description>No Text</description>
+      <guid>50217903</guid>
+      <comments>https://news.ycombinator.com/item?id=50217903</comments>
+      <pubDate>Sat, 24 Oct 2026 02:36:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Root shell on Samsung TV</title>
+      <link>https://twitter.com/log4j/status/2113014142600953868?s=46</link>
+      <description>No Text</description>
+      <guid>50218633</guid>
+      <comments>https://news.ycombinator.com/item?id=50218633</comments>
+      <pubDate>Sat, 24 Oct 2026 05:49:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Real Kevin Bacon</title>
+      <link>https://pudding.cool/2026/10/kevin-bacon/</link>
+      <description>No Text</description>
+      <guid>50169499</guid>
+      <comments>https://news.ycombinator.com/item?id=50169499</comments>
+      <pubDate>Tue, 20 Oct 2026 17:10:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>CVE Tracker</title>
+      <link>https://cve.0xosprey.com/</link>
+      <description>No Text</description>
+      <guid>50215530</guid>
+      <comments>https://news.ycombinator.com/item?id=50215530</comments>
+      <pubDate>Fri, 23 Oct 2026 21:21:47 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
