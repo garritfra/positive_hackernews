@@ -1,0 +1,210 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 31 Oct 2026 20:50:18 -0000</lastBuildDate>
+    <item>
+      <title>HackerTube: YouTube built from videos recommended by HN</title>
+      <link>https://karpathy.bearblog.dev/hacker-tube/</link>
+      <description>YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.&lt;p&gt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;hackertube.org&amp;#x2F;&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;hackertube.org&amp;#x2F;&lt;/a&gt;</description>
+      <guid>50319510</guid>
+      <comments>https://news.ycombinator.com/item?id=50319510</comments>
+      <pubDate>Sat, 31 Oct 2026 19:56:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8</title>
+      <link>https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</link>
+      <description>No Text</description>
+      <guid>50319143</guid>
+      <comments>https://news.ycombinator.com/item?id=50319143</comments>
+      <pubDate>Sat, 31 Oct 2026 19:16:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Duty of a Scholar</title>
+      <link>https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html</link>
+      <description>No Text</description>
+      <guid>50319061</guid>
+      <comments>https://news.ycombinator.com/item?id=50319061</comments>
+      <pubDate>Sat, 31 Oct 2026 19:07:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.6 Sol can beat Factorio on peaceful mode</title>
+      <link>https://ryanmadden.net/gpt-56-beats-factorio/</link>
+      <description>No Text</description>
+      <guid>50318871</guid>
+      <comments>https://news.ycombinator.com/item?id=50318871</comments>
+      <pubDate>Sat, 31 Oct 2026 18:50:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>Jepsen: ParticleDB 1.1.4</title>
+      <link>https://jepsen.io/analyses/particledb-1.1.4</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;jepsen-io&amp;#x2F;particledb&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;jepsen-io&amp;#x2F;particledb&lt;/a&gt;</description>
+      <guid>50316100</guid>
+      <comments>https://news.ycombinator.com/item?id=50316100</comments>
+      <pubDate>Sat, 31 Oct 2026 13:39:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>Common Desktop Environment available now as open-source</title>
+      <link>https://sourceforge.net/projects/cdesktopenv/</link>
+      <description>No Text</description>
+      <guid>50320003</guid>
+      <comments>https://news.ycombinator.com/item?id=50320003</comments>
+      <pubDate>Sat, 31 Oct 2026 20:43:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: NES Contra (1987) port (ASM –&gt; C and then C –&gt; WebAssembly)</title>
+      <link>https://epoyraz.github.io/nes-contra-us/</link>
+      <description>Based on vermiceli&amp;#x27;s annotated disassembly of Contra: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;vermiceli&amp;#x2F;nes-contra-us&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;vermiceli&amp;#x2F;nes-contra-us&lt;/a&gt;. Thanks for the great work.&lt;p&gt;I ported it in two steps. First to C: the game logic is translated routine by routine from the 6502 assembly, and checked frame by frame against the original in the Mesen emulator. Then the C code to WebAssembly so it runs in the browser.&lt;p&gt;The cherry on top: online multiplayer, so two players can play co-op over the internet.&lt;p&gt;Source: &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;epoyraz&amp;#x2F;nes-contra-us&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;epoyraz&amp;#x2F;nes-contra-us&lt;/a&gt;</description>
+      <guid>50319169</guid>
+      <comments>https://news.ycombinator.com/item?id=50319169</comments>
+      <pubDate>Sat, 31 Oct 2026 19:18:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Much Ado About None: Sentinel Values in Python</title>
+      <link>https://florianwilhelm.info/2026/10/sentinel_values/</link>
+      <description>No Text</description>
+      <guid>50297068</guid>
+      <comments>https://news.ycombinator.com/item?id=50297068</comments>
+      <pubDate>Thu, 29 Oct 2026 22:24:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Do the math: How we took over ChatGPT accounts</title>
+      <link>https://www.parameter.ai/labs/we-found-a-gap-at-openai</link>
+      <description>No Text</description>
+      <guid>50314699</guid>
+      <comments>https://news.ycombinator.com/item?id=50314699</comments>
+      <pubDate>Sat, 31 Oct 2026 10:30:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-6.1 Terra</title>
+      <link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
+      <description>No Text</description>
+      <guid>50319873</guid>
+      <comments>https://news.ycombinator.com/item?id=50319873</comments>
+      <pubDate>Sat, 31 Oct 2026 20:32:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: A language model that lives in a boot sector</title>
+      <link>https://github.com/kerlenton/bootgpt</link>
+      <description>All the ideas came from the boot sector demo scene where people had been writing chess and BASIC games in 512 bytes, even a C compiler. I wondered what one can do using a neural network instead of a program and generating boot logs for non-existent hardware was something fun to try.&lt;p&gt;Entire inference engine is 510 bytes of MBR, weights, vocab, and strings reside in the sectors following MBR. Small char-level neural network was trained on dmesg generated by machine, so machine produces Linux boot messages infinitely.&lt;p&gt;train.py performs precisely the same integer arithmetic operations as the asm code does and thus produces an output identical character-by-character to the one produced by QEMU. The difference analysis revealed my favorite bug. The characters at the beginning matched those generated by the simulator, but then the output diverged. I retrieved the hidden layer via QEMU’s debug port and compared the neurons&amp;#x27; values with those of the simulator, one neuron at a time. Only the value of the first neuron was correct. The activation involves idiv, and idiv stores its remainder in edx. The pointer to the biases table was stored in edx, which resulted in the first neuron being biased correctly and the following ones using garbage. Now the bias&amp;#x27; address is determined from the loop counter, and no pointers have to survive the division. Another bug I found simply by looking at the code before I did my first run-through: the BIOS print routine zeros out bx, but bx contains the predicted character number. This explains the push and pop of bx surrounding the print.&lt;p&gt;sectorllm is the most similar to my project, as it runs an actual 5-layer llama2 with attention mechanism in just 1.2K of assembly code. It is the trade-off in the opposite direction, as my engine needs to fit into one sector and therefore my network has just one hidden layer of int8 operations for dreaming the dmesg.</description>
+      <guid>50315782</guid>
+      <comments>https://news.ycombinator.com/item?id=50315782</comments>
+      <pubDate>Sat, 31 Oct 2026 12:58:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>Redox: Ring Buffers Project Summary</title>
+      <link>https://www.redox-os.org/news/nlnet-rb-summary/</link>
+      <description>No Text</description>
+      <guid>50274186</guid>
+      <comments>https://news.ycombinator.com/item?id=50274186</comments>
+      <pubDate>Wed, 28 Oct 2026 14:27:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference</title>
+      <link>https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/</link>
+      <description>No Text</description>
+      <guid>50293806</guid>
+      <comments>https://news.ycombinator.com/item?id=50293806</comments>
+      <pubDate>Thu, 29 Oct 2026 18:33:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet</title>
+      <link>https://oqtadrive.org/10.other/5-years/</link>
+      <description>No Text</description>
+      <guid>50301178</guid>
+      <comments>https://news.ycombinator.com/item?id=50301178</comments>
+      <pubDate>Fri, 30 Oct 2026 08:30:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Simple circuits can create complex behaviors</title>
+      <link>https://aatishb.com/myriad/lets-build-a-brain/</link>
+      <description>No Text</description>
+      <guid>50261253</guid>
+      <comments>https://news.ycombinator.com/item?id=50261253</comments>
+      <pubDate>Tue, 27 Oct 2026 16:01:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>Switch Lowering in GCC</title>
+      <link>https://xoranth.net/gcc-switch/</link>
+      <description>No Text</description>
+      <guid>50314085</guid>
+      <comments>https://news.ycombinator.com/item?id=50314085</comments>
+      <pubDate>Sat, 31 Oct 2026 08:02:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Reading and writing are less symmetric than you (probably) think</title>
+      <link>https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/</link>
+      <description>No Text</description>
+      <guid>50271052</guid>
+      <comments>https://news.ycombinator.com/item?id=50271052</comments>
+      <pubDate>Wed, 28 Oct 2026 09:38:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>Digital minimalism</title>
+      <link>https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html</link>
+      <description>No Text</description>
+      <guid>50313661</guid>
+      <comments>https://news.ycombinator.com/item?id=50313661</comments>
+      <pubDate>Sat, 31 Oct 2026 06:16:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector</title>
+      <link>https://github.com/4yk5/Ghostman</link>
+      <description>No Text</description>
+      <guid>50300902</guid>
+      <comments>https://news.ycombinator.com/item?id=50300902</comments>
+      <pubDate>Fri, 30 Oct 2026 07:48:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura</title>
+      <link>https://thedataexchange.media/leo-de-moura-lean-aws/</link>
+      <description>No Text</description>
+      <guid>50290652</guid>
+      <comments>https://news.ycombinator.com/item?id=50290652</comments>
+      <pubDate>Thu, 29 Oct 2026 15:29:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Casio Watches of the 1980s</title>
+      <link>https://www.casio.com/us/watches/50th/Heritage/1980s/</link>
+      <description>No Text</description>
+      <guid>50317363</guid>
+      <comments>https://news.ycombinator.com/item?id=50317363</comments>
+      <pubDate>Sat, 31 Oct 2026 16:00:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: A USB-C LTE modem that gives my computer a phone line</title>
+      <link>https://github.com/Koppar-AI/koppar-lte-modem</link>
+      <description>No Text</description>
+      <guid>50317331</guid>
+      <comments>https://news.ycombinator.com/item?id=50317331</comments>
+      <pubDate>Sat, 31 Oct 2026 15:56:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Impact of Generative AI on Critical Thinking: Self-Reported (2025)</title>
+      <link>https://dl.acm.org/doi/full/10.1145/3706598.3713778</link>
+      <description>&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;www.microsoft.com&amp;#x2F;en-us&amp;#x2F;research&amp;#x2F;wp-content&amp;#x2F;uploads&amp;#x2F;2025&amp;#x2F;01&amp;#x2F;lee_2025_ai_critical_thinking_survey.pdf&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;www.microsoft.com&amp;#x2F;en-us&amp;#x2F;research&amp;#x2F;wp-content&amp;#x2F;uploads&amp;#x2F;...&lt;/a&gt;</description>
+      <guid>50318401</guid>
+      <comments>https://news.ycombinator.com/item?id=50318401</comments>
+      <pubDate>Sat, 31 Oct 2026 18:02:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>What is a light-day? The milestone Voyager 1 is closing in on</title>
+      <link>https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/</link>
+      <description>No Text</description>
+      <guid>50317429</guid>
+      <comments>https://news.ycombinator.com/item?id=50317429</comments>
+      <pubDate>Sat, 31 Oct 2026 16:09:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Marelleo, an open-source story box I built for my kids using ESP32</title>
+      <link>https://zebra.rodeo/en/blog/marelleo/</link>
+      <description>No Text</description>
+      <guid>50260753</guid>
+      <comments>https://news.ycombinator.com/item?id=50260753</comments>
+      <pubDate>Tue, 27 Oct 2026 15:24:36 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
