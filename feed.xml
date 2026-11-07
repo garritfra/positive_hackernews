@@ -1,0 +1,242 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 07 Nov 2026 09:27:57 -0000</lastBuildDate>
+    <item>
+      <title>Libghostty 1.0</title>
+      <link>https://mitchellh.com/writing/libghostty-1-0</link>
+      <description>No Text</description>
+      <guid>50399933</guid>
+      <comments>https://news.ycombinator.com/item?id=50399933</comments>
+      <pubDate>Fri, 06 Nov 2026 23:30:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>A barbarian tribe's mythic origin story is true, ancient DNA reveals</title>
+      <link>https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals</link>
+      <description>No Text</description>
+      <guid>50401740</guid>
+      <comments>https://news.ycombinator.com/item?id=50401740</comments>
+      <pubDate>Sat, 07 Nov 2026 04:54:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Components of Agent Memory</title>
+      <link>https://www.anthropic.com/research/components-of-agent-memory</link>
+      <description>No Text</description>
+      <guid>50402212</guid>
+      <comments>https://news.ycombinator.com/item?id=50402212</comments>
+      <pubDate>Sat, 07 Nov 2026 06:39:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost</title>
+      <link>https://hightouch.com/blog/llm-judges-identity-resolution</link>
+      <description>No Text</description>
+      <guid>50397429</guid>
+      <comments>https://news.ycombinator.com/item?id=50397429</comments>
+      <pubDate>Fri, 06 Nov 2026 19:48:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>Tesla to wind down Cybertruck production</title>
+      <link>https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817</link>
+      <description>No Text</description>
+      <guid>50391456</guid>
+      <comments>https://news.ycombinator.com/item?id=50391456</comments>
+      <pubDate>Fri, 06 Nov 2026 12:13:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>PostgreSQL Internals [pdf]</title>
+      <link>https://edu.postgrespro.com/postgresql_internals-14_en.pdf</link>
+      <description>No Text</description>
+      <guid>50361765</guid>
+      <comments>https://news.ycombinator.com/item?id=50361765</comments>
+      <pubDate>Wed, 04 Nov 2026 05:22:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Asahi Linux Progress Linux 7.3</title>
+      <link>https://asahilinux.org/2026/11/progress-report-7-3/</link>
+      <description>No Text</description>
+      <guid>50401867</guid>
+      <comments>https://news.ycombinator.com/item?id=50401867</comments>
+      <pubDate>Sat, 07 Nov 2026 05:20:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>RealPage rent-pricing case wraps with nearly $360M to renters</title>
+      <link>https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/</link>
+      <description>No Text</description>
+      <guid>50399991</guid>
+      <comments>https://news.ycombinator.com/item?id=50399991</comments>
+      <pubDate>Fri, 06 Nov 2026 23:37:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>US FAA says it will phase out floppy disks from air traffic control by 2028</title>
+      <link>https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/</link>
+      <description>No Text</description>
+      <guid>50388001</guid>
+      <comments>https://news.ycombinator.com/item?id=50388001</comments>
+      <pubDate>Fri, 06 Nov 2026 04:00:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE</title>
+      <link>https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/</link>
+      <description>No Text</description>
+      <guid>50360810</guid>
+      <comments>https://news.ycombinator.com/item?id=50360810</comments>
+      <pubDate>Wed, 04 Nov 2026 02:19:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>Firecracker VM Escape: PwnEscape Part 2</title>
+      <link>https://pwn.ai/blog/firecracker-escape</link>
+      <description>No Text</description>
+      <guid>50397219</guid>
+      <comments>https://news.ycombinator.com/item?id=50397219</comments>
+      <pubDate>Fri, 06 Nov 2026 19:33:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Flash C Compiler</title>
+      <link>https://blog.adafruit.com/2026/10/31/flash-c-compiler/</link>
+      <description>No Text</description>
+      <guid>50352701</guid>
+      <comments>https://news.ycombinator.com/item?id=50352701</comments>
+      <pubDate>Tue, 03 Nov 2026 14:49:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>AI is dramatically accelerating AI research</title>
+      <link>https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai</link>
+      <description>No Text</description>
+      <guid>50397994</guid>
+      <comments>https://news.ycombinator.com/item?id=50397994</comments>
+      <pubDate>Fri, 06 Nov 2026 20:27:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Notes on San Marino</title>
+      <link>https://mattlakeman.org/2026/11/05/notes-on-san-marino/</link>
+      <description>No Text</description>
+      <guid>50395183</guid>
+      <comments>https://news.ycombinator.com/item?id=50395183</comments>
+      <pubDate>Fri, 06 Nov 2026 17:12:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>8088 Domination Post-Mortem</title>
+      <link>https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/</link>
+      <description>No Text</description>
+      <guid>50369283</guid>
+      <comments>https://news.ycombinator.com/item?id=50369283</comments>
+      <pubDate>Wed, 04 Nov 2026 18:06:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Bong: DuckDuckGo bang alternative, open-source and self-hosted</title>
+      <link>https://bong.glendalab.com</link>
+      <description>No Text</description>
+      <guid>50402535</guid>
+      <comments>https://news.ycombinator.com/item?id=50402535</comments>
+      <pubDate>Sat, 07 Nov 2026 07:48:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>First steps in bare-metal programming using UEFI</title>
+      <link>https://kevinboone.me/efitest_index.html</link>
+      <description>No Text</description>
+      <guid>50394855</guid>
+      <comments>https://news.ycombinator.com/item?id=50394855</comments>
+      <pubDate>Fri, 06 Nov 2026 16:50:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>The great butter and cheese fire of 1991</title>
+      <link>https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/</link>
+      <description>No Text</description>
+      <guid>50373513</guid>
+      <comments>https://news.ycombinator.com/item?id=50373513</comments>
+      <pubDate>Thu, 05 Nov 2026 00:44:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub's new Git storage architecture</title>
+      <link>https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/</link>
+      <description>No Text</description>
+      <guid>50397099</guid>
+      <comments>https://news.ycombinator.com/item?id=50397099</comments>
+      <pubDate>Fri, 06 Nov 2026 19:24:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini Omni 1.2 Flash</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</link>
+      <description>No Text</description>
+      <guid>50392118</guid>
+      <comments>https://news.ycombinator.com/item?id=50392118</comments>
+      <pubDate>Fri, 06 Nov 2026 13:35:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Devvm.dev: One VM for every project</title>
+      <link>https://devvm.dev/</link>
+      <description>No Text</description>
+      <guid>50395450</guid>
+      <comments>https://news.ycombinator.com/item?id=50395450</comments>
+      <pubDate>Fri, 06 Nov 2026 17:30:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Google has acquired Crusoe's data center site in southeast Wyoming</title>
+      <link>https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update</link>
+      <description>No Text</description>
+      <guid>50397711</guid>
+      <comments>https://news.ycombinator.com/item?id=50397711</comments>
+      <pubDate>Fri, 06 Nov 2026 20:09:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Restaurant Delivery Payment-Skimming Campaign</title>
+      <link>https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming</link>
+      <description>No Text</description>
+      <guid>50397017</guid>
+      <comments>https://news.ycombinator.com/item?id=50397017</comments>
+      <pubDate>Fri, 06 Nov 2026 19:19:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Chomsky and the two cultures of statistical learning (2011)</title>
+      <link>https://www.norvig.com/chomsky.html</link>
+      <description>No Text</description>
+      <guid>50389570</guid>
+      <comments>https://news.ycombinator.com/item?id=50389570</comments>
+      <pubDate>Fri, 06 Nov 2026 08:18:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Panthera: Ampere's CPU Performance Model</title>
+      <link>https://github.com/AmpereComputing/panthera</link>
+      <description>No Text</description>
+      <guid>50356722</guid>
+      <comments>https://news.ycombinator.com/item?id=50356722</comments>
+      <pubDate>Tue, 03 Nov 2026 19:12:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Tmux-restore saves tmux windows and agent sessions across reboots</title>
+      <link>https://github.com/andrewboldi/tmux-restore</link>
+      <description>No Text</description>
+      <guid>50355009</guid>
+      <comments>https://news.ycombinator.com/item?id=50355009</comments>
+      <pubDate>Tue, 03 Nov 2026 17:25:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>I toured Unitree's factory. I'm more bullish on the West</title>
+      <link>https://josef.cn/blog/unitree</link>
+      <description>No Text</description>
+      <guid>50400597</guid>
+      <comments>https://news.ycombinator.com/item?id=50400597</comments>
+      <pubDate>Sat, 07 Nov 2026 01:05:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Waymark – A workflow engine that compiles jobs instead of replaying</title>
+      <link>https://github.com/piercefreeman/waymark</link>
+      <description>Hey everyone! @mozgiii and I have been working on Waymark for the better part of the last year. Waymark’s an open source durable execution library with similar functionality to Temporal or DBOS.&lt;p&gt;I fell in love with durable execution a few years ago, after working at a company with a heavy pubsub architecture. In comparison to job orchestrators that force a certain task design or special syntax, many of these durable libs lets you write business logic in regular code: `asyncio.gather` to parallelize tasks, `for` loops, conditionals, and let the runtime figure out how to run them efficiently across a cluster of nodes. But most of the current solutions require a heavy broker, runtime hacks to try to ensure deterministic workflow logic, and feel like you have to learn a whole new ecosystem just to get started.&lt;p&gt;A few unique design decisions in waymark:&lt;p&gt;— Write jobs in normal code (right now Python but JS coming soon). Instead of running control flow as-is, which requires booting up an interpreter to replay past state, we’ll just compile your code directly. We walk your AST and map your logic to our stackless VM bytecode. We support variables, conditionals, await, sleep, helper functions, loops... basically what you’d expect in workflow logic.&lt;p&gt;— Since we’re compiling a language subset, we can proactively flag errors in your workflows locally instead of when they run in production.&lt;p&gt;— It only requires Postgres as the task broker. We’ve spent a lot of time tuning our design to play nicely with its strengths and limitations; our current benchmarks show around 1500 workflows&amp;#x2F;second but we still have some more optimization work to do here.&lt;p&gt;— Actions plug-and-play with FastAPI’s dependency injection syntax. So if you already have an ecosystem based on typehinting&amp;#x2F;DI, it should fit like a glove.&lt;p&gt;It allows for parallelization of workflows across one machine or a whole cluster. The bulk of the work per node is done by our central Rust core - which distributes workflows to properly saturate all cores. The idea is to be as batteries included as possible with the broker, webapp, and runtime.&lt;p&gt;What to use it for? It works great as the runner loop controlling agents, but it also works well for basically any task that you need to kick off in the background. It’s largely replaced our way of writing api code. Most frontend actions at this point just push to a simple REST endpoint that kick off a background job.&lt;p&gt;I spent an embarrassing amount of time making our &lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;waymark.sh&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;waymark.sh&lt;/a&gt; site interactive - it’s probably the best place to learn more. We’re starting with Python support and looking for community input on what language to ship next. Would love to hear your thoughts!</description>
+      <guid>50379221</guid>
+      <comments>https://news.ycombinator.com/item?id=50379221</comments>
+      <pubDate>Thu, 05 Nov 2026 14:06:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>Sodium-ion batteries approach cost parity with LFP</title>
+      <link>https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/</link>
+      <description>No Text</description>
+      <guid>50399657</guid>
+      <comments>https://news.ycombinator.com/item?id=50399657</comments>
+      <pubDate>Fri, 06 Nov 2026 23:00:46 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
