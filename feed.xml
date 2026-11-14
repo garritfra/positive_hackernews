@@ -1,0 +1,235 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 14 Nov 2026 19:39:25 -0000</lastBuildDate>
+    <item>
+      <title>Lovable apps expose passport details and more than 200K private messages</title>
+      <link>https://www.crissyfield.de/research/lovable-en/</link>
+      <description>No Text</description>
+      <guid>50499017</guid>
+      <comments>https://news.ycombinator.com/item?id=50499017</comments>
+      <pubDate>Sat, 14 Nov 2026 17:43:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>A Family Tree of Software Job Titles</title>
+      <link>https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/</link>
+      <description>No Text</description>
+      <guid>50499038</guid>
+      <comments>https://news.ycombinator.com/item?id=50499038</comments>
+      <pubDate>Sat, 14 Nov 2026 17:45:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>PyPI's redesigned project pages with clearer security signals are now live</title>
+      <link>https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/</link>
+      <description>No Text</description>
+      <guid>50497892</guid>
+      <comments>https://news.ycombinator.com/item?id=50497892</comments>
+      <pubDate>Sat, 14 Nov 2026 15:40:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>KDE: The documentary [video]</title>
+      <link>https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c</link>
+      <description>No Text</description>
+      <guid>50496976</guid>
+      <comments>https://news.ycombinator.com/item?id=50496976</comments>
+      <pubDate>Sat, 14 Nov 2026 13:43:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>US IRS free online tax filing open source repo</title>
+      <link>https://github.com/IRS-Public/direct-file</link>
+      <description>No Text</description>
+      <guid>50499083</guid>
+      <comments>https://news.ycombinator.com/item?id=50499083</comments>
+      <pubDate>Sat, 14 Nov 2026 17:48:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>Why get an expensive Pi when I have an old phone?</title>
+      <link>https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/</link>
+      <description>No Text</description>
+      <guid>50440709</guid>
+      <comments>https://news.ycombinator.com/item?id=50440709</comments>
+      <pubDate>Tue, 10 Nov 2026 14:16:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>Seagate's new hybrid drive raises some old questions</title>
+      <link>https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/</link>
+      <description>No Text</description>
+      <guid>50453901</guid>
+      <comments>https://news.ycombinator.com/item?id=50453901</comments>
+      <pubDate>Wed, 11 Nov 2026 14:32:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>Advancing science and engineering with Antigravity's /teamwork</title>
+      <link>https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/</link>
+      <description>No Text</description>
+      <guid>50496811</guid>
+      <comments>https://news.ycombinator.com/item?id=50496811</comments>
+      <pubDate>Sat, 14 Nov 2026 13:20:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Reverse engineering a vintage diode-transistor logic chip</title>
+      <link>https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html</link>
+      <description>No Text</description>
+      <guid>50416011</guid>
+      <comments>https://news.ycombinator.com/item?id=50416011</comments>
+      <pubDate>Sun, 08 Nov 2026 19:03:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: DeepSeek V3 in ~200 lines of pure Jax</title>
+      <link>https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</link>
+      <description>No Text</description>
+      <guid>50497589</guid>
+      <comments>https://news.ycombinator.com/item?id=50497589</comments>
+      <pubDate>Sat, 14 Nov 2026 15:04:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: A terminal-native idle factory game, written in Rust with ratatui</title>
+      <link>https://gitlab.com/snipedbywifi/terminactory</link>
+      <description>Hey HN readers!&lt;p&gt;I&amp;#x27;m snipedbywifi (&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;gitlab.com&amp;#x2F;snipedbywifi&quot; rel=&quot;nofollow&quot;&gt;https:&amp;#x2F;&amp;#x2F;gitlab.com&amp;#x2F;snipedbywifi&lt;/a&gt;), and i&amp;#x27;ve been working on terminactory. Please try it out if you&amp;#x27;d like to play a cozy factory game while waiting for long agent tasks to finish!&lt;p&gt;The game is a factory game (overused niche, i know xD), but runs in your terminal. Reason i built it? glad you asked: So basically, it started off with me wanting a terminal-native factory game. Me and the modern 5.5 claude models made a base for the game that I liked, and then i went ham adding features &amp;#x2F; fixing some minor flaws (like adding claude code hooks so you recieve &amp;quot;telegrams&amp;quot; [the agent&amp;#x27;s responses], so you can review progress directly in-game). (yes, I had heavy AI assistance, disclaimer!!!)&lt;p&gt;Right now, the game has basic factory features you&amp;#x27;d expect from a game like this (build stuff, delete stuff, measure how much you&amp;#x27;re earning, basic selection tools), along with a few more.. &amp;quot;unexpected&amp;quot; features. This includes a fake in-game browser that has a wiki, fake forums, some fun bits of lore, some more lore, a LOT more lore, and a research graph that shows how many items or how much RP (research points) you&amp;#x27;d need to unlock something, and some more QOL features.&lt;p&gt;If anyone actually has this issue &amp;#x2F; want of a terminal-based game that runs alongside your agents so you don&amp;#x27;t doomscroll, do you have any suggestions, or additional ideas I could add?&lt;p&gt;It&amp;#x27;s hosted on GitLab, soo, that&amp;#x27;s one additional thing i&amp;#x27;d like to mention&lt;p&gt;Thanks for reading!! snipedbywifi&lt;p&gt;(p.s. first HN post lol)
+(p.s. p.s. there&amp;#x27;s a lot of hidden lore in the game, so.. lore-divers? you might like it?)</description>
+      <guid>50497132</guid>
+      <comments>https://news.ycombinator.com/item?id=50497132</comments>
+      <pubDate>Sat, 14 Nov 2026 14:05:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Generative AI uses more energy on non-English text</title>
+      <link>https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/</link>
+      <description>No Text</description>
+      <guid>50441444</guid>
+      <comments>https://news.ycombinator.com/item?id=50441444</comments>
+      <pubDate>Tue, 10 Nov 2026 15:07:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)</title>
+      <link>https://github.com/FURSOY/fursoy-cpu</link>
+      <description>No Text</description>
+      <guid>50497137</guid>
+      <comments>https://news.ycombinator.com/item?id=50497137</comments>
+      <pubDate>Sat, 14 Nov 2026 14:06:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>Monkey Island: all 13 versions side by side</title>
+      <link>https://monkeyisland.pages.dev/</link>
+      <description>No Text</description>
+      <guid>50493904</guid>
+      <comments>https://news.ycombinator.com/item?id=50493904</comments>
+      <pubDate>Sat, 14 Nov 2026 04:23:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Tech Companies Are Trying to Shift the Concept of Privacy (Again)</title>
+      <link>https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again</link>
+      <description>No Text</description>
+      <guid>50496602</guid>
+      <comments>https://news.ycombinator.com/item?id=50496602</comments>
+      <pubDate>Sat, 14 Nov 2026 12:45:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Italy fines Meta $887M over Android users' data access</title>
+      <link>https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/</link>
+      <description>No Text</description>
+      <guid>50497009</guid>
+      <comments>https://news.ycombinator.com/item?id=50497009</comments>
+      <pubDate>Sat, 14 Nov 2026 13:48:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>Testing a Trash Can Faraday Cage</title>
+      <link>https://www.jefftk.com/p/testing-a-trash-can-faraday-cage</link>
+      <description>No Text</description>
+      <guid>50467278</guid>
+      <comments>https://news.ycombinator.com/item?id=50467278</comments>
+      <pubDate>Thu, 12 Nov 2026 14:04:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>A QR code that says who made it</title>
+      <link>https://qrsig.org/</link>
+      <description>No Text</description>
+      <guid>50453613</guid>
+      <comments>https://news.ycombinator.com/item?id=50453613</comments>
+      <pubDate>Wed, 11 Nov 2026 14:08:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Creating a self booting ZIP archive</title>
+      <link>https://goliath32.com/blog/ziphead.html</link>
+      <description>No Text</description>
+      <guid>50498295</guid>
+      <comments>https://news.ycombinator.com/item?id=50498295</comments>
+      <pubDate>Sat, 14 Nov 2026 16:29:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>Formalizing US Tax Code (Using Lean)</title>
+      <link>https://lexifina.com/blog/formalizing-the-us-tax-code</link>
+      <description>No Text</description>
+      <guid>50497900</guid>
+      <comments>https://news.ycombinator.com/item?id=50497900</comments>
+      <pubDate>Sat, 14 Nov 2026 15:41:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>Let's Write a PostScript Interpreter</title>
+      <link>https://beyondloom.com/blog/postscript.html</link>
+      <description>No Text</description>
+      <guid>50478632</guid>
+      <comments>https://news.ycombinator.com/item?id=50478632</comments>
+      <pubDate>Fri, 13 Nov 2026 05:12:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>A visual explanation of reinforcement learning</title>
+      <link>https://aatishb.com/myriad/how-brains-learn/</link>
+      <description>No Text</description>
+      <guid>50496885</guid>
+      <comments>https://news.ycombinator.com/item?id=50496885</comments>
+      <pubDate>Sat, 14 Nov 2026 13:31:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Agweb – a browser for agents that stays out of your way</title>
+      <link>https://github.com/paul-nameless/agweb</link>
+      <description>No Text</description>
+      <guid>50497147</guid>
+      <comments>https://news.ycombinator.com/item?id=50497147</comments>
+      <pubDate>Sat, 14 Nov 2026 14:08:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Demystifying phone unlocking tools: A technical overview</title>
+      <link>https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/</link>
+      <description>No Text</description>
+      <guid>50497416</guid>
+      <comments>https://news.ycombinator.com/item?id=50497416</comments>
+      <pubDate>Sat, 14 Nov 2026 14:44:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules</title>
+      <link>https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/</link>
+      <description>No Text</description>
+      <guid>50467987</guid>
+      <comments>https://news.ycombinator.com/item?id=50467987</comments>
+      <pubDate>Thu, 12 Nov 2026 14:36:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>How to Create Your Own Decentralized Messenger Protocol</title>
+      <link>https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol</link>
+      <description>No Text</description>
+      <guid>50498073</guid>
+      <comments>https://news.ycombinator.com/item?id=50498073</comments>
+      <pubDate>Sat, 14 Nov 2026 16:01:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM</title>
+      <link>https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</link>
+      <description>No Text</description>
+      <guid>50497155</guid>
+      <comments>https://news.ycombinator.com/item?id=50497155</comments>
+      <pubDate>Sat, 14 Nov 2026 14:09:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>Project Zero will disclose vulnerabilities 90 days after reporting</title>
+      <link>https://projectzero.google/2026/11/disclosure-policy.html</link>
+      <description>No Text</description>
+      <guid>50496051</guid>
+      <comments>https://news.ycombinator.com/item?id=50496051</comments>
+      <pubDate>Sat, 14 Nov 2026 11:13:17 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
