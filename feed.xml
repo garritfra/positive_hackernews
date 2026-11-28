@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Positive HackerNews</title>
+    <description>The Positive Hacker News RSS Feed</description>
+    <language>en</language>
+    <link>https://garritfra.github.io/positive_hackernews/feed.xml</link>
+    <lastBuildDate>Sat, 28 Nov 2026 19:23:22 -0000</lastBuildDate>
+    <item>
+      <title>The race is not inevitable</title>
+      <link>https://ryo.lu/journal/the-race-is-not-inevitable</link>
+      <description>No Text</description>
+      <guid>50680085</guid>
+      <comments>https://news.ycombinator.com/item?id=50680085</comments>
+      <pubDate>Sat, 28 Nov 2026 17:45:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>5.0 Earthquake West of LA</title>
+      <link>https://earthquake.usgs.gov/earthquakes/eventpage/ci41581136/executive</link>
+      <description>No Text</description>
+      <guid>50680175</guid>
+      <comments>https://news.ycombinator.com/item?id=50680175</comments>
+      <pubDate>Sat, 28 Nov 2026 17:53:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Physics Breakthrough Simulator</title>
+      <link>https://pages.ethanmdavidson.com/ai-physics-breakthrough</link>
+      <description>No Text</description>
+      <guid>50678273</guid>
+      <comments>https://news.ycombinator.com/item?id=50678273</comments>
+      <pubDate>Sat, 28 Nov 2026 14:52:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Farewell</title>
+      <link>https://github.com/p-e-w/heretic/issues/601</link>
+      <description>No Text</description>
+      <guid>50676672</guid>
+      <comments>https://news.ycombinator.com/item?id=50676672</comments>
+      <pubDate>Sat, 28 Nov 2026 11:42:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Knuth: Moratorium on Error Reports</title>
+      <link>https://www-cs-faculty.stanford.edu/~knuth/moratorium.html</link>
+      <description>No Text</description>
+      <guid>50674452</guid>
+      <comments>https://news.ycombinator.com/item?id=50674452</comments>
+      <pubDate>Sat, 28 Nov 2026 03:49:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Luciole Mono – terminal font designed for legibility</title>
+      <link>https://scriptor-pro.github.io/luciole-mono/</link>
+      <description>TLDR : Atkinson Hyperlegible Mono alternative&lt;p&gt;Luciole Mono is a vibe-clauded derivative of Luciole.Luciole was designed for visually impaired readers by Laurent Bourcellier and Jonathan Perez, at the Centre Technique Régional pour la Déficience Visuelle (typographies.fr)&lt;p&gt;Please tell me what you think - thanks in advance</description>
+      <guid>50677091</guid>
+      <comments>https://news.ycombinator.com/item?id=50677091</comments>
+      <pubDate>Sat, 28 Nov 2026 12:50:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>How Old Electromechanical Pinball Machines Work</title>
+      <link>https://how-old-pinball-machines-work.mattmakai.com/</link>
+      <description>No Text</description>
+      <guid>50644301</guid>
+      <comments>https://news.ycombinator.com/item?id=50644301</comments>
+      <pubDate>Wed, 25 Nov 2026 16:39:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Essential Reading in the Age of Math 2.0</title>
+      <link>https://www.quantabooks.org/essential-reading-in-the-age-of-math-2-0/</link>
+      <description>No Text</description>
+      <guid>50642354</guid>
+      <comments>https://news.ycombinator.com/item?id=50642354</comments>
+      <pubDate>Wed, 25 Nov 2026 13:56:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>Civet: TypeScript superset that favors more types and less typing</title>
+      <link>https://github.com/DanielXMoore/Civet</link>
+      <description>No Text</description>
+      <guid>50672992</guid>
+      <comments>https://news.ycombinator.com/item?id=50672992</comments>
+      <pubDate>Sat, 28 Nov 2026 00:12:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Last Thing They Said</title>
+      <link>https://socialhome.network/content/31594834</link>
+      <description>No Text</description>
+      <guid>50679130</guid>
+      <comments>https://news.ycombinator.com/item?id=50679130</comments>
+      <pubDate>Sat, 28 Nov 2026 16:20:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>Diablo II</title>
+      <link>https://www.filfre.net/2026/11/diablo-ii/</link>
+      <description>No Text</description>
+      <guid>50676199</guid>
+      <comments>https://news.ycombinator.com/item?id=50676199</comments>
+      <pubDate>Sat, 28 Nov 2026 09:54:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Unkernel: Real Linux kernel, compiled to WebAssembly</title>
+      <link>https://unkernel.dev</link>
+      <description>No Text</description>
+      <guid>50674218</guid>
+      <comments>https://news.ycombinator.com/item?id=50674218</comments>
+      <pubDate>Sat, 28 Nov 2026 03:19:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>Loom seamlessly combines weaving, knitting and braiding</title>
+      <link>https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding</link>
+      <description>No Text</description>
+      <guid>50632052</guid>
+      <comments>https://news.ycombinator.com/item?id=50632052</comments>
+      <pubDate>Tue, 24 Nov 2026 18:10:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Google's DeepCrossAttention achieves comparable model quality up to 3x faster</title>
+      <link>https://research.google/blog/supercharging-transformer-residual-connections/</link>
+      <description>No Text</description>
+      <guid>50672565</guid>
+      <comments>https://news.ycombinator.com/item?id=50672565</comments>
+      <pubDate>Fri, 27 Nov 2026 23:06:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>1984 Hosting services are currently being brought back online</title>
+      <link>https://1984.hosting/</link>
+      <description>No Text</description>
+      <guid>50679698</guid>
+      <comments>https://news.ycombinator.com/item?id=50679698</comments>
+      <pubDate>Sat, 28 Nov 2026 17:11:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Balatro Timeline</title>
+      <link>https://localthunk.com/blog/balatro-timeline-3aarh</link>
+      <description>No Text</description>
+      <guid>50657346</guid>
+      <comments>https://news.ycombinator.com/item?id=50657346</comments>
+      <pubDate>Thu, 26 Nov 2026 17:20:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>GPT 6.2 Astra Solves a Historical Mystery</title>
+      <link>https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical</link>
+      <description>No Text</description>
+      <guid>50643158</guid>
+      <comments>https://news.ycombinator.com/item?id=50643158</comments>
+      <pubDate>Wed, 25 Nov 2026 15:16:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>IBM MVS 3.8j Community Edition (52-year old OS)</title>
+      <link>https://github.com/MVS-sysgen/sysgen</link>
+      <description>No Text</description>
+      <guid>50677302</guid>
+      <comments>https://news.ycombinator.com/item?id=50677302</comments>
+      <pubDate>Sat, 28 Nov 2026 13:17:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Comprehensive Guide to Encrypted Inference with Tees</title>
+      <link>https://trynito.ai/blog/encrypted-inference-tees</link>
+      <description>No Text</description>
+      <guid>50650217</guid>
+      <comments>https://news.ycombinator.com/item?id=50650217</comments>
+      <pubDate>Thu, 26 Nov 2026 01:28:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>Credit card skimming scripts using WebRTC found on popular shopping sites</title>
+      <link>https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer</link>
+      <description>No Text</description>
+      <guid>50668145</guid>
+      <comments>https://news.ycombinator.com/item?id=50668145</comments>
+      <pubDate>Fri, 27 Nov 2026 15:40:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>Google will soon share Android developers' addresses publicly</title>
+      <link>https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/</link>
+      <description>No Text</description>
+      <guid>50678026</guid>
+      <comments>https://news.ycombinator.com/item?id=50678026</comments>
+      <pubDate>Sat, 28 Nov 2026 14:23:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>Paolo Soleri built a utopian eco-city in the Arizona desert</title>
+      <link>https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona</link>
+      <description>No Text</description>
+      <guid>50666724</guid>
+      <comments>https://news.ycombinator.com/item?id=50666724</comments>
+      <pubDate>Fri, 27 Nov 2026 13:30:20 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
